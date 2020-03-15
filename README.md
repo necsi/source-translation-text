@@ -24,7 +24,9 @@ Editors are used as collaborators. Each editor works **only** on his/her own dir
 * Add meaningful commit messages. if you commit half-way before ending a changelog entry, state it in the commit message (e.g. ```started working on new About page```
 * Once one of the formal changes is applied to your language, please document it (e.g. ```changelog 20 Italian```)
 
-## List of translators:
+## Translations
+
+Access to the translation directory and the translator are provided below:
 
 * Original ([English](0_english_source)) - TBA - https://www.endcoronavirus.org/ (v2)
 
