@@ -26,33 +26,33 @@ Editors are used as collaborators. Each editor works **only** on his/her own dir
 
 ## List of translators:
 
-* Original (English) - https://www.endcoronavirus.org/ (v2)
+* Original (English) - TBA - https://www.endcoronavirus.org/ (v2)
 
-* Arabic - https://ar.endcoronavirus.org (v1)
-* Chinese - 
-* Czech - https://cs.endcoronavirus.org (v1)
-* Dutch - https://nl.endcoronavirus.org (v1)
-* Farsi - 
-* Filipino - 
-* French - https://fr.endcoronavirus.org (v1)
-* German - https://de.endcoronavirus.org (v1)
-* Greek - 
-* Hebrew - https://he.endcoronavirus.org
-* Hindi - 
-* Hungarian - 
-* Indonesian
-* Italian - https://it.endcoronavirus.org (v1) (v2)
-* Japanese - 
-* Kannada - 
-* Korean - 
-* Nigerian pidgin - 
-* Polish -
-* Portugues (Brazil)
-* Portugues (Portugal) - https://pt.endcoronavirus.org/ (v1)
-* Romanian - 
-* Russian - https://ru.endcoronavirus.org/ (v1)
-* Spanish- https://es.endcoronavirus.org/ (v1)
-* Swedish - 
-* Thai - 
-* Turkish - 
-* Urdu - 
+* Arabic - TBA - https://ar.endcoronavirus.org (v1)
+* Chinese - TBA - 
+* Czech - TBA - https://cs.endcoronavirus.org (v1)
+* Dutch - TBA - https://nl.endcoronavirus.org (v1)
+* Farsi - TBA - 
+* Filipino - TBA - 
+* French - TBA - https://fr.endcoronavirus.org (v1)
+* German - TBA - https://de.endcoronavirus.org (v1)
+* Greek - TBA - 
+* Hebrew - TBA - https://he.endcoronavirus.org
+* Hindi - TBA - 
+* Hungarian - TBA - 
+* Indonesian - TBA -
+* Italian - TBA - https://it.endcoronavirus.org (v1) (v2)
+* Japanese - TBA - 
+* Kannada - TBA - 
+* Korean - TBA - 
+* Nigerian pidgin - TBA - 
+* Polish - TBA -
+* Portugues (Brazil) - TBA - 
+* Portugues (Portugal) - TBA - https://pt.endcoronavirus.org/ (v1)
+* Romanian - TBA - 
+* Russian - TBA - https://ru.endcoronavirus.org/ (v1)
+* Spanish - TBA - https://es.endcoronavirus.org/ (v1)
+* Swedish - TBA - 
+* Thai - TBA - 
+* Turkish - TBA - 
+* Urdu - TBA - 
