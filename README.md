@@ -1,2 +1,1 @@
-# source-translation-text
-Version control for translations on EndCoronavirus.org
+[Markdown Reference](https://guides.github.com/features/mastering-markdown/)
