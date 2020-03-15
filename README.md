@@ -26,7 +26,7 @@ Editors are used as collaborators. Each editor works **only** on his/her own dir
 
 ## List of translators:
 
-* Original (English) - TBA - https://www.endcoronavirus.org/ (v2)
+* Original ([English](0_english_source)) - TBA - https://www.endcoronavirus.org/ (v2)
 
 * Arabic - TBA - https://ar.endcoronavirus.org (v1)
 * Chinese - TBA - 
