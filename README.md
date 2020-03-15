@@ -26,30 +26,33 @@ Editors are used as collaborators. Each editor works **only** on his/her own dir
 
 ## List of translators:
 
-* Arabic
-* Chinese
-* Czech
-* Dutch
-* Farsi
-* Filipino
-* French
-* German
-* Greek
-* Hebrew
-* Hindi
-* Hungarian
+* Original (English) - https://www.endcoronavirus.org/ (v2)
+
+* Arabic - https://ar.endcoronavirus.org (v1)
+* Chinese - 
+* Czech - https://cs.endcoronavirus.org (v1)
+* Dutch - https://nl.endcoronavirus.org (v1)
+* Farsi - 
+* Filipino - 
+* French - https://fr.endcoronavirus.org (v1)
+* German - https://de.endcoronavirus.org (v1)
+* Greek - 
+* Hebrew - https://he.endcoronavirus.org
+* Hindi - 
+* Hungarian - 
 * Indonesian
-* Italian
-* Japanese
-* Kannada
-* Korean
-* Nigerian pidgin
-* Polish
+* Italian - https://it.endcoronavirus.org (v1) (v2)
+* Japanese - 
+* Kannada - 
+* Korean - 
+* Nigerian pidgin - 
+* Polish -
 * Portugues (Brazil)
-* Portugues (Brazil)
-* Romanian
-* Russian
-* Spanish
-* Swedish
-* Turkish
-* Urdu
+* Portugues (Portugal) - https://pt.endcoronavirus.org/ (v1)
+* Romanian - 
+* Russian - https://ru.endcoronavirus.org/ (v1)
+* Spanish- https://es.endcoronavirus.org/ (v1)
+* Swedish - 
+* Thai - 
+* Turkish - 
+* Urdu - 
