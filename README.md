@@ -37,11 +37,11 @@ Editors are used as collaborators. Each editor works **only** on his/her own dir
 * French - TBA - https://fr.endcoronavirus.org (v1)
 * German - TBA - https://de.endcoronavirus.org (v1)
 * Greek - TBA - 
-* Hebrew - TBA - https://he.endcoronavirus.org
+* [Hebrew](hebrew) - TBA - https://he.endcoronavirus.org
 * Hindi - TBA - 
 * Hungarian - TBA - 
 * Indonesian - TBA -
-* Italian - TBA - https://it.endcoronavirus.org (v1) (v2)
+* [Italian](italian) - TBA - https://it.endcoronavirus.org (v1) (v2)
 * Japanese - TBA - 
 * Kannada - TBA - 
 * Korean - TBA - 
