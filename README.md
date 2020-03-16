@@ -43,7 +43,7 @@ Access to the translation directory and the translator are provided below:
 * Hindi - TBA - 
 * Hungarian - TBA - 
 * Indonesian - TBA -
-* [Italian](italian) - TBA -  [https://it.endcoronavirus.org](v1) - [https://www.endcoronavirus.org/home/italian](v2)
+* [Italian](italian) - TBA -  [v1](https://it.endcoronavirus.org) - [v2](https://www.endcoronavirus.org/home/italian)
 * Japanese - TBA - 
 * Kannada - TBA - 
 * Korean - TBA - 
