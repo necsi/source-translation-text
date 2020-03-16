@@ -14,7 +14,7 @@ Files can be
  3. command line.
  
 The easiest option is (1.). Once a file is edited, the commit message (just below the editing window) can include both language and changelog 
-The changelog is maintained also separately in the root directory of the repo
+The [changelog](changelog.md) is maintained also separately in the root directory of the repo
 
 Editors are used as collaborators. Each editor works **only** on his/her own directory, not touching the rest (otherwise we need a more complex procedure, which we don't want now
 
@@ -30,7 +30,7 @@ Access to the translation directory and the translator are provided below:
 
 * Original ([English](0_english_source)) - TBA - https://www.endcoronavirus.org/ (v2)
 
-* Arabic - TBA - [https://ar.endcoronavirus.org](v1) 
+* Arabic - TBA - [v1](https://ar.endcoronavirus.org)
 * Chinese - TBA - 
 * Czech - TBA - https://cs.endcoronavirus.org (v1)
 * Dutch - TBA - https://nl.endcoronavirus.org (v1)
