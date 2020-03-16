@@ -30,7 +30,7 @@ Access to the translation directory and the translator are provided below:
 
 * Original ([English](0_english_source)) - TBA - https://www.endcoronavirus.org/ (v2)
 
-* Arabic - TBA - https://ar.endcoronavirus.org (v1) - [v2](https://www.endcoronavirus.org/home/italian)
+* Arabic - TBA - [https://ar.endcoronavirus.org](v1) 
 * Chinese - TBA - 
 * Czech - TBA - https://cs.endcoronavirus.org (v1)
 * Dutch - TBA - https://nl.endcoronavirus.org (v1)
@@ -43,7 +43,7 @@ Access to the translation directory and the translator are provided below:
 * Hindi - TBA - 
 * Hungarian - TBA - 
 * Indonesian - TBA -
-* [Italian](italian) - TBA - https://it.endcoronavirus.org (v1) (v2)
+* [Italian](italian) - TBA -  [https://it.endcoronavirus.org](v1) - [https://www.endcoronavirus.org/home/italian](v2)
 * Japanese - TBA - 
 * Kannada - TBA - 
 * Korean - TBA - 
