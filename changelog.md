@@ -2,7 +2,9 @@
 |--- |--- |--- |
 |**Current Time:|16 Mar11 2020, 15:11 UTC**||
 |Modification no.|Date|Description|
-|33|17 March 2020, 2:46 UTC|Guidelines page: New link to "Massive testing can..." web page|
+|35|17 March 2020, 21:46 UTC|Homepage and Updates page: March 16 updates posted|
+|34|17 March 2020, 21:46 UTC|Guidelines page: Note added about the French ICC using our business guidelines|
+|33|17 March 2020, 21:46 UTC|Guidelines page: New link to "Massive testing can..." web page|
 |32|12 March 2020, 15:8 UTC|Home page: added button for guidelines page, right near the top of the homepage|
 |31|12 March 2020 5:03 UTC|Interactive Map page: last paragraph on the page (the one beginning with "The goal of both red and orange zone restrictions") has been modified|
 |30|12 March 2020, 2:19 UTC|Guidelines page: added two new PDFs: high-risk and essential guidelines. No text mods to the page yet, just new documents|
