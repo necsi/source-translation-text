@@ -1,5 +1,7 @@
 # Source translated text for encoronavirus.org
 
+(for web v2)
+
 ## Useful info to get started 
 
 We use plain text (markdown), one can paste own trasnlation from any source. 
@@ -19,7 +21,7 @@ The [changelog](changelog.md) is maintained also separately in the root director
 Editors are used as collaborators. Each editor works **only** on his/her own directory, not touching the rest (otherwise we need a more complex procedure, which we don't want now
 
 ## Workflow
-* once collaborator (talk to [Paul](paulghaddad) look for your language directory.
+* once collaborator (talk to [Paul](paulghaddad) or [Angelo](aprossi) look for your language directory.
 * Edit the files from the web interface and put the content 
 * Add meaningful commit messages. if you commit half-way before ending a changelog entry, state it in the commit message (e.g. ```started working on new About page```
 * Once one of the formal changes is applied to your language, please document it (e.g. ```changelog 20 Italian```)
