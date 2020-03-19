@@ -1,6 +1,7 @@
-Spread knowledge, not the virus
+## Spread knowledge, not the virus
 
-Global COVID-19 Update
+## Global COVID-19 Update
+
 March 19, 2020
 230,041 confirmed cases
 and 9,386 deaths. These numbers are still increasing.
@@ -16,11 +17,15 @@ Germany +1,652 cases
 *Last updated March 18, 2020
 
 Updates
-Everyone can help! Join us:
+
+
+## Everyone can help! Join us:
+
 Sign up
 to help your communities and families, create safe zones
 Your family and community need you to:
 Wash your hands!
+
 Clean surfaces and use alcohol gel
 
 
@@ -54,8 +59,16 @@ What can I do to prevent infection and spread of COVID-19?
 There are several steps that we can take to stop the spread. Our experts have written detailed guides on how to combat COVID-19.
 
 
-GuidelinesFamily guidelinesBusiness guidelinesGovernment guidelines
-Updates
+## Guidelines
+
+Family guidelines
+Business guidelines
+Government guidelines
+
+
+## Updates
+
+
 March 18, 2020
 March 17, 2020
 March 16, 2020
