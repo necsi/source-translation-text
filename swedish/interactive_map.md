@@ -14,13 +14,24 @@ För effektiv hantering av ett utbrott bör gröna, gula, orange och röda zoner
 |:--|:--|:--|:--|:--|
 | Öka allmänhetens medvetenhet om smittspridningsvägar samt motiverande åtgärder (social distansering, handtvätt, masker) |  x| x | x | x |
 | Ta fram process för snabbt testa invånare för relaterade symptom | x | x | x | x |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Genomför test vid gränskontroller för individer som reser från Gula och orange Zoner för att identifiera individer med symptom (feber, hosta). Resande från samma fordon (flyg, buss, båt, bil)  bör hållas kvar tills resultat finns. Vid positivt testresultat sätts den smittade samt medpassagerare och personal i karantän, (individuellt eller i små grupper) | x | x | x | x |
+| Identifiera kontakter till smittade (smittspårning). Testa, övervaka och/eller begär självisolering |  | x | x | x |
+| Uppmana personliga skyddsåtgärder som social distansering, handtvätt, nysettikett  |  | x | x | x |
+| Övervaka kontinuerligt hälsa hos individer med frekvent social kontakt, speciellt i områden med lokal smittspridning, för att tidigt upptäcka fall och utbrott  |  | x | x | x |
+| Uppmana medborgare att undvika icke-nödvändiga evenemang och sammankomster |  | x | x | x |
+| Ge maximalt skydd för sjukvårdspersonal |  | x | x | x |
+| Uppmana till användning av personlig skyddsutrustning inklusive mask |  |  | x | x |
+| Senarelägg/ställ in icke-nödvändiga evenemang och sammankomster | | x | x |
+| Genomför sanering/desinkfektion på allmänna platser | | | x | x |
+| Testa alla med symptom | | | x | x |
+| Öka testkapacitet och hastighet | | x | x |
+| Stäng skolor, tillbedjansplatser och företag  | |  | x |
+| Begränsa resande till endast nödvändiga resor  | | | x | x |
+| Sätt infekterade områden i karantän. Håll folk i deras hem och tillhandahåll nödvändigheter och service utan fysisk kontakt  | | | x |
+| Sätt kontakter till fall i karantän | | | | x | 
+| Samla ihop nationella resurser (sjukvård, logistik) i områden som satts i karantän | | | | x |
+| Använd separata lokaler för infekterade och vanlig sjukvård  | | | | x | 
+| Skapa nivåer i sjukvården för att separera milda och svåra fall  | | | | x | 
 
 Detta färgkodade system utgår från att områden med lokal spridning måste kontakt mellan individer minska så att varje smittat person sprider smittan till mindre än 1 person i genomsnitt. En minskad social sammankoppling kommer resultera i en exponentiell minskning i antalet nya fall (observera att detta sker med fördröjning på grund av inkubationstiden).
 
