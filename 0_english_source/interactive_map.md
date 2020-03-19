@@ -1,12 +1,13 @@
-Alert color codes
+## Alert color codes
+
 For effective outbreak response, Green, Yellow, Orange and Red Zones can be continually identified and updated to help monitor the situation, to increase response effort where needed, and to release areas from constraints when possible. Individual Yellow, Orange and Red Zones should be as small as practical (neighborhoods, urban areas, counties/precincts, states).
 
-Types of Zones
-Green Zones: Regions without confirmed cases or with a few infected travelers arriving from other regions
-Yellow Zones: Regions with a few cases of local transmission, but without clusters of community transmission
-Orange Zones: Regions adjacent to Red Zones or with small clusters
-Red Zones: Regions that have sustained community transmission
-‍
+### Types of Zones
+
+* Green Zones: Regions without confirmed cases or with a few infected travelers arriving from other regions
+* Yellow Zones: Regions with a few cases of local transmission, but without clusters of community transmission
+* Orange Zones: Regions adjacent to Red Zones or with small clusters
+* Red Zones: Regions that have sustained community transmission
 
 
 This color-coded zone-based scheme is based on the idea that in areas in which the virus is spreading within the community, the social connectivity must be lowered to the point where each individual infected will infect less than one other person on average. This decreased social connectivity will result in an exponential decrease in the number of new cases (although, due to the incubation period, there may be a time-delay before this is observed).
@@ -19,6 +20,6 @@ The goal of both red and orange zone restrictions is to reduce general social co
 
 For more information on medical and social responses, see:
 
-WHO Technical Guidance
-Singapore Guidelines
-‍
+* [WHO Technical Guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
+* [Singapore Guidelines](https://www.moh.gov.sg/covid-19)
+
