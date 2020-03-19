@@ -1,7 +1,3 @@
-
-
-|Current Time:|15 Mar11 2020, XX:XX UTC||
-
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
