@@ -1,9 +1,9 @@
-Early Outbreak Response Guidelines
+## Early Outbreak Response Guidelines
 The Coronavirus outbreak originating in Wuhan has about 20% severe cases and 2% deaths. A typical incubation period is 3 days but it may extend to 14 days, and reports exist of 24 and 27 days. It is highly contagious with an increase from day to day of 50% in new cases (infection rate R0 of about 3-4) unless extraordinary interventions are made. If it becomes a widespread pandemic or endemic it will change the lives of everyone in the world. It is imperative to act to confine and stop the outbreak and not accept its spread. We provide these guidelines for individual, community and government action.
 
 ‍
 
-Download Guidelines as PDF
+## Download Guidelines as PDF
 Essential Coronavirus Guidelines
 Family Guidelines
 High-Risk Institution Guidelines
@@ -16,12 +16,12 @@ Respiratory Health for Better COVID-19 Outcomes
 Guidelines for Supermarkets, Grocery Stores and Pharmacies
 ‍
 
-Other Useful Guidelines
+## Other Useful Guidelines
 Handbook of COVID-19 Prevention and Treatment
 Patient Blood Management During the 2020 COVID-19 Pandemic
 ‍
 
-Family Guidelines
+## Family Guidelines
 In areas of heightened risk where the government isn’t taking adequate action, protecting a family, or group, is challenging. The spread of fire requires a trail of combustibles. Similarly, the contagion of COVID-19 requires a chain of susceptible individuals. The solution is to:
 
 Reduce contact between the family and others, and provide for essential needs, and as the risk increases
@@ -31,7 +31,7 @@ The safe space also curbs contagion because those in the safe space don't partic
 ‍
 
 
-Reducing contact between the family and others:
+## Reducing contact between the family and others:
 Carefully read our guidelines for individuals and share it with family members. Discuss with them how to reduce their contact with others.
 Shift family gatherings to be virtual. The current outbreak will either be defeated or will become widespread. In the former, a few months from now will return to normal. In the latter, different actions will be needed.
 Ensure that you and members of your family have necessary supplies, including prescription medicines. Consider vulnerable members of the family including elderly, but also anybody over 50, and those with chronic health conditions, as to the risk of contact with others. Reduce their contact, provide support that enables them to stay at home and not go into public spaces.
@@ -52,7 +52,7 @@ As an outbreak progresses hard decisions will inevitably arise about whether to 
 
 At a time of high risk, there will be actions taken by mistake that may compromise safety. To avoid over reaction to an individual event, it is important to realize that any single act has a low probability of harm. However, when multiple actions are taken the risk increases dramatically. Ensuring that lessons are learned is more important than accusation, blame or punishment.
 
-Individual and Community Guidelines
+## Individual and Community Guidelines
 Take responsibility for your own health and share responsibility for the health of your neighborhood with awareness and discipline
 Practice social distancing
 Avoid touching surfaces in public or shared spaces
@@ -100,7 +100,7 @@ Note: The French International Chamber of Commerce is using these guidelines.
 ‍
 
 
-General
+## General
 Promote understanding among employees and their families of Coronavirus transmission and prevention.
 Develop customized organization policies to reduce transmission and arrange for meticulous implementation.
 Ensure employees know that when they have even mild symptoms they should not be at work locations or in-person meetings and they will not be penalized for sick days. Set up a reporting system for any cases.
