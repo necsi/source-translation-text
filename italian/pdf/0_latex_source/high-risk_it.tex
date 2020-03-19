@@ -1,0 +1,325 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+ \usepackage{xcolor}
+
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Linee guida per istituzioni ad alto rischio - Versione 2 \\
+\vspace{-0.35ex}}
+\author{Aaron Green, Chen Shen and Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+\vspace{+0.35ex}
+\small{\textit{(translated by P. Bonavita, A. P. Rossi})}\\
+ \today
+  \vspace{-14ex} \\
+
+
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+
+
+\begin{multicols}{2}
+
+\textbf{Le case di riposo, le RSA, i dormitori, le case di cura, gli stabilimenti di riabilitazione e le prigioni} sono da considerarsi istituzioni ad alto rischio di trasmissione della malattia. COVID-19 è una malattia a trasmissione rapida che richiede ospedalizzazione per circa il 20\% dei pazienti e risulta nella morte di circa il 2-4\% di essi. Le complicazioni aumentano rapidamente per le persone con più di 50 anni di età, e comorbidità come l’insufficienza cardiaca e le malattie coronariche incrementano ulteriormente il rischio. COVID-19 può trasmettersi anche in presenza di sintomi lievi (tosse, starnuti o febbre) e in alcuni casi ancora prima del manifestarsi dei sintomi stessi. Ridurre la probabilità di trasmissione nelle istituzioni ad alto rischio è una priorità imperativa, come è stato studiato nella Prigione di Rencheng in Cina e nell’Ospedale di Cheongdo Daenam in Corea del Sud. Qui vi presentiamo delle linee guida per la prevenzione mediante l’introduzione di barriere alla trasmissione dall’esterno.
+
+
+
+\section*{Regole generali}
+
+\subsection*{Visitatori}
+
+\begin{itemize}
+
+\item Vanno scoraggiate le visite non essenziali.
+
+\item {Riducete i punti di ingresso, e assegnate del personale ai punti di ingresso per chiedere lo scopo della visita, e domandare se il visitatore ha recentemente avuto qualche sintomo, è stato recentemente in area di trasmissione attiva, o è stato esposto a persone presentanti dei sintomi. Controllate la presenza di febbre con termometri IR senza contatto.}
+
+\item Le visite dovrebbero essere spaziate ad intervalli per evitare affollamenti.
+
+\item Le linee guida di comportamento generale dovrebbero essere esposte negli spazi pubblici, in un formato di facile lettura e in tutte le lingue rilevanti, di modo tale che lavoratori, ospiti della struttura e visitatori possano facilmente vederle.
+
+\end{itemize}
+
+\subsection*{Igiene}
+
+\begin{itemize}
+\item Raccomandare a ospiti e dipendenti di evitare il più possibile di toccare i punti ad alto contatto. Questi includono maniglie delle porte, pulsanti di ascensore, lavandini, tavoli e altre superfici, apparecchiature di uso frequente, apparecchi elettronici e altri. Si raccomanda l’uso di porte automatiche, o l’utilizzo di fazzolettini monouso, borse di plastica o altri strumenti usa e getta.
+\item Incrementare pulizia e sterilizzazione di tutti i punti ad alta frequenza di contatto. Questi includono maniglie delle porte, pulsanti di ascensore, lavandini, tavoli e altre superfici, apparecchiature di uso frequente, apparecchi elettronici e altri.
+\item Controllare ed assicurarsi che i dispenser di sapone e di salviette di carta nei bagni rimangano adeguatamente forniti durante il corso della giornata.
+\item Fornire disinfettante per le mani alle entrate, uscite e nei punti ad alto traffico.
+\item Fornire salviette disinfettanti a base di alcohol e fazzoletti monouso.
+
+\end{itemize}
+
+\subsection*{Lavoratori e ambiente aziendale}
+
+\begin{itemize}
+\item Informate ed istruite il personale e le loro famiglie, così come gli ospiti della struttura e le loro famiglie, sulle modalità di trasmissione e prevenzione del Coronavirus.
+\item Assicuratevi che i dipendenti sappiano che in presenza di sintomi anche lievi non devono recarsi sul luogo di lavoro o a riunioni e incontri di persona, e che saranno regolarmente pagati e non penalizzati per i giorni di malattia. Create un sistema di reporting per questo tipo di casi.
+\item Assicuratevi che i dipendenti abbiano copertura sanitaria adeguata, così che non abbiano paura di rivolgersi ai servizi sanitari in presenza di sintomi anche lievi.
+\item Siate preparati per eventuali sostituzioni di impiegati in caso alcuni si ammalino, individualmente o collettivamente.
+\item Tenetevi al corrente su informazioni e consigli.
+\item Rimpiazzate le riunioni di persona con teleconferenze o altri tipi di riunioni in remoto.
+
+\end{itemize}
+
+\section*{Regole rafforzate per aree di trasmissione attiva}
+
+È essenziale che le istituzioni ad alto rischio seguano i protocolli per le Zone Sicure e rimangano libere dal contagio.
+
+\subsection*{Visitatori}
+
+\begin{itemize}
+
+  \item Promuovete una strategia basata sulle “Zone Sicure”, che definisce il perimetro dell’istituzione come un confine attraverso il quale non possano avvenire contatti che portino alla trasmissione del virus.
+
+  \item Se possibile, evitare il contatto con l’esterno e incoraggiare l’uso di strumenti di testo, telefonici e di videoconferenza per comunicare.
+
+  \item Quando la presenza di visitatori è necessaria, considerare di creare una zona separata per gli incontri con questi, includendo abbastanza spazio affinché tutti i partecipanti possano rimanere a una distanza di sicurezza di circa 2 metri, collegamenti video per il contatto virtuale, e partizioni in vetro.
+
+  \item L’uso delle mascherine (se possibile a standard N95) può essere incoraggiato anche se non ci sono segni di contagio.
+
+  \item Le consegne dovrebbero essere effettuate da autisti singoli che non hanno sintomi della malattia e che non sono stati recentemente (da 14-21 giorni) esposti.
+
+  \item Ogni volta che sia possibile le consegne dovrebbero essere depositate in uno spazio che non richiede l’ingresso nella struttura.
+
+  \item Si consiglia di permettere l’ingresso in ambienti di istituzioni ad alto rischio solo a quelle persone che sono state recentemente testate con esito negativo.
+
+\end{itemize}
+
+\subsection*{Pasti ed altre attività ad alto contatto}
+
+\begin{itemize}
+\item  Proibite assembramenti e riunioni, ed eliminate quei servizi e programmi non essenziali che richiedono viaggi o contatti.
+\item  Proibite le attività e i giochi che coinvolgono più individui che maneggiano gli stessi oggetti (giochi di carte, mahjong, dama, biliardo).
+\item  Valutate l’introduzione di limiti alle attività fisiche che possono sforzare eccessivamente il sistema cardiovascolare ed incrementare la vulnerabilità ad eventi medici.
+\item  Chiudete le aree di servizio condivise come biblioteche e salotti comuni.
+\item  Nei casi in cui gli ospiti effettuino abitualmente escursioni al di fuori della struttura, scoraggiate o proibite le escursioni di individui al di fuori dell’istituzione.
+\item  Scoraggiate fortemente le visite agli ospiti.
+\item  Laddove le escursioni o le visite abbiano comunque luogo, valutate i livelli di rischio e la necessità di un attento monitoraggio dei sintomi.
+\item  Aiutate gli ospiti ad ottenere beni e servizi attraverso le consegne online o organizzatevi per modalità di shopping sicure.
+\item  Se possibile, rimpiazzate i servizi di mensa con servizio “in camera” del cibo con modalità prive di contatto.
+  \begin{itemize}
+  \item Dove i servizi mensa siano necessari:
+  \item Sanificare le aree di contatto dopo ogni utilizzo individuale, inclusi i tavoli, i braccioli delle sedie, i menu. Oppure utilizzate tovaglie e menu usa e getta.
+  \item Camerieri e personale di servizio dovrebbero evitare contatti e prossimità.
+  \item Scaglionate gli orari dei pasti per evitare affollamento e distribuite i posti a sedere in modo da evitare che le persone si trovino a sedersi una di fronte all’altra.
+  \end{itemize}
+
+\item Quando il contatto è essenziale per il tipo di servizio offerto, si devono stabilire dei protocolli rigorosi che includano una sufficiente aerazione, guanti, mascherine e vestiario protettivo usa e getta.
+
+\end{itemize}
+
+\section*{LAVORATORI, STRUTTURE E AMBIENTE AZIENDALE:}
+
+\begin{itemize}
+  \item Siate sicuri di comunicare ai lavoratori che le loro azioni al di fuori dell’ambiente di lavoro possono portare alla trasmissione dell’infezione e di conseguenza a rischi per la vita degli ospiti della struttura. Anche se la malattia dovesse presentare un basso rischio individuale per loro singolarmente, qualsiasi contatto con individui o superfici in aree non sicure è estremamente pericoloso per coloro che sono ospiti di una Struttura Ad Alto Rischio. Dovrebbero assumersi tale responsabilità e limitare al minimo i contatti non-sicuri al di fuori dell’ambiente di lavoro
+  \item Incoraggiate i lavoratori all’uso dei protocolli di Zona Sicura presso le proprie abitazioni, limitando il contatto tra loro e le persone che con loro convivono e individui e superfici che non sono sicure, e tenete un registro di coloro che seguono tali protocolli.
+  \item Cercate di cooperare con le strutture mediche della zona per coordinare test rapidi per il coronavirus per dipendenti e ospiti della struttura.
+  \item Dividete le strutture in zone separate, limitando il passaggio di lavoratori e ospiti da una all’altra, così che in caso una zona venga infettata, le altre non lo siano prima che il contagio sia scoperto e siano prese misure per limitarlo.
+  \item I trasferimenti di ospiti dentro o fuori della struttura dovrebbero seguire i requisiti delle Zone Sicure, con attenzione ai punti di origine, punti di destinazione, contatto con coloro che operano il trasferimento e i veicoli utilizzati.
+  \item Quando si introducono nuovi residenti o nuovi dipendenti che non provengano a loro volta da una Zona Sicura, costoro andranno messi in quarantena per 14-21 giorni.
+  \item Dove possibile, organizzate delle strutture residenziali per i lavoratori in una delle Zone Sicure a disposizione.
+  \item Organizzate delle partnerships con strutture “sorelle” affinché pure esse seguano procedure di Zona Sicura per i trasferimenti e la risposta a qualsiasi episodio di contagio.
+  \item Organizzate il personale per il lavoro a domicilio e sviluppate protocolli che lo rendano possibile.
+  \item Evitate gli assembramenti negli ascensori. Gli ascensori dovrebbero essere usati solo entro la metà della loro capacità teorica.
+  \item Se l’utilizzo di aria condizionata è necessario, disabilitare la funzione del ricircolo. Pulite e disinfettate settimanalmente i componenti e i filtri.
+  \item Controllate i progetti dei sistemi di ventilazione per determinare se questi stabiliscono un collegamento di flussi d’aria tra una stanza e l’altra. In caso positivo, sviluppate sistemi di mitigazione o modalità alternative di ventilazione.
+  \item Utilizzate purificatori d’aria dotati di filtri HEPA in tutta la struttura.
+  \item Identificate strutture interne o esterne che possano essere utilizzate per quarantene di 14-21 giorni.
+\item Preparate piani di azione in caso si identifichi un caso di Coronavirus. Questo può comprendere la segregazione di ogni individuo - inclusi sia gli ospiti che il personale - all’interno della struttura (o in strutture esterne che possano essere usate per questo scopo) così che non si possano infettare a vicenda.
+
+
+\end{itemize}
+
+
+%
+% \section*{II. Auto-isolamento}
+%
+% \section*{III. Famiglia e amici}
+%
+% \section*{IV. Comunità}
+%
+% \section*{V. Aziende}
+%
+% \section*{VI. Strutture sanitarie}
+%
+% \section*{VI. Amministrazioni, Governi, Commercio}
+
+
+
+%
+% In aree a rischio elevato laddove il governo non prende misure adeguate, proteggere la famiglia, o la collettività e’ difficile. La diffusione di un incendio Affinché un incendio si diffonda, è necessario che gli elementi combustibili vengano in qualche modo in contatto tra loro. Analogamente, il contagio di COVID-19 necessita di una catena di individui suscettibili. La soluzione e’: (1) ridurre i contatti tra la famiglia e gli altri individui, e provvedere ai bisogni essenziali, quando il rischio aumenta. (2) creare uno spazio sicuro che protegge chi si trova al suo interno, con un accordo condiviso di non essere in contatto fisico non protetto con altri e con superfici che sono toccate da altri.
+%
+%
+% Lo spazio sicuro contribuisce a ridurre il contagio anche perché chi e’ al suo interno non partecipa alla trasmissione della malattia. I membri di uno spazio sicuro si possono unire ai membri di altri spazi sicuri per espandere gradualmente lo spazio e crearne di nuovi. Seguono le linee guida per le famiglie.
+%
+% Ridurre il contatto tra la famiglia e gli altri:
+%
+% \begin{itemize}
+%
+% \item Leggere accuratamente le nostre linee guida per gli individui e condividerle con i familiari. Discutere con loro come ridurre i loro contatti con gli altri
+%
+% \item Rendere le riunioni familiari virtuali. La presente epidemia o sarà sconfitta, o diventerà diffusa. Nel primo caso, in pochi mesi torneremo alla normalità Nel caso di diffusione, azioni differenti saranno necessarie.
+%
+% \item Assicuratevi che voi ed i membri della vostra famiglia disponiate dei necessari beni di consumo, inclusa una scorta di medicine. Considerate i membri vulnerabili della famiglia, inclusi gli anziani, ma anche chiunque sopra i 50 anni di eta’, e coloro che soffrono di malattie croniche, come a rischio per il contatto con altri. Cercate di ridurre i loro contatti, e di supportarli in modo tale da farli restare a casa il più possibile e non dover recarsi in spazi affollati.
+%
+% \item Valutare il trasferimento temporaneo di persone da abitazioni condivise (case di riposo, strutture abitative assistite, case di degenza, etc.) a sistemazioni più’ isolate, ad esempio case private, o strutture più piccole
+%
+% \item Laddove non fosse possibile ridurre i contatti tra gli ospiti, discutere con i responsabili delle strutture la necessità di incrementare i livelli di precauzione contro il virus.
+% \item Evitare assembramenti e posti affollati, tra cui eventi pubblici e ristoranti specialmente se in spazi chiusi
+%
+% \end{itemize}
+%
+% Creare Spazi Sicuri in situazioni ad elevato rischio:
+%
+% \begin{itemize}
+%
+% \item L’obiettivo principale di stabilire uno spazio sicuro tra un gruppo di persone e’ quello di creare un'unità’ isolata che riduca i contatti fisici con altre individui esterni all'unità’ al minimo indispensabile, al tempo stesso essendo in grado di auto-sostenersi e auto-supportarsi.
+%
+% \item Non c’e’ motivo per cui i singoli individui debbano aspettare la decisione di misure di sicurezza ‘top-down’ promulgate dai governi. In assenza di interventi drastici e sistematici, gli spazi sicuri autogestiti e organizzati ‘dal basso’ possono essere d’aiuto. Con il crescere del loro numero, le zone sicure possono rallentare o addirittura spegnere i focolai d’infezione locali.
+%
+% \item Gli Spazi Sicuri possono essere costituiti da famiglie o gruppi che decidano di condividere una struttura abitativa. Più strutture abitative possono essere combinate, ad esempio spostandosi tra l’una e l’altra (a piedi o in macchina), se sono stabiliti e seguiti stringenti protocolli di sicurezza. Per avviare con successo uno Spazio Sicuro, OGNI partecipante deve accettare e rispettare la promessa di minimizzare i contatti fisici esterni al gruppo. Devono essere inoltre stabilite istruzioni chiare su come comportarsi e cooperare. I membri di uno Spazio Sicuro devono essere aperti e trasparenti sulle proprie condizioni di salute e la propria cronologia di viaggio, ed essere reciprocamente responsabile della salute degli altri membri.
+%
+% \item Per far impegnare gli individui a condividere uno spazio condiviso, alcuni aspetti vanno organizzati con le aziende, le scuole, la famiglia e gli amici. Potrebbe rendersi necessario, stare a casa con l'approvazione dell'azienda, o assentarsi dal lavoro.
+%
+% \item Pianificare un periodo esteso (almeno una o più’ settimane) in uno spazio sicuro deve essere fatto in anticipo, incluso il reperimento di beni di consumo, ma durante l'approvvigionamento bisogna porre particolare attenzione, data la potenziale esposizione al un gran numero di persone. Formulare delle strategie di sopravvivenza può essere utili in questo ambito. Avere un piano relativo alla gestione dei bisogni è vitale perché la ricerca di approvvigionamenti comporta necessariamente del rischio.
+%
+% \item Quando possibile, organizzare la consegna di beni, incluso il cibo, per limitare i trasferimenti verso i negozi. Bisogna fare attenzione perché’ i beni consegnati sono stati toccati da qualcuno. A meno che non ci sia un accordo con il fornitore riguardo all’uso di guanti, lavare e disinfettare i beni ricevuti e’ consigliato  nelle aree di trasmissione attiva.
+%
+% \item Per attività essenziali, inclusi gli acquisti, durante le quali un contatto fisico esterno è inevitabile, i membri della famiglia devono pianificare in anticipo per agire in modo efficiente e minimizzare la durata e l’estensione del contatto. Uscire e tornare nello spazio sicuro necessita di precauzioni. Usare protezione personale appropriata, inclusi guanti e materiale monouso (fazzoletti) per prendere o manipolare oggetti che non devono essere toccati, disinfettante o alcool per le mani, e mascherine. Ritornare allo spazio sicuro necessità di lavarsi e disinfettarsi, preferibilmente prima del rientro.
+%
+% \item Promuovere la comunicazione interna e la mutua attenzione è essenziale per mantenere i membri dello spazio sicuro in una relazione positiva ed in buona salute mentale. Riconoscere che l’emergenza corrente richiede azioni straordinarie e sacrifici e’ fondamentale. Questo può mitigare, anche se non sostituire completamente, l’importanza del supporto reciproco.
+%
+% \item I membri dello spazio sicuro devono ottenere informazioni sulle azioni da intraprendere in caso uno o più membri mostrino sintomi di infezione. Le azioni variano in base al paese/luogo, e devono essere peraltro dinamiche secondo la situazione. I membri devono informarsi reciprocamente all’interno del gruppo a riguardo del piano contingente più aggiornato e le informazioni sui contatti avuti. Nel caso che un membro mostri sintomi tipici, gli altri devono agire velocemente per aiutarlo/a a farsi testare, e praticare l’isolamento precauzionale nel periodo precedente all’ottenimento dei risultati.
+%
+% \end{itemize}
+%
+% Quando una epidemia progredisce, decisioni difficili dovranno inevitabilmente essere prese a riguardo dell’uscita da uno spazio sicuro per aiutare membri della famiglia o amici che non sono in uno spazio sicuro. Gli individui devono essere preparati a fare queste decisioni.
+%
+% In un periodo di rischio elevato, ci saranno inevitabilmente azioni prese per sbaglio che potrebbero compromettere la sicurezza. Per evitare reazioni eccessive a un evento singolo, è importante capire che ogni singolo atto ha una piccola probabilità di creare danni. Tuttavia, quando azioni multiple vengono prese, il rischio aumenta drammaticamente. Assicurarsi che le relative lezioni vengano apprese è più importante di accusare, incolpare o punire.
+
+
+\end{multicols}
+
+
+
+% \bibliography{MyCollection.bib}
+
+
+\end{document}
