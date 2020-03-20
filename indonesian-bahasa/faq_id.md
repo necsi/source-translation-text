@@ -1,4 +1,4 @@
- ## Pertanyaan yang Sering Ditanya mengenai COVID-19
+## Pertanyaan yang Sering Ditanya mengenai COVID-19
 + Apa itu COVID-19?
 COVID-19 adalah penyakit infeksi yang diakibatkan oleh virus di dalam Famili coronavirus. Ada banyak jenis coronavirus dan biasanya menyebabkan penyakit pernapasan ringan. COVID-19 disebabkan sebuah coronavirus baru dan pertama ditemukan di Wuhan, Tiongkok.
 
