@@ -13,7 +13,7 @@ Wir sind spezialisiert auf Netzwerkforschung, Agenten-basierten Modellansätzen,
 
 Die durch den Coronavirus verursachte Krankheit, COVID-19, verbreitet sich rasant. In 20% der Fälle ist ein Krankenhausaufenthalt erforderlich und in 2-4% der Fälle führt die Krankheit gar zum Tod, wobei Personen über 50 einem weitaus höheren Risiko ausgesetzt sind. Die Krankheit kann selbst bei leichten Symptomen (Husten, Niesen oder erhöhter Temperatur) übertragen werden, möglicherweise sogar, bevor Symptome auftauchen. Um das Übertragungsrisiko zu senken, sollte der Kontakt zu anderen Personen reduziert werden. Nur so kann man sowohl sich selbst als auch andere vor einer möglichen Infektion schützen.
 
-Wenn jeder auf COVID-19 getestet würde, könnten wir vorübergehend Infizierte von Nichtinfizierten trennen. Dies würde dazu beitragen, die Ausbreitung des Virus zu stoppen und es so der Gesellschaft zu ermöglichen, normal zu funktionieren. Aus diesen Gründen hat die universelle Durchführung von Tests für uns höchste Priorität.
+Wenn jeder auf COVID-19 getestet würde, könnten wir Infizierte von Nichtinfizierten vorübergehend trennen. Dies würde dazu beitragen, die Ausbreitung des Virus zu stoppen und es so der Gesellschaft zu ermöglichen, normal zu funktionieren. Aus diesen Gründen hat die universelle Durchführung von Tests für uns höchste Priorität.
 
 Um die Übertragung einzudämmen, sind offensive und kühne Handlungen erforderlich. Interaktionen mit nahem physichen Kontakt müssen minimiert werden, um die Verwundbarkeit und das Risiko für Einzelpersonen zu reduzieren. So können wir einen Schritt vor dem viralen Aubruch bleiben und ihn stoppen.
 
