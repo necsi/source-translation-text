@@ -24,10 +24,10 @@ För effektiv hantering av ett utbrott bör gröna, gula, orange och röda zoner
 | Senarelägg/ställ in icke-nödvändiga evenemang och sammankomster | |  | x | x |
 | Genomför sanering/desinkfektion på allmänna platser | | | x | x |
 | Genomför aktivt testing av de med symptom.[^] | | | x | x |
-| Öka testkapacitet och hastighet | | x | x |
+| Öka testkapacitet och hastighet | |  | x | x |
 | Stäng skolor, tillbedjansplatser och företag  | |  | x |
-| Begränsa resande till endast nödvändiga resor  | | | x | x |
-| Sätt områden med smittspridning i karantän. Håll folk i deras hem och tillhandahåll nödvändigheter och service utan fysisk kontakt. | | | x |
+| Begränsa resande till endast nödvändiga resor  | | |  | x |
+| Sätt områden med smittspridning i karantän. Håll folk i deras hem och tillhandahåll nödvändigheter och service utan fysisk kontakt. | | |  | x |
 | Sätt kontakter till fall i karantän | | | | x | 
 | Samla ihop nationella resurser (sjukvård, logistik) i områden som satts i karantän | | | | x |
 | Använd separata lokaler för smittade fall och vanliga patienter  | | | | x | 
