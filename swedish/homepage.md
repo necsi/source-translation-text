@@ -1,7 +1,29 @@
 # Sprid kunskap, inte viruset
 
 ## För att hjälpa din familj och ditt community måste du
-[Insert images]
+
+***
+### Tvätta händerna!
+Rengör ytor och använd handdesinfektion
+
+### Ställ in dina resor
+Ett lågt pris för att rädda liv
+
+### Stanna hemma så mycket som möjligt
+Även om du är frisk — speciellt om du känner dig sjuk
+
+### Undvik sammankomster, kollektivtrafik, fester och barer. 
+De finns alltid kvar senare.
+
+### Arbeta hemifrån om möjligt
+Undvik att kollegor blir smittspridare
+
+### Håll koll på din hälsa
+Kontakta sjukvård om din temperatur är eller överstiger 38C.
+
+### Täck ditt ansikte om du nyser eller hostar
+Enkelt med effektivt
+***
 
 ## Vad kan jag göra för att förhindra smitta och smittspridning av COVID-19?
 Det finns flera åtgärder som kan tas för att hindra smittspridning. Våra experter har skrivit detaljerade guider om hur vi ska agera för att stoppa COVID-19.
@@ -22,3 +44,6 @@ Varje gång viruset inte lyckas smitta en annan person får det har det mycket s
 Om vi väljer att inte agera är uppskattningen att en person som blivit smittat sprider det till i genomsnitt till 3-4 andra person. Detta skapar en exponentiell tillväxt i antalet fall. Om vi instället ändrar vårt beteende på ett sätt som minskar social kontakt, kan vi se till att varje person smittar mindre en 1 person. Vi får då en exponentiell minskning av smittade.
 
 Håll dig uppdaterad med de senaste uppdateringarna om hur vi kan hindra och bekämpa spridningen av COVID-19, skrivna och publicerade av experter på området.
+
+## Följ nya fall globalt
+Det är ingen brist på uppdateringar om Coronaviruset. Vårt arbete fokuserar på att bidra med relevant information leder till pragmatisk handling för individer, arbetsgivare, regeringar och andra organisationer.

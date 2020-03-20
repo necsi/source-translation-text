@@ -61,3 +61,18 @@ Säkrade platser/områden hjälper också till att minimera spridning då det so
 Allt eftersom smittspridning sker kommer svåra beslut att behöva tas. Detta gäller exempelvis beslut om att lämna säkrade platser/områden för att hjälpa familj eller vänner som inte är i säkrade områden. Individer bör vara förbereda sig för att ta sådana beslut.
 
 Under svåra situationer med hög risk kommer folk att begå misstag som kan äventyra säkerheten. För att undvika överreaktion det är viktigt att inse att enstaka händelser har liten chans att göra skada. Risken ökar dock dramatiskt när flertalet handlingar tas. Se till att lärdomar av misstag är viktigare än skylla på andra eller bestraffning.
+
+### Riktlinjer för individer och samhällen
+- Ta ansvar för din egen hälsa och dela ansvaret för hälsan i ditt område med medvetenhet och disciplin
+- Minimera fysisk social kontakt
+- Undvik att röra ytor i offentliga och delade utrymmen
+- Undvik folksamlingar
+- Undvik direktkontakt med andra, tvätta händer regelbundet och bär masker när du är i nära kontakt med andra som kan vara smittade
+- Täck hosta / nysningar med armvecket eller en näsduk
+- Övervaka temperaturen eller andra symptom på infektion (hosta, nysa, rinnande näsa, ont i halsen)
+- Genomför självisolering om du har tecken på symtom.
+- Om symtomen fortsätter att utvecklas, ordna med säker transport till medicinska anläggningar enligt regeringens rekommendationer. Undvik att använda kollektivtrafik. Bär mask.
+- I områden med ökad risk måste du hjälpa andra medlemmar i ditt samhälle utan personlig kontakt. Leveranser kan lämnas utanför dörren.
+- Samarbeta med andra för att skapa säkra platser/områden. Diskutera säkerhet med familj och vänner. Prata om säkerhetsriktlinjer, håll koll på vilka som följer riktlinjer. Fastställ policy, uppföljning och dela varandras behov, problem samt möjligheter. 
+- Var kritisk mot rykten och sprid inte misinformation.
+
