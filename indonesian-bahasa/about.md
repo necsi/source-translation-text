@@ -14,6 +14,6 @@ COVID-19 adalah penyakit dengan penularan tinggi. Dari semua kasus, 20% kasus be
 
 Apabila semua orang diuji untuk COVID-19, kita dapat memisahkan orang-orang terinfeksi dengan yang tidak untuk sementara waktu. Ini dapat membantu mengurangi penyebaran virus dan memungkinkan masyarakat berfungsi dengan normal. Untuk alasan-alasan ini, pengujian universal adalah prioritas kami.
 
-Aksi yang giat dan tegas diperlukan untuk mereduksi penularan dengan mengurangi interaksi jarak dekat agar mengurangi kerentanan dan risiko untuk individu, dan juga agar mengungguli wabah tersebut dan menghentikannya.
+Aksi yang giat dan tegas diperlukan supaya mereduksi penularan dengan mengurangi interaksi jarak dekat agar mengurangi kerentanan dan risiko individu, dan juga agar mengungguli wabah tersebut dan menghentikannya.
 
 Semua orang bisa membantu.
