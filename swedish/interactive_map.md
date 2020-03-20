@@ -21,7 +21,7 @@ För effektiv hantering av ett utbrott bör gröna, gula, orange och röda zoner
 | Uppmana medborgare att undvika icke-nödvändiga evenemang och sammankomster, speciellt i små lokaler |  | x | x | x |
 | Ge maximalt skydd till sjukvårdspersonal |  | x | x | x |
 | Uppmana till användning av personlig skyddsutrustning inklusive mask |  |  | x | x |
-| Senarelägg/ställ in icke-nödvändiga evenemang och sammankomster | | x | x |
+| Senarelägg/ställ in icke-nödvändiga evenemang och sammankomster | |  | x | x |
 | Genomför sanering/desinkfektion på allmänna platser | | | x | x |
 | Genomför aktivt testing av de med symptom.[^] | | | x | x |
 | Öka testkapacitet och hastighet | | x | x |
