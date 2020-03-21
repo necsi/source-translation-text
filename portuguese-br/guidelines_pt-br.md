@@ -3,7 +3,6 @@
 
 ## Faça o download dos manuais em PDF
 Diretrizes essenciais para o Coronavírus |
----------------------------------------- |
 Diretrizes para famílias |
 Diretrizes para instituições de alto risco |
 Diretrizes para auto-isolamento |
