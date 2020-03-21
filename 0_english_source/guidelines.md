@@ -18,6 +18,7 @@ Guidelines for Supermarkets, Grocery Stores and Pharmacies
 
 ## Other Useful Guidelines
 Handbook of COVID-19 Prevention and Treatment
+
 Patient Blood Management During the 2020 COVID-19 Pandemic
 ‍
 
