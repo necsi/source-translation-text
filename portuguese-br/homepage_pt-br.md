@@ -20,28 +20,28 @@ Para ajudar sua comunidade e sua família, crie zonas seguras
 
 ## Sua comunidade e sua família precisam seguir essas regras:
 
-# Lave suas mãos
+### Lave suas mãos
 Limpe as superfícies e use álcool gel
 
-# Cancele seus planos de viagem por agora
+### Cancele seus planos de viagem por agora
 Um preço pequeno para salvar vidas
 
-# Fique em casa o máximo que puder
+### Fique em casa o máximo que puder
 Mesmo se estiver saudável — especialmente se sentir-se doente
 
-# Evite aglomerações, transportes, festas e bares
+### Evite aglomerações, transportes, festas e bares
 Poderá frequentá-los depois do surto do mesmo jeito
 
-# Se for possível, trabalhe de casa
+### Se for possível, trabalhe de casa
 Evite que seus colegas de trabalho se tornem transmissores também
 
-# Monitore sua própria saúde
+### Monitore sua própria saúde
 Procure o serviço de saúde local se sua temperatura estiver acima de 38°C
 
-# Vista máscaras ao sair em público
+### Vista máscaras ao sair em público
 Especialmente quando estiver perto de potenciais portadores do COVID-19
 
-# Cubra seu rosto quando for tossir ou assoar o nariz
+### Cubra seu rosto quando for tossir ou assoar o nariz
 Simples e efetivo
 
 ## O que eu devo fazer para impedir a infecção e transmissão do COVID-19?
@@ -53,10 +53,11 @@ Guias para famílias | Guia para empresas | Guia para governos
 
 ## Atualizações
 
-Atualização do dia 18 de março de 2020
-Atualização do dia 14 de março de 2020
-Atualização do dia 13 de março de 2020
-Atualização do dia 12 de março de 2020
+Atualização do dia 18 de março de 2020 |
+-------------------------------------- |
+Atualização do dia 14 de março de 2020 |
+Atualização do dia 13 de março de 2020 |
+Atualização do dia 12 de março de 2020 |
 
 Tweets |
 ------ |
@@ -87,4 +88,3 @@ Mantenha-se informado com as últimas notícias sobre como impedir e derrotar a 
 ## Acompanhe os novos casos globalmente:
 
 Não faltam atualizações sobre o Coronavírus. O foco do nosso trabalho é prover informações relevantes que levem a ações pragmáticas por parte dos indivíduos, empregadores, governos e ONGs.
-
