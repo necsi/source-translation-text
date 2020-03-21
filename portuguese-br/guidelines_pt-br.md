@@ -1,20 +1,22 @@
-### Diretrizes de resposta antecipada ao surto
+# Diretrizes de resposta antecipada ao surto
 * O surto de coronavírus que se originou em Wuhan apresenta 20% de casos graves e mortalidade de 2%. O período de incubação típico é de 3 dias, mas pode se estender para 14 dias, e existem relatos de 24 e 27 dias. É altamente contagioso, com um aumento diário de 50% em novos casos (taxa de infecção R0 de cerca de 3-4), a menos que grandes intervenções sejam feitas. Caso o surto se torne uma pandemia ou endemia generalizada, mudará a vida de todos no mundo. É imperativo agir para limitar e impedir o surto e não permitir sua propagação. Fornecemos as diretrizes a seguir para ações individuais, comunitárias e governamentais.
 
 ## Faça o download dos manuais em PDF
-Diretrizes essenciais para o Coronavírus
-Diretrizes para famílias
-Diretrizes para instituições de alto risco
-Diretrizes para auto-isolamento
-Uso massivo de testes pode parar o surto de Coronavírus
-Diretrizes para empresas
-Recomendações para formuladores de políticas
-Diretrizes para indivíduos, comunidades e governos locais
-Diretrizes de saúde respiratória para melhores resultados contra o Coronavírus
-Diretrizes para supermercados, mercearias e farmácias
+Diretrizes essenciais para o Coronavírus |
+---------------------------------------- |
+Diretrizes para famílias |
+Diretrizes para instituições de alto risco |
+Diretrizes para auto-isolamento |
+Uso massivo de testes pode parar o surto de Coronavírus |
+Diretrizes para empresas |
+Recomendações para formuladores de políticas |
+Diretrizes para indivíduos, comunidades e governos locais |
+Diretrizes de saúde respiratória para melhores resultados contra o Coronavírus |
+Diretrizes para supermercados, mercearias e farmácias |
 
 ## Outros guias úteis
-Manual de prevenção e tratamento contra o COVID-19 (em inglês)
+Manual de prevenção e tratamento contra o COVID-19 (em inglês) |
+-------------------------------------------------------------- |
 
 ## Diretrizes para famílias
 Em áreas de risco elevado em que o governo não está tomando as medidas adequadas, proteger uma família ou grupo é um desafio. A propagação do fogo requer uma trilha de combustíveis: da mesma forma, o contágio do COVID-19 requer uma cadeia de indivíduos suscetíveis. A solução é:
@@ -22,8 +24,7 @@ Em áreas de risco elevado em que o governo não está tomando as medidas adequa
 2. Criar um espaço seguro para a proteção daqueles que estão nele, através de acordo entre todos para não entrarem em contato físico desprotegido com outras pessoas, ou com superfícies tocadas por outras pessoas.
 A existência de um "espaço seguro" também reduz o contágio, porque os que estão no espaço seguro não participam da transmissão da doença. Os membros de um espaço seguro podem combinar-se com outros para expandirem cuidadosamente o espaço seguro ou criar novos. Abaixo estão nossas diretrizes para as famílias.
 
-
-# Reduzindo o contato entre a família e outras pessoas:
+### Reduzindo o contato entre a família e outras pessoas:
 * Leia atentamente as nossas diretrizes para indivíduos e compartilhe-as com os membros da família. Discuta com eles como reduzir o contato com outras pessoas.
 * Transforme as reuniões de família para encontros virtuais. O surto atual será derrotado ou se espalhará. Se a primeira opção for o caso, daqui a alguns meses a rotina voltará ao normal. Se a segunda opção for o caso, serão necessárias ações diferentes.
 * Certifique-se de que você e seus familiares possuem os suprimentos necessários, incluindo medicamentos prescritos. Leve sempre em conta, quanto ao risco de contato com outras pessoas, os membros vulneráveis ​​da família, incluindo idosos, mas também pessoas acima de 50 anos e pessoas com problemas de saúde crônicos. Reduza o contato deles com outras pessoas, provendo a eles suporte de modo que eles não precisem sair de casa, nem acessar espaços públicos.
@@ -31,7 +32,7 @@ A existência de um "espaço seguro" também reduz o contágio, porque os que es
 * Onde não for possível reduzir os contatos, converse com os responsáveis por instalações coletivas para que se aumente o nível de precauções contra a transmissão.
 * Evite aglomerações de pessoas e locais públicos, incluindo eventos e restaurantes, especialmente aqueles em espaços fechados.
 
-# Criando espaços seguros sob condições de alto risco:
+### Criando espaços seguros sob condições de alto risco:
 * O objetivo principal de um "espaço seguro" é que um grupo de pessoas forme uma unidade solitária que reduza ao mínimo os contatos físicos com indivíduos externos, e que também seja capaz de sustentar-se e dar suporte.
 * Os indivíduos não precisam esperar por ações de segurança de cima para baixo, guiadas pelo governo. Na ausência de intervenção sistemática e agressiva, os "espaços seguros" auto-organizados também ajudam os indivíduos. Ao serem aumentadas progressivamente, as zonas seguras podem diminuir ou até parar os surtos locais.
 * Os "espaços seguros" podem começar pela família ou grupo de pessoas que compartilham uma única hospedagem. Várias habitações podem ser combinadas, incluindo idas e vindas entre elas (por exemplo, andando ou dirigindo), se e somente se protocolos seguros forem estabelecidos e respeitados. Para estabelecer com sucesso um Espaço Seguro, TODOS os participantes devem concordar com os princípios de minimizar o contato físico externo e aderir a ele. Também deve haver instruções claras sobre como agir e cooperar. Os membros do mesmo espaço seguro devem ser sinceros sobre o histórico de viagens e as condições de saúde, e serem responsáveis ​​pela saúde um do outro.
@@ -96,8 +97,8 @@ Em um momento de risco como esse, haverá ações tomadas por engano que podem c
 Abaixo, listamos várias ações que as empresas podem executar para impedir a disseminação do Coronavírus. Incluímos considerações especiais também para o varejo (comércio) e a hotelaria.
 
 Nota: a Câmara Internacional Francesa de Comércio está fazendo uso dessas diretrizes.
-‍
-# Geral
+
+### Geral
 * Promova o conhecimento entre os funcionários e suas famílias sobre a transmissão e prevenção do Coronavírus.
 * Desenvolva políticas personalizadas da organização para reduzir a transmissão e providenciar uma implementação nos mínimos detalhes
 * Certifique-se de que seus funcionários saibam que, mesmo com sintomas leves, não devem estar nos locais de trabalho ou em reuniões pessoais e não serão penalizados por faltarem no trabalho por motivo de doença. Configure um sistema que permita reportar qualquer caso.
@@ -106,7 +107,7 @@ Nota: a Câmara Internacional Francesa de Comércio está fazendo uso dessas dir
 * Tenha um estoque do essencial (desinfetante para as mãos, álcool, máscaras [1], termômetros infravermelhos na testa sem contato), caso as condições se deteriorem e os funcionários não tenham acesso a esses itens
 * Fortalecer os elos mais fracos da organização reduz a vulnerabilidade
 
-# Reuniões, Viagens e Visitantes
+### Reuniões, Viagens e Visitantes
 
 * Substitua as reuniões presenciais por virtuais
 * Organize-se para que os trabalhadores trabalhem de casa sempre que possível
@@ -115,7 +116,7 @@ Nota: a Câmara Internacional Francesa de Comércio está fazendo uso dessas dir
 * Altere as formas de fazer negócios para tornar desnecessárias as viagens aparentemente essenciais.
 * Limite o número des visitantes e defina políticas para consultar e descartar os visitantes com base no status da Zona de Risco onde moram, e nas políticas comerciais de prevenção de Coronavírus. Verifique os sintomas de visitantes logo na sua chegada.
 
-# Locais de trabalho
+### Locais de trabalho
 
 * Promova horários de trabalho flexíveis, escalonados e em turnos para diminuir a densidade no local de trabalho. A densidade deve ser reduzida para menos de 50% da capacidade em um determinado momento.
 * Os empregadores devem solicitar que os funcionários que estão retornando de locais com casos confirmados ou que tenham tido provável contato durante a viagem que se coloquem em quarentena por 14 dias antes de retornar ao escritório. Os empregadores devem acompanhar de perto sua condição de saúde, reportar e procurar atendimento médico.
@@ -131,7 +132,7 @@ Verifique se o espaço de trabalho de cada funcionário está separado por pelo 
 * Leve em conta o percurso dos funcionários até o local de trabalho e desenvolva recomendações, incluindo: evitar o transporte público; higiene cuidadosa, evitando tocar em superfícies, lavando as mãos e usando máscaras [1] em áreas de risco elevado.
 * A delegação de responsabilidades de garantir políticas no local de trabalho sobre a segurança do Coronavírus deve se dar de forma clara e responsabilizante.
 
-# Varejo, Comércio e Hotelaria
+### Varejo, Comércio e Hotelaria
 
 * Negócios que envolvem alto contato físico podem ser severamente afetados. Intervenções antecipadas e eficazes podem atenuar, mas não eliminar o risco, a menos que sejam tomadas por toda a sociedade.
 * A importância de garantir que indivíduos com sintomas leves de resfriado não compareçam ao trabalho e nem entrem em contato com outros funcionários não pode nunca ser ignorada.
