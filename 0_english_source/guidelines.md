@@ -5,14 +5,23 @@ The Coronavirus outbreak originating in Wuhan has about 20% severe cases and 2% 
 
 ## Download Guidelines as PDF
 Essential Coronavirus Guidelines
+
 Family Guidelines
+
 High-Risk Institution Guidelines
+
 Guidelines for Self Isolation
+
 Massive Testing Can Stop the Coronavirus Outbreak
+
 Business Guidelines
+
 Recommendations for Policy Makers
+
 Individual Community and Government Guidelines
+
 Respiratory Health for Better COVID-19 Outcomes
+
 Guidelines for Supermarkets, Grocery Stores and Pharmacies
 ‍
 
