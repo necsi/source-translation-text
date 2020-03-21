@@ -1,4 +1,4 @@
-### Espalhe conhecimento, não o vírus.
+# Espalhe conhecimento, não o vírus.
 
 ## Atualizando os números globais do COVID-19
 
