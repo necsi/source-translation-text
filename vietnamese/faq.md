@@ -1,41 +1,52 @@
-## Frequently Asked Questions About COVID-19
-+ What is COVID-19?
-COVID-19 is an infectious disease caused by a virus in the coronavirus family. There are many types of coronaviruses, and these commonly cause mild respiratory illnesses. COVID-19 is caused by a new coronavirus, and it was first discovered in Wuhan, China.
+# Những Câu Hỏi Thông Dụng Về COVID-19
 
-+ Why are people so afraid of this outbreak, isn't it just like the normal flu?
-The Coronavirus (COVID-19) causes about 20% severe cases and 2% deaths. This is about 20 times higher than the flu. A typical incubation period is 3 days but it may extend to 14 days, and reports exist of 24 and 27 days. It is highly contagious with an increase from day to day of 50% in new cases (infection rate R0 of about 3-4) unless extraordinary interventions are made.
+## COVID-19 là gì?
+
+COVID-19 là một bệnh truyền nhiễm gây nên bởi một virus thuộc phân họ coronavirus. Có nhiều loại coronavirus, và những loại này thường gây bệnh nhẹ ở đường hô hấp. COVID-19 do một loại coronavirus mới gây nên, và được phát hiện đầu tiên ở Vũ Hán, Trung Quốc.
+
+## Tại sao người ta sợ dịch bệnh này như vậy, chẳng phải nó chỉ là cúm thông thường thôi sao?
+
+Coronavirus (COVID-19) gây khoảng 20% ca bệnh nặng và 2% ca tử vong. Chỉ số này cao hơn cúm gấp 20 lần. Thời gian ủ bệnh thường là 3 ngày, nhưng có thể kéo dài đến 14 ngày, và có báo cáo lên đến 24 và 27 ngày. Khả năng lây nhiễm của nó cực kỳ cao và tăng 50% mỗi ngày trong những ca mới (tốc độ lây nhiễm R0 khoảng 3-4) trừ khi có những biện pháp can thiệp đặc biệt.
+
+## Những triệu chứng của COVID-19 là gì?
+
+Những triệu chứng của COVID-19 thường bao gồm sốt, ho, mệt mỏi. Một số bệnh nhân còn bị đau nhức, nghẹt mũi, chảy nước mũi, rát họng, hoặc tiêu chảy. Hầu hết bệnh nhân hồi phục từ virus này mà không cần chữa trị đặc biệt, nhưng một số có thể trở bệnh nặng và thấy khó thở. Người cao tuổi, và những người có sẵn những vấn đề sức khỏe như bệnh tim, cao máu, tiểu đường, dễ xuất hiện những triệu chứng nghiêm trọng hơn.
+
+## Tôi nên làm gì nếu tôi nghĩ là mình bị nhiễm COVID-19?
+
+Bắt đầu tự cách ly bản thân khỏi cộng đồng. Phần lớn những người bị nhiễm COVID-19 chỉ xuất hiện những triệu chứng nhẹ và có thể kiểm soát được tại nhà. Nếu trong nhà có người khác, hạn chế tiếp xúc bằng cách ở yên trong một phòng và thường xuyên lau chùi những khu vực chung. Mang khẩu trang khi tiếp xúc với người trong nhà, và rửa tay thường xuyên.
+
+Tiếp theo, liên lạc cơ quan y tế địa phương để được xét nghiệm COVID-19. Gọi cho cơ quan y tế địa phương để báo cho họ biết những triệu chứng của bạn cũng như lịch sử đi lại và bất cứ tiếp xúc nào bạn có thể có với coronavirus. Nếu chăm sóc y tế là cần thiết, mang khẩu trang và tìm cách di chuyển an toàn đến trung tâm y tế - tránh phương tiện công cộng hoặc dịch vụ chuyên chở.
+
+Các trung tâm y tế đang cực kỳ căng thẳng, nên hãy kiên trì nếu bạn tin rằng mình nhiễm COVID-19. Nếu các viên chức từ chối yêu cầu xét nghiệm của bạn, bạn có thể muốn ghi lại trải nghiệm của mình và chia sẻ thông tin này với báo chí địa phương và mạng xã hội.
+
+## COVID-19 lây qua đường nào?
+
+COVID-19 lây qua tiếp xúc với những người bị bệnh. Virus lây lan khi một người bị nhiễm COVID-19 ho hoặc thở ra, phát tán thể dịch vào không khí và lên các bề mặt. Người khác có thể bị nhiễm COVID-19 khi hít những thể dịch này vào, hoặc khi chạm vào bề mặt bị nhiễm rồi chạm vào mắt, mũi, hay miệng. Để giảm thiểu mức độ lây lan của COVID-19, điều hết sức quan trọng là mọi người gần nơi bị nhiễm cần dùng những biện pháp mạnh để hạn chế tiếp xúc. Chúng tôi khuyến cáo quý vị nên xem xét những hướng dẫn của chúng tôi để biết thêm chi tiết về cách tránh lây lan COVID-19.
+
+## Chẳng phải dịch bệnh vẫn lây lan dù chúng ta làm gì đi nữa sao?
+
+Nếu chúng ta hạn chế giao tiếp giữa mọi người thì tốc độ lây nhiễm sẽ giảm xuống. Bằng biện pháp cách ly những người bệnh hoặc những người có khả năng bệnh bởi những tiếp xúc mà họ đã trải qua chúng ta có thể giảm số ca bệnh mới. Khi có quá nhiều ca bệnh, việc này vẫn chưa đủ. Chúng ta có thể ngăn chặn dịch bệnh bùng nổ bằng cách "giới nghiêm" cộng đồng khi có nhiều ca bệnh. Nếu mọi người ở nhà suốt thời gian ủ bệnh, số lượng ca bệnh mới sẽ hạ thấp đáng kể. Việc này đã được thực hiện ở Trung Quốc, Nam Hàn và Ý. Trung Quốc đã thành công ngăn chặn và đẩy lùi tốc độ tăng trưởng của các ca bệnh, và sắp hoàn toàn loại bỏ hết các ca bệnh khắp Trung Quốc. Nam Hàn và Ý vẫn còn đang điều chỉnh các biện pháp can thiệp để đạt được kết quả tương tự.
 
 
-+ What are the symptoms of COVID-19?
-Symptoms of COVID-19 commonly include fever, coughing, and tiredness. Some patients also experience aching, nasal congestion, runny nose, sore throat, or diarrhea. Most people recover from this virus without needing special treatment, but some may become seriously ill and develop difficulty breathing. Older people, and those with existing medical problems like heart problems, high blood pressure, or diabetes, are more likely to develop severe symptoms.
+## Làm cách nào để tôi bảo vệ bản thân và người khác khỏi virus này?
 
-+ What should I do if I believe that I have COVID-19?
-Begin by isolating yourself from the community. The majority of those who contract COVID-19 experience mild symptoms that can be managed home. If there are others in your household, limit contact by staying in one room and sanitize shared surfaces frequently. Wear a face mask when interacting with those in your household, and clean your hands often.
+Bắt đầu bằng việc thường xuyên rửa tay thật kỹ! Tay bạn có thể dính phải coronavirus qua tiếp xúc với những thể dịch lây nhiễm. Kỳ cọ tay với xà bông trong ít nhất 20 giây, rồi rửa sạch và lau khô. Nếu xà bông và nước không có sẵn, dung dịch cồn cũng có thể tiêu diệt virus trên tay bạn. Giữa những lần rửa tay, tránh chạm vào mắt, mũi, và miệng để ngừa virus tiến vào cơ thể bạn. Nếu ai đó gần bạn đang ho hoặc hắt hơi, giữ khoảng cách ít nhất 3 feet (1 mét) để tránh hít phải thể dịch có khả năng chứa virus. Nếu bạn ho hay hắt hơi, che mũi và miệng bạn bằng cách gập khuỷu tay hoặc bằng khăn giấy. Quan trọng nhất là nếu bạn cảm thấy không khỏe, ở yên trong nhà. Nếu bạn bị sốt, ho, và khó thở, gọi ngay dịch vụ y tế (bảo hiểm) của bạn để tìm hiểu làm sao để được chăm sóc y tế.
 
-Next, arrange to be tested for COVID-19 by contacting your local health authorities. Call your local health department to notify them of your symptoms as well as your travel history and any potential points of contact that you may have had with the coronavirus. If medical attention is needed, wear a face mask and find a safe way to travel to the facility – avoid public transportation or ride share services.
+Chúng tôi khuyến cáo quý vị nên xem xét những hướng dẫn của chúng tôi để biết thêm chi tiết về cá nhân, cộng đồng, doanh nghiệp, và chính phủ.
 
-Health care facilities are under a great deal of stress, so be persistent if you believe that you have COVID-19. If officials deny your request for testing, you may want to document your experiences and share this information with local news outlets and social media.
+## COVID-19 được chữa bằng cách nào?
 
-+ How is COVID-19 transmitted?
-COVID-19 is spread through contact with other infected individuals. The virus spreads when a person with COVID-19 coughs or exhales, releasing droplets into the air and onto surrounding surfaces. People can catch COVID-19 by breathing in these droplets, or by touching an infected surface and then touching their eyes, nose, or mouth. To reduce the spread of COVID-19, it is of utmost importance that everyone near affected areas take strong measures to reduce connectivity. We strongly recommend reviewing our guidelines for detailed recommendations on how to prevent the spread of COVID-19.
+Không có thuốc chống virus cho COVID-19. Bởi vì bệnh này do virus gây ra, kháng sinh cũng không hiệu quả. Những người bị sốt, ho, và khó thở nên tìm kiếm trợ giúp y tế sớm để giảm bớt các triệu chứng và giảm nguy cơ phát triển thành nhiễm trùng nguy cấp hơn.
 
-+ Won't the outbreak happen no matter what we do?
-If we reduce contact between people the rate of infection will decrease. By isolating those who are sick or are likely to become sick because of contacts they have had we can reduce the rate of new cases. When there are many cases, this is not enough. It is possible to stop the outbreak by "locking down" communities where there are multiple cases. If everyone stays at home for the incubation period the number of new cases is dramatically smaller. This has been done in China, South Korea and Italy. China managed to stop and reverse the growth in cases, and they are near eliminating all the cases across China. South Korea and Italy are still working to refine their interventions to achieve the same outcome.
+## Tôi có thể trù bị gì cho nhà và gia đình tôi cho một cuộc bùng nổ dịch bệnh trong khu vực?
 
+Bàn bạc với gia đình và bạn bè để hoạch định kế hoạch hành động cụ thể, bao gồm những bước mà bạn có thể thực hiện nếu nơi làm việc của bạn hoặc trường của con bạn phải đóng cửa. Xác định những người có thể có nguy cơ biến chứng cao hơn. Dựa theo thống kê hiện tại, người cao tuổi và những người có bệnh mãn tính có nguy cơ xuất hiện triệu chứng nghiêm trọng cao nhất. Giám sát kỹ những người này và tìm kiếm chăm sóc y tế ngay khi triệu chứng COVID-19 đầu tiên xuất hiện. Giữ thói quen vệ sinh cá nhân, như rửa tay và tránh tiếp xúc với người bệnh, và lau chùi mỗi ngày những khu vực và đồ đạc thường được sử dụng.
 
-+ How can I protect myself and others from this virus?
-Begin by cleaning your hands thoroughly and frequently! Hands can pick up the coronavirus through contact with infectious droplets. Scrub hands with soap for at least 20 seconds, then rinse and dry. If soap and water are not available, an alcohol-based sanitizer can also kill viruses that are on your hands. Between hand washings, avoid touching your eyes, nose, and mouth to keep viruses from entering your body. If someone near you is coughing or sneezing, maintain at least 3 feet of distance to avoid inhaling droplets that may contain a virus. If you are coughing or sneezing, cover your mouth and nose with your bent elbow or a tissue. Most importantly, if you feel unwell, stay home. If you have a fever, cough, and difficulty breathing, call your healthcare provider to learn how to seek medical attention.
+## Tôi có nên mang khẩu trang không?
 
-We strongly recommend reviewing our guidelines for detailed recommendations for individuals, communities, businesses, and governments.
+Việc sử dụng khẩu trang còn đang được tranh luận, chúng tôi chú ý thấy: (1) Bất cứ cá nhân nào có triệu chứng dù nhỏ nhất nên tránh tiếp xúc với người khác và nên mang khẩu trang khi thực hiện giao tiếp cộng đồng và riêng tư cần thiết với những người khác. (2) Mang khẩu trang nên được chấp nhận nơi công cộng để tránh những người bệnh do dự hoặc cảm thấy bị kỳ thị khi mang khẩu trang. (3) Dù khẩu trang không bảo đảm an toàn cho một người khỏe mạnh và trữ lượng có thể có hạn do nhu cầu cần thiết hơn trong lĩnh vực y tế, sử dụng khẩu trang ở nơi không thể giữ khoảng cách với người có thể bị bệnh sẽ giảm bớt nguy cơ lây nhiễm một cách đáng kể. (4) Đối với những người trên 50 hoặc có sẵn những vấn đề sức khỏe, cũng như những người trong khu vực nguy cơ cao, việc sử dụng khẩu trang là hợp lý so với cái giá cao phải trả khi bị lây nhiễm.
 
-+ How is COVID-19 treated?
-There is no anti-viral treatment for COVID-19. Because this disease is caused by a virus, antibiotics are also not effective. People with fever, cough, and difficulty breathing should seek medical care early to alleviate the symptoms and reduce the risk of developing a more severe infection.
+## Thời tiết ấm lên sẽ ngăn chặn dịch bệnh chứ?
 
-+ How can I prepare my home and family for an outbreak in our area?
-Talk with family and friends to create a plan of action, including steps that you can take if your workplace or your child’s school must close. Identify those who may be at greater risk for serious complications. Based on current data, older adults and those with chronic medical conditions are at the highest risk for severe symptoms. Monitor these individuals closely and seek out medical attention at the first sign of COVID-19 symptoms. Practice good personal hygiene habits, such as washing hands and avoiding contact with people who are sick, and clean frequently touched surfaces daily.
-
-+ Should I wear a face mask?
-The use of masks is debated, we note that: (1) Any individual who has even mild symptoms should avoid contact with others and should wear a mask while in necessary public or private contact with others. (2) Wearing a mask should be accepted in public settings to prevent those who are sick from hesitating to or feeling stigmatized by wearing a mask. (3) While masks do not guarantee safety for a healthy individual and their availability may be limited because of higher priority need in medical settings, using masks where proximity to others who may be infected can’t be avoided dramatically reduces the risk of infection. (4) For those who are over 50 or have preexisting health conditions, as well as for those in areas of heightened risk, the large cost of being infected justifies the use of a mask.
-
-+ Will warm weather stop the outbreak?
-This is an idea that was suggested online and has attracted attention. There is no evidence that this is the case.
+Đây là một ý tưởng được đề xuất trên mạng và gây chú ý. Không có bằng chứng nào cho thấy đây là sự thật.
