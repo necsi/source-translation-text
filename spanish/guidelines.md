@@ -2,47 +2,101 @@
 
 El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de casos graves y el 2% de muertes. Un período de incubación típico es de 3 días, pero puede extenderse a 14 días, y existen informes de 24 y 27 días. Es altamente contagioso con un aumento del día a día del 50% en casos nuevos (tasa de infección R0 de aproximadamente 3-4) a menos que se realicen intervenciones extraordinarias. Si se convierte en una pandemia o epidemia generalizada, cambiará la vida de todos en el mundo. Es imperativo actuar para limitar y detener el brote y no aceptar su propagación. Proporcionamos estas pautas para la acción individual, comunitaria y gubernamental. 
 
-INDIVIDUAL, COMMUNITY, GOVERNMENT        BUSINESS GUIDELINES
+‍
 
- Pautas familiares
+## Descargar pautas en .pdf
+Pautas esenciales para coronavirus
+
+Pautas familiares
+
+Pautas para instituciones de alto riesgo
+
+Pautas para autoaislamienot
+
+Pautas para negocios
+
+Recomendaciones para el gobierno
+
+Individual Community and Government Guidelines
+
+Respiratory Health for Better COVID-19 Outcomes
+
+Guidelines for Supermarkets, Grocery Stores and Pharmacies
+‍
+
+## Pautas familiares
 En áreas de mayor riesgo donde el gobierno no está tomando las medidas adecuadas, proteger a una familia o grupo es un desafío. La propagación del fuego requiere un rastro de combustibles. Del mismo modo, el contagio de COVID-19 requiere una cadena de individuos susceptibles. Los soluciones son (1) Reducir el contacto entre la familia y los demás, y satisfacer las necesidades esenciales, y a medida que aumenta el riesgo (2) Crear un espacio seguro que proteja a quienes están en él por acuerdo compartido para no estar en contacto físico sin protección con otros o con superficies tocadas por otros.
 
 El espacio seguro también frena el contagio porque aquellos en el espacio seguro no participan en la transmisión de enfermedades. Los miembros de un espacio seguro pueden combinarse con otros para expandir cuidadosamente el espacio seguro o crear otros nuevos. A continuación se encuentran nuestras pautas para las familias.
-Reducción del contacto entre la familia y otros:
+
+‍
+
+## Reducción del contacto entre la familia y otros:
 Lea atentamente nuestras pautas para las personas y compártalas con los miembros de su familia. Hable con ellos sobre cómo reducir su contacto con los demás.
+
 Cambie las reuniones familiares para que sean virtuales. El brote será derrotado o se generalizará. En el primero caso, dentro de unos meses volverá a la normalidad. En este último, se necesitarán diferentes acciones.
-Asegúrese de que usted y los miembros de su familia tengan los suministros necesarios, incluidos los medicamentos recetados. Considere los miembros vulnerables de la familia, incluidos los ancianos, pero también cualquier persona mayor de 50 años y aquellos con condiciones de salud crónicas, en cuanto al riesgo de contacto con otros. Reduzca su contacto y brinde apoyo que les permita quedarse en casa y no ir a espacios públicos.
+
+Asegúrese de que usted y los miembros de su familia tengan los suministros necesarios, incluidos los medicamentos recetados. 
+
+Considere los miembros vulnerables de la familia, incluidos los ancianos, pero también cualquier persona mayor de 50 años y aquellos con condiciones de salud crónicas, en cuanto al riesgo de contacto con otros. Reduzca su contacto y brinde apoyo que les permita quedarse en casa y no ir a espacios públicos.
+
 Considere la posibilidad de trasladar temporalmente a las personas que se encuentran en viviendas colectivas (comunidades de retiro, instalaciones de vivienda asistida, etc.) a alojamientos más aislados, incluidas casas privadas o instalaciones para grupos pequeños.
+
 Donde no sea posible reducir los contactos, hable con los responsables de las instalaciones colectivas para aumentar el nivel de precauciones contra la transmisión.
+
 Evite las reuniones públicas y los lugares que tengan eventos y restaurantes, especialmente aquellos en espacios confinados.
+
 Creación de espacios seguros en condiciones de alto riesgo:
 El propósito principal de un espacio seguro es que un grupo de personas forme una unidad solitaria que reduzca al mínimo los contactos físicos con individuos externos mientras sea capaz de mantenerse y sostenerse a sí mismo.
+
 Las personas no tienen que esperar acciones de seguridad de arriba hacia abajo guiadas por el gobierno. En ausencia de una intervención agresiva y sistemática, los espacios seguros autoorganizados de abajo hacia arriba también ayudan a las personas. Al aumentar progresivamente, las zonas seguras pueden ralentizar o incluso detener los brotes locales.
+
 Los espacios seguros pueden comenzar desde la familia o el grupo de personas que comparten un solo alojamiento. Se pueden combinar varias viviendas, incluido el viaje entre ellas (por ejemplo, caminar o conducir), si se establecen y respetan protocolos seguros. Para establecer con éxito un espacio seguro, CADA participante debe aceptar los principios de minimizar el contacto físico externo y adherirse a él. También debe haber instrucciones claras sobre cómo actuar y cooperar. Los miembros del mismo espacio seguro deben ser sinceros sobre el registro de viaje y las condiciones de salud, y deben ser responsables de la salud del otro.
+
 Para que las personas se comprometan con un espacio compartido, puede ser necesario hacer arreglos con el trabajo, las escuelas, la familia y los amigos. Puede ser necesario quedarse en casa y trabajar desde ella con la aprobación de un empleador, o pedir un permiso de ausencia.
+
 La planificación de un período prolongado de tiempo (al menos una o más semanas) en un espacio seguro debe hacerse con anticipación, incluida la obtención de suministros, pero al procurar las necesidades, tenga mucho cuidado debido a la posible exposición a las multitudes. Las estrategias de supervivencia pueden ser útiles en este contexto. Saber planificar con anticipación las necesidades es fundamental, ya que cada viaje para obtenerlas implica cierto nivel de riesgo.
+
 Donde sea posible, haga arreglos para la entrega de artículos, incluida la comida, de modo que los viajes a la tienda de comestibles sean limitados. Se debe tener cuidado ya que cualquier artículo entregado debe ser manejado por alguien. A menos que haya un acuerdo con el proveedor para usar guantes, se recomienda lavar o desinfectar artículos en áreas de transmisión activa.
+
 Para las actividades esenciales, incluidas las compras, durante las cuales es inevitable algún contacto físico externo, los miembros deben planificar con anticipación para actuar de manera eficiente y minimizar la duración y el alcance del contacto. Salir y regresar al espacio seguro implica precauciones. Use protección personal adecuada, incluidos guantes o artículos desechables (toallas de papel) para agarrar o manipular artículos que no se deben tocar, desinfectante o alcohol para usar en las manos y máscaras. Regresar al espacio requiere lavado o desinfección antes (preferido) o al ingresar.
-Promueve la comunicación interna y el cuidado mutuo para mantener a los miembros del espacio en relaciones positivas y mentalmente saludables. Reconozca que la emergencia actual requiere acciones y sacrificios extraordinarios es esencial. Si bien puede mitigar, no puede reemplazar
- Pautas individuales y comunitarias
+
+Promueva la comunicación interna y el cuidado mutuo para mantener a los miembros del espacio en relaciones positivas y mentalmente saludables. Reconozca que la emergencia actual requiere acciones y sacrificios extraordinarios es esencial. Si bien puede mitigar, no puede reemplazar
+
+‍
+
+##  Pautas individuales y comunitarias
 Asuma la responsabilidad de su propia salud y comparta la responsabilidad de la salud de su vecindario con conciencia y disciplina.
+
 Practique el distanciamiento social.
+
 Evite tocar superficies en espacios públicos o compartidos.
+
 Evite reuniones.
+
 Evite el contacto directo con otras personas, lávese las manos regularmente y use máscaras cuando se encuentre en lugares cerrados con otras personas que puedan estar infectadas.
+
 Cubra la tos / estornudos.
+
 Controle la temperatura u otros síntomas tempranos de infección (tos, estornudos, secreción nasal, dolor de garganta).
+
 Practique el auto-aislamiento si tiene síntomas tempranos.
+
 Si los síntomas continúan desarrollándose, busque un medio de transporte seguro hasta las instalaciones médicas siguiendo las recomendaciones del gobierno; evite el transporte público, use máscaras.
+
 En áreas de mayor riesgo, proporcione lo necesario para los miembros de su comunidad sin contacto personal; los suministros se pueden dejar afuera de las puertas.
+
 Colabore con otros para crear zonas seguras / comunidades seguras. Discuta la seguridad con familiares y amigos, hable sobre las pautas de seguridad, sepa quién sigue las pautas de seguridad, establezca políticas compartidas, haga un seguimiento y comparta las necesidades, preocupaciones y oportunidades con los demás. 
+
 Sea crítico con los rumores y no divulgue información errónea.
-Pautas de la comunidad y del gobierno
+
+## Pautas de la comunidad y del gobierno
 Al aproximarse a comunidades o países con infecciones activas, establezca controles fronterizos para detectar los síntomas. 
 Realice cuarentenas de 14 días para las personas en riesgo que ingresen a áreas libres de infecciones.
 En áreas de riesgo elevado, coordine equipos del vecindario para el monitoreo comunitario puerta a puerta de los síntomas utilizando termómetros infrarrojos y equipos de protección personal (EPP).
 Los equipos del vecindario que van de puerta en puerta también deben identificar a las personas que necesitan servicios de apoyo.
-Pautas gubernamentales
+
+## Pautas gubernamentales
 Prepare con anticipación recursos estratégicos como máscaras, EPPs y kits de prueba, y establecer rutas de distribución.
 Identifique áreas donde se confirman o sospechan infecciones.
 Detenga el transporte no esencial entre áreas infectadas y no infectadas.
@@ -65,7 +119,7 @@ Cierre lugares de adoración, universidades, escuelas y negocios
 Restrinja a las personas a sus hogares y brinde apoyo para que sus necesidades sean entregadas sin contacto
 Realice búsquedas puerta a puerta para detectar individuos con síntomas tempranos y necesidad de servicios, con las precauciones de EPP necesarias y con la participación de la comunidad en el esfuerzo 
  
-Pautas comerciales 		 		 	 	 		
+## Pautas comerciales 		 		 	 	 		
 En este artículo, enumeramos varias acciones que las empresas pueden tomar para prevenir la propagación del Coronavirus. También incluimos consideraciones especiales para el sector de Ventas y la Hospitalidad.
 General
 Promueva la comprensión entre los empleados y sus familias acerca de la transmisión y prevención del Coronavirus
