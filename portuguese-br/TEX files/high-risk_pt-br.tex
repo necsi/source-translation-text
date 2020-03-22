@@ -1,0 +1,212 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+ \usepackage{xcolor}
+
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown}  Diretrizes para Instituições Sujeitas à Risco Elevado em Resposta ao Coronavírus
+\vspace{-0.35ex}}
+\author{Aaron Green, Chen Shen e Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+\vspace{+0.35ex}
+\small{\textit{(traduzido por Lucas Pontes})}\\
+ \today
+  \vspace{-8ex} \\
+%\bigskip
+\textbf{}
+ }
+
+\maketitle
+
+%\vspace{-1ex}
+%\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents
+%\section{ Introduction}
+
+%\section*{Overview}
+
+
+\begin{multicols}{2}
+
+% \section
+
+As comunidades de aposentados, dormitórios, asilos, instalações de reabilitação e prisões são instituições de alto risco para transmissão de doenças. O COVID-19 é uma doença de transmissão rápida que requer hospitalização em cerca de 20\% dos casos e resulta em morte em 2-4\%. As complicações aumentam rapidamente para pessoas com 50 anos ou mais, com comorbidades como insuficiência cardíaca e doença arterial coronariana, aumentando ainda mais o risco. O COVID-19 pode ser transmitido por pacientes com sintomas leves (tosse, espirros ou temperatura elevada), e talvez até antes que os sintomas apareçam. Reduzir a probabilidade de transmissão é imprescindível em ambientes institucionais de alto risco, dado o que ocorreu na prisão de Rencheng, na China, e no hospital Cheongdo Daenam, na Coréia do Sul. Aqui estão as diretrizes para prevenção de transmissão em Instituições Sujeitas a Risco Elevado, baseada na introdução de barreiras à transmissão advinda do ambiente externo.
+
+\section*{Regras Gerais}
+
+\textit{Sobre visitantes}
+
+\begin{itemize}
+\item Desestimule visitas não essenciais.
+\item Posicione alguém nas entradas para consultar o objetivo de
+visita e pergunte se os visitantes apresentam algum sintoma, viajou recentemente para áreas de transmissão ativa ou foi exposto a pessoas com sintomas.
+\item As visitas devem ser espaçadas em intervalos para evitar aglomeração.
+\item As diretrizes de melhores práticas devem ser postadas facilmente em formato legível em espaços públicos para que funcionários, residentes e visitantes vejam.
+\end{itemize}
+
+\textit{Higiene}
+
+\begin{itemize}
+\item Garanta a limpeza e higienização de todos os objetos e locais frequentemente tocados por mãos. Isso inclui maçanetas, botões de elevador, pias, tampos de mesa e máquinas freqüentemente manipuladas, equipamentos, dispositivos eletrônicos e outros itens.
+\item Verifique e garanta que os dispensadores de sabão e papel-toalha nos banheiros permaneçam sempre supridos durante todo o dia.
+\item Forneça desinfetantes para as mãos em entradas, saídas e locais de alto tráfego.
+\item Forneça lenços esterilizantes à base de álcool.
+\end{itemize}
+
+\textit{Funcionários e ambiente corporativo}
+\begin{itemize}
+\item Eduque funcionários e suas famílias, bem como residentes e suas famílias, acerca das formas de transmissão e prevenção contra o COVID-19.
+\item Garanta que os funcionários saibam que, quando apresentarem sintomas, eles não devem comparecer ao local de trabalho ou à reuniões pessoais, e que serão pagos e não penalizados nos dias de doença. Elabore um sistema de registro e relatório para esses casos.
+\item Garanta que os funcionários tenham apólices de plano de saúde adequadas, para que não tenham medo de procurar assistência quando apresentarem sintomas, mesmo os leves.
+\item Prepare-se para a substituição de funcionários, caso eles adoeçam.
+\item Fique a par das informações e recomendações atuais acerca da epidemia.
+\item Substitua reuniões pessoais de trabalho por virtuais.
+\end{itemize}
+
+\section*{Regras mais rígidas para áreas de risco elevado de transmissão}
+
+É essencial que as instituições de alto risco sigam as práticas de Espaços Seguros e permaneçam livres de doenças.
+
+\vspace{1ex}
+
+\textit{Para visitantes}
+
+\begin{itemize}
+\item Se possível, evite o contato externo e incentive o uso de texto, telefone e videoconferência para comunicação.
+\item Caso seja necessária alguma visita, considere a criação de uma área separada para reuniões de visitantes, incluindo espaço suficiente para que todos permaneçam a uma distância segura (6 pés), links de vídeo para contato virtual, ou divisórias de vidro.
+\item O uso de máscaras (se possível, N95) pode ser incentivado
+mesmo se não houver sinais de surto.
+\item Entregas de suprimentos e itens devem ser feitas por um único motorista, que não apresente sintomas da doença e que não tenha tido exposição à possíveis portadores da doença no intervalo de 14 a 21 dias anteriores.
+\item Sempre que possível, as entregas de suprimentos, feitas sem contato físico direto com os entregadores, devem ser feitas de modo a não ser necessária a entrada dos entregadores na área da Instituição, e de preferência sendo deixadas em um espaço intermediário.
+\item É altamente recomendável que as pessoas autorizadas a entrar no ambiente da Instituição Sujeita a Risco Elevado tenham sido recentemente testadas com resultados negativos.
+\end{itemize}
+
+\textit{Restaurantes e outras atividades de alto contato}
+\begin{itemize}
+\item Desinfete as áreas de contato após cada uso individual, incluindo superfícies de mesas, apoio de braço de cadeiras, cardápios, ou utilize toalhas e cardápios laváveis.
+\item A equipe de garçons e dos demais serviços deve evitar contato e proximidade.
+\item Segmente os horários das refeições entre grupos de pessoas, para evitar aglomerações e arranjos de mesas que obriguem as pessoas a ficarem fisicamente próximas uma das outras.
+\item Onde o contato é essencial para o serviço prestado, devem ser elaborados protocolos de manuseio, incluindo ventilação, luvas, equipamentos descartáveis e máscaras.
+\end{itemize}
+
+\section*{Empregados, Instalações e Ambientes Corporativos}
+\begin{itemize}
+\item Enfatize aos funcionários que suas ações fora do trabalho podem levar à transmissão de infecções, arriscando a vida dos residentes. Mesmo que a doença apresente baixo risco, qualquer contato com indivíduos ou superfícies em áreas não seguras é extremamente perigoso para aqueles que estão nas Instalações Sujeitas a Risco Elevado. Eles devem assumir a responsabilidade e limitar ao mínimo o contato não seguro fora do trabalho.
+\item Incentive a adoção de protocolos de Espaços Seguros por funcionários em suas próprias casas, limitando seu contato e o contato dos demais que moram com ele com outros indivíduos, e o contato com superfícies não são seguras, e mantenha registro de quais funcionários estão seguindo esses protocolos.
+\item Mantenha contato com instalações médicas locais para coordenar testes rápidos de residentes e funcionários para o Coronavírus.
+\item Divida as instalações para separar zonas, limitando funcionários e residentes de cruzar de uma zona para outra, de modo que, no caso de uma zona ser infectada, os funcionários e residentes de outra zona não sejam igualmente contaminados antes da devida detecção da contaminação na outra zona.
+\end{itemize}
+
+
+
+
+\end{multicols}
+
+\vspace{2ex}
+
+% \bibliography{MyCollection.bib}
+\bibliography{references.bib}
+
+\end{document}
+
