@@ -1,0 +1,183 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+ \usepackage{xcolor}
+
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown}  Recomendações para Formuladores de Políticas Públicas em Resposta ao COVID-19
+\vspace{-0.35ex}}
+\author{Chen Shen e Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+\vspace{+0.35ex}
+\small{\textit{(traduzido por Lucas Pontes})}\\
+ \today
+  \vspace{-8ex} \\
+%\bigskip
+\textbf{}
+ }
+
+\maketitle
+
+%\vspace{-1ex}
+%\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents
+%\section{ Introduction}
+
+%\section*{Overview}
+
+
+\begin{multicols}{2}
+
+% \section
+
+\section*{I. O desafio}
+
+O COVID-19 é uma doença de transmissão rápida que requer hospitalização em cerca de 20\% dos casos, atendimento em UTI em 10\% e resultando em morte em 2-4\%. As complicações aumentam rapidamente para pessoas acima de 50 anos, com comorbidades como insuficiência cardíaca e doença arterial coronariana, aumentando ainda mais o risco.
+O COVID-19 pode transmitir mesmo com sintomas leves (tosse, espirros ou temperatura elevada) e talvez antes que os sintomas apareçam.
+O surto de COVID-19 agora tem muito mais casos do que os visíveis (ponta do iceberg) e eles crescem rapidamente:
+
+\begin{itemize}
+\item Na ausência do impacto de uma intervenção suficientemente eficaz, o multiplicador diário é de 1,5 (Cálculo feito com dados da China do dia 20 a 27/jan, da Coréia do Sul do dia 19 ao 22/jan, do Irã do dias 22/jan ao 03/mar, e da Dinamarca dos dias 26/fev ao 09/mar). Portanto, se você tem 100 casos novos hoje, o número de casos novos em uma semana será 1.700, duas semanas 29.000.
+\item Se você reduzir o multiplicador para 1,1, se tiver 100 casos novos hoje, o número que você tem em uma semana será 195, duas semanas 380.
+\item Se você reduzir o multiplicador para 1, se tiver 100 casos novos hoje, o número que você tem em uma semana será 100, duas semanas 100.
+\item Se você reduzir o multiplicador para 0,9, se tiver 100 casos novos hoje, o número que você tem em uma semana será 48, duas semanas 23 e estará no caminho certo para interromper o surto.
+\end{itemize}
+
+O rápido crescimento significa que o número de casos parece sem importância até que, de repente, sobrecarrega nossa capacidade de responder. Isso inclui leitos hospitalares e até a capacidade de manter as funções sociais normais.
+
+Devido ao atraso entre a transmissão e os sintomas, todos os efeitos de prevenção são adiados em cerca de 4 dias. Mesmo que agora todos os cidadãos estejam encapsulados em bolhas estéreis, o aumento diário ainda continuará por cerca de 4 dias.
+
+As pessoas são conectadas por uma rede de transmissão invisível cujos links são os contatos físicos entre os indivíduos, a respiração do ar comum que pode conter partículas que são tossidas, espirradas ou até mesmo expiradas e expiradas, bem como os indivíduos e objetos físicos que podem transportar partículas virais depositadas sobre eles e posteriormente tocadas por outros. 
+
+Essa rede de transmissão está operando o tempo todo enquanto realizamos atividades normais. Essa rede inclui contatos no local de trabalho/profissionais e pessoais com familiares, amigos e membros da comunidade. Como a rede está conectada entre os indivíduos determina o risco de um indivíduo contrair a doença e transmiti-la a outras pessoas.
+
+A chave para reduzir o multiplicador é cortar radicalmente a rede de transmissão.
+
+\section*{II. Intervenções recomendadas}
+
+Nós convocamos as autoridades do governo para tomar imediatamente as seguintes medidas:
+
+\begin{enumerate}
+\item Limite o transporte de país para país e entre partes de um país, exigindo pelo menos 14 dias de quarentena para os que viajarem de região para região. Uma estratégia de dividir e conter é essencial.
+\item Trabalhe com instituições de saúde, empresas e instituições acadêmicas para acelerar rapidamente os testes em massa para identificar indivíduos para isolamento. Existem muitos laboratórios na academia e empresas que podem realizar testes e salvar vidas.
+\item Ponha em bloqueio comunidades com transmissão ativa. Todos, exceto aqueles que prestam serviços essenciais, devem ficar em casa nessas áreas. Realize a pesquisa porta a porta (com equipamentos de proteção individual - EPIs) para sondar casos e a necessidade de serviços, com o envolvimento da comunidade.
+\item Incentive os negócios a manter funções essenciais e reduzir o impacto nos demais serviços utilizando os espaços de trabalho em Espaços Seguros. Isso inclui maximizar o trabalho em casa para permitir o auto-isolamento e promover espaços seguros para indivíduos e famílias.
+\item Aumente a capacidade dos sistemas médicos, através da conversão de hospitais públicos e privados em hospitais temporários para atender casos com sintomas leves e moderados para ajudar a separar os indivíduos infectados do resto da população. Expanda a capacidade da UTI o mais rápido possível.
+\item Monitore, proteja e atenda às necessidades das populações vulneráveis, incluindo os sem-teto e instalações com alta densidade de pessoas, incluindo prisões, asilos, comunidades de aposentados, dormitórios e instituições psiquiátricas.
+\item Reexamine cuidadosamente os recursos médicos e preveja possíveis esgotamentos desses recursos em face do crescimento exponencial em necessidade. Comece a mitigar essas faltas agora. Armazene recursos essenciais, redirecione as empresas para produzi-los, e priorize a proteção da equipe médica.
+\item Coopere ativamente com a comunidade global em produzir novas formas de intervenção (como o teste por "drive-through" da Coréia do Sul). Esta é uma situação nova e fluida, e nesses casos, inovações são implementadas e testadas em todo o mundo o tempo todo.
+\item Relaxe as regras e regulamentos que são baseadas na experiência do "dia-a-dia", que não se aplicam às condições atuais. Seja ágil e proativo em vez de esperar por uma solução perfeita.
+\end{enumerate}
+
+São necessárias comunicações cuidadosas e transparentes que promovam o envolvimento do público, pois o envolvimento ativo do povo em sua própria segurança é essencial.
+
+\end{multicols}
+
+\vspace{2ex}
+
+% \bibliography{MyCollection.bib}
+\bibliography{references.bib}
+
+\end{document}
+
