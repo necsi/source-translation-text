@@ -17,18 +17,15 @@ Pautas para negocios
 
 Recomendaciones para el gobierno
 
-Individual Community and Government Guidelines
+Salud respiratoria
 
-Respiratory Health for Better COVID-19 Outcomes
-
-Guidelines for Supermarkets, Grocery Stores and Pharmacies
+Pautas para comercios y farmaciass
 ‍
 
 ## Pautas familiares
 En áreas de mayor riesgo donde el gobierno no está tomando las medidas adecuadas, proteger a una familia o grupo es un desafío. La propagación del fuego requiere un rastro de combustibles. Del mismo modo, el contagio de COVID-19 requiere una cadena de individuos susceptibles. Los soluciones son (1) Reducir el contacto entre la familia y los demás, y satisfacer las necesidades esenciales, y a medida que aumenta el riesgo (2) Crear un espacio seguro que proteja a quienes están en él por acuerdo compartido para no estar en contacto físico sin protección con otros o con superficies tocadas por otros.
 
 El espacio seguro también frena el contagio porque aquellos en el espacio seguro no participan en la transmisión de enfermedades. Los miembros de un espacio seguro pueden combinarse con otros para expandir cuidadosamente el espacio seguro o crear otros nuevos. A continuación se encuentran nuestras pautas para las familias.
-
 ‍
 
 ## Reducción del contacto entre la familia y otros:
@@ -62,7 +59,6 @@ Donde sea posible, haga arreglos para la entrega de artículos, incluida la comi
 Para las actividades esenciales, incluidas las compras, durante las cuales es inevitable algún contacto físico externo, los miembros deben planificar con anticipación para actuar de manera eficiente y minimizar la duración y el alcance del contacto. Salir y regresar al espacio seguro implica precauciones. Use protección personal adecuada, incluidos guantes o artículos desechables (toallas de papel) para agarrar o manipular artículos que no se deben tocar, desinfectante o alcohol para usar en las manos y máscaras. Regresar al espacio requiere lavado o desinfección antes (preferido) o al ingresar.
 
 Promueva la comunicación interna y el cuidado mutuo para mantener a los miembros del espacio en relaciones positivas y mentalmente saludables. Reconozca que la emergencia actual requiere acciones y sacrificios extraordinarios es esencial. Si bien puede mitigar, no puede reemplazar
-
 ‍
 
 ##  Pautas individuales y comunitarias
@@ -89,39 +85,54 @@ En áreas de mayor riesgo, proporcione lo necesario para los miembros de su comu
 Colabore con otros para crear zonas seguras / comunidades seguras. Discuta la seguridad con familiares y amigos, hable sobre las pautas de seguridad, sepa quién sigue las pautas de seguridad, establezca políticas compartidas, haga un seguimiento y comparta las necesidades, preocupaciones y oportunidades con los demás. 
 
 Sea crítico con los rumores y no divulgue información errónea.
+‍
 
 ## Pautas de la comunidad y del gobierno
 Al aproximarse a comunidades o países con infecciones activas, establezca controles fronterizos para detectar los síntomas. 
+
 Realice cuarentenas de 14 días para las personas en riesgo que ingresen a áreas libres de infecciones.
+
 En áreas de riesgo elevado, coordine equipos del vecindario para el monitoreo comunitario puerta a puerta de los síntomas utilizando termómetros infrarrojos y equipos de protección personal (EPP).
+
 Los equipos del vecindario que van de puerta en puerta también deben identificar a las personas que necesitan servicios de apoyo.
+‍
 
 ## Pautas gubernamentales
 Prepare con anticipación recursos estratégicos como máscaras, EPPs y kits de prueba, y establecer rutas de distribución.
+
 Identifique áreas donde se confirman o sospechan infecciones.
+
 Detenga el transporte no esencial entre áreas infectadas y no infectadas.
+
 Aisle a las personas con sospecha de infecciones y las personas con infecciones confirmadas separadamente para su atención en instalaciones designadas con recursos médicos adecuados, incluido el Equipo de Protección Personal (EPP) 
+
 Las personas con síntomas deben seguir un proceso especialmente diseñado para ser llevados a los centros de salud designados para las pruebas, evitando el transporte público o taxis
-Ponga en cuarentena y realizar pruebas a todos los casos sospechosos próximos a un caso identificado
+
+Ponga en cuarentena y realice pruebas a todos los casos sospechosos próximos a un caso identificado
+
 Promueva la conciencia pública:
 Los síntomas típicos y los posibles medios de transmisión
 Enfatice la alta tasa de contagio y síntomas generalmente leves para alentar a las personas a buscar atención médica
-Fomente una mejor higiene individual, incluyendo el lavado frecuente de manos, el uso de máscaras en áreas públicas y el evitar el contacto entre las personas
-Detenga las reuniones públicas
-Preste atención especial para prevenir o controlar la salud de las personas entrando / saliendo de instalaciones confinadas de alta densidad como prisiones, instalaciones médicas, de rehabilitación y de vida asistida, hogares de ancianos, comunidades de retiro, dormitorios y hostales
-Promueva las responsabilidades de la comunidad en áreas infectadas
+Fomente una mejor higiene individual, incluyendo el lavado frecuente de manos, el uso de máscaras en áreas públicas y el evitar el contacto entre las personas.
+Detenga las reuniones públicas.
+Preste atención especial para prevenir o controlar la salud de las personas entrando / saliendo de instalaciones confinadas de alta densidad como prisiones, instalaciones médicas, de rehabilitación y de vida asistida, hogares de ancianos, comunidades de retiro, dormitorios y hostales.
+
+Promueva las responsabilidades de la comunidad en áreas infectadas:
 En cada vecindario / comunidad, seleccione un grupo de personas cuyo trabajo diario implique contacto humano frecuente. Vigile su condición a diario para ayudar a detectar infecciones y prevenir el contagio.
 Participe en la comunicación y la distribución de los recursos a las zonas remotas
 Coordine con las comunidades internacionales y la Organización Mundial de la Salud (OMS) para compartir información sobre la identificación del caso, el historial de viajes del paciente, los tratamientos, las estrategias de prevención, y la escasez de suministros médicos
 Planee el tratamiento de pacientes con síntomas similares que no están infectados con COVID-19 
-En áreas con transmisión activa
+
+En áreas con transmisión activa:
 Cierre lugares de adoración, universidades, escuelas y negocios
 Restrinja a las personas a sus hogares y brinde apoyo para que sus necesidades sean entregadas sin contacto
 Realice búsquedas puerta a puerta para detectar individuos con síntomas tempranos y necesidad de servicios, con las precauciones de EPP necesarias y con la participación de la comunidad en el esfuerzo 
- 
+ ‍
+
 ## Pautas comerciales 		 		 	 	 		
 En este artículo, enumeramos varias acciones que las empresas pueden tomar para prevenir la propagación del Coronavirus. También incluimos consideraciones especiales para el sector de Ventas y la Hospitalidad.
-General
+
+General:
 Promueva la comprensión entre los empleados y sus familias acerca de la transmisión y prevención del Coronavirus
 Desarrolle reglas de organización a la medida para reducir la transmisión y organice la implementación meticulosa de dichas reglas
 Asegúrese de que los empleados sepan que cuando tengan síntomas, incluso leves, no deberían estar en lugares de trabajo o reuniones en persona y no serán penalizados por días de enfermedad. Configure un sistema de informes para cualquier caso.
@@ -129,14 +140,16 @@ Asegúrese de que los empleados tengan pólizas de seguro médico adecuadas para
 Involúcrese con las instalaciones médicas locales para coordinar las pruebas rápidas de los empleados para el Coronavirus.
 Prepare los elementos esenciales (desinfectante de manos, alcohol, máscaras, termómetros infrarrojos para la frente sin contacto) en caso de que las condiciones se deterioren y los empleados no tengan acceso a esos artículos.
 El fortalecer los eslabones más débiles de la organización reduce la vulnerabilidad.
-Reuniones, viajes y visitantes  	 		 		
+
+Reuniones, viajes y visitantes:
 Reemplace las reuniones en persona por virtuales
 Organice a sus trabajadores para que trabajen desde casa cuando sea posible
 Prohíba los viajes a zonas de mayor riesgo (rojo, naranja e incluso amarillo)
 Elimine los viajes no esenciales
 Cambie las formas de hacer negocios para que los viajes aparentemente esenciales sean innecesarios
 Limite los visitantes y establezca políticas para consultar y descartar visitantes en función del estado de su zona residencial y políticas comerciales de prevención de Coronavirus. Verifique los síntomas del visitante a su llegada.
-Lugares de trabajo
+
+Lugares de trabajo:
 Promueva horarios de trabajo flexibles, horarios escalonados y turnos para disminuir la densidad en el lugar de trabajo. La densidad debe reducirse a menos del 50% de la capacidad en un momento dado.
 Los empleadores deben solicitar a los empleados que regresen de lugares con casos confirmados, o que tengan contactos inciertos durante el viaje, que se pongan en cuarentena por 14 días antes de llegar a la oficina. Los empleadores deben seguir de cerca su estado de salud e informar y buscar atención médica.
 Los puntos de entrada deben estar atendidos por personas que tengan termómetros infrarrojos para la frente sin contacto
@@ -150,6 +163,7 @@ Dispérsense durante la comida, mantenga una distancia de 1 metro mientras come 
 Promueva la entrega de comidas en lugar de salir a comer. Disponga de ayuda para la entrega de alimentos y fije una ubicación para dejar y recoger alimentos sin contacto, en un área higiénica sin líneas.
 Considere cómo los empleados llegan a los lugares de trabajo y formule recomendaciones, entre ellas la de evitar el transporte público, o la higiene cuidadosa que envuelve no tocar superficies, lavarse las manos y usar máscaras en las zonas de mayor riesgo
 Las responsabilidades de asegurar las políticas de trabajo en materia de seguridad respecto al Coronavirus deben ser claras y controlables
+
 Venta y hospitalidad
 Las industrias de alto contacto pueden verse gravemente afectadas. Las intervenciones tempranas y efectivas pueden mitigar pero no eliminarán el riesgo a menos que abarquen toda la sociedad
 No se puede exagerar la importancia de asegurarse que las personas con síntomas de resfriado incluso leves en el trabajo que impliquen contacto con otros estén sanas.
@@ -158,7 +172,8 @@ Deben desarrollarse e implementarse métodos sin contacto para hacer negocios, q
 Servicio de recogida y entrega en ventana, incluido el aseguramiento de un espacio adecuado en las líneas
 Servicio desde el auto
 Entrega a domicilio sin contacto
-1. El uso de máscaras se debate, observamos que: ( 1) Cualquier persona que tenga síntomas incluso leves debe evitar el contacto con otros y debe usar una máscara mientras esté en contacto público o privado con otros. (2) El uso de una máscara debe aceptarse en entornos públicos para evitar que los enfermos duden o se sientan estigmatizados al usar una máscara. (3) Si bien las máscaras no garantizan la seguridad de un individuo sano y su disponibilidad puede ser limitada debido a la necesidad de mayor prioridad en entornos médicos, el uso de máscaras donde no se puede evitar la proximidad a otras personas que pueden estar infectadas reduce drásticamente el riesgo de infección. (4) Para las personas mayores de 50 años o con condiciones de salud preexistentes e incluso para las personas en áreas de alto riesgo, las consecuencias de infectarse justifican el uso de una máscara.
+
+1. El uso de máscaras se debate, observamos que: (1) Cualquier persona que tenga síntomas incluso leves debe evitar el contacto con otros y debe usar una máscara mientras esté en contacto público o privado con otros. (2) El uso de una máscara debe aceptarse en entornos públicos para evitar que los enfermos duden o se sientan estigmatizados al usar una máscara. (3) Si bien las máscaras no garantizan la seguridad de un individuo sano y su disponibilidad puede ser limitada debido a la necesidad de mayor prioridad en entornos médicos, el uso de máscaras donde no se puede evitar la proximidad a otras personas que pueden estar infectadas reduce drásticamente el riesgo de infección. (4) Para las personas mayores de 50 años o con condiciones de salud preexistentes e incluso para las personas en áreas de alto riesgo, las consecuencias de infectarse justifican el uso de una máscara.
 
 
 
