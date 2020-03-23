@@ -4,26 +4,31 @@ The Coronavirus outbreak originating in Wuhan has about 20% severe cases and 2% 
 ‍
 
 ## Download Guidelines as PDF
-Essential Coronavirus Guidelines
 
-Family Guidelines
+[Essential Coronavirus Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/essential_en.pdf)
 
-High-Risk Institution Guidelines
+[Family Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/family_en.pdf)
 
-Guidelines for Self Isolation
+[High-Risk Institution Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
 
-Massive Testing Can Stop the Coronavirus Outbreak
+[Guidelines for Self Isolation](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/self_isolation_en.pdf)
 
-Business Guidelines
+[Massive Testing Can Stop the Coronavirus Outbreak]()
 
-Recommendations for Policy Makers
+[Business Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/business_en.pdf)
 
-Individual Community and Government Guidelines
+[Recommendations for Policy Makers](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/policymakers_en.pdf)
 
-Respiratory Health for Better COVID-19 Outcomes
+[Individual Community and Government Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/individual_community_government_en.pdf)
 
-Guidelines for Supermarkets, Grocery Stores and Pharmacies
-‍
+[Respiratory Health for Better COVID-19 Outcomes](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/respiratory-health_en.pdf)
+
+[Guidelines for Supermarkets, Grocery Stores and Pharmacies](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/supermarket_grocery_stores_pharmacies_en.pdf)
+
+[Community action and support for COVID19](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/CommunitySupport.pdf)
+
+[Employee safety and screening: questions for employers](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
+
 
 ## Other Useful Guidelines
 Handbook of COVID-19 Prevention and Treatment
