@@ -1,4 +1,4 @@
-**note: please only english-source changes here, changes for each language on the commit message of each language, e.g. see for an example [this](https://github.com/necsi/source-translation-text/commit/52c23b2de4b8d0ec314b32ea1ebba37e611d2f0d)
+**note: please only english-source changes here, changes for each language on the commit message of each language, e.g. see for an example [this](https://github.com/necsi/source-translation-text/commit/52c23b2de4b8d0ec314b32ea1ebba37e611d2f0d)**
 
 ||||
 |--- |--- |--- |
