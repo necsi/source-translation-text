@@ -4,6 +4,7 @@ Naomi Bar-Yam, Chen Shen and Yaneer Bar-YamNew England Complex Systems Institute
 
 As shelter in place orders (lockdowns) occur in the response effort to stop COVID-19 there will be disruptions in work and service that will affect individuals differently and even seriously. It is also important to address social isolation and all that entails. Family, friends and community are essential support systems.
 
+![image](https://assets-global.website-files.com/5e63ff6068556a01cc34f6d0/5e77a8611511e1d2fb40f20d_quote.jpg)
 _Rabbi Yosef Kanefsky of B’nai David-Judea in Los Angeles_
 
 There are multiple aspects to how individuals can build their community engagement and how an organized community can develop mutual support:
