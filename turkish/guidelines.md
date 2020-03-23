@@ -1,11 +1,13 @@
-Erken Salgın Müdahale Yönergeleri
+# Erken Salgın Müdahale Yönergeleri
+
 Wuhan kaynaklı Coronavirüs salgını yaklaşık %20 ciddi vaka ve %2 ölüm oranına sahiptir. Normal kuluçka süresi 3 gündür ancak 14 güne kadar uzayabilir ve 24 ve 27 günlük raporlar da mevcuttur. Olağanüstü müdahaleler yapılmadıkça, yeni vakalarda günden güne %50 artış mevcuttur (yaklaşık 3-4 enfeksiyon oranı R0) ve dolaysıyla oldukça bulaşıcıdır. Yaygın bir salgın veya endemik hale gelirse, dünyadaki herkesin hayatını değiştirecektir. Salgını sınırlamak, durdurmak ve yayılmasını kabul etmemek zorundayız. Bu yönergeleri bireysel, topluluk ve hükümet eylemleri için sağlıyoruz. 
 
 Yönergeleri PDF olarak indirin
  
 BİREYSEL, TOPLUM, DEVLET        İŞLETME KILAVUZLARI
 
- Bireysel ve Topluluk Kuralları
+# Bireysel ve Topluluk Kuralları
+
 Kendi sağlığınızın sorumluluğunu alın ve mahallenizin sağlığıyla ilgili sorumluluklarınızı farkındalık ve disiplinle yerine getirin. 
 Diğer insanlarla fiziksel mesafenizi koruyun 
 Kamusal alanlarda yüzeylere dokunmaktan kaçının
