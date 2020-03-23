@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|37|23 March 2020, 16:00 UTC| Massive testing page: Modified sentence starting with "Typically, the most..."|
 |36|22 March 2020, 00:00 UTC|Changed guidelines page with 2 additional files (community and action support, questionnaire) and child page (community and action support)|
 |35|17 March 2020, 21:46 UTC|Homepage and Updates page: March 16 updates posted|
 |34|17 March 2020, 21:46 UTC|Guidelines page: Note added about the French ICC using our business guidelines|
