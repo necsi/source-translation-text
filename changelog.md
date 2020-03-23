@@ -1,7 +1,9 @@
+**note: please only english-source changes here, changes for each language on the commit message of each language, e.g. see for an example [this](https://github.com/necsi/source-translation-text/commit/52c23b2de4b8d0ec314b32ea1ebba37e611d2f0d)
+
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
-|36|22 March 2020, 2:14 UTC|Spanish folder updated|
+|36|22 March 2020, 00:00 UTC|Changed guidelines page with 2 additional files (community and action support, questionnaire) and child page (community and action support)|
 |35|17 March 2020, 21:46 UTC|Homepage and Updates page: March 16 updates posted|
 |34|17 March 2020, 21:46 UTC|Guidelines page: Note added about the French ICC using our business guidelines|
 |33|17 March 2020, 21:46 UTC|Guidelines page: New link to "Massive testing can..." web page|
