@@ -4,31 +4,35 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 ‍
 
 # Lade Richtlinien als PDF herunter
-Essentielle Coronavirus Ricthlinien
+[Essentielle Coronavirus Ricthlinien](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/essential_en.pdf)
 
-Richtlinien für Familien
+[Richtlinien für Familien](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/family_en.pdf)
 
-Richtlinien für Institutionen mit hohem Risiko
+[Richtlinien für Institutionen mit hohem Risiko](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
 
-Selbstisolationsrichtlinien
+[Selbstisolationsrichtlinien](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/self_isolation_en.pdf)
 
-Massives Testen kann den Ausbruch des Coronavirus stoppen
+[Massives Testen kann den Ausbruch des Coronavirus stoppen]()
 
-Richtlinien für Unternehmen
+[Richtlinien für Unternehmen](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/business_en.pdf)
 
-Empfehlungen für politische Entscheidungsträger
+[Empfehlungen für politische Entscheidungsträger](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/policymakers_en.pdf)
 
-Richtlinien für Einzelpersonen, Gemeinden und Regierungen
+[Richtlinien für Einzelpersonen, Gemeinden und Regierungen](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/individual_community_government_en.pdf)
 
-Gesundheit der Atemwege für bessere COVID-19-Ergebnisse
+[Gesundheit der Atemwege für bessere COVID-19-Ergebnisse](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/respiratory-health_en.pdf)
 
-Richtlinien für Supermärkte, Lebensmittelgeschäfte und Apotheken
+[Richtlinien für Supermärkte, Lebensmittelgeschäfte und Apotheken](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/supermarket_grocery_stores_pharmacies_en.pdf)
+
+[Wie man die Gemeinde unterstützen kann](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/CommunitySupport.pdf)
+
+[Sicherheit und Überprüfung von Mitarbeitern: Fragen für Arbeitgeber](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
 ‍
 
 # Weitere nützliche Richtlinien
-Handbuch zur COVID-19 Vorsorge und Behandlung
+[Handbuch zur COVID-19 Vorsorge und Behandlung]()
 
-Blut-Management für Patienten während der COVID-19 Pandemie
+[Blut-Management für Patienten während der COVID-19 Pandemie]()
 ‍
 
 # Richtlinien für Familien
