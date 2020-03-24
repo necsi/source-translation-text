@@ -1,4 +1,6 @@
 ** Making Masks
+
+
 Hospitals are seeing an increasing number of patients with COVID 19, with symptoms ranging from mild to serious, as well as their normal urgent care and emergency patients. Medical supplies to care for patients and to protect medical providers, their families and patients are running short throughout the country. While not ideal, reusable washable masks can be made by hand, and they area needed for protection in hospitals, nursing homes, rehab centers, group homes and other group settings. 
 
 There are a number of Facebook groups coordinating this effort and working with local health care facilities regarding requirements and drop off of masks. Two have just merged and are working together: RosieSews.org / Million Mask Mayday - Make Masks & More to Fight COVID-19
