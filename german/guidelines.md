@@ -6,7 +6,7 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 # Lade Richtlinien als PDFs herunter
 [Grundsätzliche Leitlinie zum Coronavirus](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/essential_en.pdf)
 
-[Richtlinien für Familien](https://github.com/necsi/source-translation-text/blob/master/german/pdf/Family-ger.pdf)
+[Richtlinien für Familien](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Family-ger.pdf)
 
 [Richtlinien für Institutionen mit hohem Risiko](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
 
