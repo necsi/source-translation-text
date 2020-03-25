@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|40|25 March 2020, 15:00 UTC|FAQ: Added last sentence to "Should I wear a face mask?"|
 |39|25 March 2020, 03:00 UTC|New pdf: everyday_ed.pdf, linked on guidelines page|
 |38|24 March 2020, 01:15 UTC|New page: /english-making-masks|
 |37|23 March 2020, 16:00 UTC| Massive testing page: Modified sentence starting with "Typically, the most..."|
