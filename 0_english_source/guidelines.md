@@ -5,8 +5,6 @@ The Coronavirus outbreak originating in Wuhan has about 20% severe cases and 2% 
 
 ## Download Guidelines as PDF
 
-[Essential Coronavirus Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Everyday Life and COVID-19.pdf)
-
 [Essential Coronavirus Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/essential_en.pdf)
 
 [Family Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/family_en.pdf)
