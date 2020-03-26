@@ -1,3 +1,6 @@
+# Interactive Map (web page)
+Original reference link: https://www.endcoronavirus.org/map/english
+
 # Códigos de cor para nível de alerta
 
 ## Para a resposta efetiva ao surto, as Zonas Verde, Amarelo, Laranja e Vermelha devem ser constantemente identificadas e revistas para auxiliar no monitoramento da situação, para aumentar os esforços de resposta quando necessário, e para liberar áreas de suas restrições quando possível. O nível de detalhe da divisão das áreas em Zonas Amarela, Laranja e Vermelha deve ser a máxima possível (a nível de vizinhança, área urbana, condados e distritos, e estados).
