@@ -1,3 +1,6 @@
+# Guidelines for Coronavirus in Business Settings (.pdf text)
+Original Reference link: https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ee4bda4e7ff6c8f16afad_Business%20Guidelines.pdf
+
 # Diretrizes para Empresas
 ## Chen Shen e Yaneer Bar-Yam
 ## New England Complex Systems Institute
