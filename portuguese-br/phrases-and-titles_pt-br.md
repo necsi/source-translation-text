@@ -3,7 +3,7 @@
 
 Expression | Pt-br Translation |
 ---------- | ----------------- |
-Read more  Leia mais
+Read more | Leia mais
 Click here | Clique aqui
 Home | Página Inicial
 Updates | Atualizações
