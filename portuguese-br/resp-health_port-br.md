@@ -1,3 +1,6 @@
+# Respiratory Health for Better COVID-19 Outcomes (.pdf text)
+Original reference link: https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e722f019af277c422b0f6e0_respiratory%20health%20for%20better%20COVID-19%20outcomes.pdf
+
 # Sugestões de Saúde Respiratória para Melhores Resultados Contra o COVID-19
 ## Blake Elias, Chen Shen e Yaneer Bar-Yam
 ## do New England Complex Systems Institute
