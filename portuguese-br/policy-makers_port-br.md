@@ -1,3 +1,6 @@
+# COVID-19 Recommendations for Policy Makers (.pdf text)
+Original reference link: https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ee4bc1489072a93d0adfe_Recommendations%20for%20Policy%20Makers%20Guidelines.pdf
+
 # Recomendações para Formuladores de Políticas Públicas em Resposta ao COVID-19
 ## Chen Shen e Yaneer Bar-Yam
 ## New England Complex Systems Institute
