@@ -10,7 +10,7 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 
 [Richtlinien für Institutionen mit hohem Risiko](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
 
-[Selbstisolationsrichtlinien](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/self_isolation_en.pdf)
+[Leitlinie zur Selbstisolation](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Self_Isolation.pdf)
 
 [Massives Testen kann den Ausbruch des Coronavirus stoppen]()
 
