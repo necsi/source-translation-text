@@ -1,3 +1,6 @@
+# A Family Guide with Thoughts on Safe Spaces (.pdf text)
+Original reference link: https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ee4bda2ae97577d31c65d_Family%20Guidelines.pdf
+
 # Diretrizes para famílias
 ## Chen Shen e Yaneer Bar-Yam
 ## New England Complex Systems Institute
