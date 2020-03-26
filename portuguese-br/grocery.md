@@ -1,3 +1,6 @@
+#Coronavirus Guide for Supermarkets, Grocery Stores, and Pharmacies (.pdf text)
+Original reference link: https://static1.squarespace.com/static/5b68a4e4a2772c2a206180a1/t/5e7226847096a8587bb11a1b/1584539269875/Supermarket.pdf
+
 # Diretrizes para Supermercados, Mercearias e Farmácias em Resposta ao Coronavírus
 ## Derrick Van Gennep \* \† , Chen Shen \† e Yaneer Bar-Yam \†
 ## \*Harvard University, z†New England Complex Systems Institute
