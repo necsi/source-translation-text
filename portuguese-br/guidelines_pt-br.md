@@ -1,3 +1,6 @@
+# Early Outbreak Response Guidelines (web page)
+Original reference link: https://www.endcoronavirus.org/page/guidelines
+
 # Diretrizes de resposta antecipada ao surto
 * O surto de coronavírus que se originou em Wuhan apresenta 20% de casos graves e mortalidade de 2%. O período de incubação típico é de 3 dias, mas pode se estender para 14 dias, e existem relatos de 24 e 27 dias. É altamente contagioso, com um aumento diário de 50% em novos casos (taxa de infecção R0 de cerca de 3-4), a menos que grandes intervenções sejam feitas. Caso o surto se torne uma pandemia ou endemia generalizada, mudará a vida de todos no mundo. É imperativo agir para limitar e impedir o surto e não permitir sua propagação. Fornecemos as diretrizes a seguir para ações individuais, comunitárias e governamentais.
 
