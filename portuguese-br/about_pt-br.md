@@ -1,4 +1,4 @@
-##Sobre nós:
+## Sobre nós:
 
 EndCoronavirus.org é um site construído e mantido pelo New England Complex Systems Institute (NECSI) e seus colaboradores. Nosso objetivo é minimizar o impacto do COVID-19, fornecendo dados e diretrizes úteis para a ação.
 
