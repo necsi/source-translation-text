@@ -1,3 +1,6 @@
+# Guidelines for Self-Isolation (.pdf page)
+Original reference link: https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ede25e64d7d027edae414_Isolation.pdf
+
 # Diretrizes para Auto-Isolamento Físico
 ## Chen Shen e Yaneer Bar-Yam
 ## New England Complex Systems Institute
