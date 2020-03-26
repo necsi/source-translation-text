@@ -1,3 +1,6 @@
+# Individual, Community and Government - Early Outbreak Response Guidelines Version 3 (.pdf text)
+Original reference link: https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ee4bc7ef394ee6a554c32_Individual%20community%20and%20government%20guidelines.pdf
+
 # Para Indivíduos, Comunidades e Governos
 # Diretrizes de resposta antecipada ao surto - Versão 3
 ## Chen Shen e Yaneer Bar-Yam
