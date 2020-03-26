@@ -1,3 +1,6 @@
+# Essential Coronavirus Guidelines (.pdf text)
+Original Reference link: https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ee4bda4e7ff2b9816afac_Essential%20Coronavirus%20Guidelines.pdf
+
 # Diretrizes Essenciais Básicas contra o Coronavírus
 ## Chen Shen e Yaneer Bar-Yam
 ## New England Complex Systems Institute
