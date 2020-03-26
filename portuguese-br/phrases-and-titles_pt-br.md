@@ -1,6 +1,5 @@
 # Translation of the titles and links
 
-
 Expression | Pt-br Translation |
 ---------- | ----------------- |
 Read more | Leia mais
