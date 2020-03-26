@@ -1,3 +1,6 @@
+# Outbreak Guidelines for High-Risk Institutions (.pdf text)
+Original reference link: https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ee4bd7ef394e84d554c42_outbreak_guidelines_for_high_risk_institutions.pdf
+
 # Diretrizes para Instituições Sujeitas à Risco Elevado em Resposta ao Coronavírus
 ## Aaron Green, Chen Shen e Yaneer Bar-Yam
 ## New England Complex Systems Institute
