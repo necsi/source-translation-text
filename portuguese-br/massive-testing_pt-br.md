@@ -1,3 +1,7 @@
+# Massive Testing Can Stop the Coronavirus Outbreak (web page)
+Original reference link: https://www.endcoronavirus.org/page/massive-testing-can-stop-the-coronavirus-outbreak
+
+
 # Uso Massivo de Testes Pode Parar o Surto de Coronavírus
 *Texto original: Chen Shen e Yaneer Bar-Yam, Massive Testing Can Stop The Coronavirus Outbreak, New England Complex Systems Institute (March 6, 2020)*
 
