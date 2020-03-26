@@ -12,7 +12,7 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 
 [Leitlinie zur Selbstisolation](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Self_Isolation.pdf)
 
-[Massives Testen kann den Ausbruch des Coronavirus stoppen]()
+[Massives Testen kann den Ausbruch des Coronavirus stoppen](https://www.endcoronavirus.org/page/german-massive-testing-can-stop-the-coronavirus-outbreak)
 
 [Richtlinien für Unternehmen](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/business_en.pdf)
 
