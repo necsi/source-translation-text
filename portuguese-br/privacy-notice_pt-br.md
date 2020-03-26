@@ -1,3 +1,5 @@
+# PRIVACY NOTICE (Portuguese-Brazil translation)
+
 # AVISO DE PRIVACIDADE
 **Última atualização em 11 de março de 2020**
 
