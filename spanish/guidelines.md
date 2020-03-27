@@ -5,21 +5,28 @@ El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de caso
 ‍
 
 ## Descargar pautas en .pdf
-Pautas esenciales para coronavirus
+[Pautas esenciales para coronavirus](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/essential_en.pdf)
 
-Pautas familiares
+[Pautas familiares](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/family_es.pdf)
 
-Pautas para instituciones de alto riesgo
+[Pautas para instituciones de alto riesgo - Inglés](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
 
-Pautas para autoaislamienot
+[Pautas para autoaislamiento](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/self-isolation_es.pdf)
 
-Pautas para negocios
+[Pautas para negocios](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/business_es.pdf)
 
-Recomendaciones para el gobierno
+[Recomendaciones para legisladores - Inglés](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/policymakers_en.pdf)
 
-Salud respiratoria
+[Recomendaciones individuales, comunitarias y gubernamentales](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/individual_community_government_es.pdf)
 
-Pautas para comercios y farmaciass
+[Salud respiratoria](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/respiratory-health_es.pdf)
+
+[Pautas para comercios y farmacias - Inglés](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/supermarket_grocery_stores_pharmacies_en.pdf)
+
+[Acción y soporte comunitario ante COVID19 - Inglés](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/CommunitySupport.pdf)
+
+[Seguridad y Chequeo de Empleados: Preguntas para empleadores - Inglés](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
+
 ‍
 
 ## Pautas familiares
