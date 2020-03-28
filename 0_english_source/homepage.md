@@ -4,7 +4,7 @@
 
 _I am an MIT-trained physicist and complexity scientist who studies pandemics. I have warned about global pandemics due to increasing travel for 15 years. I recommended community-based monitoring of symptoms to stop Ebola in West Africa in 2014, and it worked. The fastest and even the only way to stop COVID-19 in the United States is a five-week national lockdown._
 
-|[[images/Yaneer.jpg]]|
+|![yaneer](images/Yaneer.jpg)|
 |NECSI President, Prof. Yaneer Bar-Yam|
 | --- |
 
