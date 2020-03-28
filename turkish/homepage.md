@@ -5,7 +5,7 @@
 *Ben, pandemiler üzerine araştırma yapan, MIT'de eğitim görmüş bir fizikçi ve kompleks sistemler bilimcisiyim. 15 yıldır artan seyahat nedeniyle ortaya çıkacak küresel salgınlar hakkında uyarıda bulunuyorum. 2014 yılında Batı Afrika'da Ebola'yı durdurmak için toplum temelli semptomların izlenmesini önerdim, ve bu yöntem işe yaradı. ABD'de COVID-19'u durdurmanın en hızlı ve hatta tek yolu, beş hafta boyunca sokaga çıkma yasagı ilan edilmesidir.
 ||
 
-###### NECSI Başkanı, Prof. Yaneer Bar-Yam
+**NECSI Başkanı, Prof. Yaneer Bar-Yam
 
 ## Virüsün yayılmasını durdurmanın anahtarı, insanlar arasındaki baglantının azaltılmasıdır
 
@@ -20,7 +20,7 @@ COVID-19 ile mücadeleye katılın
 
 ## Öneriler
 
-###### Sokaga çıkma yasagı
+**Sokaga çıkma yasagı
 
 Avrupa ve Kuzey Amerika, 4-6 haftalık güçlü kilitleme salgını durdurmak için gerekli olduğunu COVID-19 araçlarının patlayıcı büyüme çoğundakatılın.Bu tür kilitlenmelerin uygulanması politik olarak zor olabilir ve her zaman önemli kısa vadeli ekonomik ve sosyal maliyetler gerektirir. Ancak etkileri dramatik ve süreleri kısadır. Çin'in kilitlenmesini başlatmasından iki ay sonra Çin, COVID-19'un yerel iletimini neredeyse tamamen ortadan kaldırdı. Wuhan şimdi Londra veya New York'tan daha güvenli ve Çin'in ekonomisi toparlanma yolunda. Çin'in sıkı kilitlenmesi olmasaydı, COVID-19'dan Çin'e verilen ekonomik zarar daha büyük boyutlarda olurdu.
 
@@ -34,7 +34,7 @@ Kilitleme ayrıca COVID-19 test kitlerinin tedarikini ve bunları işleme kapasi
 
 İtalya örneği, "yumuşak" bir kilitlenme girişiminde bulunulması konusunda bir uyarı görevi görebilir. İtalya'nın kilitleme önlemleri yeterince katı değildi --- birçok İtalyan hareket kısıtlamalarını aştı ve COVID-19'u yaymaya devam etti. Hastalık katlanarak büyümeye devam etti. İtalya, daha fazla yayılmayı önlemek için kilitleme prosedürlerini güçlendiriyor. Daha eksiksiz bir kilidi olan ve sınırlarını kapatan Danimarka, salgını azaltmada çok daha başarılı oldu.
 
-###### Masif Test, Kontakt Takip ve İzolasyon
+**Masif Test, Kontakt Takip ve İzolasyon
 
 COVID-19 için enfekte bireylerin temaslarının izlenmesi ve ardından izole edilmesi ile yapılan büyük testler, en az miktarda ekonomik zarara neden olan ve yine de birçok hayat kurtaran müdahaledir. Singapur ve Kore, bu yaklaşımın COVID-19'u yenebileceğini göstermiştir.
 
@@ -47,7 +47,7 @@ Hedeflenen Örnekleme: Hapishaneler, bakım evleri ve öğrenci yurtları gibi y
 
 Özellikle Asya'da, gerekli uzmanlığa sahip ülkeler, dünyanın geri kalanının hızlanmasına yardımcı olmalıdır. İrtibat izleme ekipleri eğitilmeli ve ülkeler testleri hızla artırmalıdır. Ülkeler akademik kurumlarda ve kuruluşlarda test kapasitesini kullanmalıdır.
 
-###### Temel Sarf Malzemelerine ve Tıbbi MüdahaleVerirken Hareketliliğin Sınırlandırılması
+**Temel Sarf Malzemelerine ve Tıbbi MüdahaleVerirken Hareketliliğin Sınırlandırılması
 
 Aktif salgınları olan bölgelerden seyahat durdurulmalı, her bireye diğer alanlara girerken 14 günlük bir karantina uygulanmalıdır. Aktif salgınların meydana geldiği yerlerde, hareketliliğin temel seyahatlerle sınırlandırılması, daha az vakalı alanların salgınlarını daha hızlı ve daha sınırlı müdahalelerle kontrol etmesini sağlar. Daha hızlı iyileşme yeteneği, ekonomik iyileşme ve daha ciddi şekilde etkilenen alanlara yardım etme yeteneği için önemlidir.
 
