@@ -5,21 +5,35 @@ Dịch bệnh coronavirus bắt nguồn từ Vũ Hán có khoảng 20% ca bệnh
 
 ## Tải Xuống PDF của Các Hướng Dẫn
 
-Hướng Dẫn Cần Thiết Về Coronavirus
-Hướng Dẫn Cho Gia Đình
-Hướng Dẫn Cho Cơ Quan Nguy Cơ Cao
-Hướng Dẫn Tự Cách Ly
-Xét Nghiệm Đại Trà Có Thể Ngăn Chặn Bùng Nổ Dịch Coronavirus
-Hướng Dẫn Cho Doanh Nghiệp
-Đề Nghị cho Những Người Lập Pháp
-Hướng Dẫn Cho Cộng Đồng và Chính Phủ
-Giữ Sức Khỏe Đường Hô Hấp Để Kháng Lại COVID-19 Tốt Hơn
-Hướng Dẫn Cho Siêu Thị, Cửa Hàng Tạp Hóa và Nhà Thuốc
+[Hướng Dẫn Cần Thiết Về Coronavirus](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/essential_en.pdf)
+
+[Hướng Dẫn Cho Gia Đình](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/family_en.pdf)
+
+[Hướng Dẫn Cho Cơ Quan Nguy Cơ Cao](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
+
+[Hướng Dẫn Tự Cách Ly](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/self_isolation_en.pdf)
+
+[Xét Nghiệm Đại Trà Có Thể Ngăn Chặn Bùng Nổ Dịch Coronavirus]()
+
+[Hướng Dẫn Cho Doanh Nghiệp](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/business_en.pdf)
+
+[Đề Nghị cho Những Người Lập Pháp](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/policymakers_en.pdf)
+
+[Hướng Dẫn Cho Cộng Đồng và Chính Phủ](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/individual_community_government_en.pdf)
+
+[Giữ Sức Khỏe Đường Hô Hấp Để Kháng Lại COVID-19 Tốt Hơn](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/respiratory-health_en.pdf)
+
+[Hướng Dẫn Cho Siêu Thị, Cửa Hàng Tạp Hóa và Nhà Thuốc](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/supermarket_grocery_stores_pharmacies_en.pdf)
+
+[Hoạt động và giúp đỡ cộng đồng cho COVID19](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/CommunitySupport.pdf)
 ‍
+[An toàn và kiểm tra cho nhân viên: những câu hỏi cho các chủ thuê](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
+
 
 ## Những Hướng Dẫn Có Ích Khác
 
 Sổ Tay Phòng Ngừa và Chữa Trị COVID-19
+
 Quản Lý Máu Bệnh Nhân Trong Đại Dịch COVID-19 2020
 ‍
 
@@ -229,4 +243,4 @@ Những biện pháp làm việc mà không tiếp xúc nên được thiết l�
 
 - Dịch vụ giao tận nhà không tiếp xúc
 
-1. Việc sử dụng khẩu trang còn đang được tranh luận, chúng tôi chú ý thấy: (1) Bất cứ cá nhân nào có triệu chứng dù nhỏ nhất nên tránh tiếp xúc với người khác và nên mang khẩu trang khi thực hiện giao tiếp cộng đồng và riêng tư cần thiết với những người khác. (2) Mang khẩu trang nên được chấp nhận nơi công cộng để tránh những người bệnh do dự hoặc cảm thấy bị kỳ thị khi mang khẩu trang. (3) Dù khẩu trang không bảo đảm an toàn cho một người khỏe mạnh và trữ lượng có thể có hạn do nhu cầu cần thiết hơn trong lĩnh vực y tế, sử dụng khẩu trang ở nơi không thể giữ khoảng cách với người có thể bị bệnh sẽ giảm bớt nguy cơ lây nhiễm một cách đáng kể. (4) Đối với những người trên 50 hoặc có sẵn những vấn đề sức khỏe, cũng như những người trong khu vực nguy cơ cao, việc sử dụng khẩu trang là hợp lý so với cái giá cao phải trả khi bị lây nhiễm.
+1. Việc sử dụng khẩu trang còn đang được tranh luận, chúng tôi chú ý thấy: (1) Bất cứ cá nhân nào có triệu chứng dù nhỏ nhất nên tránh tiếp xúc với người khác và nên mang khẩu trang khi thực hiện giao tiếp cộng đồng và riêng tư cần thiết với những người khác. (2) Mang khẩu trang nên được chấp nhận nơi công cộng để tránh những người bệnh do dự hoặc cảm thấy bị kỳ thị khi mang khẩu trang. (3) Dù khẩu trang không bảo đảm an toàn cho một người khỏe mạnh và trữ lượng có thể có hạn do nhu cầu cần thiết hơn trong lĩnh vực y tế, sử dụng khẩu trang ở nơi không thể giữ khoảng cách với người có thể bị bệnh sẽ giảm bớt nguy cơ lây nhiễm một cách đáng kể. (4) Đối với những người trên 50 hoặc có sẵn những vấn đề sức khỏe, cũng như những người trong khu vực nguy cơ cao, việc sử dụng khẩu trang là hợp lý so với cái giá cao phải trả khi bị lây nhiễm. Dù không lý tưởng, [khẩu trang có thể giặt được và tái sử dụng](https://www.endcoronavirus.org/page/english-making-masks) có thể được làm bằng tay, và chúng rất được cần để phòng hộ trong bệnh viện, viện dưỡng lão, khu cai nghiện, viện điều dưỡng và những môi trường tập thể khác.
