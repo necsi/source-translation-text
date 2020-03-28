@@ -1,4 +1,4 @@
-# Spread knowledge, not the virus
+# Aiuta a diffondere informazioni, non virus
 
 ### L'obiettivo del nostro lavoro è fornire informazioni rilevanti che risultino in azioni pragmatiche per i singoli individui, le aziende, in governi e le ONG.
 
