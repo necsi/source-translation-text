@@ -54,6 +54,11 @@ Countries, especially in Asia, that have the requisite expertise should help the
 
 Travel from areas with active outbreaks should be stopped, every individual should undergo a 14 day quarantine when entering into other areas. Where active outbreaks are occurring, limiting mobility to essential travel enables areas with fewer cases gain control of their outbreaks faster and with more limited interventions. The ability to recover quicker is important for economic recovery and for the ability to help areas that are more severely affected.
 
+|![chinadynamics](images/ChinaDynamics.png)|
+| --- |
+
 ## [Family guidelines](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
 ## [Community guidelines](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 ## [Government guidelines](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+
+
