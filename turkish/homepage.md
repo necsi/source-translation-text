@@ -52,5 +52,9 @@ Hedeflenen Örnekleme: Hapishaneler, bakım evleri ve öğrenci yurtları gibi y
 Aktif salgınları olan bölgelerden seyahat durdurulmalı, her bireye diğer alanlara girerken 14 günlük bir karantina uygulanmalıdır. Aktif salgınların meydana geldiği yerlerde, hareketliliğin temel seyahatlerle sınırlandırılması, daha az vakalı alanların salgınlarını daha hızlı ve daha sınırlı müdahalelerle kontrol etmesini sağlar. Daha hızlı iyileşme yeteneği, ekonomik iyileşme ve daha ciddi şekilde etkilenen alanlara yardım etme yeteneği için önemlidir.
 
 Aile yönergeleri
+
 Topluluk yönergeleri
+
 Devlet yönergeleri
+
+
