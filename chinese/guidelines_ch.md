@@ -16,10 +16,12 @@
 
 [**个人、社区和政府指南**](https://github.com/necsi/source-translation-text/blob/master/chinese/pdf/Individual_ch.pdf)
 
+
 ## **其他有用的指南**
 [**新冠肺炎防治手册**](https://uploads-ssl.webflow.com/5e62f57a6f9734c5e7879c84/5e738c77598f369003188eb4_Handbook%20of%20COVID-19%20Preventionand%20Treatment%20(1).pdf)
 
 [**Patient Blood Management During the 2020 COVID-19 Pandemic**](https://sabm.memberclicks.net/assets/COVID-19/SABM-PBM-COVID19-statement-20200317.pdf)
+
 
 
 ## **家庭指南**
