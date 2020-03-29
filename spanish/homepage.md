@@ -2,7 +2,9 @@
 
 ### Brindamos información rigurosa sobre cómo erradicar COVID-19 para que puedas actuar con seguridad.
 
-_endCoronavirusOrg es liderada por Yaneer Bar-Yam, presidente de NECSI [New England Complex Systems Institute](https://necsi.edu). Yaneer es un **físico del MIT y un científico de los sistemas complejos que estudia las pandemias.** Desde hace 15 años ha hecho advertencias sobre el riesgo de pandemias globales debido al incremento en vuelos. En 2014 recomendé el monitoreo comunitario de síntomas para detener el **Ébola** en África Occidental, y fue exitoso._
+### Nuestras Recomendaciones para [individuos, familias](#guia-para-medidas-individuales-y-familiares), [empresas](pdf/business_es.pdf), [comunidades, gobiernos](pdf/individual_community_government_es.pdf) y [legisladores](pdf/policymakers_es.pdf).  
+
+_endCoronavirusOrg es liderada por Yaneer Bar-Yam, presidente de NECSI [New England Complex Systems Institute](https://necsi.edu). Yaneer es un **físico del MIT y un científico de los sistemas complejos que estudia las pandemias.** Desde hace 15 años ha hecho advertencias sobre el riesgo de pandemias globales debido al incremento en vuelos. En 2014 recomendó el monitoreo comunitario de síntomas para detener el **Ébola** en África Occidental, y fue exitoso._
 
 Únete a los más de 5,000 voluntarios en nuestra comunidad para combatir COVID-19: [Únete](https://v2.endcoronavirus.org/sign-up/english)
 
@@ -29,9 +31,11 @@ El cierre de emergencia nos da la oportunidad de incrementar el abastecimiento d
 
 El caso de Italia servirá como advertencia de intentar un cierre "a medias". Las medidas en Italia no fueron lo suficientemente estrictas---muchas personas evadieron las restricciones y continuaron propagando COVID-19. La enfermedad continuó creciendo de manera exponencial. Italia debió reforzar sus medidas de cierre para frenar la propagación. Dinamarca, que ha seguido un cierre de emergencia más completo y ha cerrado sus fronteras ha sido más exitoso en restringir el brote.
 
-    * Ver el memo de Chen Shen y Yaneer Bar-Yam: [Why A 5-Week Lockdown Can Stop COVID-19](pdf/5weeks.pdf)
+    * Ver el memo de Chen Shen y Yaneer Bar-Yam:
+   [Why A 5-Week Lockdown Can Stop COVID-19](pdf/5weeks.pdf)
 
-    * Yaneer’s op-ed en USA Today: [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
+    * Yaneer’s op-ed en USA Today:
+   [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
 ### 2. Diagnóstico masivo, rastreo de contactos, y aislamiento
 
