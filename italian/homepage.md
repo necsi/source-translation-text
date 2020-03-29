@@ -2,7 +2,7 @@
 
 ### L'obiettivo del nostro lavoro è fornire informazioni rilevanti che risultino in azioni pragmatiche per i singoli individui, le aziende, in governi e le ONG.
 
-_Sono un fisico con esperienza al MIT e uno studioso della complessità che si occupa di pandemie. Ho avvisato del rischio di pandemie globali legate alla maggiore connettività globale per 15 anni. Ho raccomandato il controllo di sintomi nelle comunità per fermare l'**Ebola** in Africa Occidentale nel 2014, ed ha funzionato._
+_Sono un fisico con esperienza al MIT e uno studioso della complessità che si occupa di pandemie. Ho avvisato del rischio di pandemie globali legate all’aumento degli spostamenti di persone per 15 anni. Ho raccomandato il controllo di sintomi nelle comunità per fermare l'**Ebola** in Africa Occidentale nel 2014, ed ha funzionato._
 
 Unisciti al nostro team di più di 5000 volontari nella lotta contro COVID-19: (LINK TO SIGNUP PAGE)
 
