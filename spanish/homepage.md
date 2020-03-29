@@ -6,7 +6,7 @@ _Soy un físico del MIT y un científico de los sistemas complejos que estudia l
 
 
 |![yaneer](images/Yaneer.jpg)|
-|Presidente NECSI, Prof. Yaneer Bar-Yam|
+|Prof. Yaneer Bar-Yam, Presidente NECSI|
 | --- |
 
 ### La clave para detener la propagación del virus es reducir la conectividad
@@ -23,8 +23,8 @@ Manténgase informado con las últimas noticias sobre la prevención y la derrot
 
 ## Recomendaciones
 
-
-### [](#lockdown)Cierre de Emergencia (lockdown)
+<a name="#lockdown"></a>
+### Cierre de Emergencia (lockdown)
 
 El crecimiento explosivo de COVID-19 en casi todo Europa y Norteamérica indica que se necesita un cierre de emergencia de 4-6 semanas para detener el brote. Esta medida puede ser políticamente difícil de implementar y conlleva grandes costos económicos y sociales en el corto plazo. Pero sus efectos son impresionantes y su duración es corta. Dos meses después de que China impuso su cierre de emergencia, practicamente ha eliminado la transmisión local de COVID-19. Wuhan es hoy más seguro que Londres o Nueva York, y la economía China va en camino a recuperarse. Sin el cierre de emergencia estricto de China, el daño económico debido al COVID-19 habría sido de varias ordenes de magnitud más grande.
 
@@ -36,9 +36,10 @@ Durante las 3-4 semanas siguientes, cualquier familia infectada o aquellos cohab
 
 El cierre de emergencia nos da la oportunidad de incrementar el abastecimiento de kits de prueba de COVID-19 y la capacidad para procesarlos. COVID-19 puede controlarse en 5 semanas sin necesidad de medidas extremas de distanciamiento social, siempre y cuando se reduzca el número de infecciones drásticamente con un cierre de emergencia y [se inicie un régimen de diagnóstico masivo](#testing). Aislar a personas infectadas y a sus contactos cercanos será suficiente. Esto es lo que se ha hecho en Singapur para controlar el brote de unos cuantos casos.
 
-_El caso de Italia servirá como advertencia de intentar un cierre "a medias". Las medidas en Italia no fueron lo suficientemente estrictas---muchas personas evadieron las restricciones y continuaron propagando COVID-19. La enfermedad continuó creciendo de manera exponencial. Italia debió reforzar sus medidas de cierre para frenar la propagación. Dinamarca, que ha seguido un cierre de emergencia más completo y ha cerrado sus fronteras ha sido más exitoso en restringir el brote._
+El caso de Italia servirá como advertencia de intentar un cierre "a medias". Las medidas en Italia no fueron lo suficientemente estrictas---muchas personas evadieron las restricciones y continuaron propagando COVID-19. La enfermedad continuó creciendo de manera exponencial. Italia debió reforzar sus medidas de cierre para frenar la propagación. Dinamarca, que ha seguido un cierre de emergencia más completo y ha cerrado sus fronteras ha sido más exitoso en restringir el brote.
 
-### [](#testing)Diagnóstico masivo, rastreo de contactos, y aislamiento
+<a name="#testing"></a>
+### Diagnóstico masivo, rastreo de contactos, y aislamiento
 
 El diagnóstico masivo de COVID-19 junto con el ratreo y con el aislamiento de los contactos de las personas infectadas es la intervención con los costos económicos más bajos y salva más vidas. Singapur y Corea del Sur han mostrado que esta estrategia puede derrotar COVID-19.
 
@@ -52,7 +53,8 @@ Los gobiernos deben hacer uso de las siguiente estrategias para detener COVID-19
 
 Países con la experiencia requerida, especialmente asiáticos, deberían ayudar al resto del mundo a ponerse al día. Los equipos de rastreo de contactos deben estar debidamente entrenados y cada país debe redoblar rapidamente su sistema de pruebas diagnósticas. Cada país debería usar la capacidad de pruebas de instituciones académicas y en empresas. 
 
-### [](#movilidad) Restringir la movilidad y permitir el abastecimiento esencial y la respuesta médica
+<a name="#movilidad"></a>
+### Restringir la movilidad y permitir el abastecimiento esencial y la respuesta médica
 
 Todo viaje desde áreas con brotes activos debe detenerse, y cada persona debe someterse a una cuarentena de 14 días al entrar a otras áreas. Limitar la movilidad solo a viajes esenciales donde sea que hayan brotes activos, ayuda a que áreas con menos casos recuperen el control de sus brotes más rápidamente y con muchas menos intervenciones. La habilidad de recuperarse rápidamente es importante para la recuperación económica y para prestar ayuda en áreas que esten siendo afectadas mas severamente.
 
@@ -62,5 +64,3 @@ Todo viaje desde áreas con brotes activos debe detenerse, y cada persona debe s
 ## [Guía para la familia](pdf/family_es.pdf)
 ## [Guía para comunidades](individual_community_government_es.pdf)
 ## [Guía para gobiernos](individual_community_government_es.pdf)
-
-
