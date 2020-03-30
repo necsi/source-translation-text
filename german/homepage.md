@@ -48,7 +48,7 @@ Länder, insbesondere in Asien, die hierbei über das erforderliche Fachwissen v
 
 ### 3. Mobilitätseinschränkungen bei gleichzeitiger Berücksichtigung der Grundversorgung und medizinischer Hilfe
 
-**Das Einreisen aus Gebieten mit aktiven Ausbrüchen sollte gestoppt werden.**. Jede Person, die dennoch aus solchen Gebieten einreist, sollte eine 14-tägige Quarantäne durchlaufen. Wenn aktive Ausbrüche auftreten, können Gebiete mit weniger Fällen schneller und mit weniger Eingriffen die Kontrolle über ihre Ausbrüche erlangen, indem Mobilität auf das Essentiellste reduziert wird. Die Fähigkeit, sich schneller zu erholen, dient der eigenen Wirtschaft und ermöglicht es, stärker betroffenen Gebieten zu helfen.
+**Das Einreisen aus Gebieten mit aktiven Ausbrüchen sollte gestoppt werden**. Jede Person, die dennoch aus solchen Gebieten einreist, sollte eine 14-tägige Quarantäne durchlaufen. Wenn aktive Ausbrüche auftreten, können Gebiete mit weniger Fällen schneller und mit weniger Eingriffen die Kontrolle über ihre Ausbrüche erlangen, indem Mobilität auf das Essentiellste reduziert wird. Die Fähigkeit, sich schneller zu erholen, dient der eigenen Wirtschaft und ermöglicht es, stärker betroffenen Gebieten zu helfen.
 
 | --- |
 
