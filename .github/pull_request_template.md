@@ -1,0 +1,1 @@
+Translates #{insert-issue-number}
