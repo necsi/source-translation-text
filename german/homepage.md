@@ -1,12 +1,12 @@
 # Verbreite Wissen statt Viren
 
-### Unsere Experten stellen Informationen zum Stoppen von COVID-19 zur Verfügung, damit du selbstbewusst handeln kannst.
+### Unsere Experten stellen Informationen zum Stoppen von COVID-19 zur Verfügung, damit du selbstbewusst und sicher handeln kannst.
 
-### Siehe unsere Empfehlungen für [Individuen/Familien](https://www.endcoronavirus.org/home-deutsch#family-ger), [Arbeitgeber](https://www.endcoronavirus.org/richtlinien#business-ger) und [Regierungen](https://www.endcoronavirus.org/home-deutsch#for-governments-ger).  
+### Schau dir unsere Empfehlungen für [Individuen/Familien](https://www.endcoronavirus.org/home-deutsch#family-ger), [Arbeitgeber](https://www.endcoronavirus.org/richtlinien#business-ger) und [Regierungen](https://www.endcoronavirus.org/home-deutsch#for-governments-ger) an.  
 
 _EndCoronavirus ist eine Initiative unter der Leitung von Yaneer Bar-Yam, Präsident des [New England Complex Systems Institute](https://necsi.edu). Yaneer ist ein **Physiker und Komplexitätswissenschaftler vom MIT, der Pandemien studiert**. Die letzten 15 Jahre hat er vor globalen Pandemien aufgrund von ansteigendem Reiseverkehr gewarnt. Im Jahr 2014 empfahl er, um **Ebola**  in Westafrika zu stoppen, Symptome auf Gemeinde-Ebene zu überwachen, was funktionierte._
 
-Hilf unserer Gruppe von über 5,000 Freiwilligen, COVID-19 zu bekämpfen: [Mach mit](https://v2.endcoronavirus.org/sign-up/english)
+Hilf unserem Team von über 5,000 Freiwilligen dabei, COVID-19 zu bekämpfen: [Mach mit](https://v2.endcoronavirus.org/sign-up/english)
 
 |![yaneer](images/Yaneer.jpg)|
 | --- |
