@@ -5,30 +5,57 @@ The Coronavirus outbreak originating in Wuhan has about 20% severe cases and 2% 
 
 ## Download Guidelines as PDF
 
-[Essential Coronavirus Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/essential_en.pdf)
+Everyday Life and COVID-19
 
-[Family Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/family_en.pdf)
+- What to do about: Apartment buildings, grocery shopping, necessary errands, packages and mail
 
-[High-Risk Institution Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
+Essential Coronavirus Guidelines
 
-[Guidelines for Self Isolation](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/self_isolation_en.pdf)
+- Key guidelines for everyone, from individuals to organizations
 
-[Massive Testing Can Stop the Coronavirus Outbreak]()
+Family Guidelines
 
-[Business Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/business_en.pdf)
+- Our general guidelines for families and households
 
-[Recommendations for Policy Makers](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/policymakers_en.pdf)
+High-Risk Institution Guidelines
 
-[Individual Community and Government Guidelines](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/individual_community_government_en.pdf)
+- High-Risk instititutions include retirement communities, dormitories, nursing homes, rehabilitation facilities, and prisons
 
-[Respiratory Health for Better COVID-19 Outcomes](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/respiratory-health_en.pdf)
+Guidelines for Self Isolation
 
-[Guidelines for Supermarkets, Grocery Stores and Pharmacies](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/supermarket_grocery_stores_pharmacies_en.pdf)
+- What to do when you are: Living alone, Sharing lodging with someone else
 
-[Community action and support for COVID19](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/CommunitySupport.pdf)
+Massive Testing Can Stop the Coronavirus Outbreak
 
-[Employee safety and screening: questions for employers](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
+- Key testing strategies to identify and isolate the spread of the virus
 
+Business Guidelines
+
+- A summary of actions that businesses can take to reduce risks to everyone associated with a business and the business itself
+
+Recommendations for Policy Makers
+
+- A list of 9 recommended actions for policy makers to stop the spread
+
+Individual, Community and Government Guidelines
+
+- Overview of actions and interventions at various scales
+
+Respiratory Health for Better COVID-19 Outcomes
+
+- What you can do to reduce your risk of a severe case of COVID-19
+
+Guidelines for Supermarkets, Grocery Stores and Pharmacies
+
+- How these essential businesses can stay open and ensure safety
+
+Community action and support for COVID19
+
+- How to build community engagement and mutual community support
+
+Employee safety and screening: questions for employers
+
+- Guidelines for employers to safeguard workplaces and employees
 
 ## Other Useful Guidelines
 Handbook of COVID-19 Prevention and Treatment
