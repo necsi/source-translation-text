@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+## Reminder
+
+Remember to connect to all Projects 
+
+## Checklist
+
 - [ ] Albanian
 - [ ] Arabic
 - [ ] Chinese
