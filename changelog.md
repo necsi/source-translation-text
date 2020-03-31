@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|44|31 March 2020, 16:00 UTC|Home page: lockdown section simplified to reduce the amount of text|
 |43|29 March 2020, 08:00 UTC|updates to the new homepage|
 |42|28 March 2020, 06:40 UTC|new homepage, new pdf 5weeks|
 |41|26 March 2020, 03:00 UTC|Guidelines: added the very last sentence on page|
