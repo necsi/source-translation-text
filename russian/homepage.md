@@ -1,4 +1,4 @@
-# Spread knowledge, not the virus
+# Распространяйте знания, а не вирус
 
 ### We provide expert information on how to stop COVID-19 so you can act confidently.
 
