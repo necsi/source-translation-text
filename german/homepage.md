@@ -1,118 +1,75 @@
-## Verbreite Wissen statt Viren
+# Verbreite Wissen statt Viren
 
-## Globales COVID-19 Update
+### Unsere Experten stellen Informationen zum Stoppen von COVID-19 zur Verfügung, damit du selbstbewusst und sicher handeln kannst.
 
-Globales COVID-19 Update
-21. März, 2020
-304,622 bestätigte Fälle und 13,000 Todesfälle. Diese Zahlen nehmen immer noch zu.
+### Schau dir unsere Empfehlungen für [Individuen/Familien](https://www.endcoronavirus.org/home-deutsch#family-ger), [Arbeitgeber](https://www.endcoronavirus.org/richtlinien#business-ger) und [Regierungen](https://www.endcoronavirus.org/home-deutsch#for-governments-ger) an.  
 
-Deutschland +2,516 Fälle
-Italien +6,557 Fälle
-China +41 Fälle
-Spanien +3,925 Fälle
-Iran +966 Fälle
-USA +4,557 Fälle
+_EndCoronavirus ist eine Initiative unter der Leitung von Yaneer Bar-Yam, Präsident des [New England Complex Systems Institute](https://necsi.edu). Yaneer ist ein **Physiker und Komplexitätswissenschaftler vom MIT, der Pandemien studiert**. Die letzten 15 Jahre hat er vor globalen Pandemien aufgrund von ansteigendem Reiseverkehr gewarnt. Im Jahr 2014 empfahl er, um **Ebola**  in Westafrika zu stoppen, Symptome auf Gemeinde-Ebene zu überwachen, was funktionierte._
 
-‍
+Hilf unserem Team von über 5,000 Freiwilligen dabei, COVID-19 zu bekämpfen: [Mach mit](https://v2.endcoronavirus.org/sign-up/english)
 
-Updates
+|![yaneer](images/Yaneer.jpg)|
+| --- |
 
+## Der schnellste und einzige Weg, COVID-19 in den USA zu stoppen, ist eine fünfwöchige Abriegelung auf nationaler Ebene.
 
-## Jeder kann helfen! Mach mit:
+### Unsere drei wichtigsten Empfehlungen für Regierungen 
 
-Anmelden
+### 1. Nationale Abriegelung
 
-Um eurer Gemeinschaft und Familie zu helfen, schafft Safe-Zones.
+In weiten Teilen Europas und Nordamerikas bedeutet das explosive Wachstum von COVID-19, dass **strikte vier- bis sechswöchige Abriegelungen erforderlich sind, um den Ausbruch zu stoppen**. Solche Abriegelungen können politisch schwierig umzusetzen sein und ziehen zunächst immer erhebliche wirtschaftliche und soziale Kosten nach sich. Aber **ihre Auswirkungen sind dramatisch und ihre Dauer ist kurz**. Zwei Monate nach der Sperrung in China wurde dort die lokale Übertragung von COVID-19 praktisch eingestellt. Wuhan ist jetzt sicherer als London oder New York und Chinas Wirtschaft befindet sich auf dem Weg der Erholung. Ohne Chinas strikte Abriegelung wäre der wirtschaftliche Schaden Chinas durch COVID-19 um Größenordnugen schlimmer gewesen.
 
-Was du für deine Familie und Gemeinschaft tun kannst:
-Händewaschen!
+Während einer strikten Abriegelung, **können Regionen, die weniger vom Virus betroffen sind, anderen helfen, indem sie Resourcen bereitstellen**. Abriegelungen schaffen auch Zeit, um die Anzahl von COVID-19-Testkits und deren Durchführungskapazität drastisch zu erhöhen. Wenn die Anzahl der Infektionen durch eine Abriegelung stark reduziert und ein massives Testregime eingeleitet wurde, kann COVID-19 im Anschluss an die fünf Wochen auch ohne weitere extreme soziale Distanzierungsmaßnahmen in Schach gehalten werden. **Strikte Abriegelungen minimieren den Schaden für Einzelpersonen und für die Wirtschaft.**    
 
-Reinige Oberflächen und benutze Alkohol-Gele
+    * Memo von Chen Shen und Yaneer Bar-Yam: [Warum eine fünfwöchige Abriegelung COVID-19 stoppen kann](https://github.com/necsi/source-translation-text/raw/master/german/pdf/5weeks-ger.pdf)
 
+    * Yaneers Artikel in USA Today: [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
-Momentan nicht verreisen
+### 2. Umfangreiches Testen, Kontaktverfolgung und Isolation
 
-Ein kleiner Preis um Leben zu retten!
+Umfangreiches Testen auf COVID-19, in Kombination mit der Verfolgung und anschließenden Isolation von Kontakten infizierter Personen sind die  Maßnahmen, die den **geringsten wirtschaftlichen Schaden** verursachen und dennoch viele Leben retten. Singapur und Korea haben gezeigt, dass dieser Ansatz COVID-19 besiegen kann.
 
+Regierungen müssen folgende Strategien anwenden, um COVID-19 zu stoppen:
 
-Bleibe so viel wie möglich zuhause
+1. **Kontaktverfolgung**: Isolieren, überwachen und testen Sie alle Personen, die mit einer bekannten infizierten Person in Kontakt gekommen  sind.
 
-Auch, wenn du gesund bist — besonders, wenn du dich krank fühlst
+2. **Allgemeine symptomatische Tests**: Testen Sie alle Personen im geografischen Gebiet einer infizierten Person auf COVID-19-Symptome wie Fieber.
 
+3. **Gezielte Stichproben**: Testen Sie Personen in Risikopopulationen wie Gefängnissen, Pflegeheimen und Studentenwohnheimen nach dem Zufallsprinzip.
 
-Vermeide Menschenmassen, öffentliche Verkehrsmittel, Partys und Bars
+Länder, insbesondere in Asien, die hierbei über das erforderliche Fachwissen verfügen, sollten dem Rest der Welt helfen, zügig Fortschritte zu machen. Kontaktverfolgungsteams müssen geschult werden und Länder müssen schnell die Anzahl ihrer Testkits erhöhen und deren Durchführung beschleunigen. Länder sollten Testkapazitäten in akademischen Institutionen und Unternehmen nutzen.
 
-Später sind sie auch noch da
+### 3. Mobilitätseinschränkungen bei gleichzeitiger Berücksichtigung der Grundversorgung und medizinischer Hilfe
 
+**Das Einreisen aus Gebieten mit aktiven Ausbrüchen sollte gestoppt werden**. Jede Person, die dennoch aus solchen Gebieten einreist, sollte eine 14-tägige Quarantäne durchlaufen. Wenn aktive Ausbrüche auftreten, können Gebiete mit weniger Fällen schneller und mit weniger Eingriffen die Kontrolle über ihre Ausbrüche erlangen, indem Mobilität auf das Essentiellste reduziert wird. Die Fähigkeit, sich schneller zu erholen, dient der eigenen Wirtschaft und ermöglicht es, stärker betroffenen Gebieten zu helfen.
 
-Arbeite von Zuhause wenn möglich
+| --- |
 
-Versuche, deine Kollegen nicht auch zu Verbreitern des Virus zu machen
+## Richtlinien für Individuen und Familiens
 
+[Alltag und COVID-19 (PDF - Englisch)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
 
-Verfolge deinen eigenen Gesundheitsstatus
+    Was zu beachten gilt bzgl.: **Mehrfamilienhäuser, Lebensmitteleinkauf, notwendige Besorgungen, Post**
 
-Ruf deinen Arzt an, wenn du 38°C oder höheres Fieber hast
+[Richtlinien für Familien und Haushalte (PDF)](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Family-ger.pdf)
 
+    Unsere allgemeinen Richtlinien für Familien und Haushalte
 
-Trage eine Gesichtsmaske in der Öffentlichkeit
+[Leilinie zur Selbstisolation (PDF)](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Self_Isolation.pdf)
 
-Besonders dann, wenn du glaubst, andere in der Nähe könnten COVID-19 haben
+    Was zu beachten ist bzgl.: **Allein leben, Teilen einer Unterkunft mit anderen**
 
+[Richtlinien zur Gesundheit der Atemwege (PDF - Englisch)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
 
-Verdecke dein Gesicht, wenn du hustest oder niest
-
-Einfach aber effektiv
-
-
-Was kann ich tun, um Infektionen und Ausbreitung von COVID-19 zu verhindern?
-
-Es gibt mehrere Schritte, die wir unternehmen können, um die Ausbreitung zu stoppen. Wir haben einen detaillierten Leitfaden zu Maßnahmen verfasst, die wir Einzelpersonen, Gemeinschaften, Regierungen und Unternehmen empfehlen.
+    Was du machen kannst, um dein Risiko für einen schweren Fall von COVID-19 zu reduzieren
+    
+[Weitere Richtlinien für Familien →](https://www.endcoronavirus.org/richtlinien#family-ger)
 
 
-## Richtlinien
+[Tägliches Update](https://v2.endcoronavirus.org/page/german-updates-page)
 
-Richtlinien für Familien
-Richtlinien für Unternehmen
-Richtlinien für Regierungen
+[Interaktive Karte](https://v2.endcoronavirus.org/map/deutsch)
 
 
-## Updates
+Für die neuesten Updates und Empfehlungen, folge [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) und [End Coronavirus Dot Org](https://twitter.com/endCOVID19) auf Twitter.
 
-21. März, 2020
-20. März, 2020
-19. März, 2020
-18. März, 2020
-17. März, 2020
-16. März, 2020
-15. März, 2020
-14. März, 2020
-13. März, 2020
-12. März, 2020
-11. März, 2020
-Twitter
-
-Warum haben die Menschen solche Angst vor diesem Ausbruch, ähnelt er nicht einer normalen Grippe?
-
-Etwa 20% der Fälle, die das jetzige Coronavirus verursacht, verlaufen schwerwiegend und 2% tödlich. Diese Werte sind circa 20-mal höher als für die Grippe..
-
-Die typische Inkubationszeit für Covid-19 ist 3 Tage, sie kann jedoch auch 14 Tage betragen und es liegen vereinzelte Berichte über 24 und 27 Tage vor.
-
-Das Virus ist hochansteckend: täglich gibt es etwa 50% neue Fälle (Infektionsrate R0 von etwa 3-4), sofern keine außergewöhnlichen Maßnahmen ergriffen werden.
-
-Hilf mit beim Kampf gegen diese Epidemie
-endCoronavirus.org wurde vom New England Complex Systems Institute (NECSI) und freiwilligen Helfern ins Leben gerufen. Unser Ziel ist es, die Auswirkungen des Coronavirus COVID-19 zu minimieren, indem wir Informationen, Daten und Leitlinien bereitstellen.
-
-Über uns
-
-Um die Ausbreitung des Virus zu stoppen, ist es immens wichtig, zwischenmenschliche Kontakte zu verringern
-
-Jedes Mal, wenn verhindert werden kann, dass das Virus eine Person infiziert, hat dies einen massiven Einfluss auf die Eindämmung der Gesamtinfektionen. Je besser wir alle über individuelle Schutzmaßnahmen informiert sind, desto besser können wir stärker gefährdeten Angehörigen und der gesamten Gesundheitsinfrastruktur helfen.
-
-Man geht derzeit davon aus, dass eine Person 3-4 andere Personen ansteckt, wenn keine Schutzmaßnahmen ergriffen werden. Das führt zu einem exponentiellen Anstieg der Fälle im Zeitverlauf. Wenn man die sozialen Kontakte infizierter Personen einschränkt, kann die Zahl der Neuinfektionen auf weniger als eine Person pro bereits erkrankter Person verringert werden. Gelingt dies, wird dadurch die Zahl der Fälle im Zeitverlauf exponentiell abnehmen.
-
-Halte dich auf dem Laufenden und verfolge, was Experten zur Verhinderung und Bekämpfung der Verbreitung von COVID-19 schreiben und veröffentlichen.
-
-Neue Fälle weltweit:
-
-‍Es gibt keinen Mangel an Updates für das Coronavirus. Der Schwerpunkt unserer Arbeit liegt auf der Bereitstellung relevanter Informationen, die zu pragmatischen Maßnahmen für Einzelpersonen, Arbeitgeber, Regierungen und NROs führen.  

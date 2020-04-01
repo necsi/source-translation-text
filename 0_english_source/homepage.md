@@ -1,103 +1,73 @@
-## Spread knowledge, not the virus
+# Spread knowledge, not the virus
 
-## Global COVID-19 Update
+### We provide expert information on how to stop COVID-19 so you can act confidently.
 
-March 19, 2020
-230,041 confirmed cases
-and 9,386 deaths. These numbers are still increasing.
+### See our recommendations for [individuals, families], [employers], and [governments].  
 
-Italy +4,207* cases
-China +34 cases
-Spain +2,626 cases
-Iran +1,046 cases
-USA +1,522 cases
-Germany +1,652 cases
+_EndCoronavirus is led by Yaneer Bar-Yam, president of the [New England Complex Systems Institute](https://necsi.edu). Yaneer is an **MIT-trained physicist and complexity scientist who studies pandemics**. He has warned about global pandemics due to increasing travel for 15 years. He recommended community-based monitoring of symptoms to stop **Ebola** in West Africa in 2014, and it worked_
 
-‍
-*Last updated March 18, 2020
+Join over 5,000 volunteers in our group to fight COVID-19: [Join us](https://v2.endcoronavirus.org/sign-up/english)
 
-Updates
+|![yaneer](images/Yaneer.jpg)|
+|NECSI President, Prof. Yaneer Bar-Yam|
+| --- |
+
+## The fastest and the only way to stop COVID-19 in the United States is a five-week national lockdown.
+
+### Our top three recommendations for governments 
+### 1. Lockdown
+
+In much of Europe and North America, the explosive growth of COVID-19 means that **a 4-6 week strong lockdown is necessary to stop the outbreak.** Such lockdowns may be politically difficult to implement, and they always entail significant short-term economic and social costs. But **their effects are dramatic, and their duration is short.** Two months after China imposed its lockdown, China has virtually eliminated local transmission of COVID-19. Wuhan is now safer than London or New York, and China’s economy is on the path to recovery. Without China’s strict lockdown, the economic harm to China from COVID-19 would have been orders of magnitude greater.
+
+During a strong lockdown, **regions which are less affected by the virus can help provide resources to those in need.** The lockdown also gives time to dramatically scale up the supply of COVID-19 test kits and capacity to process them. If the number of infections is dramatically reduced using the lockdown and a massive testing regime is initiated, COVID-19 can be controlled after five weeks without extreme social distancing measures. **A strong lockdown would minimize both the harm to individuals, as well as the economy.**  
+
+    * See the memo by Chen Shen and Yaneer Bar-Yam: [Why A 5-Week Lockdown Can Stop COVID-19](https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
+
+    * Yaneer’s op-ed in USA Today: [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
+
+### 2. Massive Testing, Contact Tracing, and Isolation
+
+Massive testing for COVID-19 combined with tracing and then isolating the contacts of infected individuals is the intervention that causes the **least amount of economic harm** and yet saves many lives. Singapore and Korea have shown that this approach can defeat COVID-19.
+
+Governments must employ the following strategies to stop COVID-19:
+
+1. **Contact Tracing**: Isolate, monitor and test everyone who has been in contact with a known infected individual.
+
+2. **Generic Symptomatic Testing**: Test everyone in the geographic area of an infected individual for COVID-19 symptoms such as fever.
+
+3. **Targeted Sampling**: Randomly test individuals in high-risk populations such as prisons, nursing homes, and student dormitories.
+
+Countries, especially in Asia, that have the requisite expertise should help the rest of the world get up to speed. Contact tracing teams must be trained and countries must rapidly ramp up testing. Countries should use testing capacity in academic institutions and corporations.
+
+### 3. Restricting Mobility While Allowing Essential Supplies and the Medical Response
+
+**Travel from areas with active outbreaks should be stopped**. Every individual should undergo a 14 day quarantine when entering into other areas. Where active outbreaks are occurring, limiting mobility to essential travel enables areas with fewer cases gain control of their outbreaks faster and with more limited interventions. The ability to recover quicker is important for economic recovery and for the ability to help areas that are more severely affected.
+
+| --- |
+
+## Individual and Family Guidelines
+
+[Everyday Life and COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
+
+    What to do about: Apartment buildings, grocery shopping, necessary errands, packages and mail
+
+[Family and Household Guidelines (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
+
+    Our general guidelines for families and households
+
+[Guidelines for Self Isolation (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
+
+    What to do when you are: Living alone, Sharing lodging with someone else
+
+[Respiratory Health Guidelines (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
+
+    What you can do to reduce your risk of a severe case of COVID-19
+
+More family guidelines →
+
+[Community Guidelines]((https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+[Government Guidelines](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+
+For breaking updates and new recommendations, follow [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) and [End Coronavirus Dot Org](https://twitter.com/endCOVID19) on Twitter.
 
 
-## Everyone can help! Join us:
-
-Sign up
-to help your communities and families, create safe zones
-Your family and community need you to:
-Wash your hands!
-
-Clean surfaces and use alcohol gel
-
-
-Cancel travel plans for now
-It’s a small price to save lives!
-
-
-Stay at home as much as you can
-Even if healthy — especially if you feel sick
-
-Avoid crowds, transport, parties and bars
-They’ll always be there later
-
-
-Work remotely if possible
-Avoid making colleagues spreaders as well
-
-Monitor your own health
-Call a doctor if you have a temperature at or above 38°C or 100.4°F
-
-
-Wear a face mask in public
-Especially when near potential COVID-19 carriers.
-
-
-Cover your face when you cough or sneeze
-Simple but effective
-
-
-What can I do to prevent infection and spread of COVID-19?
-There are several steps that we can take to stop the spread. Our experts have written detailed guides on how to combat COVID-19.
-
-
-## Guidelines
-
-Family guidelines
-Business guidelines
-Government guidelines
-
-
-## Updates
-
-
-March 18, 2020
-March 17, 2020
-March 16, 2020
-March 15, 2020
-March 14, 2020
-March 13, 2020
-March 12, 2020
-March 11, 2020
-March 10, 2020
-March 9, 2020
-Twitter
-
-Why are people so afraid of this outbreak, isn't it just like the normal flu?
-The Coronavirus causes about 20% severe cases and 2% deaths. This is about 20 times higher than the flu.
-
-A typical incubation period is 3 days but it may extend to 14 days, and reports exist of 24 and 27 days.
-
-It is highly contagious with an increase from day to day of 50% in new cases (infection rate R0 of about 3-4) unless extraordinary interventions are made.
-
-Take part in eradicating this epidemic
-endCoronavirus.org is built and maintained by the New England Complex Systems Institute (NECSI) and collaborators.  Our goal is to minimize the impact of the Coronavirus COVID-19 by providing useful data and guidelines for action.
-
-About us
-The key to stopping the spread of the virus is to lower connectivity
-Every time the virus does not infect another person, it has a massive impact on reducing the growth of overall infections. The better informed we all are on the actions we can take, the better we will serve our most vulnerable loved ones and our healthcare infrastructure at large.
-
-Without intervention, it is estimated that an individual with the virus will infect on average 3-4 other people, resulting in an exponential increase in the number of cases over time. If social connectivity can be lowered such that the average number of people that an individual with the virus infects is less than one other person, the number of cases will exponentially decrease over time instead.
-
-Stay informed with the latest news on preventing and defeating the spread of COVID-19, written and published by experts in the field.
-
-Track New Cases Globally:
-‍There is no shortage of updates on the Coronavirus. The focus of our work is to provide relevant information that leads to pragmatic actions for single individuals, employers, governments and NGOs  

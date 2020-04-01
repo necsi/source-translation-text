@@ -1,4 +1,4 @@
-# Source translated text for encoronavirus.org
+# Source translated text for endcoronavirus.org
 
 (for web v2)
 

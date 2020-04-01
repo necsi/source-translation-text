@@ -3,6 +3,13 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|45|31 March 2020, 23:00 UTC|Guidelines page: added descriptions for each guideline pdf|
+|44|31 March 2020, 16:00 UTC|Home page: lockdown section simplified to reduce the amount of text|
+|43|29 March 2020, 08:00 UTC|updates to the new homepage|
+|42|28 March 2020, 06:40 UTC|new homepage, new pdf 5weeks|
+|41|26 March 2020, 03:00 UTC|Guidelines: added the very last sentence on page|
+|40|25 March 2020, 15:00 UTC|FAQ: Added last sentence to "Should I wear a face mask?"|
+|39|25 March 2020, 03:00 UTC|New pdf: everyday_ed.pdf, linked on guidelines page|
 |38|24 March 2020, 01:15 UTC|New page: /english-making-masks|
 |37|23 March 2020, 16:00 UTC| Massive testing page: Modified sentence starting with "Typically, the most..."|
 |36|22 March 2020, 00:00 UTC|Changed guidelines page with 2 additional files (community and action support, questionnaire) and child page (community and action support)|

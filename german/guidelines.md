@@ -4,15 +4,15 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 ‍
 
 # Lade Richtlinien als PDFs herunter
-[Grundsätzliche Leitlinie zum Coronavirus](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/essential_en.pdf)
+[Grundsätzliche Leitlinie zum Coronavirus](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Essential_GER.pdf)
 
 [Richtlinien für Familien](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Family-ger.pdf)
 
 [Richtlinien für Institutionen mit hohem Risiko](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
 
-[Selbstisolationsrichtlinien](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/self_isolation_en.pdf)
+[Leitlinie zur Selbstisolation](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Self_Isolation.pdf)
 
-[Massives Testen kann den Ausbruch des Coronavirus stoppen]()
+[Massives Testen kann den Ausbruch des Coronavirus stoppen](https://www.endcoronavirus.org/page/german-massive-testing-can-stop-the-coronavirus-outbreak)
 
 [Richtlinien für Unternehmen](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/business_en.pdf)
 
@@ -166,4 +166,4 @@ Anmerkung: Die Französische Internationale Handelskammer verwendet diese Richtl
 1. Personen, die selbst Symptome haben, sollten den Kontakt mit anderen vermeiden und eine Maske tragen, wenn sie notwendigen öffentlichen oder privaten Kontakt mit anderen haben.
 2. Das Tragen einer Maske in der Öffentlichkeit sollte akzeptiert werden, um zu verhindern, dass Kranke zögern, eine Maske zu tragen oder sich dadurch stigmatisiert fühlen.
 3. Auch wenn Masken keine Sicherheit vor Ansteckung garantieren und ihre Verfügbarkeit wegen höherer Priorität von medizinischen Einrichtungen eingeschränkt sein kann, verringert die Verwendung von Masken das Infektionsrisiko von Menschen drastisch, bei denen die Nähe zu anderen möglicherweise infizierten Personen nicht vermieden werden kann.
-4. Für Personen über 50 Jahre oder mit Vorerkrankungen sowie für Personen in Gebieten mit erhöhtem Risiko rechtfertigen die hohen Kosten einer Infektion die Verwendung einer Maske.
+4. Für Personen über 50 Jahre oder mit Vorerkrankungen sowie für Personen in Gebieten mit erhöhtem Risiko rechtfertigen die hohen Kosten einer Infektion die Verwendung einer Maske. [Waschbare Masken, die wiederverwendet werden können,](https://www.endcoronavirus.org/page/english-making-masks) sind zwar nicht ideal, aber man kann sie selbst von Hand machen und sie werden zum Schutz in Krankenhäusern, Pflegeheimen, Reha-Zentren, Heimen und anderen Gruppeneinrichtungen benötigt.

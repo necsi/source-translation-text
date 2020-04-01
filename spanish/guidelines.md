@@ -1,28 +1,60 @@
-## Pautas para la respuesta temprana al brote
+## Guías para la respuesta temprana al brote
 
-El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de casos graves y el 2% de muertes. Un período de incubación típico es de 3 días, pero puede extenderse a 14 días, y existen informes de 24 y 27 días. Es altamente contagioso con un aumento del día a día del 50% en casos nuevos (tasa de infección R0 de aproximadamente 3-4) a menos que se realicen intervenciones extraordinarias. Si se convierte en una pandemia o epidemia generalizada, cambiará la vida de todos en el mundo. Es imperativo actuar para limitar y detener el brote y no aceptar su propagación. Proporcionamos estas pautas para la acción individual, comunitaria y gubernamental. 
+El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de casos graves y el 2% de muertes. Un período de incubación típico es de 3 días, pero puede extenderse a 14 días, y existen informes de 24 y 27 días. Es altamente contagioso con un aumento del día a día del 50% en casos nuevos (tasa de infección R0 de aproximadamente 3-4) a menos que se realicen intervenciones extraordinarias. Si se convierte en una pandemia o epidemia generalizada, cambiará la vida de todos en el mundo. Es imperativo actuar para limitar y detener el brote y no aceptar su propagación. Proporcionamos estas guías para la acción individual, comunitaria y gubernamental. 
 
 ‍
 
-## Descargar pautas en .pdf
-Pautas esenciales para coronavirus
+## Descargar guías en PDF
 
-Pautas familiares
+[Vida diaria y COVID-19 (PDF)](pdf/everyday_es.pdf)
+- Qué hacer en: Edificios de apartamentos, compra de alimentos, menesteres, paquetes y correo
 
-Pautas para instituciones de alto riesgo
+[Guías esenciales para coronavirus](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/essential_en.pdf)
+- Guías clave para todos, desde individuos hasta organizaciones
 
-Pautas para autoaislamienot
+[Guía para el Hogar (PDF)](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/family_es.pdf)
+- Medidas generales para familias y hogares
 
-Pautas para negocios
+[Guía para el auto aíslamiento (PDF)](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/self_isolation_en.pdf)
+- Qué hacer si se está viviendo por si mismo o compartiendo el hogar con alguien más
 
-Recomendaciones para el gobierno
+[Pautas para instituciones de alto riesgo - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/high-risk_en.pdf)
+- Instituciones de alto riego como comunidades de pensionados, dormitorios, asilos, hogares de rehabilitación, y prisiones
 
-Salud respiratoria
+[El testeo masivo puede detener la epidemia de coronavirus - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/Massivetesting_en.pdf)
+- Estrategias clave de diagnóstico para identificar y aislar la propagación del virus
 
-Pautas para comercios y farmaciass
+[Pautas para negocios](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/business_es.pdf)
+- Resumen de acciones que las empresas pueden llevar a cabo para reducir riesgos para toda persona relacionada con el negocio y para el negocio mismo
+
+[Recomendaciones para legisladores](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/policymakers_es.pdf)
+- Lista de 9 acciones recomendadas de forma que legisladores puedan detener la propagación
+
+[Recomendaciones individuales, comunitarias y gubernamentales](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/individual_community_government_es.pdf)
+- Resumen de acciones e intervenciones en varias escalas
+
+[Guía para la Salud Respiratoria (PDF):](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/respiratory-health_en.pdf)
+- Qué hacer para reducir el riesgo de un caso severo de COVID-19
+
+[Guía sobre espacios seguros para la familias - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/safespaces_en.pdf)
+- Como crear espacios seguros dentro del hogar
+
+[Guías para supermercados, tiendas de comestibles y farmacias - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/supermarket_grocery_stores_pharmacies_en.pdf)
+- Qué hacer para que estos negocios puedan seguir abiertos y su seguridad esté asegurada
+
+[Acción y soporte comunitario ante COVID19 - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/CommunitySupport_en.pdf)
+- Como lograr un compromiso ciudadano y un soporte mutuo en las comunidades
+
+[Seguridad y Chequeo de Empleados: Preguntas para empleadores - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/Questionaire_en.pdf)
+- Guías para que empleadores logren mantener a sus empleados y sus puestos de trabajo
+
+## Otras guías útiles (médicas, técnicas)
+[Instructivo de prevención y Tratamiento de COVID-19 - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/5e738c77598f369003188eb4_Handbook-of-COVID-19-Preventionand-Treatment.pdf)
+
+[Manejo de Sangre de un paciente durante la pandemia de COVID-19 - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/SABM-PBM-COVID19-statement-20200317.pdf)
 ‍
 
-## Pautas familiares
+## Guías para la familia
 En áreas de mayor riesgo donde el gobierno no está tomando las medidas adecuadas, proteger a una familia o grupo es un desafío. La propagación del fuego requiere un rastro de combustibles. Del mismo modo, el contagio de COVID-19 requiere una cadena de individuos susceptibles. Los soluciones son (1) Reducir el contacto entre la familia y los demás, y satisfacer las necesidades esenciales, y a medida que aumenta el riesgo (2) Crear un espacio seguro que proteja a quienes están en él por acuerdo compartido para no estar en contacto físico sin protección con otros o con superficies tocadas por otros.
 
 El espacio seguro también frena el contagio porque aquellos en el espacio seguro no participan en la transmisión de enfermedades. Los miembros de un espacio seguro pueden combinarse con otros para expandir cuidadosamente el espacio seguro o crear otros nuevos. A continuación se encuentran nuestras pautas para las familias.
@@ -61,7 +93,7 @@ Para las actividades esenciales, incluidas las compras, durante las cuales es in
 Promueva la comunicación interna y el cuidado mutuo para mantener a los miembros del espacio en relaciones positivas y mentalmente saludables. Reconozca que la emergencia actual requiere acciones y sacrificios extraordinarios es esencial. Si bien puede mitigar, no puede reemplazar
 ‍
 
-##  Pautas individuales y comunitarias
+##  Guías individuales y comunitarias
 Asuma la responsabilidad de su propia salud y comparta la responsabilidad de la salud de su vecindario con conciencia y disciplina.
 
 Practique el distanciamiento social.
@@ -97,7 +129,7 @@ En áreas de riesgo elevado, coordine equipos del vecindario para el monitoreo c
 Los equipos del vecindario que van de puerta en puerta también deben identificar a las personas que necesitan servicios de apoyo.
 ‍
 
-## Pautas gubernamentales
+## Guías gubernamentales
 Prepare con anticipación recursos estratégicos como máscaras, EPPs y kits de prueba, y establecer rutas de distribución.
 
 Identifique áreas donde se confirman o sospechan infecciones.
@@ -129,7 +161,7 @@ Restrinja a las personas a sus hogares y brinde apoyo para que sus necesidades s
 Realice búsquedas puerta a puerta para detectar individuos con síntomas tempranos y necesidad de servicios, con las precauciones de EPP necesarias y con la participación de la comunidad en el esfuerzo 
  ‍
 
-## Pautas comerciales 		 		 	 	 		
+## Guías comerciales 		 		 	 	 		
 En este artículo, enumeramos varias acciones que las empresas pueden tomar para prevenir la propagación del Coronavirus. También incluimos consideraciones especiales para el sector de Ventas y la Hospitalidad.
 
 General:

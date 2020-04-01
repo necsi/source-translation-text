@@ -1,103 +1,79 @@
-## A tudást terjessze, ne a vírust.
+# A tudást terjessze, ne a vírust.
 
-## COVID-19 átfogó helyzetjelentés
+### Szakértői információt biztosítunk a COVID-19 megállításáról a  magabiztos cselekvéshez.
 
-2020\. március 19.
-230041 igazolt fertőzött
-és 9386 halott. A számok továbbra is nőnek.
+### Nézze meg ajánlásainkat [egyének, családok], [munkáltatók] és [kormányokzatok] számára.
 
-Olaszország +4207 eset
-Kína +34 eset
-Spanyolország + 2626 eset
-Irán +1046 eset
-USA +1522 eset
-Németország +1652 eset
+_Az EndCoronavirus vezetője Yaneer Bar-Yam, a [New England Complex Systems Institute](https://necsi.edu) elnöke. Yaneer az **MIT-n végzett fizikus és komplexitás-kutató, aki a világjárványokat tanulmányozza**. 15 keresztül folyamatosan figyelmeztet a világjárványok veszélyeire. A 2014-es nyugat-afrikai **Ebola-járvány** megállításához a tünetek közösségi monitorozását javasolta, ami működött._
 
+Csatlakozzon 5000-nél is önkéntesünkhöz a COVID-19 elleni harcban: [Join us](https://v2.endcoronavirus.org/sign-up/english)
 
-*Utolsó frissítés 2020\. március 18.
+|![yaneer](images/Yaneer.jpg)|
+|NECSI President, Prof. Yaneer Bar-Yam|
+| --- |
 
-Frissítések
+## A COVID-19-nak megállításának leggyorsabb és egyedüli módja az Egyesült Államokban egy öthetes országos vesztegzár.
 
-## Mindenki tud segíteni! Csatlakozzon hozzánk:
+### Három legfőbb kormányzati javaslatunk
+### 1. Vesztegzár
 
-Iratkozzon fel
-helyi közösségek és családok segítésére, védett helye létrehozására
-Családja is közössége:
-Mosson kezet!
+Európa és Észak-Amerika nagyrészén a COVID-19 robbanásszerű terjesée azt jelenti, hogy egy **4-6 héten át tartó, szigorú vesztegzár szükséges a járvány megállításához**. Az ilyen vesztegzárak politikailag nehezen megvalósíthatók és gazdaságilag-társadalmilag jelentős rövid távú költségekkel járnak. De **a hatásuk drámai és rövid ideig tartanak**. Két hónappal a vesztegzár bevezetése után, Kína lényegében felszámolta a COVID-19 helyi terjedését. Vuhan ma biztonságosabb, mint London vagy New York, és Kína gazdasága újra fellendülőben van. A szigorú kínai vesztegzár nélkül a COVID-19 kínai gazdaságra mért csapása nagyságrendekkel nagyobb lett volna.
 
-Tartsa tisztán a felületeket és használjon alkoholos fertőtlenítőt
+Szigorú vesztegzár ideje alatta mindenki otthon marad, hacsak nem élelmiszert vagy létszükséglett terméket szerez be, vagy orvosi ellátásra szorul vagy a társadalom alapvető működéséhez szükséges munkát végez. A kormányzat pedig gazdasági és társadalmi segítséget nyújt a rászoruló állampolgároknak.
 
+[**Miért 4-6 héz?**](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/5weeks_en.pdf) A vesztegzár első két hete alatt a már fertőzöttek tüneteket fognak mutatni. A tüneteket megelőző lappangási idő általában 3-5 napig tart, de eltarthat két hétig is. A fertőzöttek maguktól felépülnek, ha enyhe lefolyású a betegség, ellenkező esetben orvoshoz fordulnak. Csak az olyan háztartásban élők fertőződhetnek meg, ahol már alapból van fertőzött. Mivel tudjuk, hogy ki a fertőzött a tünetek és a tesztek alapján, így elkülöníthetjük őket, hogy ne fertőzhessenek meg másokat (ez hívják nyomon követésnek).
 
+Az ezt követő 3-4 hétben az újonnan megfertőződött családtagok és lakótársak felgyógyulnak vagy orvoshoz fordulnak. Amint elkülönítették őket, nem fertőzhetnek meg másokat. Az esetszám meredeken csökkenni fog. **A vesztegzár végéré az aktív COVID-19 esetszáma töredéke lesz a korábbinak**. Pontosan ez történt Kínában.
 
-Halassza el utazásait
-Nem kerül sokba, de életet ment.
+A vesztegzár ezenkívül időt ad a COVID-19-tesztkészletek és a kiértékési kapacitás drámai mértékű növelésére. Ha a fertőzések száma drámaian csökken a vesztegzár következtében, és megkezdődik a tömeges tesztelés, akkor 5 hét alatt úrrá lehet lenni a COVID-19-en a társadalmi távolságtartás szélsőséges formáinak bevezetése nélkül. Elegendő betegek és a velük közvetlenül érintkezők elkülönítése. Ahogy tették Szingapúrban a járvány kordában tartása érdekében az ottani néhány esetnél.
 
+Olaszország elrettentő példája az "erőtlen" vesztegzárnak. Az olasz intézkedések a vesztegzár alatt nem volt kellően szigorúak---sok olasz gúnyt űzött a mozgáskorlátozó intézkedésekből és folytatta a COVID-19 terjesztését. A járvány továbbra is exponenciálás terjedt. Olaszország szigorítja a vesztegzárra vonatkozó rendelkezéseket a további terjedés megelőzése érdekében. Dánia, ahol és sokkal teljesebb vesztegzár van érvényben, lezárta határait, és sokkal sikeresebben megfékezni a járványkitörést.
 
-Maradjon otthon amennyire csak lehet
-Akkor is, ha egészséges — ha beteg, akkor különösen
+    * Nézze meg Chen Shen és Yaneer Bar-Yam helyzetelemzését: [Why A 5-Week Lockdown Can Stop COVID-19](https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
 
-Kerülje a tömeget, tömegközlekedést, összejöveteleket, kocsmát
-Megvárják magát
+    * Yaneer cikke a USA Today-ben: [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
+### 2. Tömeges tesztelés, Nyomon követés, Elkülönítés
 
-Dolgozzon otthonról, ha teheti
-Ne tegye kollégáit szintén fertőzővé
+Az emberek tömeges tesztelése COVID-19-re, együtt a nyomon követéssel és a fertőzöttekkel érintkezők elkülönítése, az a beavatkozás, mely a **legkevesebb gazdasági kárt okozza** és rengeteg életet megment. Szingapúr és Korea bebizonyították, hogy ez a megközelítés képes legyőzni a COVID-19-et.
 
-Kísérje figyelemmel egészségi állapotát
-Hívjon orvost, ha testhőmérséklete eléri vagy meghaladja a 38°C-ot
+A kormányoknak az alábbi stratégiákat kell alkalmazniuk a COVID-19 megállításához:
 
+1. **Nyomon követés**: Elkülöníteni, megfigyelni mindenkit, aki kapcsolatba került fertőzöttel.
 
-Nyilvános helyen viseljen maszkot
-Különösen ha a COVID-19 vírushordozói közelében.
+2. **Általános tesztelés a tünetekre**: A fertőzött személyek földrajzi területén mindenkit tesztelni a COVID-19 tüneteire (pl. lázra).
 
+3. **Célzott mintavétel**: A magas kockázatú populációk (börtönök, gondozóintézmények, kollégiumok) szúrópróbaszerű tesztelése.
 
-Takarja el arcát köhögés vagy tüsszentés közben
-Egyszerű, de hatásos
+Azok az országok, melyek rendelkeznek  a szükséges szakértelemmel, különösen Ázsiában, segítsenek a világ többi részének felállni és utólérni a többieket. Nyomkövető csapatokat kell kiképezni és a tesztelést fel kell futattni. Az országok használják ki a tudományos intézetek és vállalatok tesztelési kapacitásait.
 
+### 3. A mozgás korlátozása, egyidejűleg az alapellátás és az egészségügyi válaszlépések biztosítása
 
-Hogyan előzhetem meg a fertőzést és a járvány terjedését?
-Több dolgot is tehetünk a járvány megállapítása érdekében. Szakértőink részletes útmutatókat állítottak össze a COVID-19 elleni harchoz.
+**A fertőzött területekről való beutazást be kell szüntetni**. Mindenki
+vonuljon 14-napos karanténba, mikor átlép egy másik területre. A mozgás korlátozása, ahol aktív járványkitörés zajlik, lehetővé teszi a többi, kisebb esetszámú területeknek, hogy gyorsabban, kevesebb beavatkozással ellenőrzésük alá vonják a kitörést. A gyors kilábalásra való képesség fontos a gazdasági fellendüléshez és a súlyosabban érintett területek megsegítésének lehetőségéhez.
 
+| --- |
 
-## Útmutatók
+## Egyéni és családi útmutatók
 
-Útmutató családoknak
-Útmutató vállalkozásoknak
-Kormányzati útmutató
+[COVID-19 és a mindennapi élet (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
 
+    Mihez kezdjünk velük: lakóépületek, élelmiszervásárlás, nélkülözhetetlen ügyintézés, csomagok és levelek
 
-## Frissítések
+[Családi és háztartási útmutató (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
 
+    Általános útmutatónk családok és háztartások számára
 
-2020\. március 18.
-2020\. március 17.
-2020\. március 16.
-2020\. március 15.
-2020\. március 14.
-2020\. március 13.
-2020\. március 12.
-2020\. március 11.
-2020\. március 10.
-2020\. március 9.
-Twitter
+[Útmutató önizolációhoz (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
 
-Miért félnek az emberek annyira ettől a járványtól? Nem olyan, mint a normál influenza?
-A koronavírus esetek kb. 20%-a súlyos és 2%-a halálos. Ez nagyjából 20-szor akkora, mint az influenza esetében.
+    Mit tegyen, ha: egyedül él, közös lakásban él valaki mással?
 
-A lappangási idő általában 3 nap, de elhúzódhat 14 napig is, és jelentettek már 24 és 27 napos lappangást is.
+[Útmuató a légzőszervek egészségéhez (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
 
-Nagyon fertőző, rendkívüli beavatkozások hiányában akár napi 50%-os növekedésre is számítani lehet a napi új megbetegedések számában (az R0 reprodukciós ráta 3-4 körül van).
+    Hogyan csökkentheti COVID-19 súlyos tüneteinek kockázatát?
 
-Vegyen részt a járvány felszámolásában
-Az endCoronavirus.org oldalt a New England Complex Systems Institute (NECSI) önkéntesekkel közösen fejleszti és üzemelteti. Célunk, hogy hasznos adatokat és úmutatókat tegyünk közzé, ezzel minimalizálva a COVID-19 hatását.
+Még több családi útmutató →
 
-Rólunk
-A terjedés megállításának kulcsa az a társadalom egybefüggőségének csökkentése
-Valahányszor a vírus nem fertőz meg még valakit erőteljesen lassul az összfertőzöttség növekedése. Minél tájékozottabbak vagyunk, hogy személy szerint mit tehetünk, annál jobban szolgálhatjuk nemcsak legkiszolgáltatottabb szeretteink, de az egészségügyi infrastruktúra egészének érdekét is.
+[Útmutató közösségeknek](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 
-Ha semmit nem teszünk, a becslések szerint minden vírussal fertőzött ember átlagosan 3-4 másikat fertőz meg, ami az esetek számának exponenciális növekedéséhez vezet. Azonban ha a társadalmi egybefüggőség csökkentésével elérjük, hogy a vírussal fertőzött személyek átlagosan egynél kevesebb embert fertőzzenek meg, akkor az esetek száma kezd el csökkenni exponenciálisan.
-
-Maradjon naprakész a COVID-19 terjedésének megelőzéséről és leküzdéséről szóló, a terület szakértői által írt és közzétettt legfrissebb hírekkel.
-
-Kövesse nyomon az új eseteket a világban
-Nincs hiány a koronavírusról szóló hírekből. Munkánk célja olyan releváns információkat nyújtani, melyek gyakorlati intézkedésekhez vezetnek az egyének, munkaadók, kormányok, és civil szervezetek tevékenységében.
+[Kormányzati útmutató](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
