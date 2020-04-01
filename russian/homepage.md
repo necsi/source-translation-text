@@ -2,32 +2,32 @@
 
 ### We provide expert information on how to stop COVID-19 so you can act confidently.
 
-### Читайте наши пекомендации для [индивидуумов, семей], [работодателей], и [государственных органов].  
+### Читайте наши рекомендации для [индивидуумов, семей], [работодателей], и [государственных органов].
 
-_Предводитель организации EndCoronavirus - Янир Бар Ям, президент [Института сложных систем Новой Англии (NECSI](https://necsi.edu). Янир - **физик, обраваный в Массачусетском технологическом институте (MIT) and complexity scientist who studies pandemics**. He has warned about global pandemics due to increasing travel for 15 years. He recommended community-based monitoring of symptoms to stop **Ebola** in West Africa in 2014, and it worked_
+_EndCoronavirus - организация, возглавляемая Янир Бар Ямом, президентом [Института сложных систем Новой Англии (NECSI)](https://necsi.edu). Янир - **физик, в Массачусетском технологическом институте (MIT) и исследователь сложных систем, изучающих пандемии.**. Он предупреждал о глобальных пандемиях, вызванных возрастающим количеством путеществий в течение 15 лет. Благодяря его рекомендациям ввести общественный мониторинг симптомов удалось остановить **Эболу** в восточной Африке в 2014._
 
-Join over 5,000 volunteers in our group to fight COVID-19: [Join us](https://v2.endcoronavirus.org/sign-up/english)
+Группа волонтеров насчитывает уже более 5000 человек, присоединйтесь и помогите побороть COVID-19: [Присоединиться](https://v2.endcoronavirus.org/sign-up/english)
 
-|![yaneer](images/Yaneer.jpg)|
-|NECSI President, Prof. Yaneer Bar-Yam|
+|![Янир](images/Yaneer.jpg)|
+|Президент NECSI, Проф. Янир Бар-Ям|
 | --- |
 
-## The fastest and the only way to stop COVID-19 in the United States is a five-week national lockdown.
+## Единственный и эффективный способ остановить COVID-19 -- национальный 5-ти недельный карантин.
 
-### Our top three recommendations for governments 
-### 1. Lockdown
+### Топ-3 рекомендаций для правтельств стран
+### 1. Карантин
 
-In much of Europe and North America, the explosive growth of COVID-19 means that **a 4-6 week strong lockdown is necessary to stop the outbreak**. Such lockdowns may be politically difficult to implement and they always entail significant short-term economic and social costs. But **their effects are dramatic and their duration is short**. Two months after China imposed its lockdown, China has virtually eliminated local transmission of COVID-19. Wuhan is now safer than London or New York, and China’s economy is on the path to recovery. Without China’s strict lockdown, the economic harm to China from COVID-19 would have been orders of magnitude greater.
+Вспышка COVID-19 означает **обязательный карантин на 4-6 недель**. Такой карантин сложно организовать и он, как правило, связан с различными краткосрочными социоэкономическими затратами. Но он **крайне эффективен для своей длительности**. Китай, после двух месяцев карантина, практически полностью остановил локальное распространение COVID-19. В Ухане сейчас безопаснее, чем в Лондоне или Нью-Йорке, а экономика Китая постепенно восстанавливается. Без такого карантина ущерб экономике Китая от COVID-19 был бы на порядки выше.
 
-During a strong lockdown individuals stay home except to obtain food and other essentials, access medical care, or do work essential to the functioning of society. Governments provide economic and social aid to citizens who need it.
+В течение строгого карантина люди остаются дома, за исключением походов за едой, предметами первой необходимости, доступа к медицинским услугам и выполнением работы, необходимой для жизнедеятельности общества. Правительства предоставляют экономическую и гуманитарную помощь гражданам, по мере необходимости.
 
-[**Why 4-6 weeks?**](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/5weeks_en.pdf)  During the first two weeks of the lockdown, those who are already infected will show symptoms. This “incubation period” typically takes 3-5 days, but may take as long as two weeks. Infected individuals will recover from mild COVID-19 cases or seek medical care. The only people who can be infected are those who are cohabitating with a previously infected individual. Since we know which individuals are infected, due to symptoms and testing, we know who can be infected and can isolate them so they don’t infect others (this is called contact tracing).
+[**Почему 4-6 недель?**](https://github.com/necsi/source-translation-text/raw/master/russian/pdf/5weeks_ru.pdf)  В течение первых двух недель карантина у уже инфицированных проявятся симптомы. Как правило инкубационный период составляет 3-5 дней, но может занять и две недели. Те, у кого COVID-19 протекает в легкой форме смогут выздороветь или обратиться за медицинской помощью. Единственные, кто может быть заражен в таком случае - люди, проживающие с уже инфицированными. Таким образом мы отслеживаем (и ограничиваем) круг людей, которых они могут заразить далее (это называется остлеживание контактных).
 
-During the 3-4 weeks that follow, any newly infected family or cohabitants of infected individuals will recover or seek medical attention. Once they are isolated, they cannot infect others. The number of cases will decrease rapidly. **By the end of the lockdown, COVID-19 cases will be a small fraction of what they once were**. This is exactly what happened in China.
+В течение следующих 3-4 недель вновь инфицированные члены семьи или сожители начнут выздоравливать или обращаться за медицинской помощью. За счет изоляции они не смогут заразить кого-то еще. Число случаев начнет стремительно падать. **К концу карантина, число COVID-19 инфицированных будет лишь малой частью изначального объема заболевших**. Именно так и было в Китае.
 
-The lockdown also gives time to dramatically scale up the supply of COVID-19 test kits and capacity to process them. If the number of infections is dramatically reduced using the lockdown and a massive testing regime is initiated, COVID-19 can be controlled after five weeks without extreme social distancing measures. Isolating sick individuals and their immediate contacts will be enough. This is what has been done to control the outbreak for a few cases in Singapore.
+Карантин дает возможность производить и обрабатывать сопоставимое количество тестов на COVID-19. Если число вновь инфицируемых быстро сокращается за счет карантина и введен режим массовых проверок на COVID-19, распространение вируса можно будет контролировать через 5 недель без экстремальных мер социального дистанцирования. Изолирование уже инфицированных и контактировавших с ними должно быть достаточно. Такие меры были применены для контроля вспышки в Сингапуре.
 
-The case of Italy can serve as a warning about attempting a “soft” lockdown. Italy's lockdown measures were insufficiently strict---many Italians flouted movement restrictions and continued spreading COVID-19. The disease continued to grow exponentially. Italy is strengthening its lockdown procedures to prevent further spread. Denmark, which has a more complete lockdown and closed its borders, has been much more successful at curtailing its outbreak.
+Случай с Италией может служить печальным примером "мягкого" карантина. Меры принятые в Италии не были достаточно строгими---большое количество Итальянцев пренебрегли ограничениями, продолжая распространять COVID-19. Число зараженных стало расти экспоненциально. Сейчас Италия усиливает карантинные меры, чтобы предотвратить дальнейший рост. Дания же, применившая полный карантин и закрыв границы, смогла гораздо успешнее ограничить вспышку вируса.
 
     * See the memo by Chen Shen and Yaneer Bar-Yam: [Why A 5-Week Lockdown Can Stop COVID-19](https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
 
