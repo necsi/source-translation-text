@@ -3,7 +3,7 @@
 COVID-19 është nje sëmundje ngjitëse e shkaktuar nga një virus në familjen e koronaviruseve. Ka shumë tipe te koronaviruseve, dhe zakonisht këta shkaktojnë sëmundje të lehta të sistemit respirator. COVID-19 shkaktohet nga një koronavirus i ri, dhe për të parën herë është zbuluar në Vuhan, Kinë.
 
 + Përse kanë mar njerëzit frikë nga ky shpërthim, a nuk është mu sikur gripi i zakonshëm?
-Ky koronavirus (COVID-19) shkakton 20% raste të rënda dhe 2% vdekje. Kjo është rreth 20 herë më shumë se sa efekti i gripit. Periudha tipike e inkubimit është 3 dite por mund të shkoj deri në 14 ditë, dhe ka raportime për raste prej 24 dhe 27 ditë. Është tejet leht i transmetueshëm me një rritje te përditshme prej 50% në raste të reja (shkalla e përhapjes R0 rreth 3-4) përveç nëse bëhen intervenime të jashtzakonshme.
+Ky koronavirus (COVID-19) shkakton 20% raste të rënda dhe 2% vdekje. Kjo është rreth 20 herë më shumë se sa efekti i gripit. Periudha tipike e inkubimit është 3 dite por mund të shkoj deri në 14 ditë, dhe ka raportime për raste prej 24 dhe 27 ditë. Është tejet leht i transmetueshëm me një rritje te përditshme prej 50% në raste të reja (shkalla e përhapjes R0 rreth 3-4) përveç nëse bëhen intervenime të jashtëzakonshme.
 
 
 + Cilat janë simptomat e COVID-19?
