@@ -67,19 +67,19 @@ Os países, especialmente os asiáticos, que já possuem a expertise necessária
 
 [Cotidiano e COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
 
-    Sobre: **vida em edifícios residenciais, como fazer compras em mercados, tarefas necessárias, como lidar com encomendas e correio**
+   * Sobre: **cuidados a se tomar em edifícios residenciais, como fazer compras em mercados, tarefas necessárias, como lidar com encomendas e correio**
 
 [Guias para famílias e moradores (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Family_port-br.pdf)
 
-    Nossas diretrizes gerais para família e moradores
+   * Nossas diretrizes gerais para família e moradores
 
 [Diretrizes para auto-isolamento (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Self-isolation_port-br.pdf)
 
-    O que fazer quando você: mora sozinho, ou divide residência com alguém
+   * O que fazer quando você: **mora sozinho, ou divide residência com alguém**
 
 [Diretrizes de saúde respiratória (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/resp-health_port-br.pdf)
 
-    O que você pode fazer para reduzir seu risco de desenvolver um caso severo de COVID-19
+   * O que você pode fazer para reduzir seu risco de desenvolver um caso severo de COVID-19
 
 [Mais guias para famílias →](https://www.endcoronavirus.org/port-br-guidelines#family)
 
