@@ -1,11 +1,14 @@
 # Virüsü değil bilgiyi yay
 
-## Çalışmamızın odak noktası, bireyler, işverenler, hükümetler ve STK'lar için kullanışlı bilgiler sağlamaktır.
+## Güvenle hareket edebilmeniz için COVID-19'u nasıl durduracağınız konusunda uzman bilgileri sağlıyoruz.
 
-*Pandemiler üzerine araştırma yapan, MIT'de eğitim görmüş bir fizikçi ve kompleks sistemler bilimcisi olarak, 15 yıldır artan seyahat nedeniyle ortaya çıkacak küresel salgınlar hakkında uyarıda bulunuyorum. 2014 yılında Batı Afrika'da Ebola'yı durdurmak için toplum temelli semptomların izlenmesini önerdim, ve bu yöntem işe yaradı. ABD'de COVID-19'u durdurmanın en hızlı ve hatta tek yolu, beş hafta boyunca sokaga çıkma yasagı ilan edilmesidir.*
+## [Bireyler, aileler], [işverenler] ve [hükümetler] için önerilerimize bakın.
+
+EndCoronavirus, New England Karmaşık Sistemler Enstitüsü başkanı Yaneer Bar-Yam tarafından yönetilmektedir. Yaneer, pandemiler üzerine araştırma yapan, **MIT'de eğitim görmüş bir fizikçi ve kompleks sistemler uzmanıdır**. 15 yıldır, artan seyahat nedeniyle ortaya çıkacak küresel salgınlar konusunda uyarıda bulunmuştur. 2014 yılında Batı Afrika'da **Ebola**'yı durdurmak için toplum temelli semptomların izlenmesini önerdi, ve bu yöntem işe yaradı.
+
+COVID-19 ile mücadele etmek için grubumuzdaki 5.000'den fazla gönüllüye **katılın**
+
 ||
-
-**NECSI Başkanı, Prof. Yaneer Bar-Yam**
 
 ## Virüsün yayılmasını durdurmanın anahtarı, insanlar arasındaki baglantının azaltılmasıdır
 
