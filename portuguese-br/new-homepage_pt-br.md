@@ -37,9 +37,9 @@ Em muitos locais da Europa e da América do Norte, o crescimento explosivo do CO
 
 Durante uma quarentena total, **regiões que são menos afetadas pelo vírus podem ajudar a prover recursos para outras regiões carentes.** O bloqueio também oferecerá tempo para aumentar drasticamente o fornecimento de kits de teste COVID-19, e a capacidade de processá-los. Se o número de infecções for dramaticamente reduzido através da quarentena, e se um regime massivo de testes diagnósticos for iniciado, o COVID-19 poderá ser controlado após cinco semanas. **Uma forte quarentena poderá minimizar tanto o dano aos indivíduos como à economia.**
 
-    * Leia o parecer escrito por Chen Shen e Yaneer Bar-Yam: [Por que uma quarentena de 5 semanas pode parar o COVID-19](https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
+    * Leia o parecer escrito por Chen Shen e Yaneer Bar-Yam: [Por que uma quarentena de 5 semanas pode parar o COVID-19](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/5-week-lockdown_pt-br.pdf)
 
-    * Leia a coluna escrita por Yaneer no jornal americano "USA Today": [Nós precisamos de uma quarentena nacional imediata de cinco dias para derrotar o Coronavírus nos EUA](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
+    * Leia a coluna escrita por Yaneer no jornal americano "USA Today" (em inglês): [Nós precisamos de uma quarentena nacional imediata de cinco dias para derrotar o Coronavírus nos EUA](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
 ### 2. Uso massivo de testes, rastreamento de contatos, e isolamento
 
@@ -65,7 +65,7 @@ Os países, especialmente os asiáticos, que já possuem a expertise necessária
 
 ### Guias para indivíduos e famílias
 
-[Cotidiano e COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
+[Cotidiano e COVID-19 (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/everyday-life_pt-br.pdf)
 
    * Sobre: **cuidados a se tomar em edifícios residenciais, como fazer compras em mercados, tarefas necessárias, como lidar com encomendas e correio**
 
