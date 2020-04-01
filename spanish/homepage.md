@@ -21,20 +21,12 @@ _endCoronavirusOrg es liderada por Yaneer Bar-Yam, presidente de NECSI [New Engl
 
 El crecimiento explosivo de COVID-19 en casi todo Europa y Norteamérica indica que se necesita un cierre de emergencia de **4-6 semanas para detener el brote.** Esta medida puede ser políticamente difícil de implementar y conlleva grandes costos económicos y sociales en el corto plazo. Pero **sus efectos son impresionantes y su duración es corta**. Dos meses después de que China impuso su cierre de emergencia, practicamente ha eliminado la transmisión local de COVID-19. Wuhan es hoy más seguro que Londres o Nueva York, y la economía China va en camino a recuperarse. Sin el cierre de emergencia estricto de China, el daño económico debido al COVID-19 habría sido de varias ordenes de magnitud más grande.
 
-Durante un cierre de emergencia estricto, las personas se quedan en casa excepto para obtener alimentos y otros items esenciales, acceder al cuidado médico, o para hacer un trabajo esencial para la sociedad. Los gobiernos proveen la ayuda social y económica a las personas que las necesiten.
+Durante un cierre de emergencia estricto, **regiones menos afectadas por el virus pueden ayudar a proveer recursos a quien lo necesite.** El cierre de emergencia nos da la oportunidad de incrementar el abastecimiento de kits de prueba de COVID-19 y la capacidad para procesarlos. COVID-19 puede controlarse en 5 semanas sin necesidad de medidas extremas de distanciamiento social, siempre y cuando se reduzca el número de infecciones drásticamente con un cierre de emergencia y se inicie un régimen de diagnóstico masivo. **Un cierre de emergencia extricto minimizaría tanto el daño a las personas como a la economía.**  
 
-[**Porqué 4-6 semanas?**](pdf/5weeks_en.pdf) Durante las dos primeras semanas del cierre de emergencia, quienes estén infectados mostrarán síntomas. Este "periodo de incubación" normalmente toma de 3-5 días, pero puede tomar hasta 2 semanas. Las personas infectadas se recuperarán de casos leves de COVID-19 o buscarán el cuidado médico. Las únicas personas que pueden infectarse son aquellos que cohabitan con una persona infectada. Ya que sabemos qué personas están infectadas, porque mostraron síntomas y por diagnóstico, sabemos quien puede estar infectado y podemos aislarlos para que no infecten a más personas (a esto se le llama rastreo de contactos).
-
-Durante las 3-4 semanas siguientes, cualquier familia infectada o aquellos cohabitantes de personas infectadas se recuperarán o buscarán atención médica. Una vez aíslados no podrán infectar a otras personas. El número de casos decrecerá rápidamente. **Al final del cierre de emergencia, los casos de COVID-19 serán una pequeña fracción lo que llegaron a ser**. Esto es exactamente lo que sucedió en China.
-
-El cierre de emergencia nos da la oportunidad de incrementar el abastecimiento de kits de prueba de COVID-19 y la capacidad para procesarlos. COVID-19 puede controlarse en 5 semanas sin necesidad de medidas extremas de distanciamiento social, siempre y cuando se reduzca el número de infecciones drásticamente con un cierre de emergencia y se inicie un régimen de diagnóstico masivo. Aislar a personas infectadas y a sus contactos cercanos será suficiente. Esto es lo que se ha hecho en Singapur para controlar el brote de unos cuantos casos.
-
-El caso de Italia servirá como advertencia de intentar un cierre "a medias". Las medidas en Italia no fueron lo suficientemente estrictas---muchas personas evadieron las restricciones y continuaron propagando COVID-19. La enfermedad continuó creciendo de manera exponencial. Italia debió reforzar sus medidas de cierre para frenar la propagación. Dinamarca, que ha seguido un cierre de emergencia más completo y ha cerrado sus fronteras ha sido más exitoso en restringir el brote.
-
-    * Ver el memo de Chen Shen y Yaneer Bar-Yam:
+* Ver el memo de Chen Shen y Yaneer Bar-Yam:
    [Why A 5-Week Lockdown Can Stop COVID-19](pdf/5weeks.pdf)
 
-    * Yaneer’s op-ed en USA Today:
+* Yaneer’s op-ed en USA Today:
    [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
 ### 2. Diagnóstico masivo, rastreo de contactos, y aislamiento
