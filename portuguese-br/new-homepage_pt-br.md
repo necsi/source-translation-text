@@ -1,4 +1,5 @@
 **Original reference page:** https://www.endcoronavirus.org/home
+
 **Suggested URL:** https://www.endcoronavirus.org/home-port-br (used for the links in this archive)
 
 **Suggested corresponding links for the page:**
@@ -66,8 +67,7 @@ Os países, especialmente os asiáticos, que já possuem a expertise necessária
 
 [Cotidiano e COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
 
-    Informações sobre o que fazer com: edifícios residenciais, mercearias,
-recados necessários, encomendas e correio
+    Sobre: **vida em edifícios residenciais, como fazer compras em mercados, tarefas necessárias, como lidar com encomendas e correio**
 
 [Guias para famílias e moradores (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Family_port-br.pdf)
 
@@ -84,6 +84,7 @@ recados necessários, encomendas e correio
 [Mais guias para famílias →](https://www.endcoronavirus.org/port-br-guidelines#family)
 
 [Diretrizes para comunidades](https://www.endcoronavirus.org/port-br-guidelines#community)
+
 [Diretrizes para governos](https://www.endcoronavirus.org/port-br-guidelines#gov)
 
 Para atualizações de última hora, e novas recomendações, siga [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) e [End Coronavirus Dot Org](https://twitter.com/endCOVID19) no Twitter.
