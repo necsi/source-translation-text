@@ -24,6 +24,9 @@ El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de caso
 [El testeo masivo puede detener la epidemia de coronavirus - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/Massivetesting_en.pdf)
 - Estrategias clave de diagnóstico para identificar y aislar la propagación del virus
 
+[Cómo un cierre de emergencia de 5 semanas puede detener COVID-19](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/5weeks_es.pdf)
+- Resumen sobre el cierre de emergencia y cómo funcionó en China 
+
 [Pautas para negocios](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/business_es.pdf)
 - Resumen de acciones que las empresas pueden llevar a cabo para reducir riesgos para toda persona relacionada con el negocio y para el negocio mismo
 
