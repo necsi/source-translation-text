@@ -2,9 +2,9 @@
 
 ### We provide expert information on how to stop COVID-19 so you can act confidently.
 
-### See our recommendations for [individuals, families], [employers], and [governments].  
+### Читайте наши пекомендации для [индивидуумов, семей], [работодателей], и [государственных органов].  
 
-_EndCoronavirus is led by Yaneer Bar-Yam, president of the [New England Complex Systems Institute](https://necsi.edu). Yaneer is an **MIT-trained physicist and complexity scientist who studies pandemics**. He has warned about global pandemics due to increasing travel for 15 years. He recommended community-based monitoring of symptoms to stop **Ebola** in West Africa in 2014, and it worked_
+_Предводитель организации EndCoronavirus - Янир Бар Ям, президент [Института сложных систем Новой Англии (NECSI](https://necsi.edu). Янир - **физик, обраваный в Массачусетском технологическом институте (MIT) and complexity scientist who studies pandemics**. He has warned about global pandemics due to increasing travel for 15 years. He recommended community-based monitoring of symptoms to stop **Ebola** in West Africa in 2014, and it worked_
 
 Join over 5,000 volunteers in our group to fight COVID-19: [Join us](https://v2.endcoronavirus.org/sign-up/english)
 
