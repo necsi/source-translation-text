@@ -65,15 +65,11 @@ Länder, insbesondere in Asien, die hierbei über das erforderliche Fachwissen v
     
 [Weitere Richtlinien für Familien →](https://www.endcoronavirus.org/richtlinien#family-ger)
 
-[Alle Richtlinien](https://www.endcoronavirus.org/richtlinien)
 
 [Tägliches Update](https://v2.endcoronavirus.org/page/german-updates-page)
 
 [Interaktive Karte](https://v2.endcoronavirus.org/map/deutsch)
 
-[Häufig gestellte Fragen](https://www.endcoronavirus.org/german-faq)
-
-[Über uns](https://www.endcoronavirus.org/uber-uns)
 
 Für die neuesten Updates und Empfehlungen, folge [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) und [End Coronavirus Dot Org](https://twitter.com/endCOVID19) auf Twitter.
 
