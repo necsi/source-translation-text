@@ -33,7 +33,7 @@ _EndCoronavirus 由[新英格兰复杂系统研究所](https://necsi.edu)的 Yan
     
     * Yaneer 在《今日美国》上发表的专栏：[我们需要快速实施为期 5 周的全国封锁，以抗击美国的新冠疫情](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
-### 2. 大量检测、追踪接触史和隔离
+### 2. 大规模检测、追踪接触史和隔离
 
 大量检测，同时追踪接触者和隔离感染者，这是把**经济损失降到最小**并能挽救很多生命的干预疫情措施。新加坡和韩国的经验表明，这种方法能够抗击 COVID-19。
 
