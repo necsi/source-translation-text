@@ -36,7 +36,7 @@
 ### [Diretrizes para Supermercados, Mercearias e Farmácias](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Supermarkets-Groceries-Pharm_port-br.pdf)
 * Como essas empresas essenciais podem permanecer abertas e garantir a segurança
 
-### [Ação comunitária e suporte para COVID-19](https://necsi.edu/s/CommunitySupport.pdf)
+### [Ação comunitária e suporte para COVID-19](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/comm-action_pt-br.pdf)
 * Como construir engajamento da comunidade e o suporte comunitário mútuo
 
 ### [Segurança e avaliação de empregados: perguntas para empregadores](https://necsi.edu/s/Questionaire.pdf)
