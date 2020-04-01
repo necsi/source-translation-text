@@ -16,6 +16,6 @@ O bloqueio também oferece tempo para aumentar drasticamente o fornecimento de k
 
 O caso da Itália serve como um aviso sobre a tentativa de um bloqueio "suave". As medidas de bloqueio da Itália eram insuficientemente rigorosas - muitos italianos desrespeitaram as restrições de movimento e continuaram a espalhar o COVID-19. A doença continuou a crescer exponencialmente. A Itália está reforçando seus procedimentos de bloqueio para evitar uma maior disseminação. A Dinamarca, que mantem um bloqueio mais completo e que fechou suas fronteiras, teve muito mais sucesso em reduzir seu surto.
 
-![Figura: Dinâmica do surto na China, mostrando o início da quarentena e o número de casos em cada província. A caixa de cores representa o número de novos casos confirmados no dia, e a passagem do tempo se dá de cima para baixo. ](/source-translation-text/portuguese-br/china-graph.png)
+![Figura: Dinâmica do surto na China, mostrando o início da quarentena e o número de casos em cada província. A caixa de cores representa o número de novos casos confirmados no dia, e a passagem do tempo se dá de cima para baixo. ](china-graph.png)
 
 **Tradução:** "COVID-19 Outbreak" -> "Surto de COVID-19"; "Epicenter" -> Epicentro; "Provinces" -> Províncias; "Lock-down" -> Início da quarentena; "14 days" -> 14 dias; "5 weeks" -> Cinco semanas; "Mostly isolated cases" -> Casos, na sua maioria, isolados; "Imported quarantined cases" -> Casos advindos de outras localidades, já postos em quarentena.
