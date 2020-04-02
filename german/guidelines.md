@@ -50,7 +50,7 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 
 [Wie man die Gemeinde unterstützen kann (Englisch)](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/CommunitySupport.pdf)
 
-- Wie man das Engagement innerhalb einer Gemeinschaft stärkt und die Menschen einander unterstützen können
+- Wie man das Engagement innerhalb einer Gemeinschaft stärkt und die Menschen einander helfen können
 
 [Sicherheit und Überprüfung von Mitarbeitern: Fragen für Arbeitgeber (Englisch)](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
 
@@ -59,11 +59,11 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 ‍
 
 # Weitere nützliche Richtlinien
-[Handbuch zur COVID-19 Vorsorge und Behandlung (Englisch)]()
+[Handbuch zur COVID-19 Vorsorge und Behandlung (Englisch)](http://bit.ly/NECSI_Handbook_COVID-19_Prevention_and_Treatment)
 
 - Ein Handbuch, das vom First Affiliated Hospital der Zheijang University School of Medicine erstellt wurde
 
-[Blut-Management für Patienten während der COVID-19 Pandemie (Englisch)]()
+[Blut-Management für Patienten während der COVID-19 Pandemie (Englisch)](https://sabm.memberclicks.net/assets/COVID-19/SABM-PBM-COVID19-statement-20200317.pdf)
 
 - Richtlinien der Society for the Advancement of Blood Management
 ‍
