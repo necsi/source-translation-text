@@ -1,103 +1,71 @@
-## Përhap dituri, jo virus
+# Përhap diturinë, jo virusin
 
-## Përditësim për COVID-19 në botë
+### Ne ofrojmë informata ekspertësh se si të ndalet COVID-19 ashtu që ti të kesh mundësi të veprosh me vetbesim
 
-Mars 19, 2020
-230,041 raste të konfirmuara
-dhe 9,386 vdekje. Këta numra vazhdojnë të rriten.
+### Shih rekomandimet tona për [individët, familjet], [punëdhënësit], dhe [qeveritë].  
 
-Itali +4,207* raste
-Kinë +34 raste
-Spanjë +2,626 raste
-Iran +1,046 raste
-SHBA +1,522 raste
-Gjermani +1,652 raste
+_EndCoronavirus udhëhiqet nga Yaneer Bar-Yam, kryetar i [Neë England Complex Systems Institute](https://necsi.edu). Yaneer është **fizicient i shkolluar në MIT dhe shkencëtar i kompleksitetit i cili studion pandemitë**. Tashmë 15 vjet ai ka paralajmëruar për pandemitë globale si rezultat i udhëtimeve të shpeshtuara. Ai ka rekomanduar monitorim të simptomave brenda komuniteteve për të ndaluar **Ebolan** në Afrikën Perëndimore gjatë vitit 2014, dhe kjo gjë ka funksionuar_
 
-‍
-*Përditësimi i fundit Mars 18, 2020
+Bashkangjitju më shumë se 5000 vullnetarëve në grupin tonë për të luftuar COVID-19: [Bashkangjitu](https://v2.endcoronavirus.org/sign-up/english)
 
-Përditësimet
+|![yaneer](images/Yaneer.jpg)|
+|Kryetar në NECSI, Prof. Yaneer Bar-Yam|
+| --- |
 
+## Mënyra më e shpejtë dhe e vetme për të ndaluar COVID-19 në Shtetet e Bashkuara është një bllokim kombëtarë për pesë javë.
 
-## Secili mund të ndihmoj! Bashkangjitu:
+### Tre rekomandimet tona kryesore për qeveritë
+### 1. Bllokimi
 
-Regjistrohuni
-që t'u ndihmoni komuniteteve dhe familjeve tuaja, që të krijoni zona të sigurta
-Familja dhe komuniteti juaj kanë nevojë për ju:
-Pastroni duart!
+Në pjesën ma të madhe të Evropës dhe Amerikës Veriore, rritja e vrullshme e COVID-19 nënkupton që **një bllokim i fuqishëm për 4 - 6 javë është i domosdoshëm për të ndaluar përhapjen.** Në aspektin politik mund të jetë e vështirë të implementohen bllokime të këtilla, dhe gjithmonë përfshijnë kosto domethanëse afat-shkurta ekonomike dhe shoqërore. Por **efektet e tyre janë dramatike, dhe kohëzgjatja e tyre është e shkurtë.** Dy muaj pasi Kina implementoi bllokimin, atje është eliminuar tërësisht përhapja lokale e COVID-19. Tani, ëuhan është më i sigurt se Londra apo Neë Yorku, dhe ekonomia në Kinë tashmë është në rimëkëmbje e sipër. Pa bllokimin strikt të Kinës, dëmi ekonomik i COVID-19 në Kinë do të ishte shumëfish (dhjetra e qindra) herë më i madh.
 
-Pastroni sipërfaqet dhe përdorni sanitizues
+Gjatë një bllokimi të fort, **rajonet që janë më pak të prekura nga virusi mund të ndihmojnë që t'u sigurohen resurse rajoneve të prekura.** Bllokimi gjithashtu mundëson kohë që të rritet furnizimi me komplete testimi për COVID-19 si dhe kapaciteti për t'i procesuar ato. Nëse numri i infeksioneve zvogëlohet në mënyrë dramatike përmes bllokimit dhe nëse ndërmirret një regjim i testimeve masive, COVID-19 mund të futet nën kontrollë pas pesë javësh pa masat ekstreme të distancimit shoqëror. **Një bllokim i fuqishëm do të zvogëlonte edhe damin e shkaktuar individëve, edhe atë të shkaktuar ekonomisë.**
 
+    * Shih memon e përpiluar nga Chen Shen dhe Yaneer Bar-Yam: [Përse një bllokim 5-javësh mund të ndaloj COVID-19](https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5ëeeks.pdf)
 
-Anuloni planet e udhëtimit për tani
-është çmim i vogël për të shpëtuar jetë!
+    * Artikulli i Yaneer në USA Today: [Na duhet një bllokim kombëtar i përnjëhershëm për pesë javë që ta mundim Koronavirusin në Amerikë](https://ëëë.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-ëeek-national-lockdoën-column/2890376001/)
 
+### 2. Testimi masiv, Gjurmimi i kontakteve, dhe Izolimi
 
-Rrini në shtëpi sa më shumë që mundeni
-Edhe nëse jeni të shëndetshëm - posaçërisht nëse jeni të sëmurë
+Testimi masiv për COVID-19 së bashku me gjurmimin e kontakteve dhe më pas izolimi i kontakteve të individëve të infektuar është intervenimi që shkakton **më së paku dëm ekonomik** dhe shpëton shumë jetë. Singapuri dhe Korea kanë dëshmuar se kjo mënyrë funksionon për të mundur COVID-19.
 
-Shmangiuni turmave, transportit, ndejave, dhe bareve
-Këto aty do të jenë edhe më vonë
+Qeveritë do të duhej përdorur strategjitë në vijim për të ndaluar COVID-19:
 
+1. **Gjurmimi i kontakteve**: Izolimi, monitorimi, dhe testimi i secilit që ka qenë në kontakt me një individ që dihet se është infektuar.
 
-Punoni nga shtëpia nëse është e mundshme
-Shmangni mundësinë që t'i bëni kolegët përhapës të virusit
+2. **Testim gjenerik simptomatik**: Testimi i secilit në zonën gjeografike të individit të infektuar për simptomat e COVID-19 si shembull temperatura e lartë.
 
-Monitoroni shëndetin tuaj
-Thirrni mjekun nëse keni temperaturë prej 38°C apo më shumë
+3. **Marrja e mostrave**: Testimi i individëvë të përzgjedhur në mënyrë të rëndomt në mesin e popullatave me rrezik të lartë siq janë burgjet, shtepitë e shëndetit, dhe konviktet.
 
+Vendet, veçanërisht në Azi, që kanë ekspertizën e nevojshme do të duhej të ndihmojnë pjesët tjera të botës për ngritjen e kapaciteteve të ekspertizës. Ekipat e gjurmimit të kontakteve duhet të trajnohen dhe vendet duhet të rrisin vrullshëm testimin. Vendet do të duhej përdorur kapacitetet e testimit në institucione akademike dhe korporata.
 
-Mbani maskë fytyre në publik
-Posaçërisht kur të jeni aftër bartësve të mundshëm të COVID-19
+### 3. Kufizimi i mobilitetit pa ndërprerë furnizimet esenciale dhe kujdesin mjekësor
 
+**Udhëtimi nga zonat me shpërthim aktiv do të duhej të ndalohej**. Secili individ do të duhej të karantinohej për 14 ditë kur të hyj në zonat tjera. Aty ku ka shpërthime aktive, kufizimi i mobilitetit duke lejuar vetëm udhëtimet e domosdoshme i mundëson zonave me më pak raste që të marrin kontrollë më të shpejtë mbi situatën me më pak intervenime. Aftësia për rimëkëmbje më të shpejtë është e rëndësishme për rimëkëmbjen ekonomike dhe për aftësinë për t'i ndihmuar zonave që janë prekur më shumë.
 
-Mbuloni fytyrën kur të kolliteni apo teshtini
-E thjesht por efektive
+| --- |
 
+## Udhëzimet për individ dhe familje
 
-Cfarë mund të bëj që të parandaloj infektimin apo përhapjen e COVID-19?
-Janë disa hapa që mund të ndërmerrni që të ndaloni përhapjen. Ekspertët tanë kanë shkruar udhërrëfyes të detajuar se si të luftohet COVID-19.
+[Jeta e përditshme dhe COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
 
+    Çfarë të bëhet lidhur me: Ndërtesat e banimit, marketet, aktivitetet e domosdoshme, porositë e pranuara me postë
 
-## Udhërrëfyesit
+[Udhëzimet për familje (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
 
-Udhërrëfyesi për familje
-Udhërrëfyesi për biznese
-Udhërrëfyesi për qeveritë
+    Udhëzimet tona të përgjithshme për familjet
 
+[Udhëzimet për vetizolim (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
 
-## Përditësimet
+    Çka duhet bërë kur: Jetoni vet, Ndani vendbanimin me dikë tjetër
 
+[Udhëzimet për shëndetin e sistemit të frymëmarrjes (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
 
-Mars 18, 2020
-Mars 17, 2020
-Mars 16, 2020
-Mars 15, 2020
-Mars 14, 2020
-Mars 13, 2020
-Mars 12, 2020
-Mars 11, 2020
-Mars 10, 2020
-Mars 9, 2020
-Tëitter
+    Çka mund të bëni për të reduktuar rrezikun e një rasti të rëndë të COVID-19
 
-Përse kanë mar njerëzit frikë nga ky shpërthim, a nuk është mu sikur gripi i zakonshëm?
-Ky koronavirus (COVID-19) shkakton 20% raste të rënda dhe 2% vdekje. Kjo është rreth 20 herë më shumë se sa efekti i gripit.
+Udhëzime tjera për familje →
 
-Periudha tipike e inkubimit është 3 ditë por mund të shkoj deri në 14 ditë, dhe ka raportime për raste prej 24 dhe 27 ditë.
+[Udhëzimet për komunitet]((https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+[Udhëzimet për qeveri](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 
-Është tejet leht i transmetueshëm me një rritje te përditshme prej 50% në raste të reja (shkalla e përhapjes R0 rreth 3-4) përveç nëse bëhen intervenime të jashtzakonshme.
-
-Ndihmo në zhdukjen e kësaj epidemie
-endCoronavirus.org është ndërtuar dhe mirëmbahet nga New England Complex Systems Institute (NECSI) dhe bashkëpunëtorët.  Qëllimi jonë është te minimizohet impakti i COVID-19 duke siguruar të dhana te dobishme dhe udhërrëfyes për veprim.
-
-Lidhur me ne
-Kyçi që të ndalet përhapja e këtij virusi është që të rrallohen pikat e kontaktit
-Secilën herë që virusi nuk e infekton edhe një person, ka ndikim të madh në zvogëlimin e numrit të përgjithshëm të infeksioneve. Sa më mirë të jemi të informuar përgjatë veprimeve tona, aq më mirë do t'i shërbejmë të dashurëve tanë më të ndjeshçm si dhe infrastrukturës sonë shëndetësore në përgjithësi.
-
-Pa intervenim, besohet se një individ me virus do të infektoj mesatarisht 3-4 njerëz, gja që rezulton në një rritje eksponenciale të numrit të rasteve. Nëse kontakti shoqëror mund të zvogëlohet ashtu që numri mesatar i njerëzve që një individ me virus infekton është më i vogël se një person, atëherë numri i rasteve do të zvogëlohet në mënyrë eksponenciale.
-
-Vazhdo të informohesh me lajmet më të reja për parandalimin dhe përmbysjen e përhapjes së COVID-19, të shkruar dhe publikuar nga ekspertët e fushës.
-
-Përcill Rastet e Reja në Botë:
-Nuk ka mungesë të të rejave lidhur me koronavirusin. Përqendrimi i punës sonë është që të sigurojmë informatat relevante që qojnë në veprime pragmatike për individët, punëdhënësit, qeveritë, si dhe OJQ-të.
+Për përditësimet dhe rekomandimet më të reja, përcillni [Yaneer Bar-Yam](https://tëitter.com/yaneerbaryam) dhe [End Coronavirus Dot Org](https://tëitter.com/endCOVID19) në Twitter.
