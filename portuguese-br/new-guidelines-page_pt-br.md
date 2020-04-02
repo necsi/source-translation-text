@@ -3,52 +3,52 @@
 
 ## Faça o download dos manuais em PDF
 
-### [Dia-a-dia e COVID-19] ()
+### [Dia-a-dia e COVID-19](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/everyday-life_pt-br.pdf)
 * Sobre: **vida em edifícios residenciais, como fazer compras em mercados, tarefas necessárias, como lidar com encomendas e correio**
 
-### [Diretrizes essenciais para o Coronavírus] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/general-guidelines_port-br.pdf)
+### [Diretrizes essenciais para o Coronavírus](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/general-guidelines_port-br.pdf)
 * Diretrizes chave para todos, de indivíduos a organizações
 
-### [Diretrizes para famílias] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Family_port-br.pdf)
+### [Diretrizes para famílias](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Family_port-br.pdf)
 * Nossas diretrizes gerais para famílias e pessoas que compartilham residências
 
-### [Diretrizes para Instituições Sujeitas a Alto Risco] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/high-risk_port-br.pdf)
-* Instituições sujeitas a alto risco incluem dormitórios, asilos, clínicas de reabilitação e prisões
+### [Diretrizes para Instituições Sujeitas a Alto Risco](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/high-risk_port-br.pdf)
+* Instituições Sujeitas a Alto Risco incluem dormitórios, asilos, clínicas de reabilitação e prisões
 
-### [Diretrizes para auto-isolamento] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Self-isolation_port-br.pdf)
-* O que fazer quando: você vive sozinho, ou divide residência com mais alguém
+### [Diretrizes para auto-isolamento](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Self-isolation_port-br.pdf)
+* O que fazer quando: **você vive sozinho, ou divide residência com mais alguém**
 
-### [Uso massivo de testes pode parar o surto de Coronavírus] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/massive-testing_pt-br.pdf)
-* Estratégias chaves de uso de testes para identificar e isolar o espalhamento do vírus
+### [Uso massivo de testes pode parar o surto de Coronavírus](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/massive-testing_pt-br.pdf)
+* Estratégias-chave de uso de testes diagnósticos para identificar e isolar o espalhamento do vírus
 
-### [Diretrizes para empresas] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Business_port-br.pdf)
-* Um conjunto de ações que empresas devem tomar para reduzir riscos a todos os associados a empresa, e à própria empresa
+### [Diretrizes para empresas](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Business_port-br.pdf)
+* Um conjunto de ações que empresas devem tomar para reduzir riscos a todos os associados à empresa, e à própria empresa
 
-### [Recomendações para formuladores de políticas] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/policy-makers_port-br.pdf)
-* Uma lista de 9 ações recomendadas para formuladores de políticas públicas para parar o surto
+### [Recomendações para formuladores de políticas](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/policy-makers_port-br.pdf)
+* Uma lista de 9 ações recomendadas para formuladores de políticas públicas para interromper o surto
 
-### [Diretrizes para indivíduos, comunidades e governos locais] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Individuals-Comm-Govern_port-br.pdf)
+### [Diretrizes para indivíduos, comunidades e governos locais](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Individuals-Comm-Govern_port-br.pdf)
 * Visão geral de ações e intervenções em várias escalas
 
-### [Diretrizes de saúde respiratória para melhores resultados contra o Coronavírus] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/resp-health_port-br.pdf)
+### [Diretrizes de saúde respiratória para melhores resultados contra o Coronavírus](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/resp-health_port-br.pdf)
 * O que você pode fazer para reduzir o seu risco de desenvolver um quadro severo de COVID-19
 
-### [Diretrizes para Supermercados, Mercearias e Farmácias] (https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Supermarkets-Groceries-Pharm_port-br.pdf)
-* Como essas empresas essenciais podem permanecer abertas e garantir a segurança
+### [Diretrizes para Supermercados, Mercearias e Farmácias](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Supermarkets-Groceries-Pharm_port-br.pdf)
+* Como essas empresas essenciais podem permanecer abertas e garantir a segurança dos funcionários e clientes
 
-### [Ação comunitária e suporte para COVID-19] ()
+### [Ação comunitária e suporte para COVID-19](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/comm-action_pt-br.pdf)
 * Como construir engajamento da comunidade e o suporte comunitário mútuo
 
-### [Segurança e avaliação de empregados: perguntas para empregadores] ()
-* Diretrizes para empregadores para salvaguardarem os empregados e o local de trabalho
+### [Segurança e avaliação de empregados: perguntas para empregadores](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/questionnaire_pt-br.pdf)
+* Diretrizes para empregadores para a proteção de seus empregados e do local de trabalho
 
 
 ## Outros guias úteis
 
-### [Manual de prevenção e tratamento contra o COVID-19 (em inglês)] (http://bit.ly/NECSI_Handbook_COVID-19_Prevention_and_Treatment)
-* Manual produzido pelo Primeiro Hospital Afiliado da Escola de Medicina da Universidade de Zheijang
+### [Manual de prevenção e tratamento contra o COVID-19 (em inglês)](http://bit.ly/NECSI_Handbook_COVID-19_Prevention_and_Treatment)
+* Manual produzido pelo Primeiro Hospital Afiliado da Escola de Medicina da Universidade de Zheijang, China
 
-### [Gerenciamento de Volume de Sangue de Pacientes (*Patient Blood Management*) durante a pandemia do COVID-19 em 2020 (em inglês)] (https://sabm.memberclicks.net/assets/COVID-19/SABM-PBM-COVID19-statement-20200317.pdf)
+### [Gerenciamento de Volume de Sangue de Pacientes (*Patient Blood Management*) durante a pandemia do COVID-19 em 2020 (em inglês)](https://sabm.memberclicks.net/assets/COVID-19/SABM-PBM-COVID19-statement-20200317.pdf)
 * Diretrizes elaboradas pela Sociedade para o Avanço do Gerenciamento do Volume de Sangue 
 
 ## Diretrizes para famílias
@@ -56,7 +56,6 @@ Em áreas de risco elevado em que o governo não está tomando as medidas adequa
 1. Reduzir o contato entre a família e outras pessoas, e prover-se com produtos essenciais, à medida em que o risco aumentar
 2. Criar um espaço seguro para a proteção daqueles que estão nele, através de acordo entre todos para não entrarem em contato físico desprotegido com outras pessoas, ou com superfícies tocadas por outras pessoas.
 A existência de um "espaço seguro" também reduz o contágio, porque os que estão no espaço seguro não participam da transmissão da doença. Os membros de um espaço seguro podem combinar-se com outros para expandirem cuidadosamente o espaço seguro ou criar novos. Abaixo estão nossas diretrizes para as famílias.
-
 
 ## Reduzindo o contato entre a família e outras pessoas:
 * Leia atentamente as nossas diretrizes para indivíduos e compartilhe-as com os membros da família. Discuta com eles como reduzir o contato com outras pessoas.
@@ -131,7 +130,7 @@ Em um momento de risco como esse, haverá ações tomadas por engano que podem c
 Abaixo, listamos várias ações que as empresas podem executar para impedir a disseminação do Coronavírus. Incluímos considerações especiais também para o varejo (comércio) e a hotelaria.
 
 Nota: a Câmara Internacional Francesa de Comércio está fazendo uso dessas diretrizes.
-‍
+
 ## Geral
 * Promova o conhecimento entre os funcionários e suas famílias sobre a transmissão e prevenção do Coronavírus.
 * Desenvolva políticas personalizadas da organização para reduzir a transmissão e providenciar uma implementação nos mínimos detalhes

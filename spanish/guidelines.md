@@ -13,7 +13,7 @@ El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de caso
 - Guías clave para todos, desde individuos hasta organizaciones
 
 [Guía para el Hogar (PDF)](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/family_es.pdf)
-- Medidas generales para familias y hogares
+- Medidas generales (espacios seguros) para familias y hogares
 
 [Guía para el auto aíslamiento (PDF)](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/self_isolation_en.pdf)
 - Qué hacer si se está viviendo por si mismo o compartiendo el hogar con alguien más
@@ -21,8 +21,11 @@ El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de caso
 [Pautas para instituciones de alto riesgo - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/high-risk_en.pdf)
 - Instituciones de alto riego como comunidades de pensionados, dormitorios, asilos, hogares de rehabilitación, y prisiones
 
-[El testeo masivo puede detener la epidemia de coronavirus - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/Massivetesting_en.pdf)
+[El testeo masivo puede detener la epidemia de coronavirus](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/MassiveTesting_es.pdf)
 - Estrategias clave de diagnóstico para identificar y aislar la propagación del virus
+
+[Cómo un cierre de emergencia de 5 semanas puede detener COVID-19](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/5weeks_es.pdf)
+- Resumen sobre el cierre de emergencia y cómo funcionó en China 
 
 [Pautas para negocios](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/business_es.pdf)
 - Resumen de acciones que las empresas pueden llevar a cabo para reducir riesgos para toda persona relacionada con el negocio y para el negocio mismo
@@ -35,9 +38,6 @@ El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de caso
 
 [Guía para la Salud Respiratoria (PDF):](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/respiratory-health_en.pdf)
 - Qué hacer para reducir el riesgo de un caso severo de COVID-19
-
-[Guía sobre espacios seguros para la familias - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/safespaces_en.pdf)
-- Como crear espacios seguros dentro del hogar
 
 [Guías para supermercados, tiendas de comestibles y farmacias - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/supermarket_grocery_stores_pharmacies_en.pdf)
 - Qué hacer para que estos negocios puedan seguir abiertos y su seguridad esté asegurada
