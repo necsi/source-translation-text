@@ -60,7 +60,15 @@ Employee safety and screening: questions for employers
 ## Other Useful Guidelines
 Handbook of COVID-19 Prevention and Treatment
 
+-A handbook produced by First Affiliated Hospital, Zheijang University School of Medicine
+
 Patient Blood Management During the 2020 COVID-19 Pandemic
+
+-Guidelines by the Society for the Advancement of Blood Management
+
+Don’t Rebreath the Coronavirus: New Mask Designs
+
+-A useful brainstorm for improved mask designs
 ‍
 
 ## Family Guidelines
