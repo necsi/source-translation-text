@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|49|5  April 2020, 22:00 UTC|New PDF on guidelines page: WinningCOVID.pdf|
 |48|5  April 2020, 22:00 UTC|Guidelines page: alert code changed to PDF. Word doc and PPT for this is in the PDF folder in gh|
 |47|5  April 2020, 16:00 UTC|New PDF under construction "dont rebreathe...": do not translate yet|
 |46|5  April 2020, 16:00 UTC|Guidelines page: deleted much of the text, introduced an alert code chart|
