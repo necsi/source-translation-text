@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|48|5  April 2020, 22:00 UTC|Guidelines page: alert code changed to PDF. Word doc for this is in the PDF folder in gh|
 |47|5  April 2020, 16:00 UTC|New PDF under construction "dont rebreathe...": do not translate yet|
 |46|5  April 2020, 16:00 UTC|Guidelines page: deleted much of the text, introduced an alert code chart|
 |45|31 March 2020, 23:00 UTC|Guidelines page: added descriptions for each guideline pdf|
