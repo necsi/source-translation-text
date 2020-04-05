@@ -1,4 +1,4 @@
-Massive Testing Can Stop the Coronavirus Outbreak
+Массовое тестирование может остановить вспышку Коронавируса
 ‍
 
 Chen Shen and Yaneer Bar-Yam, Massive testing can stop the coronavirus outbreak, New England Complex Systems Institute (March 6, 2020)
