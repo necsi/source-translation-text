@@ -3,7 +3,8 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
-|46|5  April 2020, 1:00 UTC|Guidelines page under construction. No need for changes yet.|
+|47|5  April 2020, 16:00 UTC|New PDF under construction "dont rebreathe...": do not translate yet|
+|46|5  April 2020, 16:00 UTC|Guidelines page: deleted much of the text, introduced an alert code chart|
 |45|31 March 2020, 23:00 UTC|Guidelines page: added descriptions for each guideline pdf|
 |44|31 March 2020, 16:00 UTC|Home page: lockdown section simplified to reduce the amount of text|
 |43|29 March 2020, 08:00 UTC|updates to the new homepage|
