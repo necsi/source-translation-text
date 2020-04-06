@@ -22,16 +22,20 @@ Editors are used as collaborators. Each editor works **only** on his/her own dir
 
 ## Workflow
 * once collaborator (talk to [Paul](paulghaddad) or [Angelo](aprossi) look for your language directory.
-* Edit the files from the web interface and put the content
-* Publish your changes using Pull Request (PR in short). Add meaningful commit messages and a branch name. If you commit half-way before ending a changelog entry, state it in the commit message (e.g. ```started working on new About page```
-* Once one of the formal changes is applied to your language, please document it (e.g. ```changelog 20 Italian```)
-Here's an example using russian language:
+* edit the files from the web interface and put the content
+* publish your changes using Pull Request (PR in short). Add meaningful commit messages and a branch name. If you commit half-way before ending a changelog entry, state it in the commit message (e.g. ```started working on new About page```)
+* once one of the formal changes is applied to your language, please document it (e.g. ```changelog 20 Italian```)
+
+### Here's an example using russian language:
+
 ![](./gh-tutorials/making-changes.gif)
 
-* If you're working in a team of people and want your changes to be reviewed, invite them to do so in your Pull Request:
+### If you're working in a team of people and want your changes to be reviewed, invite them to do so in your Pull Request:
+
 ![](./gh-tutorials/adding-reviewers.gif)
 
-* If you were invited to review changes yourself, here's how to conduct it:
+### If you were invited to review changes yourself, here's how to conduct it:
+
 ![](./gh-tutorials/PR-review.gif)
 
 ## Translations
