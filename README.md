@@ -30,12 +30,12 @@ Here's an example using russian language:
 
 ![](./gh-tutorials/making-changes.gif)
 
-#### Making pull requests
+### Adding reviewers
 If you're working in a team of people and want your changes to be reviewed, invite them to do so in your Pull Request:
 
 ![](./gh-tutorials/adding-reviewers.gif)
 
-#### Conducting reviews
+### Conducting reviews
 If you were invited to review changes yourself, here's how to conduct it:
 
 ![](./gh-tutorials/PR-review.gif)
