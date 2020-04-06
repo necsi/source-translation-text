@@ -32,7 +32,7 @@ Here's an example using russian language:
 ![](./gh-tutorials/adding-reviewers.gif)
 
 * If you were invited to review changes yourself, here's how to conduct it:
-![](./gh-tutorials/PR-review)
+![](./gh-tutorials/PR-review.gif)
 
 ## Translations
 
