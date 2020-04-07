@@ -1,0 +1,207 @@
+\documentclass[twocolumn,journal]{IEEEtran}
+\usepackage[usenames, dvipsnames]{xcolor}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+\usepackage{titlesec}
+
+\usepackage[margin=0.2in]{geometry}
+
+\titleformat{\section}
+{\scshape\filcenter}
+{}
+{0em}
+{}
+
+\usepackage{nopageno}
+
+\def\tightlist{}
+
+\title{Útmutató az önizolációhoz}
+\author{Chen Shen és Yaneer Bar-Yam}
+\date{2020. március 15.}
+
+\makeatletter
+\def\@maketitle{%
+  \newpage
+  \null
+  \begin{center}%
+  \let \footnote \thanks
+    {\LARGE\color{Brown} \@title \par}%
+    \vskip 0.5em%
+    {\large
+      \lineskip .5em%
+      \begin{tabular}[t]{c}%
+        \@author
+      \end{tabular}\par}%
+    \vskip 0.5em%
+    {\large New England Complex Systems Institute}%
+    \vskip 0.5em%
+    \small{\textit{fordította Kovács Kornél}}
+    \vskip 0.5em%
+    {\large \@date}%
+  \end{center}%
+  \par
+  \vspace{-4ex}
+  }
+\makeatother
+\begin{document}
+\maketitle
+\thispagestyle{empty} %Removes page numbering from the first page
+
+
+Ez az útmutató olyanok számára készült, akik COVID-19-tesztje pozitív lett, de tünetmentesek vagy csak enyhe tüneteik vannak. Enyhe tünet a láz, az enyhe fáradság, a köhögés, feltéve, hogy nem mutatkoznak a tüdőgyulladás tünetei és nincs krónikus betegség.
+
+E dokumentum továbbá iránymutatásként szolgálhat olyan területek számára is, ahol korlátozottak az egészségügyi erőforrások, és nem megoldott a közepes, vagy annál súlyosabb esetek kórházi kezelése. Kérjük, vegye figyelembe, hogy ettől függetlenül az itt leírtak enyhe vagy tünetmentes fertőzötteknek szólnak. Tünetek jelentkezésekor, ideértve a légzési problémákat, magas lázat, azonnal forduljon orvoshoz.
+
+\begin{center}
+ÁLTALÁNOSSÁGBAN
+\end{center}
+
+• Tudatosítsa magában, hogy a betegek többsége teljesen felépül. A
+karantén átmeneti szükségszerűség, jellemzően 14 napig tart.
+
+• \textbf{Erősen javasolt egyedül, de minimum külön szobában laknia.}
+
+\begin{center}
+HA EGYEDÜL ÉL
+\end{center}
+
+• Kísérje figyelemmel egészségi állapotát. Vezessen naplót egészségi állapotáról olvasható kézírással, és tartsa könnyen hozzáférhető helyen. A bejegyzések az alábbiakat tartalmazzák: a bejegyzés dátuma és időpontja, pulzusszám, a vér (oximéterrel mért) oxigénszintje, bármilyen tünet, étkezések, alkalmazott gyógyszerek dózisai.
+
+• Legyen naprakész a helyi viszonyokat illetően, hogy mit kell tennie, ha tünetei súlyosbodnának. A kulcsfontosságú telefonszámokhoz állítson be gyorshívót. Beszélje meg egy családtagjával/barátjával és, legalább naponta számoljon be állapotáról. Tudassa velük vészhelyzetre vonatkozó elérhetőségeit, valamint minden olyan információt, ami a lakásba való bejutáshoz szükséges, arra az esetre, ha cselekvőképtelenné válna.
+
+• Vigyázzon egészségére megfelelő folyadékbevitellel, kiegyensúlyozott étkezéssel, rendszeres alvással. Foglalja el magát szabadidős vagy tanulmányi tevékenységekkel, ilyenek például az olvasás, az egyedül játszható vagy online játékok, vagy más online tevékenységek.
+
+• Mindig legalább 20 másodpercig mosson kezet szappannal vagy kézfertőtlenítővel.
+
+• Lakókörnyezetének rendszeres szellőztetése is nélkülözhetetlen.
+
+• Gyakran mossa ágyneműjét, türölközőit, ruházatát. Különítse el sajátját másokétól.
+
+• Ne érjen házi kedvencéhez vagy más állathoz. Ha ez nem lehetséges, mindenképp viseljen maszkot, és az interakció előtt és után is mosson kezet.
+
+• Szigetelje el magát a másokkal való bármilyen fizikai érintkezéstől, de családjával és barátival továbbra is tartsa a kapcsolatot SMS-ben, videón, cseten, vagy egyéb elektronikus úton. Ez több ok miatt is fontos, részben azért, hogy pozitívan tekintsen a jövőbe.
+
+• Ha a járványról szóló hírek aggodalommal töltik el, próbáljon kevesebbet foglalkozni velük, ne terhelje meg magát még jobban lelkileg.
+
+• A napirendje legyen nagyjából állandó. Ha lehetséges, végezzen enyhe vagy közepes mértékű testmozgást.
+
+• Egyeztessen a család barátaival vagy a helyi hatóságokkal az alapvető szükségletekkel való ellátásáról, beleértve a napi étkezéseket. Tartsa számon a legszükségesebbeket, és legyen tisztában vele, melyik mikor kezd elfogyni, készüljön fel rá, és előre értesítse szállítóit. A legjobb, ha nem érintkeznek egymással, és egyszerűen csak otthagyják magának. Maszk és kesztyű szükséges, valahányszor kézbesítővel kerül kapcsolatba.
+
+• Egyeztessen a helyi hatóságokkal és egészségügyi intézményekkel a karantén hosszáról és az önizoláció befejezésének feltételeiről. Előre elterveze takarítson, tisztítson, és mosson a karantén elhagyása előtt. A karantén után továbbra is legyen körültekintő.
+
+• Ritkán lakott területen, ahol az otthonából történő be- és kilépés megoldható anélkül is, hogy másokkal érintkezne vagy közös teret használna, szabad magányos sétákat tenni. Ne feledkezzen meg róla, hogy karanténban van és ne érintkezzen másokkal, ne menjen olyan helyekre, ahol valószínűleg mások is voltak/vannak/lehetnek majd.
+
+\begin{center}
+HA MÉG VALAKIVEL KÖZÖSEN ÉL
+\end{center}
+
+
+
+• Az egy háztartásban élők egymással \textbf{szoros kapcsolatban} vannak, és a szoros kapcsolatokra vonatkozó útmutató kell követniük, beleértve, hogy kerüljék a másokkal való kontaktust.
+
+• A háztartás többi lakója se fogadjon látogatókat, főleg veszélyeztetetteket ne (időseket, krónikus betegeket). Minden látogatot tájékoztatni kell a karanténban lévő személy jelenlétéről.
+
+• Világosan határoljanak el különböző zónákat a lakáson belül, ha lehet, szemléltető eszközökkel is segítve. A karanténban lévő által használt hálószoba és helyiségek a Vörös zónába tartoznak. A Vörös zóna melleti helyiségek, például a nappali, a Sárga zónába tartoznak. A többi különálló szóba alkotja a Zöld zónát. 
+
+• A karanténban lévőnek szigorúan követnie kell a tüsszentési illemszabályokat, tüsszentsen eldobható zsebkendőbe, amit biztonságosan ki lehet dobni, vagy olyan ruhaneműbe (például ingujj), amit rövidesen kimosnak. 
+
+• Alakítsanak ki egy háztartáson belüli kommunikációs mechanizmust, hogy a karanténban lévő értesíthesse a többi lakót, ha el kell hagynia a szobáját.
+
+• A karantén lévőnek kell rendszeresen fertőtlenítenie a Vörös zónát. A többi lakó fertőtlenítse a Sárga zónákat, és lehetőleg a Zöld zónakat is, rendszeresen.
+
+• A karanténban lévő maradjon a Vörös zónában, és csak akkor lépjen a Sárga zónákba, ha muszáj. A Zöld zónákat teljesen kerülje el. A karanténban lévővel szoros kapcsolatba kerülő tárgyakra is ugyanez vonatkozik. A Vörös zónán kívül, a karanténban lévő viseljen kesztyűt és maszkot.
+
+• A fertőzés lehetséges útvonalai: a Közösen használt helyiségek: konyha, fürdőszoba, stb. Közös háztartási kellékek: törülköző, poharak, evőeszközök, stb. Közös étel, ital, stb. Megérintett felületek: ajtókilincs, asztallap, távkapcsoló, villanykapcsoló, stb. Ezeket fertőtleníteni kell, legalább naponta egyszer.
+
+• A karanténban lévő fertőtlenítsen a közös helyiségek használata után, különösen a fürdőszoba használata után. A WC-ülőke fedele legyen lehajtva, ha nem használják.
+
+• A karanténban lévőnek legyen külön szemetese, ahová a kesztyűket, maszkokat, zsebkendőket, stb. dobhatja.
+
+• Ha lehetséges, a lakótárs segítsen a karanténban lévőnek a házhozszállítások átvéténél, csomagok feladásánál, ezzel minimalizálva, hogy a el kelljen hagynia a Vörös zónát.
+
+
+\end{document}
