@@ -4,7 +4,7 @@
 
 ### Читайте наши рекомендации для [индивидуумов, семей], [работодателей], и [государственных органов].
 
-_EndCoronavirus - организация, возглавляемая Янир Бар Ямом, президентом [Института сложных систем Новой Англии (NECSI)](https://necsi.edu). Янир - **физик, в Массачусетском технологическом институте (MIT) и исследователь сложных систем, изучающих пандемии.**. Он предупреждал о глобальных пандемиях, вызванных возрастающим количеством путеществий в течение 15 лет. Благодяря его рекомендациям ввести общественный мониторинг симптомов удалось остановить **Эболу** в восточной Африке в 2014._
+_EndCoronavirus - организация, возглавляемая Янир Бар Ямом, президентом [Института сложных систем Новой Англии (NECSI)](https://necsi.edu). Янир - **физик, в Массачусетском технологическом институте (MIT) и исследователь сложных систем, изучающих пандемии.** Он предупреждал о глобальных пандемиях, вызванных возрастающим количеством путеществий в течение 15 лет. Благодяря его рекомендациям ввести общественный мониторинг симптомов удалось остановить **Эболу** в восточной Африке в 2014._
 
 Группа волонтеров насчитывает уже более 5000 человек, присоединйтесь и помогите побороть COVID-19: [Присоединиться](https://v2.endcoronavirus.org/sign-up/english)
 
@@ -65,7 +65,7 @@ _EndCoronavirus - организация, возглавляемая Янир Б
 
 [Рекомендации по самоизоляции (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
 
-    Что делять если вы: Живете один, разделяете жилье с кем-то
+    Что делать если вы: Живете один, разделяете жилье с кем-то
 
 [Рекомендации для здоровья дыхательных путей (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
 
@@ -73,7 +73,7 @@ _EndCoronavirus - организация, возглавляемая Янир Б
 
 Еще семейные рекомендации →
 
-[Правила поведения в обществе]((https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+[Правила поведения в обществе](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 [Рекомендации для правительств стран](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 
 Чтобы быть в курсе последних новостей и рекомендаций, читайте [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) и [End Coronavirus Dot Org](https://twitter.com/endCOVID19) в Twitter.
