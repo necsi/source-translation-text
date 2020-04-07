@@ -33,27 +33,27 @@ _EndCoronavirus - организация, возглавляемая Янир Б
 
     * Yaneer’s op-ed in USA Today: [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
-### 2. Massive Testing, Contact Tracing, and Isolation
+### 2. Массовое Тестирование, Отслеживание Контактных и Изоляция
 
-Massive testing for COVID-19 combined with tracing and then isolating the contacts of infected individuals is the intervention that causes the **least amount of economic harm** and yet saves many lives. Singapore and Korea have shown that this approach can defeat COVID-19.
+Массовое тестирование на COVID-19 совместно с отслеживанием и изолированием контактировавших с зараженными наносит **наименьший ущерб экономике**, спася множество жизней. Сингапур и Корея показали, что такой подход может победить COVID-19.
 
-Governments must employ the following strategies to stop COVID-19:
+Чтобы остановить COVID-19, правительствам необходимо применить следующие стратегии:
 
-1. **Contact Tracing**: Isolate, monitor and test everyone who has been in contact with a known infected individual.
+1. **Отслеживание Контактных**: Изолировать, наблюдать и тестировать тех, кто находился в контакте с зараженными.
 
-2. **Generic Symptomatic Testing**: Test everyone in the geographic area of an infected individual for COVID-19 symptoms such as fever.
+2. **Общая проверка на симптомы**: Проверять всех в географической зоне с зараженным на такие COVID-19 симптомы, как повышенная температура.
 
-3. **Targeted Sampling**: Randomly test individuals in high-risk populations such as prisons, nursing homes, and student dormitories.
+3. **Целевая Выборка**: Случайным образом проводить проверку лиц в зонах высокого риска, например в тюрьмах, домах престарелых, студенческих общежитиях.
 
-Countries, especially in Asia, that have the requisite expertise should help the rest of the world get up to speed. Contact tracing teams must be trained and countries must rapidly ramp up testing. Countries should use testing capacity in academic institutions and corporations.
+Страны, особенно Азиатские, уже имеющие такой опыт, могли бы помочь остальному миру набрать обороты. Необходимо собрать и обучить команды для отслеживания контактных и как можно скорее начать тестирование. Следует использовать мощности академических учреждений и корпораций для проведения проверок.
 
-### 3. Restricting Mobility While Allowing Essential Supplies and the Medical Response
+### 3. Ограничение передвижения, но сохранение жизненно важных товаров и медицинского обслуживания
 
-**Travel from areas with active outbreaks should be stopped**. Every individual should undergo a 14 day quarantine when entering into other areas. Where active outbreaks are occurring, limiting mobility to essential travel enables areas with fewer cases gain control of their outbreaks faster and with more limited interventions. The ability to recover quicker is important for economic recovery and for the ability to help areas that are more severely affected.
+**Перемещения из зон с действующей вспышкой должны быть остановлены**. Каждый человек должен быть помещен 14-ти дневный карантин, по возвращению из таких зон. Все перемещения, кроме исключительно важных, в зоны с действующей вспышкой должны быть остановлены. Это позволит странам с меньшим числом зараженных взять ситуацию под контроль быстрее, с меньшим вмешательством. Способность оправиться быстро, позволит так же ускорить восстановление экономики и предоставить помощь там, где ситуация более серьезная.
 
 | --- |
 
-## Individual and Family Guidelines
+## Персональные и семейные гайдлайны
 
 [Everyday Life and COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
 

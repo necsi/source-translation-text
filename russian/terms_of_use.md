@@ -1,350 +1,293 @@
-TERMS OF USE
-
-
-
-Last updated March 11, 2020
-
+Последнее обновление 11 марта, 2020
  
 
  
 
-AGREEMENT TO TERMS
+Соглашение с условиями
 
  
+Настоящие Условия использования представляют собой юридически обязывающее соглашение, заключенное между вами, будь то лично или от имени организации («Вы»), и New England Complex Systems Institute Inc («Компания», «мы», «нас» или «наш»), касательно вашего доступа и использования веб-сайта https://endcoronavirus.org, а также любых других медиа-форм, медиа-каналов, мобильных веб-сайтов или мобильных приложений, связанных или иным образом соединенных с ними (совместно именуемыми «Сайт»). Вы соглашаетесь с тем, что заходя на Сайт, Вы прочитали, поняли и согласились соблюдать все эти Условия Использования. ЕСЛИ ВЫ НЕ СОГЛАСНЫ С ДАННЫМИ УСЛОВИЯМИ ИСПОЛЬЗОВАНИЯ, ТОГДА ВАМ ЗАПРЕЩЕНО ИСПОЛЬЗОВАНИЕ САЙТА, И ВЫ ДОЛЖНЫ ПРЕРВАТЬ ИСПОЛЬЗОВАНИЕ.
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and New England Complex Systems Institute Inc ("Company", “we”, “us”, or “our”), concerning your access to and use of the https://endcoronavirus.org website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 
- 
+Дополнительные условия или документы, которые могут время от времени размещаться на Сайте, будут включены в него посредством ссылки. Мы оставляем за собой право по собственному усмотрению вносить изменения или дополнения в настоящие Условия Использования в любое время и по любой причине. Мы будем предупреждать вас о любых изменениях, обновляя дату «Последнее обновление» настоящих Условий Использования, и Вы отказываетесь от любого права на получение конкретного уведомления о каждом таком изменении. Вы обязаны периодически просматривать настоящие Условия использования, чтобы быть в курсе обновлений. Вы будете подвергаться изменениям в любых пересмотренных Условиях Использования при продолжении использования вами Сайта после даты публикации таких пересмотренных Условий использования, и будет считаться, что Вы узнали о них и приняли их.
 
-Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.
 
- 
+Информация, представленная на Сайте, не предназначена для распространения или использования каким-либо физическим или юридическим лицом в какой-либо юрисдикции или стране, где такое распространение или использование будет противоречить законодательству или нормативным актам или на которые будет распространяться любое требование о регистрации в такой юрисдикции или стране. Соответственно, те лица, которые выбирают доступ к Сайту из других мест, делают это по собственной инициативе и несут ответственность за соблюдение местных законов, если это применимо к местным законам.
 
-The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
- 
-
-The Site is not tailored to comply with industry-specific regulations (Health Insurance Portability and Accountability Act (HIPAA), Federal Information Security Management Act (FISMA), etc.), so if your interactions would be subjected to such laws, you may not use this Site. You may not use the Site in a way that would violate the Gramm-Leach-Bliley Act (GLBA).
 
  
+Сайт не приспособлен для соответствия отраслевым нормативам (Акт о мобильности и подотчетности медицинского страхования (HIPAA), Федеральный закон об управлении информационной безопасностью (FISMA) и т. д.), Поэтому, если ваше взаимодействие будет подчиняться таким законам, Вы не можете использовать этот сайт. Вы не можете использовать Сайт таким образом, чтобы это нарушало закон Грэмма-Лича-Блайли (GLBA).
+
+
+ПРАВА ИНТЕЛЛЕКТУАЛЬНОЙ СОБСТВЕННОСТИ
+
+Если не указано иначе, Сайт является нашей собственностью, и весь исходный код, базы данных, функциональные возможности, программное обеспечение, дизайны веб-сайтов, аудио, видео, текст, фотографии и графика на Сайте (совместно именуемые «Контент») и товарные знаки, знаки обслуживания и содержащиеся в них логотипы («Знаки») принадлежат нам или контролируются нами или лицензированы для нас и защищены законами об авторском праве и товарных знаках, а также различными другими законами США о защите прав интеллектуальной собственности и недобросовестной конкуренции, международными законами об авторском праве, и международыми конвенциями. Контент и Знаки предоставляются на Сайте «КАК ЕСТЬ» только для вашей информации и личного использования. За исключением случаев, прямо предусмотренных в настоящих Условиях Использования, никакая часть Сайта, а также Контент или Знаки не могут быть скопированы, воспроизведены, объединены, переизданы, загружены, опубликованы, публично показаны, закодированы, переведены, переданы, распространены, проданы, лицензированы или иным образом использованы для каких-либо коммерческих целей без нашего предварительного письменного разрешения.
 
  
 
 
 
-INTELLECTUAL PROPERTY RIGHTS
 
  
 
-Unless otherwise indicated, the Site is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, international copyright laws, and international conventions. The Content and the Marks are provided on the Site “AS IS” for your information and personal use only. Except as expressly provided in these Terms of Use, no part of the Site and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
-
- 
-
-Provided that you are eligible to use the Site, you are granted a limited license to access and use the Site and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Site, the Content and the Marks.
+При условии, что Вы имеете право использовать Сайт, вам предоставляется ограниченная лицензия на доступ и использование Сайта, а также на загрузку или распечатку копии любой части Контента, к которому Вы надлежащим образом получили доступ исключительно для своего личного некоммерческого использования. использовать. Мы оставляем за собой все права, не предоставленные вам в отношении Сайта, Контента и Знаков.
 
  
 
 
 
-USER REPRESENTATIONS
-
- 
-
-By using the Site, you represent and warrant that:  (1) you have the legal capacity and you agree to comply with these Terms of Use; (2) you are not a minor in the jurisdiction in which you reside; (3) you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise; (4) you will not use the Site for any illegal or unauthorized purpose; and (5) your use of the Site will not violate any applicable law or regulation.
-
- 
-
-If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).
-
  
 
 
 
-PROHIBITED ACTIVITIES
+ПРЕДСТАВИТЕЛЬСТВО ПОЛЬЗОВАТЕЛЯ
+
+Используя Сайт, Вы заявляете и гарантируете, что: (1) у Вас есть правоспособность и Вы соглашаетесь соблюдать настоящие Условия использования; (2) Вы не являетесь несовершеннолетним в юрисдикции, в которой Вы проживаете; (3) Вы не будете получать доступ к Сайту автоматическими или нечеловеческими средствами, будь то с помощью бота, сценария или иным образом; (4) Вы не будете использовать Сайт для каких-либо незаконных или несанкционированных целей; и (5) использование Вами Сайта не будет нарушать какие-либо применимые законы или нормативные акты.
+
+ 
+Если Вы предоставляете какую-либо информацию, которая не соответствует действительности, неточна, не является текущей или неполной, мы имеем право приостановить или прекратить действие Вашей учетной записи и отказаться от любого текущего или будущего использования Сайта (или любой его части).
 
  
 
-You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
 
+
+
+ЗАПРЕЩЕННАЯ ДЕЯТЕЛЬНОСТЬ
  
 
-As a user of the Site, you agree not to:
+
+Вы не можете получить доступ к Сайту или использовать его для каких-либо других целей, кроме тех, для которых мы делаем доступ к Сайту. Сайт не может быть использован в связи с какими-либо коммерческими усилиями, за исключением тех, которые подтверждены или одобрены нами.
+ 
+
+Являясь пользователем Сайта, Вы соглашаетесь не:
 
 
 
-1. Systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+1. Систематически извлекать данные или другое содержимое с Сайта для создания или накапливания, прямо или косвенно, коллекций, сборников, баз данных или каталогов без нашего письменного разрешения.
 
-2. Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
+2.Обманывать, выманивать или вводить в заблуждение нас и других пользователей в попытке узнать конфиденциальную информацию об учетной записи, например пароли пользователей. 
 
-3. Circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
+3. Перехитрять, отключать или иным образом вмешиваться в связанные с безопасностью функции Сайта, включая функции, которые предотвращают или ограничивают использование или копирование любого Контента или налагают ограничения на использование Сайта и/или Контента, содержащегося в нем.
 
-4. Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
+4. По нашему мнению принижать, пятнать или наносить вред иным образом нам и/или нашему Сайту
 
-5. Use any information obtained from the Site in order to harass, abuse, or harm another person.
+5. Использовать любую информацию, полученную с Сайта, чтобы домогаться, оскорблять или причинять вред другому лицу.
 
-6. Make improper use of our support services or submit false reports of abuse or misconduct.
+6. Ложно использовать наши службы поддержки или предоставлять ложные сообщения о злоупотреблениях или неправомерных действиях.
 
-7. Use the Site in a manner inconsistent with any applicable laws or regulations.
+7. Использовать Сайт способом, несовместимым с любыми применимыми законами или правилами.
 
-8. Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
+8.Загружать или передавать (или пытаться загружать или передавать) вирусы, троянские кони или другие материалы, включая чрезмерное использование заглавных букв и спам (постоянное размещение повторяющегося текста), которые препятствуют бесперебойному использованию или использованию Сайтом любой стороной или изменяет, ухудшает, нарушает, переделывает или вмешивается в использование, функции, характеристики, работу или обслуживание Сайта.
 
-9. Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+9.Участвовать в любых автоматических использованиях системы, таких как использование сценариев для отправки комментариев или сообщений, или использование любых данных, роботов или аналогичных инструментов сбора и извлечения данных.
 
-10. Interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
+10. Вмешиваться, нарушать или создавать чрезмерное нагрузку для Сайта или сетей или служб, подключенных к Сайту.
 
-11. Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.
+11. Домогаться, раздражать, запугивать или угрожать любому из наших сотрудников или представителей, которые занимаются предоставлением вам какой-либо части Сайта.
 
-12. Attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
+12. Пытаться пренебречь любые меры Сайта, предназначенные для предотвращения или ограничения доступа к Сайту или любой его части.
 
-13. Use a buying agent or purchasing agent to make purchases on the Site.
+13. Использовать агента по закупкам для совершения покупок на Сайте.
 
-14. Make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+14. Совершать любое несанкционированное использование Сайта, включая сбор имен пользователей и/или адресов электронной почты пользователей с помощью электронных или других средств с целью отправки нежелательных сообщений электронной почты или создания учетных записей пользователей с помощью автоматических средств или под ложным предлогом.
 
 
 
      
 
-USER GENERATED CONTRIBUTIONS 
+ПОЛЬЗОВАТЕЛЬСКИЕ МАТЕРИАЛЫ
+   
+Сайт не предлагает пользователям отправлять или публиковать контент. Мы можем предоставить вам возможность создавать, отправлять, публиковать, отображать, передавать, выполнять, публиковать, распространять или транслировать контент и материалы нам или на Сайте, включая, помимо прочего, текст, записи, видео, аудио, фотографии , графики, комментарии, предложения или личную информацию или другие материалы (совместно именуемые «Материалы»). Материалы могут быть просмотрены другими пользователями сайта и через сторонние веб-сайты. Таким образом, любые передаваемые Вами материалы могут рассматриваться в соответствии с политикой конфиденциальности сайта. Когда Вы создаете или делаете доступными какие-либо материалы, Вы тем самым заявляете и гарантируете, что:
 
-    
+1. Создание, распространение, передача, публичный показ или исполнение, а также доступ, загрузка или копирование Ваших Материалов не нарушают и не нарушат права собственности, включая, но не ограничивают, авторское право, патент, товарный знак, коммерческую тайну или моральные права любой третьей стороны.  
 
-The Site does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, "Contributions"). Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated in accordance with the Site Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:
+2. Вы являетесь создателем и владельцем или обладаете необходимыми лицензиями, правами, согласиями, выпусками и разрешениями на использование и авторизацию нас, Сайта и других пользователей Сайта для использования Ваших Материалов любым способом, предусмотренным Сайтом и данными Условия Использования.
 
-  
+3. У вас есть письменное согласие, освобождение и/или разрешение каждого идентифицируемого лица в Ваших Материалах на использование имени или сходства каждого такого идентифицируемого лица для включения и использования Ваших Материалов любым способом, предусмотренным Сайт и настоящими Условиями использования.
 
-1.  The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+4. Ваши Материалы не являются ложными, неточными или вводящими в заблуждение.
 
-2.  You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms of Use.
+5. Ваши Материалы не являются нежелательной или несанкционированной рекламой, рекламными материалами, пирамидами, цепными письмами, спамом, массовыми рассылками или другими формами настойчивого запроса.
 
-3.  You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms of Use.
+6. Ваш Материал не является непристойным, развратным, похотливым, грязным, жестоким, домогающимся, клеветническим или иным образом нежелательным (как определено нами).
 
-4.  Your Contributions are not false, inaccurate, or misleading.
+7. Ваши Материалы не высмеивают, не осмеивают, не унижают, не запугивают и не оскорбляют никого.
 
-5.  Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+8. Ваши Материалы не защищают насильственное свержение какого-либо правительства и не подстрекают, не поощряют и не угрожают физическим вредом против другого лица.
 
-6.  Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
+9. Ваши Материалы не нарушают никаких применимых законов, норм или правил.
 
-7.  Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+10. Ваши Материалы не нарушают права на неприкосновенность частной жизни или гласность любой третьей стороны.
 
-8.  Your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.
+11. Ваши Материлы не содержат никаких материалов, которые запрашивают личную информацию от кого-либо в возрасте до 18 лет или эксплуатируют людей в возрасте до 18 лет сексуальным или насильственным образом.
 
-9.  Your Contributions do not violate any applicable law, regulation, or rule.
+12. Ваши Материалы не нарушают действующее законодательство в отношении детской порнографии, или иным образом предназначены для защиты здоровья и благополучия несовершеннолетних;
 
-10.  Your Contributions do not violate the privacy or publicity rights of any third party.
+13. Ваши Материалы не содержат оскорбительных комментариев, связанных с расой, национальным происхождением, полом, сексуальными предпочтениями или физическими недостатками.
 
-11.  Your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
+14. Ваши Материалы не нарушают или иным образом не ссылаются на материалы, которые нарушают какое-либо положение настоящих Условий использования или любых применимых законов или нормативных актов.
 
-12.  Your Contributions do not violate any applicable law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
-
-13.  Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-
-14.  Your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Use, or any applicable law or regulation.
-
-
-
-Any use of the Site in violation of the foregoing violates these Terms of Use and may result in, among other things, termination or suspension of your rights to use the Site.
-
+Любое использование Сайта в нарушении вышеизложенного нарушает настоящие Условия использования и может привести, помимо прочего, к прекращению или приостановке Ваших прав на использование Сайта.
 
 
             
 
-CONTRIBUTION LICENSE
+ЛИЦЕНЗИЯ ВНОСИМЫХ МАТЕРИАЛОВ
 
   
 
-You and the Site agree that we may access, store, process, and use any information and personal data that you provide following the terms of the Privacy Policy and your choices (including settings).
+Вы и Сайт соглашаетесь с тем, что мы можем осуществлять доступ, хранить, обрабатывать и использовать любую информацию и личные данные, которые Вы предоставляете, в соответствии с условиями Политики конфиденциальности и вашего выбора (включая настройки).
 
 
-
-By submitting suggestions or other feedback regarding the Site, you agree that we can use and share such feedback for any purpose without compensation to you. 
-
+Отправляя предложения или другие отзывы, касающиеся Сайта, Вы соглашаетесь, что мы можем использовать и передавать эти отзывы в любых целях без компенсации вам.
 
 
 We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site. You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
+Мы не отстаиваем право собственности на ваши Материалы. Вы сохраняете полное право собственности на все свои Материалы и любые права интеллектуальной собственности или другие права собственности, связанные с Вашими Материалами. Мы не несем ответственности за любые заявления или представления в ваших Материалах, предоставленных Вами в любой области на Сайте. Вы несете ответственность за свои Материалы на Сайте, и Вы соглашаетесь освободить нас от любой ответственности и воздерживаться от любых судебных исков против нас в отношении ваших Материалов.
+
+
+
+УТВЕРЖДЕНИЯ
 
 
 
 
-SUBMISSIONS
-
-
-
-You acknowledge and agree that any questions, comments, suggestions, ideas, feedback, or other information regarding the Site ("Submissions") provided by you to us are non-confidential and shall become our sole property. We shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and dissemination of these Submissions for any lawful purpose, commercial or otherwise, without acknowledgment or compensation to you. You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
-
-
+Вы признаете и соглашаетесь с тем, что любые вопросы, комментарии, предложения, идеи, отзывы или другая информация, касающаяся Сайта («Утвержденич»), предоставленные Вами нам, не являются конфиденциальными и становятся нашей исключительной собственностью. Мы будем владеть исключительными правами, включая все права на интеллектуальную собственность, и будем иметь право на неограниченное использование и распространение этих Утверждений для любых законных целей, коммерческих или иных, без подтверждения или компенсации Вам. Настоящим Вы отказываетесь от всех моральных прав на любые такие Утверждения и настоящим гарантируете, что любые такие Утверждения являются оригинальными или то, что Вы имеете право отправлять такие Утверждения. Вы соглашаетесь с тем, что против нас не будет никаких претензий в отношении любого предполагаемого или фактического нарушения или незаконного присвоения какого-либо права собственности в Ваших материалах.
 
   
 
-SITE MANAGEMENT
+УПРАВЛЕНИЕ САЙТОМ
 
- 
-
-We reserve the right, but not the obligation, to: (1) monitor the Site for violations of these Terms of Use; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
-
- 
+Мы оставляем за собой право, но не обязанность: (1) осуществлять мониторинг Сайта на предмет нарушений настоящих Условий использования; (2) предпринимать соответствующие правовые действия против любого, кто, по нашему собственному усмотрению, нарушает закон или настоящие Условия использования, в том числе, без ограничений, сообщая о таком пользователе в правоохранительные органы; (3) по нашему собственному усмотрению и без каких-либо ограничений отказать, ограничить доступ, ограничить доступность или отключить (насколько это технологически возможно) любые ваши Материалы или любую их часть; (4) по нашему собственному усмотрению и без ограничения, уведомления или ответственности удалить с Сайта или иным образом отключить все файлы и контент, которые имеют излишний размер или каким-либо образом обременительны для наших систем; и (5) иным образом управлять Сайтом таким образом, чтобы защитить наши права и собственность и способствовать надлежащему функционированию Сайта.
 
 
 
-PRIVACY POLICY
+ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ
+
+
+Мы заботимся о конфиденциальности и безопасности данных. Пожалуйста, ознакомьтесь с нашей политикой конфиденциальности: https://endcoronavirus.com/privacy-policy/. Используя Сайт, вы соглашаетесь соблюдать нашу Политику конфиденциальности, которая включена в настоящие Условия использования. Обращаем ваше внимание, что сайт размещен в Соединенных Штатах. Если вы получаете доступ к Сайту из любого другого региона мира с законами или другими требованиями, регулирующими сбор, использование или раскрытие персональных данных, которые отличаются от применимых законов в Соединенных Штатах, то, продолжая использовать Сайт, вы передаете свои данные в Соединенные Штаты, и вы соглашаетесь на передачу и обработку ваших данных в Соединенных Штатах.   
 
 
 
-We care about data privacy and security. Please review our Privacy Policy: https://endcoronavirus.com/privacy-policy/. By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. Please be advised the Site is hosted in the United States. If you access the Site from any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you agree to have your data transferred to and processed in the United States.
-
-   
+СРОК И ПРЕКРАЩЕНИЕ
 
 
+Настоящие Условия использования остаются в силе в течение всего времени использования вами Сайта. БЕЗ ОГРАНИЧЕНИЯ ЛЮБОГО ДРУГОГО ПОЛОЖЕНИЯ ЭТИХ УСЛОВИЙ ИСПОЛЬЗОВАНИЯ, мы оставляем за собой право, на НАШЕ УСМОТРЕНИЕ И БЕЗ УВЕДОМЛЕНИЯ ИЛИ ОТВЕТСТВЕННОСТИ, ОТКРЫТИЯ ДОСТУПА К ИСПОЛЬЗОВАНИЮ САЙТА (ВКЛЮЧАЯ БЛОКИРОВКУ ОПРЕДЕЛЕННЫХ IP-АДРЕСОВ)ДЛЯ ЛЮБОГО ЛИЦА ПО ЛЮБОЙ ПРИЧИНЕ ИЛИ БЕЗ ПРИЧИНЫ, ВКЛЮЧАЯ ОТСУТСТВИЕ ОГРАНИЧЕНИЯ НА НАРУШЕНИЕ ЛЮБОГО ПРЕДСТАВИТЕЛЬСТВА, ГАРАНТИИ ИЛИ ПАКТА, СОДЕРЖАЩЕГОСЯ В ЭТИХ УСЛОВИЯХ ИСПОЛЬЗОВАНИЯ ИЛИ ЛЮБОГО ПРИМЕНИМОГО ЗАКОНОДАТЕЛЬСТВА ИЛИ ПРАВИЛА. МЫ МОЖЕМ ПРЕКРАТИТЬ ИСПОЛЬЗОВАНИЕ ИЛИ УЧАСТИЕ НА САЙТЕ ИЛИ УДАЛИТЬ ЛЮБОЕ СОДЕРЖАНИЕ ИЛИ ИНФОРМАЦИЮ, КОТОРЫЕ ВЫ РАЗМЕЩАЛИ В ЛЮБОЕ ВРЕМЯ, БЕЗ ПРЕДУПРЕЖДЕНИЯ.
 
-TERM AND TERMINATION
-
- 
-
-These Terms of Use shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.
-
- 
-
-If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.
-
+Если по какой-либо причине мы прекращаем или приостанавливаем действие Вашей учетной записи, Вам запрещается регистрировать и создавать новую учетную запись под своим именем, поддельным или заимствованным или именем какой-либо третьей стороны, даже если Вы действуете от имени третьей стороны. Помимо прекращения или приостановки Вашей учетной записи, мы оставляем за собой право предпринимать соответствующие юридические действия, включая, помимо прочего, возмещение гражданских, уголовных и судебных исков.
  
 
 
 
-MODIFICATIONS AND INTERRUPTIONS
+ИЗМЕНЕНИЯ И ЗАДЕРЖКИ
 
+Мы оставляем за собой право изменять, модифицировать или удалять содержимое Сайта в любое время или по любой причине по собственному усмотрению без уведомления. Тем не менее, мы не обязаны обновлять информацию на нашем Сайте. Мы также оставляем за собой право изменять или прекращать работу всего или части сайта без предварительного уведомления в любое время. Мы не будем нести ответственность перед вами или любой третьей стороной за любые изменения, изменения цен, приостановку или прекращение работы Сайта.
  
 
-We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site.  
-
- 
-
-We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site. Nothing in these Terms of Use will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.
-
+Мы не можем гарантировать, что Сайт будет доступен в любое время. У нас могут возникнуть проблемы с оборудованием, программным обеспечением или другие проблемы, или нам потребуется выполнить техническое обслуживание, связанное с Сайтом, что приведет к сбоям, задержкам или ошибкам. Мы оставляем за собой право изменять, пересматривать, обновлять, приостанавливать, прекращать или иным образом изменять Сайт в любое время или по любой причине без предварительного уведомления. Вы соглашаетесь с тем, что мы не несем ответственности за какие-либо убытки, ущерб или неудобства, вызванные Вашей неспособностью получить доступ к Сайту или использовать его во время простоя или прекращения работы Сайта. Ничто в настоящих Условиях использования не будет истолковано как обязывающее нас содержать и поддерживать Сайт или предоставлять какие-либо исправления, обновления или выпуски.
  
 
 
 
-GOVERNING LAW
 
+ПРИМЕНИМОЕ ЗАКОНОДАТЕЛЬСТВО
 
 
 These Terms of Use and your use of the Site are governed by and construed in accordance with the laws of the Commonwealth of Massachusetts applicable to agreements made and to be entirely performed within the Commonwealth of Massachusetts, without regard to its conflict of law principles.
 
+Настоящие Условия использования и использование вами Сайта регулируются и толкуются в соответствии с законами штат Массачусетс, применимыми к заключенным соглашениям и должны полностью выполняться в рамках штата Массачусетс, независимо от учета коллизионных норм.
 
 
-
-DISPUTE RESOLUTION
+РАЗРЕШЕНИЕ СПОРА
 
  
 
-Binding Arbitration
+Обязательный арбитраж
 
        
 
-Any dispute arising out of or in connection with this contract, including any question regarding its existence, validity or termination, shall be referred to and finally resolved by the International Commercial Arbitration Court under the European Arbitration Chamber (Belgium, Brussels, Avenue Louise, 146) according to the Rules of this ICAC, which, as a result of referring to it, is considered as the part of this clause. The number of arbitrators shall be __________. The seat, or legal place, of arbitration shall be __________. The language of the proceedings shall be __________. The governing law of the contract shall be the substantive law of __________.
+Любой спор, возникающий из или в связи с этим договором, включая любой вопрос, касающийся его существования, действительности или прекращения, передается и окончательно разрешается Международным Коммерческим Арбитражным Судом при Европейской Арбитражной Аалате (Бельгия, Брюссель, проспект Луиза, 146) в соответствии с Правилами настоящего МКАС, который в результате ссылки на него рассматривается как часть настоящего пункта. Количество арбитров должно быть __________. Место или законное место арбитража должно быть __________. Язык разбирательства: __________. Применимым правом договора является материальное право __________.      
+
+Ограничения
 
       
 
-Restrictions
-
+Стороны соглашаются, что любой арбитраж ограничивается спором между сторонами в индивидуальном порядке. В полной мере, разрешенной законом, (а) ни один арбитраж не должен быть соединен с каким-либо другим производственным процессом; (б) нет никакого права или полномочий рассматривать спор  на коллективной основе или использовать процедуры группового иска; и (c) нет никакого права или полномочий для любого Спора, который будет передан в качестве предполагаемого представителя от имени широкой общественности или любых других лиц.
       
 
-The Parties agree that any arbitration shall be limited to the Dispute between the Parties individually. To the full extent permitted by law, (a) no arbitration shall be joined with any other proceeding; (b) there is no right or authority for any Dispute to be arbitrated on a class-action basis or to utilize class action procedures; and (c) there is no right or authority for any Dispute to be brought in a purported representative capacity on behalf of the general public or any other persons.
+Исключения арбитража
 
       
+Стороны соглашаются с тем, что на следующие Споры не распространяются вышеуказанные положения, касающиеся обязательного арбитража: (a) любые Споры, направленные на обеспечение или защиту или в отношении действительности любого из прав на интеллектуальную собственность Стороны; (б) любой спор, связанный с утверждениями о краже, пиратстве, вторжении в личную жизнь или несанкционированном использовании или возникший в результате этого; и (c) любое требование о судебном запрете. Если это положение будет признано незаконным или не имеющим законной силы, то ни одна из Сторон не примет решение об арбитраже любого Спора, подпадающего под ту часть этого положения, которая будет признана незаконной или не имеющей юридической силы, и такой спор будет решаться судом компетентной юрисдикции в судах, перечисленных для вышеуказанной юрисдикции, и стороны соглашаются подчиняться персональной юрисдикции этого суда.
 
-Exceptions to Arbitration
 
-      
 
-The Parties agree that the following Disputes are not subject to the above provisions concerning binding arbitration: (a) any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party; (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.
+
+ИСПРАВЛЕНИЯ
+
+ 
+На Сайте может быть информация, содержащая опечатки, неточности или упущения, в том числе описания, цены, наличие и другой информации. Мы оставляем за собой право исправлять любые ошибки, неточности или упущения, а также изменять или обновлять информацию на Сайте в любое время без предварительного уведомления. 
+
+
+
+ОТКАЗ ОТ ОТВЕТСТВЕННОСТИ
 
  
 
+САЙТ ПРЕДОСТАВЛЯЕТСЯ НА УСЛОВИЯХ «КАК ЕСТЬ» И «КАК ДОСТУПНО». ВЫ СОГЛАШАЕТЕСЬ, ЧТО ВЫ ИСПОЛЬЗУЕТЕ САЙТ И НАШИ УСЛУГИ НА СВОЙ РИСК. В ПОЛНОЙ МЕРЕ, РАЗРЕШЕННОЙ ЗАКОНОДАТЕЛЬСТВОМ, МЫ ОТКАЗЫВАЕМСЯ ОТ ВСЕХ ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, В СВЯЗИ С САЙТОМ И ВАШИМ ИСПОЛЬЗОВАНИЕМ САЙТА, ВКЛЮЧАЯ, БЕЗ ОГРАНИЧЕНИЙ, ПОДРАЗУМЕВАЕМЫХ ГАРАНТИЙ ТОВАРА, ПРИГОДНОСТИ ДЛЯ ОПРЕДЕЛЕННОЙ ЦЕЛИ И БЕЗ НАРУШЕНИЙ. МЫ НЕ ДАЕМ НИКАКИХ ГАРАНТИЙ ИЛИ ПРЕДСТАВЛЕНИЙ О ТОЧНОСТИ ИЛИ ПОЛНОТЕ СОДЕРЖАНИЯ САЙТА ИЛИ СОДЕРЖИМОГО ЛЮБЫХ ВЕБ-САЙТОВ, СВЯЗАННЫХ С САЙТОМ, И МЫ НЕ НЕСЕМ НИКАКОЙ ОТВЕТСТВЕННОСТИ ЗА ЛЮБЫЕ (1) ОШИБКИ, УКАЗАНИЯ ИЛИ ИСКЛЮЧЕНИЯ КОНТЕНТА ИЛИ МАТЕРИАЛА 2) ЛИЧНЫЙ ВРЕД ИЛИ УЩЕР СОБСТВЕННОСТИ В РЕЗУЛЬТАТЕ ОТ ВАШЕГО ДОСТУПА К ИСПОЛЬЗОВАНИЮ САЙТА, (3) ЛЮБОГО НЕСАНКЦИОНИРОВАННОГО ДОСТУПА ИЛИ ИСПОЛЬЗОВАНИЯ НАШИХ БЕЗОПАСНЫХ СЕРВЕРОВ И/ИЛИ ЛЮБОЙ И ЛИЧНОЙ ИНФОРМАЦИИ И/ИЛИ ФИНАНСОВОЙ ИНФОРМАЦИИ ХРАНЯЩЕЙСЯ ЗДЕСЬ, (4) ЛЮБОЙ ПЕРЕБОЙ ИЛИ ПРЕКРАЩЕНИЕ ПЕРЕДАЧИ НА САЙТ ИЛИ С САЙТА, (5) ЛЮБЫЕ БАГИ, ВИРУСЫ, ТРОЯНСКИЕ КОНИ, ИЛИ КАК МОЖЕТ БЫТЬ ПЕРЕДАНО ИЛИ ЧЕРЕЗ САЙТ ЛЮБОЙ ТРЕТЬЕЙ СТОРОНОЙ, И/ИЛИ ( 6) ЛЮБЫЕ ОШИБКИ ИЛИ ПРОБЛЕМЫ В ЛЮБОМ СОДЕРЖАНИИ И В МАТЕРИАЛАХ ИЛИ В ЛЮБОЙ УТРАТЕ ИЛИ УЩЕРБА ЛЮБОГО РОДА, ПОЛУЧЕННЫХ В РЕЗУЛЬТАТЕ ИСПОЛЬЗОВАНИЯ ЛЮБОГО КОНТЕНТА, РАЗМЕЩЕННОГО, ПЕРЕДАННОГО ИЛИ ИСПОЛЬЗОВАННОГО, ДОСТУПОГО НА САЙТЕ. МЫ НЕ ГАРАНТИРУЕМ, НЕ ПОДТВЕРЖДАЕМ, НЕ ОБЕСПЕЧИВАЕМ И НЕ ПРЕДЛАГАЕМ ОТВЕТСТВЕННОСТИ ЗА ЛЮБОЙ ПРОДУКТ ИЛИ СЕРВИС, РЕКЛАМИРУЕМЫЙ ИЛИ ПРЕДЛАГАЕМЫЕ ТРЕТЬИМ ЛИЦОМ НА САЙТЕ, ЛЮБОЙ ГИПЕРЛИНКОВАННЫЙ ВЕБ-САЙТ, ИЛИ ЛЮБОЙ САЙТ ИЛИ МОБИЛЬНОЕ ПРИЛОЖЕНИЕ, ПРЕДЛОЖЕННОЕ В ЛЮБОМ БАННЕРЕ ИЛИ ДРУГОЙ РЕКЛАМЕ, И МЫ НЕ БУДЕМ УЧАСТВОВАТЬ ИЛИ НЕСТИ ОТВЕТСТВЕННОСТЬ ЗА МОНИТОРИНГ ЛЮБОЙ СДЕЛКИ МЕЖДУ ВАМИ И ЛЮБЫМ ДРУГИМ ТРЕТЬИМ ЛИЦОМ. КАК И В СЛУЧАЕ ПОКУПКИ ПРОДУКТА ИЛИ УСЛУГИ ЧЕРЕЗ НОСИТЕЛЯ, ВЫ ДОЛЖНЫ ИСПОЛЬЗОВАТЬ ВАШЕ ЛИЧНОЕ МНЕНИЕ И МЕРЫ ПРЕДОСТОРОЖНОСТИ ТАМ, ГДЕ ОНИ УМЕСТНЫ
 
 
-CORRECTIONS
-
- 
-
-There may be information on the Site that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time, without prior notice.
+ОГРАНИЧЕНИЯ ОТВЕТСТВЕННОСТИ
 
  
 
+НИ В КОЕМ СЛУЧАЕ МЫ ИЛИ НАШИ ДИРЕКТОРЫ, СОТРУДНИКИ ИЛИ ПРЕДСТАВИТЕЛИ НЕ ОТВЕТСТВЕННЫ ЗА ВАС ИЛИ ЛЮБУЮ ТРЕТЬЮ СТОРОНУ ЗА ЛЮБОЙ ПРЯМОЙ, КОСВЕННЫЙ, ПОСЛЕДУЮЩИЙ, ПРИМЕРНЫЙ, СЛУЧАЙНЫЙ, СПЕЦИАЛЬНЫЙ ИЛИ ШТРАФНОЙ УЩЕРБ, ВКЛЮЧАЯ УБЫТКИ, УТРАТУ ИЛИ ДРУГИЕ УЩЕРБЫ, ВОЗНИКАЮЩИЕ ИЗ ВАШЕГО ИСПОЛЬЗОВАНИЯ САЙТА, ДАЖЕ ЕСЛИ МЫ СОВЕЩАЛИСЬ О ВОЗМОЖНОСТИ ТАКОГО УЩЕРБА. ВНЕ ЗАВИСИМОСТИ ОТ ТОГО, ЧТО СОДЕРЖИТСЯ В ДАННОМ ДОКУМЕНТЕ, НАША ОТВЕТСВЕННОСТЬ ПЕРЕД ВАМИ ПО ЛЮБОЙ ПРИЧИНЕ И НЕСМОТРЯ НА ФОРМУ ДЕЙСТВИЯ, БУДЕТ В ЛЮБОЕ ВРЕМЯ ОГРАНИЧЕНА СУММОЙ, МЕНЬШЕ СУММЫ ВЫПЛАЧЕННОЙ АРЕНДОДАТЕЛЮ ВАМИ НАМ ИЛИ_____. НЕКОТОРЫЕ ГОСУДАРСТВЕННЫЕ ЗАКОНЫ США И МЕЖДУНАРОДНЫЕ ЗАКОНЫ НЕ ДОПУСКАЮТ ОГРАНИЧЕНИЙ НА ПОДРАЗУМЕВАЕМЫЕ ГАРАНТИИ ИЛИ ИСКЛЮЧЕНИЕ ИЛИ ОГРАНИЧЕНИЕ НЕКОТОРЫХ УЩЕРБОВ. ЕСЛИ ЭТИ ЗАКОНЫ ОТНОСЯТСЯ К ВАМ, НЕКОТОРЫЕ ИЛИ ВСЕ ВЫШЕУКАЗАННЫЕ ОТКАЗЫ ОТ ОТВЕТСТВЕННОСТИ ИЛИ ОГРАНИЧЕНИЯ МОГУТ НЕ ОТНОСИТЬСЯ К ВАМ, И ВЫ МОЖЕТЕ ИМЕТЬ ДОПОЛНИТЕЛЬНЫЕ ПРАВА.
 
 
-DISCLAIMER
+
+КОМПЕНСАЦИЯ
+
+ 
+Вы соглашаетесь защищать, освобождать от ответственности и держать нас в безопасности, включая наши дочерние компании, филиалы и всех наших соответствующих должностных лиц, представителей, партнеров и сотрудников, от и против любых потерь, ущерба, ответственности, претензий или требований, включая сборы и расходы на адвоката, понесенные любой третьей стороной в результате : (1) использования Сайта; (2) нарушение настоящих Условий использования; (3) любое нарушение Ваших заверений и гарантий, изложенных в настоящих Условиях использования; (4) нарушение вами прав третьих лиц, включая, помимо прочего, права интеллектуальной собственности; или (5) любое явное вредоносное действие в отношении любого другого пользователя Сайта, с которым вы связались через Сайт. Несмотря на вышесказанное, мы оставляем за собой право за Ваш счет принять на себя исключительную защиту и контроль над любым вопросом, по которому Вы обязаны возместить нам ущерб, и Вы соглашаетесь сотрудничать за Ваш счет с нашей защитой по таким претензиям. Мы будем прилагать разумные усилия, чтобы уведомить Вас о любых таких претензиях, действиях или судебных разбирательствах, на которые распространяется данная компенсация, когда они станут известны.
+
+
+
+ДАННЫЕ ПОЛЬЗОВАТЕЛЯ
 
  
 
-THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
-
- 
-
-
-
-LIMITATIONS OF LIABILITY
-
- 
-
-IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, OUR LIABILITY TO YOU FOR ANY CAUSE WHATSOEVER AND REGARDLESS OF THE FORM OF THE ACTION, WILL AT ALL TIMES BE LIMITED TO THE LESSER OF THE AMOUNT PAID, IF ANY, BY YOU TO US OR __________. CERTAIN US STATE LAWS AND INTERNATIONAL LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS.
-
- 
-
-
-
-INDEMNIFICATION
-
- 
-
-You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) use of the Site; (2) breach of these Terms of Use; (3) any breach of your representations and warranties set forth in these Terms of Use; (4) your violation of the rights of a third party, including but not limited to intellectual property rights; or (5) any overt harmful act toward any other user of the Site with whom you connected via the Site. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
-
+Мы будем хранить определенные данные, которые вы передаете на Сайт с целью управления работой Сайта, а также данные, относящиеся к использованию Вами Сайта. Несмотря на то, что мы регулярно выполняем резервное копирование данных, вы несете ответственность за все данные, которые вы передаете или которые относятся к любой деятельности, предпринятой Вами на Сайте. Вы соглашаетесь с тем, что мы не несем ответственности перед вами за любую потерю или повреждение Ваших данных, и тем самым Вы отказываетесь от любого права на действия в отношении нас, связанного с любой такой потерей или повреждением Ваших данных.
   
 
 
 
-USER DATA
-
- 
-
-We will maintain certain data that you transmit to the Site for the purpose of managing the performance of the Site, as well as data relating to your use of the Site. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Site. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.
-
-  
-
-
-
-ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
-
- 
-
-Visiting the Site, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SITE. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means. 
-
-
-
-
-CALIFORNIA USERS AND RESIDENTS
-
- 
-
-If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.
-
-
-
-
-MISCELLANEOUS
-
- 
-
-These Terms of Use and any policies or operating rules posted by us on the Site or in respect to the Site constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. These Terms of Use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.
-
+ЭЛЕКТРОННЫЕ КОММУНИКАЦИИ, СДЕЛКИ И ПОДПИСИ
  
 
 
 
-CONTACT US 
+Посещение Сайта, отправка нам электронных писем и заполнение онлайн-форм представляют собой электронные коммуникации. Вы соглашаетесь получать электронные сообщения и соглашаетесь с тем, что все соглашения, уведомления, обнаружения и другие коммуникации, которые мы предоставляем Вам в электронном виде по электронной почте и на Сайте, удовлетворяют любым юридическим требованиям, чтобы такие коммуниуации были письменными. НАСТОЯЩИМ ВЫ СОГЛАШАЕТЕСЬ С ИСПОЛЬЗОВАНИЕМ ЭЛЕКТРОННЫХ ПОДПИСЕЙ, КОНТРАКТОВ, ЗАКАЗОВ И ДРУГИХ ЗАПИСЕЙ, И С ЭЛЕКТРОННОЙ ДОСТАВКОЙ УВЕДОМЛЕНИЙ, ПОЛИТИКИ И ЗАПИСЕЙ О СДЕЛКАХ, ИНИЦИИРОВАННЫХ ИЛИ ЗАПОЛНЕННЫХ НАМИ ИЛИ ПОСРЕДСТВОМ САЙТА. Настоящим вы отказываетесь от каких-либо прав или требований в соответствии с какими-либо законами, положениями, правилами, постановлениями или другими законами в любой юрисдикции, которые требуют оригинальной подписи или доставки или сохранения неэлектронных записей, а также платежей или предоставления кредитов любыми другими способами.
+
+ПОЛЬЗОВАТЕЛИ И РЕЗИДЕНТЫ КАЛИФОРНИИ
 
  
+Если какая-либо жалоба с нами не будет удовлетворительно разрешена, вы можете письменно связаться с отделом по оказанию помощи в рассмотрении жалоб отдела обслуживания потребителей департамента по делам потребителей штата Калифорния по адресу: 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, или по телефону (800) 952-5210 или (916) 445-1254.
 
-In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at: 
+
+
+ДРУГОЕ
+ 
+
+
+Настоящие Условия использования и любые нормы или рабочие правила, опубликованные нами на Сайте или в отношении Сайта, составляют полное соглашение и понимание между Вами и нами. Наша неспособность реализовать или обеспечить какое-либо право или положение настоящих Условий использования не действует как отказ от такого права или положения. Настоящие Условия использования действуют в полной мере, допустимой законом. Мы можем приписать любое или все наши права и обязанности другим лицам в любое время. Мы не несем ответственности за любые убытки, ущерб, задержку или бездействие, вызванные любой причиной, находящейся вне нашего разумного контроля. Если какое-либо положение или часть положения настоящих Условий использования будет признано незаконным, недействительным или не имеющим законной силы, это положение или часть положения считается отделимым от настоящих Условий использования и не влияет на действительность и применимость любых остальных положений. Между Вами и нами не создано никакого совместного предприятия, партнерства, трудовых или агентских отношений в результате настоящих Условий использования или использования Сайта. Вы соглашаетесь с тем, что настоящие Условия использования не будут истолкованы против нас в силу их составления. Настоящим Вы отказываетесь от любой и всех возражений, которые у Вас могут возникнуть на основании электронной формы настоящих Условий использования и отсутствия подписи сторон для исполнения настоящих Условий использования.
+
+
+
+СВЯЗАТЬСЯ С НАМИ
+ 
+
+Чтобы разрешить жалобу относительно Сайта или получить дополнительную информацию об использовании Сайта, пожалуйста, свяжитесь с нами по адресу:
 
  
 
