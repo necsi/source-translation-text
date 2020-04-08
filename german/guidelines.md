@@ -1,5 +1,5 @@
-# Richtlinien für Früh-Maßnahmen bei Ausbruch von COVID-19 / Coronavirus
-Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% der Fälle schwere Krankheitsverläufe und führt in 2% der Fälle zum Tod. Die typische Inkubationszeit beträgt drei Tage, kann aber in einigen Fällen auch 24 oder 27 Tage andauern. Das Coronavirus ist hochansteckend und führt täglich zu einem Anstieg der Zahl infizierter Personen um 50% (R0 3-4), sofern keine außergewöhnlichen Schutzmaßnahmen ergriffen werden. Falls eine Ausbreitung des Virus nicht verhindert werden kann und eine Pandemie oder Epidemie entsteht, wird sich das Leben aller Menschen verändern. Es ist unerlässlich zu handeln, um den Ausbruch zu stoppen und ihn nicht einfach zu akzeptieren. Wir stellen dazu die folgenden Schutzmaßnahmen für Einzelpersonen, Gemeinden und Regierungen zur Verfügung.
+# Richtlinien für Maßnahmen bei Ausbruch von COVID-19 / Coronavirus
+Der Ende 2019 vom chinesischen Festland ausgehende Ausbruch von COVID-19 führt in vielen Fällen zu schwerem akuten respiratorischen Syndrom (SARS). Ungefähr 20% der bestätigten Fälle erfordern einen Krankenhausaufenthalt, 14% gelten als schwerwiegend, 6% benötigen eine Intensivpflege und etwa 2% führen zum Tod. Die typische Inkubationszeit beträgt drei bis 14 Tage, kann aber in einigen Fällen auch 24 oder 27 Tage andauern. Das Coronavirus ist hochansteckend und führt täglich zu einem Anstieg der Zahl infizierter Personen um 50% (R0 3-4), sofern keine außergewöhnlichen Schutzmaßnahmen ergriffen werden. Die Pandemie ist weltweit verbreitet und beginnt, das Leben aller Menschen zu verändern. Es ist unerlässlich zu handeln, um den Ausbruch zu stoppen und ihn nicht einfach zu akzeptieren. Wir stellen dazu die folgenden Schutzmaßnahmen für Einzelpersonen, Gemeinden und Regierungen zur Verfügung.
 
 ‍
 
@@ -7,6 +7,10 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 [Alltag und COVID-19 (Englisch)](https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e7ac3f4c21456e98890e810_Everyday%20Life%20and%20COVID-19.pdf)
 
 - Was zu beachten gilt bzgl.: Mehrfamilienhäuser, Lebensmitteleinkauf, notwendige Besorgungen, Post 
+
+[COVID-19: WIe wir gewinnen (Englisch)](https://www.endcoronavirus.org/s/WinningCOVID.pdf)
+
+- Wie man COVID-19 in nur 5 Wochen stoppen kann und damit Todesfälle und Auswirkungen auf die Wirtschaft minimiert
 
 [Grundsätzliche Leitlinie zum Coronavirus](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Essential_GER.pdf)
 
@@ -55,6 +59,10 @@ Der von Wuhan/China ausgehende Ausbruch des Coronavirus verursacht in etwa 20% d
 [Sicherheit und Überprüfung von Mitarbeitern: Fragen für Arbeitgeber (Englisch)](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
 
 - Richtlinien für Arbeitgeber zum Schutz von Arbeitsplätzen und Arbeitnehmern
+
+[Richtlinien nach farbcodierten Warnstufen](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Warnstufen.pdf)
+
+- Regionale COVID-19-Handlungsrichtlinien. Siehe die farbcodierte Warnstufe für dein Gebiet in unserer [interaktiven Karte](http://necsi-executive.com/elastic/).
 
 ‍
 
