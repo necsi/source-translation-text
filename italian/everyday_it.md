@@ -49,3 +49,43 @@ Ottenere e ? merci essenziali durante una crisi richiede un'attenzione straordia
 * Limita il tempo impiegato per fare la spesa. Se possibile solamente un membro della famiglia dovrebbe andare a fare la spesa. Se è troppo per una persona, pianifica la spesa in modo che ognuno abbia una parte della lista e il tutto sia ultimato nel minor tempo possibile.
 * Per diminuire lo stress sulla filiera alimentare e per assicurare che ognuno abbia ciò di cui ha bisogno, suggeriamo che tutte le persone abbiano 2 settimane di scorte e scoraggiamo l'acquisto eccessivo di qualsiasi articolo.
 
+**Prima di recarsi nel negozio**
+* Dedicate degli indumenti e delle scarpe da usare per fare la spesa. Prima e dopo essere andati a fare la spesa, lavate o disinfettate a fondo questi indumenti e manteneteli separati dagli indumenti e scarpe di tutti i giorni.
+* Indossate guanti e una mascherina (o una sciarpa o bandana) che copra il vostro naso e la vostra bocca.
+* Usate le vostre borse della spesa se le avete, disinfettatele prima e dopo averle usate e tenetele lontano dagli oggetti che usati abitualmente. Una trolley è un'ottima alternativa alle borse della spesa se dovete camminare molto.
+* Abbiate cura di comprare disinfettante per le mani, salviette, sapone e altri materiali igienizzanti, in caso voi o altri ne abbiano bisogno.
+* Fate una lista della spesa dettagliata prima di uscire, includendo l'ammontare dei singoli acquisti. Se conoscete il negozio organizzate la lista in modo da acquistare tutto in una volta. Se possibile, includete nella lista articoli di riserva nel caso non troviate ciò che cercate. Una lista dettagliata eviterà inutili chiamate col cellulare, che non dovrebbe essere utilizzato all'interno del negozio.
+* Se possibile, organizzate un'area nel garage, corridio o entrata dove lasciare articoli non freschi per 2-3 giorni, dopo di che il virus non sarà più attivo. Se dovete portare la spesa dentro casa, marcate un'area all'entrata.
+
+**Alcuni articoli da agguingere all vostra lista della spesa**
+* Se possibile, mascherine N95 o se non disponibili mascherine chirurgiche.
+* Disinfettanti, inclusi disinfettanti per le mani, sapone, detergenti per il bucato e per i piatti.
+* Guanti, giacca e coperture per le scarpe
+* Attrezzature mediche, inclusi termometri, rimedi per il raffreddore e farmaci che richiedono una ricetta medica
+* Articoli non deperibili
+
+**Mezzi di trasporto**
+* Evitate del tutto i mezzi pubblici se possible. Se questo non fosse possibile, prendete tutte le precauzioni del caso - mascherine (o sciarpe o bandane) e guanti sono essenziali. Avere un'automobile è utile non solo per diminuire l'esposizione ma anche a portare a casa maggiori quantità di spesa
+* Uber/Lyft/Taxi sono un'alternativa migliore ai mezzi pubblici ma hanno i loro rischi - mascherine e guanti anche qui sono essenziali.
+* Se non avete un'auto ma avete la possibilità di noleggiarne una, noleggiatela per un paio di settimane.
+
+**Quando siete in un negozio**
+* Mantenete la distanza di circa 2 metri da altre persone in ogni momento.
+* Disinfettate il carrello o il cestino prima e dopo l'uso e riponeteci la borsa della spesa.
+* Usate guanti e/o una borsa di plastiva per prendere gli articoli dagli scaffali. Dato che i guanti possono essere contaminati toccando qualsiasi articolo all'interno del negozio, è meglio utilizzare guanti e borse di plastica che possono essere buttati via.
+* Evitate di toccare articoli se non è necessario e fate molta attenzione a non toccarvi la faccia.
+* Prendete articoli nel fondo dello scaffale che hanno meno probabilità di essere stati toccati da molti clienti.
+* Pagate avendo cura di minimizzare qualsiasi contatto. Se possibile usate casse self-service e pagate con carta.
+* Chiedete alle cassiere di indossare guanti o usare disinfettante per le mani prima di toccare i vostri articoli.
+
+**Quando arrivate a casa**
+* Quando sieite a casa, mettete tutti gli articolo in un'area designata dove possono essere lasciati per 2-3 giorni (come spiegato sopra).
+* Ricordatevi di lavarvi le mani.
+* Per articoli freschi e altri articoli di cui abbiate bisogno urgentemente, lavateli con del sapone e asciugateli accuratamente prima di metterli via.
+* Dopo essere tornati da incontro con altre persone, anche se avete mantenuto le distanze, fatevi una doccia e riponete i vestiti in una sacca del bucato.
+
+## PACCHI E POSTA
+Il coronavirus può restare attivo su carta e cartone per un giorno. 3-4 giorni su plastica e altri materiali, a seconda delle condizioni. Pacchi possono essere stati maneggiati da molte persone prima di essere consegnati.
+* Se possibile, lasciate i pacchi chiusi in uno spazio designata: in un garage o una veranda per 2-4 giorni
+* Se dovete aprirli immediatamente o non avete uno spazio del genere, lavate il pacchetto con dell'acqua e sapone, del disinfettante o salviette prima di aprirlo. Rimuovete l'articolo con cura e buttate il pacchetto.
+* Ricordatevi di lavarvi le mani quando avete finito.
