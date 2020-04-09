@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|53|9  April 2020, 23:00 UTC|Modified title and first paragraph of guidelines page|
 |52|9  April 2020, 22:00 UTC|New PDF: "Disinfecting..." posted in blog and on guidelines page|
 |51|8  April 2020, 22:00 UTC|New page: /projects|
 |50|8  April 2020, 22:00 UTC|New PDF: Special guidelines for medical workers... posted in blog and on guidelines page|
