@@ -1,6 +1,5 @@
-## Early Outbreak Response Guidelines
-The Coronavirus outbreak originating in Wuhan has about 20% severe cases and 2% deaths. A typical incubation period is 3 days but it may extend to 14 days, and reports exist of 24 and 27 days. It is highly contagious with an increase from day to day of 50% in new cases (infection rate R0 of about 3-4) unless extraordinary interventions are made. If it becomes a widespread pandemic or endemic it will change the lives of everyone in the world. It is imperative to act to confine and stop the outbreak and not accept its spread. We provide these guidelines for individual, community and government action.
-
+**Outbreak Response Guidelines**
+COVID-19 originated in mainland China in late 2019. In many cases, it causes severe acute respiratory syndrome (SARS). About 20% of the confirmed cases require hospitalization, 14% are considered severe, 6% need ICU care, and roughly 2% result in death. A typical incubation period is 3 days, but it may extend to 14 days, and reports exist of 24 and 27 days. It is highly contagious with an increase from day to day of 50% in new cases (infection rate R0 of about 3-4) unless extraordinary interventions are made. It has become a widespread pandemic, and it is beginning to change the lives of everyone in the world. It is imperative to act to confine and stop the outbreak and not accept its spread. We provide these guidelines for individual, community and government action.
 ‍
 
 ## Download Guidelines as PDF
