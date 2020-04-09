@@ -8,7 +8,7 @@ Der Ende 2019 vom chinesischen Festland ausgehende Ausbruch von COVID-19 führt 
 
 - Was zu beachten gilt bzgl.: Mehrfamilienhäuser, Lebensmitteleinkauf, notwendige Besorgungen, Post 
 
-[COVID-19: WIe wir gewinnen (Englisch)](https://www.endcoronavirus.org/s/WinningCOVID.pdf)
+[COVID-19: WIe wir gewinnen](https://github.com/necsi/source-translation-text/raw/master/german/pdf/howtowinCOVID_ger.pdf)
 
 - Wie man COVID-19 in nur 5 Wochen stoppen kann und damit Todesfälle und Auswirkungen auf die Wirtschaft minimiert
 
