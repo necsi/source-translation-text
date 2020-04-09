@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|51|8  April 2020, 22:00 UTC|New page: /projects|
 |50|8  April 2020, 22:00 UTC| New PDF: Special guidelines for medical workers... posted in blog and on guidelines page|
 |49|5  April 2020, 22:00 UTC|New PDF on guidelines page: WinningCOVID.pdf|
 |48|5  April 2020, 22:00 UTC|Guidelines page: alert code changed to PDF. Word doc and PPT for this is in the PDF folder in gh|
