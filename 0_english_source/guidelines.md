@@ -17,6 +17,10 @@ Family Guidelines
 
 - Our general guidelines for families and households
 
+Special guidelines for medical workers during the Covid-19 Pandemic
+
+-Details extra precautions which should be taken by medical workers during the pandemic
+
 High-Risk Institution Guidelines
 
 - High-Risk instititutions include retirement communities, dormitories, nursing homes, rehabilitation facilities, and prisons
