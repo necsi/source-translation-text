@@ -3,8 +3,9 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|52|9  April 2020, 22:00 UTC|New PDF: "Disinfecting..." posted in blog and on guidelines page|
 |51|8  April 2020, 22:00 UTC|New page: /projects|
-|50|8  April 2020, 22:00 UTC| New PDF: Special guidelines for medical workers... posted in blog and on guidelines page|
+|50|8  April 2020, 22:00 UTC|New PDF: Special guidelines for medical workers... posted in blog and on guidelines page|
 |49|5  April 2020, 22:00 UTC|New PDF on guidelines page: WinningCOVID.pdf|
 |48|5  April 2020, 22:00 UTC|Guidelines page: alert code changed to PDF. Word doc and PPT for this is in the PDF folder in gh|
 |47|5  April 2020, 16:00 UTC|New PDF under construction "dont rebreathe...": do not translate yet|
