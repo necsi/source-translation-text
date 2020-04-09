@@ -1,0 +1,190 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\usepackage{contour}
+\usepackage{ulem}
+
+\renewcommand{\ULdepth}{1.8pt}
+\contourlength{0.8pt}
+
+\newcommand{\myuline}[1]{%
+  \uline{\phantom{#1}}%
+  \llap{\contour{white}{#1}}%
+}
+\usepackage{enumitem}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Special guidelines for medical workers during the Covid-19 Pandemic$^*$ \\
+\vspace{-0.35ex}}
+\author{Paige Voltaire, Chen Shen and Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+ \today 
+  \vspace{-14ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+
+\begin{multicols}{2}
+
+Doctors, Nurses, Medics, and Medical Assistants:  You are on the front line in a war against the COVID-19 viral Pandemic.  Due to your position and importance, we rely on you to perform at your best, and follow a few simple, yet strict guidelines to slow the spread of this virus---saving even more lives than you already are in the process.
+
+\begin{enumerate}
+\item \textbf{Obviously wear appropriate PPE} when available. Review appropriate methods to place and remove (don and doff) specific equipment safely.  Note that Highest risk is during removal of equipment. Reuse PPE if directed to do so.  There are several disinfection methods approved by the CDC.  Including UV light and Ozone.  Look toward your hospital leadership and Medical Director on processes for sterilizing/disinfecting PPE for re-use.  Supplies, equipment and support are on their way, if not already there.
+
+\item \textbf{Work/Sleep Schedules}: As a Nation and society we rely on you to be able to perform your medical duties at your best. To make this possible, \textbf{you need adequate sleep}.  This is absolutely a necessity. Try to get with your Medical Director(s), Charge Nurse(s), Floor Nurse(s) and/or other leadership to set up and implement \textbf{mandatory sleep and rest periods for each worker or team. The Recommended strategy in this emergency scenario is a \myuline{maximum 18 hours of patient care} (work), with a \myuline{minimum of 12 hours of  uninterrupted rest} and sequestered sleep}. 
+
+\item Access routes, including hallways and elevators, within the hospital are not safe spaces and require a level of protection. Having designated safe areas for staff is extremely helpful for arrival, departure and breaks. When pressure is very high the challenge of getting in and out of PPEs for drinking, eating and restroom breaks should be reduced as much as possible. 
+
+\item Appropriate procedures should be standardized for medical personnel to put on and take off their protective equipment. Separate zones should be identified. Make flowcharts of different zones, provide full-length mirrors and observe the walking routes strictly.  %I hope the US and other countries wouldn't get to this point, but due to the difficulty in putting on/off the PPE, in the initial period, many doctors are using adults diaper to avoid going to the bathroom, which increases odds of infection a lot.
+
+\item We cannot have Healthcare workers being sleep deprived, immune compromised, over worked or demoralized.  When these things happen, mistakes are made, needle sticks happen, dosing errors occur, people disagree and deteriorate, patient care suffers, workers become ill, workers can quickly become patients. This can lead to a complete breakdown of your local hospital system. Getting time to relax and sleep will benefit you, your patients, co-workers, and anyone else inside and outside the Hospital.
+
+\item The consecutive work time should be reduced further when there are additional staff to join the battle. For reference, anecdotally, in Wuhan when the doctors/nurses arrived from other regions, the doctors worked 8h a day and nurses 6h, because it is really exhausting and intensive. Heroic actions, while laudable, lead to higher death rates. So mandatory rest orders are essential. 
+
+\item \textbf{Social Distancing}: Due to this unique situation, we must (sadly) advise that you absolutely \textbf{DO NOT return home where you would come into contact with loved ones and family members}. You will spend most of your time working in a cloud of COVID-19 and other nasty infectious pathogens.  At the moment, it is far too risky to act as if things are routine.  Unnecessary contact is \textbf{highly inadvisable}. At the moment, it is likely you could communicate this virus to others in your family or household group and each one of them can spread to other groups, regions and so forth. This quite easily makes all of the other methods we are using less effective at ``crushing the curve''. \textbf{If at all possible, you should keep away from all people that are not necessary to your vital profession and position}.  
+
+\item Please consider hotels, unused hospital beds/rooms, or other available lodging. If you live alone, or know someone who does, you may want to ask if you and some you work with, can stay there for some time.  If you must go home, please isolate yourself from others, wear a mask, bathe with hot water and soap, and put your dirty clothes in a ziplock or trash-bag.  We are working to supply you with extra space of your own at no cost.
+
+\item \textbf{Organize teams}, typically of 3-5 people, for ease of operations, to facilitate scaling up care as the number of cases increases, to provide high quality patient care, and  to support each other for signs of illness, injury or being over worked. Examples of teams that are adapted for this crisis: Intubation teams, prone positioning teams, extra cardiac code teams. 
+
+\item Healthcare institutions should limit outsiders (visitors, families, contractors) to reduce exposure to them and the staff. At risk healthcare workers who are unable to work with patients can help as the communication team to reach out to families and allow the clinical teams to focus on clinical work.
+
+
+%Below is a suggestion found to be useful in the US military for organizing medical units.  It is meant to allow for easy of operations and to maximize the quantity and quality of patient care.  Further, these teams are optimal to travel in, lodge in the same space, check and support each other for signs of illness, injury or being over worked.  
+
+%\begin{enumerate}[resume]
+%\item \textbf{Suggested team structures}: it would be optimal to split into health care teams of 3 or 5 people.  This structure allows for a hierarchy of 1-3 Nurses/Paramedics/Medical Assistants, or 1-2 doctors/PAs/Respiratory therapists/Nurse Practitioners---if available.  This way there is a full functional medical unit, that is fast, adaptable, and highly capable for most all patient care for several people.
+
+%\section*{Example: Team of 5}      
+
+%\centering
+%\centering  \textbf{1} Doctor (MD/DO), \textbf{1} Respiratory Therapist (RT), \\
+%\centering \textbf{1} Paramedic, \textbf{1} Registered Nurse (RN), \\
+%\centering and \textbf{1} LPN (Licensed Practical Nurse) 
+
+\end{enumerate}
+\end{multicols}
+$^*$Reviewed and edited by Dr. Christian DePaola and Dr. Margit Kaufman
+
+%\begin{thebibliography}{20}
+%\end{thebibliography}
+
+
+% \bibliography{MyCollection.bib}
+
+
+\end{document}
