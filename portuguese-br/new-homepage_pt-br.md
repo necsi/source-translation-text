@@ -1,9 +1,9 @@
 # Homepage EndCoronaVirus.org
 **Original reference page:** https://www.endcoronavirus.org/home
 
-| [Idioma] |
+| [Idioma]() |
 
-| [Página Inicial] | [Guias e diretrizes] | [Perguntas frequentes] | [Vídeos] | [Atualizações diárias] | [Sobre nós] |
+| [Página Inicial]() | [Guias e diretrizes]() | [Perguntas frequentes]() | [Vídeos]() | [Atualizações diárias]() | [Sobre nós]() |
 
 # Espalhe conhecimento, não o vírus.
 
@@ -21,10 +21,9 @@ Una-se a 5.000 voluntários na nossa equipe para combater o COVID-19: [Junte-se 
 
 ## A única forma e a mais rápida de deter o COVID-19 nos EUA é uma quarentena nacional de 5 semanas.
 
-|  [Diretrizes para limpeza e desinfecção para prevenir a transmissão do COVID-19]() 
- 9 Abr 2020 | [Diretrizes especiais para profissionais de saúde durante a pandemia da COVID-19]()
- 8 Abr 2020 | [Dia-a-dia e COVID-19]()
- 24 Mar 2020 |
+| [Diretrizes para limpeza e desinfecção para prevenir a transmissão do COVID-19]() 9 Abr 2020 |
+| [Diretrizes especiais para profissionais de saúde durante a pandemia da COVID-19]() 8 Abr 2020 |
+| [Dia-a-dia e COVID-19]() 24 Mar 2020 |
 
 * Leia a coluna escrita por Yaneer no jornal americano "USA Today" (em inglês): [Nós precisamos de uma quarentena nacional imediata de cinco dias para derrotar o Coronavírus nos EUA](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
@@ -58,4 +57,4 @@ Una-se a 5.000 voluntários na nossa equipe para combater o COVID-19: [Junte-se 
 
 Para atualizações de última hora, e novas recomendações, siga [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) e [End Coronavirus Dot Org](https://twitter.com/endCOVID19) no Twitter.
 
-| [Página Inicial] | [Guias e diretrizes] | [Perguntas frequentes] | [Vídeos] | [Atualizações diárias] | [Sobre nós] |
+| [Página Inicial]() | [Guias e diretrizes]() | [Perguntas frequentes]() | [Vídeos]() | [Atualizações diárias]() | [Sobre nós]() |
