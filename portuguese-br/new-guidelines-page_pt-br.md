@@ -1,10 +1,13 @@
 # Diretrizes de resposta antecipada ao surto
-**O surto de coronavírus que se originou em Wuhan apresenta 20% de casos graves e mortalidade de 2%. O período de incubação típico é de 3 dias, mas pode se estender para 14 dias, e existem relatos de 24 e 27 dias. A doença é altamente contagiosa, com um aumento diário de 50% em novos casos (taxa de infecção R0 de cerca de 3-4), a menos que intervenções extraordinárias sejam feitas. Caso o surto se torne uma pandemia ou endemia generalizada, mudará a vida de todos no mundo. É imperativo agir para limitar e impedir o surto e não permitir sua propagação. Fornecemos as diretrizes a seguir para ações individuais, comunitárias e governamentais.**
+O COVID-19 se originou no território principal da China, no final de 2019. Em vários casos, o vírus causa Síndrome Respiratória Aguda Severa (*SARS*). **Cerca de 20% dos casos graves requerem hospitalização, 14% são considerados severos, 6% demandam internação em UTIs, e 2% resultam em morte**. O período de incubação típico é de 3 dias, mas pode se estender para 14 dias, e existem relatos de 24 e 27 dias. A doença é altamente contagiosa, com um aumento diário de 50% em novos casos (taxa de infecção R0 de cerca de 3-4), a menos que intervenções extraordinárias sejam feitas. **O surto já é uma pandemia generalizada, e está começando a mudar a vida de todos no mundo.** É imperativo agir para confinar e parar o surto, e não aceitar sua propagação. A seguir, há diretrizes para a ação de indivíduos, comunidades e governos.
 
 ## Faça o download dos manuais em PDF
 
 ### [Dia-a-dia e COVID-19](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/everyday-life_pt-br.pdf)
 * Sobre: **vida em edifícios residenciais, como fazer compras em mercados, tarefas necessárias, como lidar com encomendas e correio**
+
+### [COVID-19: Como vencê-lo](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/how-to-win_pt-br.pdf)
+* **Como acabar com o COVID-19 em apenas 5 semanas** para diminuir as mortes e o impacto na economia
 
 ### [Diretrizes essenciais para o Coronavírus](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/general-guidelines_port-br.pdf)
 * Diretrizes chave para todos, de indivíduos a organizações
@@ -12,14 +15,17 @@
 ### [Diretrizes para famílias](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Family_port-br.pdf)
 * Nossas diretrizes gerais para famílias e pessoas que compartilham residências
 
+### [Diretrizes especiais para profissionais de saúde durante a pandemia da COVID-19](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/medical-workers_pt-br.pdf)
+* Detalha precauções extras que devem ser tomadas por profissionais de saúde durante a pandemia
+
 ### [Diretrizes para Instituições Sujeitas a Alto Risco](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/high-risk_port-br.pdf)
-* Instituições Sujeitas a Alto Risco incluem dormitórios, asilos, clínicas de reabilitação e prisões
+* Instituições Sujeitas a Alto Risco incluem **dormitórios, asilos, clínicas de reabilitação e prisões**
 
 ### [Diretrizes para auto-isolamento](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Self-isolation_port-br.pdf)
 * O que fazer quando: **você vive sozinho, ou divide residência com mais alguém**
 
 ### [Uso massivo de testes pode parar o surto de Coronavírus](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/massive-testing_pt-br.pdf)
-* Estratégias-chave de uso de testes diagnósticos para identificar e isolar o espalhamento do vírus
+* Estratégias-chave no uso de testes diagnósticos para identificar e isolar o espalhamento do vírus
 
 ### [Diretrizes para empresas](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Business_port-br.pdf)
 * Um conjunto de ações que empresas devem tomar para reduzir riscos a todos os associados à empresa, e à própria empresa
@@ -28,19 +34,23 @@
 * Uma lista de 9 ações recomendadas para formuladores de políticas públicas para interromper o surto
 
 ### [Diretrizes para indivíduos, comunidades e governos locais](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Individuals-Comm-Govern_port-br.pdf)
-* Visão geral de ações e intervenções em várias escalas
+* Visão geral de ações e intervenções que devem ser tomadas em várias escalas
 
 ### [Diretrizes de saúde respiratória para melhores resultados contra o Coronavírus](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/resp-health_port-br.pdf)
 * O que você pode fazer para reduzir o seu risco de desenvolver um quadro severo de COVID-19
 
 ### [Diretrizes para Supermercados, Mercearias e Farmácias](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Supermarkets-Groceries-Pharm_port-br.pdf)
-* Como essas empresas essenciais podem permanecer abertas e garantir a segurança dos funcionários e clientes
+* Como essas empresas essenciais podem permanecer abertas e garantir a segurança dos seus funcionários e clientes
 
 ### [Ação comunitária e suporte para COVID-19](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/comm-action_pt-br.pdf)
 * Como construir engajamento da comunidade e o suporte comunitário mútuo
 
 ### [Segurança e avaliação de empregados: perguntas para empregadores](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/questionnaire_pt-br.pdf)
 * Diretrizes para empregadores para a proteção de seus empregados e do local de trabalho
+
+### [Diretrizes para códigos de cores para nível de alerta](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/alert-color-code_pt-br.pdf)
+* Diretrizes regionais para ação contra o COVID-19. **Para ver os códigos de cores para sua área, veja nosso [mapa interativo (em inglês)](http://necsi-executive.com/elastic/).**
+
 
 
 ## Outros guias úteis
