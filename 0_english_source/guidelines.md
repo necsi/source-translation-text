@@ -19,7 +19,7 @@ Family Guidelines
 
 Special guidelines for medical workers during the Covid-19 Pandemic
 
--Details extra precautions which should be taken by medical workers during the pandemic
+- Details extra precautions which should be taken by medical workers during the pandemic
 
 High-Risk Institution Guidelines
 
@@ -60,6 +60,10 @@ Community action and support for COVID19
 Employee safety and screening: questions for employers
 
 - Guidelines for employers to safeguard workplaces and employees
+
+Coronavirus Guidelines for Cleaning and Disinfecting to Prevent COVID-19 Transmission
+
+- How to effectively clean and disinfect a variety of surfaces
 
 ## Other Useful Guidelines
 Handbook of COVID-19 Prevention and Treatment
