@@ -1,7 +1,7 @@
 # Special guidelines for medical workers during the Covid-19 Pandemic (.pdf file)
 **Original reference**: https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e8e8a8f6bff992fe2682186/1586399887415/MedicalGuidelines+%282%29.pdf
 
-# Diretrizes especiais para profissionais da saúde durante a pandemia de Covid-19*
+# Diretrizes especiais para profissionais da saúde durante a pandemia de COVID-19*
 
 **Paige Voltaire, Chen Shen e Yaneer Bar-Yam**
 
