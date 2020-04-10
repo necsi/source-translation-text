@@ -4,11 +4,11 @@
 
 ### Читайте наши рекомендации для [индивидуумов, семей], [работодателей], и [государственных органов].
 
-_EndCoronavirus - организация, возглавляемая Янир Бар Ямом, президентом [Института сложных систем Новой Англии (NECSI)](https://necsi.edu). Янир - **физик, в Массачусетском технологическом институте (MIT) и исследователь сложных систем, изучающих пандемии.**. Он предупреждал о глобальных пандемиях, вызванных возрастающим количеством путеществий в течение 15 лет. Благодяря его рекомендациям ввести общественный мониторинг симптомов удалось остановить **Эболу** в восточной Африке в 2014._
+_EndCoronavirus - организация, возглавляемая Янир Бар Ямом, президентом [Института сложных систем Новой Англии (NECSI)](https://necsi.edu). Янир - **физик, в Массачусетском технологическом институте (MIT) и исследователь сложных систем, изучающих пандемии.** Он предупреждал о глобальных пандемиях, вызванных возрастающим количеством путеществий в течение 15 лет. Благодяря его рекомендациям ввести общественный мониторинг симптомов удалось остановить **Эболу** в восточной Африке в 2014._
 
 Группа волонтеров насчитывает уже более 5000 человек, присоединйтесь и помогите побороть COVID-19: [Присоединиться](https://v2.endcoronavirus.org/sign-up/english)
 
-|![Янир](images/Yaneer.jpg)|
+|![Янир](../0_english_source/images/Yaneer.jpg)|
 |Президент NECSI, Проф. Янир Бар-Ям|
 | --- |
 
@@ -29,9 +29,9 @@ _EndCoronavirus - организация, возглавляемая Янир Б
 
 Случай с Италией может служить печальным примером "мягкого" карантина. Меры принятые в Италии не были достаточно строгими---большое количество Итальянцев пренебрегли ограничениями, продолжая распространять COVID-19. Число зараженных стало расти экспоненциально. Сейчас Италия усиливает карантинные меры, чтобы предотвратить дальнейший рост. Дания же, применившая полный карантин и закрыв границы, смогла гораздо успешнее ограничить вспышку вируса.
 
-    * See the memo by Chen Shen and Yaneer Bar-Yam: [Why A 5-Week Lockdown Can Stop COVID-19](https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
+    * Смотри памятку авторов Чен Шен и Ямир Бар-Ям: [Как 5-ти недельный карантин может остановить COVID-19](https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
 
-    * Yaneer’s op-ed in USA Today: [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
+    * Статья Янира в USA Today: [Нам необходим немедленный 5-ти недельный национальный карантин, чтобы победить коронавирус в Америке](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
 ### 2. Массовое Тестирование, Отслеживание Контактных и Изоляция
 
@@ -55,27 +55,27 @@ _EndCoronavirus - организация, возглавляемая Янир Б
 
 ## Персональные и семейные гайдлайны
 
-[Everyday Life and COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
+[Повседневная жизнь и COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
 
-    What to do about: Apartment buildings, grocery shopping, necessary errands, packages and mail
+    Что делать с: Многоквартирными домами, походами в магазин за продуктами, вынужденными перемещениями, посылками и почтой
 
-[Family and Household Guidelines (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
+[Рекомендации для семьи и дома (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
 
-    Our general guidelines for families and households
+    Общие положения поведения в семье и дома
 
-[Guidelines for Self Isolation (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
+[Рекомендации по самоизоляции (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
 
-    What to do when you are: Living alone, Sharing lodging with someone else
+    Что делать если вы: Живете один, разделяете жилье с кем-то
 
-[Respiratory Health Guidelines (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
+[Рекомендации для здоровья дыхательных путей (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
 
-    What you can do to reduce your risk of a severe case of COVID-19
+    Что делать, чтобы снизить риск проявления COVID-19 в тяжелой форме
 
-More family guidelines →
+Еще семейные рекомендации →
 
-[Community Guidelines]((https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
-[Government Guidelines](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+[Правила поведения в обществе](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+[Рекомендации для правительств стран](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 
-For breaking updates and new recommendations, follow [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) and [End Coronavirus Dot Org](https://twitter.com/endCOVID19) on Twitter.
+Чтобы быть в курсе последних новостей и рекомендаций, читайте [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) и [End Coronavirus Dot Org](https://twitter.com/endCOVID19) в Twitter.
 
 
