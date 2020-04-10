@@ -20,6 +20,10 @@ Der Ende 2019 vom chinesischen Festland ausgehende Ausbruch von COVID-19 führt 
 
 - Unsere allgemeinen Richtlinien für Familien und Haushalte
 
+[Spezielle Richtlinien für medizinisches Personal während der Covid-19-Pandemie (Englisch)](https://bullfrog-grouse-cfs4.squarespace.com/s/MedicalGuidelines-2.pdf)
+
+- Einzelheiten zu zusätzlichen Vorsichtsmaßnahmen, die von medizinischem Personal während der Pandemie getroffen werden sollten
+
 [Richtlinien für Institutionen mit hohem Risiko (Englisch)](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/high-risk_en.pdf)
 
 - Dazu gehören Altersgemeinschaften, Schlafsäle, Pflegeheime, Reha-Einrichtungen und Gefängnisse
@@ -59,6 +63,10 @@ Der Ende 2019 vom chinesischen Festland ausgehende Ausbruch von COVID-19 führt 
 [Sicherheit und Überprüfung von Mitarbeitern: Fragen für Arbeitgeber (Englisch)](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
 
 - Richtlinien für Arbeitgeber zum Schutz von Arbeitsplätzen und Arbeitnehmern
+
+[Reinigungs- und Desinfektionsrichtlinien zur Verhinderung der COVID-19-Übertragung (Englisch)](https://bullfrog-grouse-cfs4.squarespace.com/s/Disinfect.pdf)
+
+- Wie man eine Vielzahl von Oberflächen effektiv reinigen und desinfizieren kann
 
 [Richtlinien nach farbcodierten Warnstufen](https://github.com/necsi/source-translation-text/raw/master/german/pdf/Warnstufen.pdf)
 
