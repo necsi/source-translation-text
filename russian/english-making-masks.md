@@ -1,43 +1,44 @@
-** Making Masks
+** Изготовление масок
 
 
-Hospitals are seeing an increasing number of patients with COVID 19, with symptoms ranging from mild to serious, as well as their normal urgent care and emergency patients. Medical supplies to care for patients and to protect medical providers, their families and patients are running short throughout the country. While not ideal, reusable washable masks can be made by hand, and they area needed for protection in hospitals, nursing homes, rehab centers, group homes and other group settings. 
+Медицинские учреждения испытывают нарастающее число пациентов с COVID-19, с разной степенью тяжести протекания, а так же стандартных случаев, требующих неотложной помощи. Запасы медицинских принадлежностей, необходимых для ухода за пациентами, защиты самих сотрудников, их семей и семей пациентов, сокращаются по всей стране. Хотя далеко от идеальных, многоразовые, стираемые маски можно сделать своими руками. Они пригодятся и для медицинских учреждений, домов престарелых, реабилитационных центров, общежитий и тп.
 
-There are a number of Facebook groups coordinating this effort and working with local health care facilities regarding requirements and drop off of masks. Two have just merged and are working together: RosieSews.org / Million Mask Mayday - Make Masks & More to Fight COVID-19
+В социальных сетях есть сообщества, занимающиеся изготовлением масок и сотрудничеством с местными медицинскими учреждениями. Некоторые из них объединили свои усилия и работают совместно: RosieSews.org / Million Mask Mayday - Make Masks & More to Fight COVID-19.
 
-Here are the basic materials and supplies you’ll need. 
+Ниже перечислены основные материалы, необходимые для создания масок.
 
-Mask materials.
-Tightly woven fabric. Preferably cotton, cotton blend OK the more cotton the better
-Thread
-1/8” Elastic (for one pattern) or bias tape. 
-Mask making supplies:
-Scissors
-Sewing machine
-Iron
-Ruler/tape measure
-Pins
-Single layer of fabric
-Easiest to make	Double layer, pouch for filter
-Harder/longer to make
-Elastic over the ear	Less protection, least comfortable for day long use	Good protection, not as comfortable for all day use
-Fabric ties around head	Less protection, comfortable	Best protection, most comfortable
+Материалы для масок.
+Плотная ткань. Предпочтительно хлопковая, можно и смешанную, но чем больше хлопка, тем лучше.
+Нить
+3мм эластичная или обычная лента.
+Принадлежности:
+Ножницы
+Швейная машинка
+Утюг
+Сантиметр
+Булавки
+Один слой ткани
+Легко сделать двойной слой, чехол для фильтра
+Сложнее/дольше сделать
+
+Резинка в области уха	Хуже защищает, наименее удобно, если носить целый день	Хорошая защита, не так удобна, если носить целый день
+Ткань завязывается вокруг головы	Меньше защита, удобно	Лучшая защита, наиболее удобно
 ‍
 
-Different types of masks are good for different uses. 
+Разные типы масок хороши для разных случаев.
 
-Video instructions can be mixed and matched, depending on need and sewing skills. 
+Видео инструкции могут быть использованы в разных комбинациях, в зависимости от конкретных нужд и навыков шитья. 
 
-There are dozens of videos and patterns/ instructions on line for making masks. We have chosen a few here that are simple, for beginners, and for different learning styles. 
+В интернете есть дюжины разных инструкции по самостоятельному изготовлению масок. Мы выбрали те, что показались нам простыми, для начинающих и для разных способов обучения.
 
-Mask with elastic and pocket for filter
+Маски с резинкой и кармашком для фильтрации
 
-Mask with elastic ear loops, multiple layers of fabric for better safety, no pocket for filter. 
+Маски с резиновой петелькой для уха, несколько слоев ткани для лучшей безопасности, без кармашка для фильтрации
 
-Two layer cotton mask, cloth loops, using hand made bias tape. Easier to purchase premade bias tape. 
+Двуслойная хлопковая маска, тканевые петельки из самодельной тканевой ленты.
 
-Written instructions made by a nurse. It is a slightly more complicated pattern, but still easy to make. No elastic, bias tape ties. 
+Инструкции в письменном виде, сделанные медсестрой. Чуть более сложная схема, но попрежнему легко воспроизвести. Обычные петельки для ушей.
 
-Written instructions and pattern from Rosie Sews
+Инструкции в письменном виде от Рози Сёуз
 
-Joann Fabric, a national chain is offering supplies, materials and instruction.
+Джоанн Фабрик, национальная сеть предлагает материалы и инструкции.
