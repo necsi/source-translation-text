@@ -11,7 +11,7 @@ Hilf unserem Team von über 5,000 Freiwilligen dabei, COVID-19 zu bekämpfen: [M
 |![yaneer](images/Yaneer.jpg)|
 | --- |
 
-## Der schnellste und einzige Weg, COVID-19 in den USA zu stoppen, ist eine fünfwöchige Abriegelung auf nationaler Ebene.
+## Der schnellste und einzige Weg, COVID-19 zu stoppen, ist eine fünfwöchige Abriegelung auf nationaler Ebene.
 
 ### Unsere drei wichtigsten Empfehlungen für Regierungen 
 
@@ -65,10 +65,11 @@ Länder, insbesondere in Asien, die hierbei über das erforderliche Fachwissen v
     
 [Weitere Richtlinien für Familien →](https://www.endcoronavirus.org/richtlinien#family-ger)
 
+[Richtlinien für Gemeinschaften](https://www.endcoronavirus.org/german-guides#community-ger)
 
-[Tägliches Update](https://v2.endcoronavirus.org/page/german-updates-page)
+[Richtlinien für Regierungen](https://www.endcoronavirus.org/german-guides#gov-ger)
 
-[Interaktive Karte](https://v2.endcoronavirus.org/map/deutsch)
+[Interaktive Karte](http://ec2-35-153-102-199.compute-1.amazonaws.com/elastic/)
 
 
 Für die neuesten Updates und Empfehlungen, folge [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) und [End Coronavirus Dot Org](https://twitter.com/endCOVID19) auf Twitter.
