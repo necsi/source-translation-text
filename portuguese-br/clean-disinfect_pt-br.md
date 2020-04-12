@@ -13,7 +13,7 @@ O COVID-19 é transmitido principalmente através de aerossóis e gotículas, e 
 
 A limpeza remove germes, poeira, sujeira e impurezas das superfícies. Algumas formas de limpeza também matam germes. Mesmo quando a limpeza não mata germes, removê-los do ambiente em que as pessoas estão localizadas reduz o risco de propagação da infecção.
 
-Matar germes por desinfecção deve ser realizado após a limpeza para reduzir ainda mais o risco de disseminação da infecção. O coronavírus que causa o COVID-19 pode ser neutralizado por sabão, álcool e água sanitária.
+A desinfecção para neutralizar microrganismos deve ser realizada após a limpeza, para reduzir ainda mais o risco de transmissão da infecção. O coronavírus que causa o COVID-19 pode ser neutralizado por sabão, álcool e água sanitária.
 
 Mais especificamente, o SARS-CoV-2 pode ser neutralizado por solventes lipídicos, incluindo éter (75%), etanol, desinfetantes contendo cloro, ácido peroxiacético e clorofórmio, exceto a clorexidina. Uma lista de desinfetantes para SARS-CoV-2 pode ser encontrada no site da EPA, em inglês (https://www.epa.gov/pesticideregistration/list-n-disinfectants-use-against-sars-cov-2).
 
