@@ -1,39 +1,39 @@
-## Community Action and Support for COVID 19
+## Общественная деятельность и поддержка для 19
 
-Naomi Bar-Yam, Chen Shen and Yaneer Bar-YamNew England Complex Systems InstituteMarch 21, 2020
+Наоми Бар-Ям, Чен Шен и Янир Бар-Ям Института сложных систем Новой Англии Март 21, 2020
 
-As shelter in place orders (lockdowns) occur in the response effort to stop COVID-19 there will be disruptions in work and service that will affect individuals differently and even seriously. It is also important to address social isolation and all that entails. Family, friends and community are essential support systems.
+По мере введения карантина, как меры протводействия COVID-19, будут происходить перебои в работе и обслуживании, которые в разной степени повлияют на наши жизни. Важно разобраться с самоизоляцией и вытекающими из неё последствиями. Семья, друзья и сообщество являются незаменимой системой поддержки.
 
 ![image](https://assets-global.website-files.com/5e63ff6068556a01cc34f6d0/5e77a8611511e1d2fb40f20d_quote.jpg)
 
 _Rabbi Yosef Kanefsky of B’nai David-Judea in Los Angeles_
 
-There are multiple aspects to how individuals can build their community engagement and how an organized community can develop mutual support:
+Есть несколько аспектов позволяющих построить вовлеченное сообщество, которое в дальнейшем даст взаимопомощь:
 
-* Individuals can reach out to their friends and families, ask what help is needed and what help they can provide. Keep track of who can help with what and pass the information to others who need it. Decide who you want to be in touch with on a regular basis and put those texts, calls or video calls on your calendar. Encourage others to do the same.
+* Можно начать с семьи и друзей, спросить их какая помощь нужна и чем можно быть полезным. Поддерживая контакт с теми, кто готов помочь, можно посоветовать их услуги кому-то кто нуждается в помощи. Решите с кем вы хотите оставаться на связи и пишите, звоните им регулярно (можно даже по графику). Поощряйте других делать тоже самое.
 
-* The community can create a buddy system. Small groups of 2 or 3 individuals or households are a “Buddy Pod” that checks in on one another remotely a couple of times a week. Even if everyone is and remains free of COVID 19, there will be concerns, problems, etc. Examples: collect grocery orders from buddies and rotate who goes to the store, using non-contact drop-off. Help those not accustomed to order online. Pay attention to what the needs are and be creative.
+* Можно организоваться в группы по 2-3 человека, которые проверяют друг друга удаленно пару раз в неделю. Даже если никто не заболеет COVID-19, все равно будут появляться проблемы и вопросы, требующие внимания. К примеру можно собрать со всех групп список покупок и по очереди ходить в магазин. Договориться, где оставить покупки, чтобы передавать их бесконтактным способом. Помогите тем, кто не умеет заказывать онлайн. Уделяйте внимание нуждающимся и будьте креативны.
 
-* Prioritize, with extra caution, helping senior members of the community who don’t live with their children, to set up telecommunication / virtual communication, especially video. Extra caution must be taken to avoid any direct physical contact or proximity as elderly individuals are particularly vulnerable to severe disease and death.
+* Постарайтесь, соблюдая осторожность, помочь пожилым членам сообщества, особенно тем, кто живет без детей, наладить телекоммуникацию, особенно видеосвязь. Важно по возможности избегать прямого физического контакта, поскольку пожилые люди особенно уязвимы для серьезных заболеваний.
 
-* Within a Buddy Pod, individuals should recognize the opportunities in available time and ask each other what they are interested in doing with it. For example, “If I had some free time, I always wanted to learn ...”, and help/enable/promote each other to carry them out.
+* Важно осознать возможности, появляющиеся за счет высвобождающегося времени, и спросить друг друга интересно ли кому-то составить вам компанию. К примеру, "Если б уменя было время, я бы точно хотел научиться ..." и помогите друг другу воплотить в реальность такие желания.
 
-* Opportunity for intergenerational interaction. Everyone is not equally able to use the internet or to cook, mend, even read. Make buddy pods and teams diverse, so mutual help can be both more meaningful and more fun. People with grown children may love remote homework help and reading with younger members.
+* Связь поколений. Не все одинаково хорошо умеют пользоваться интернетом, готовить, чинить или даже читать. Разнообразьте команды взаимопомощи, это сделает их более осмысленными и интересными. Люди, чьи дети уже выросли, возможно будут заинтересованы удаленно помочь с домашними заданиями школьникам или почитать детям помладше.
 
-* Depending on the size of the community, larger sub- groups of say 5-10 buddy pods can form a "Buddy Group" that will be available to one another as additional resource to brainstorm and work together to solve prob- lems bigger than one Buddy Pod can handle. If a buddy becomes ill, with COVID 19 or something else, how best to support and stay safe? What other resources can be called upon?
+* В зависимости от размеров сообщества, можно нарастить команды до 5-10 человек, что позволит решать более сложные проблемы. Если член команды заболеет COVID-10, как лучше поддержать его и сохранить безопасность? Какие еще ресурсы можно задействовать?
 
-* What supplies can the community buy in bulk and have available for members? Non perishable food, gloves, cleaning wipes, paper towels, tissues. Items to have available when stores (virtual and brick and mortar) run out until they are available again.
+* Чем можно запастить и сделать доступным для членов сообщества? Еду, которая долго хранится, перчатки, влажные салфетки, бумажные полотенца, ткани/тряпки. Предметы, которые исчезают из магазинов.
 
-* Community institutions can be creative about providing the activities remotely that are normally done in situ. For example, universities are conducting classes online. Houses of worship are streaming religious services and classes. Book, bridge, knitting clubs meet on Zoom?
+* Сообщества могут быть креативными, относительно того какие занятия, что обычно делаются на месте, можно заменить удаленными. К примеру, университеты переходят на обучение онлайн. Церкви проводят трансляции служб. Книжные клубы, клубы шитья, клубы игры в бридж можно проводить онлайн (используя видеосвязь).
 
-* As the weather for many of us warms, plan small group outdoor activities that allow participants to keep their distance (more than 6 feet) but enjoy being in the same outdoor space together.
+* По мере того как погода будет становиться все теплее, планируйте совместные занятия/прогулки на свежем воздухе, такие что позволяют соблюдать дистанцию друг с другом (1.5 - 2 метров) и при этом вместе наслаждаться пребыванием на улице.
 
-* Events—birthdays and anniversaries, weddings, gradua- tions, welcoming new babies, and deaths—times when we gather to celebrate, mourn and lend support are all changing now. The hugs will have to wait, but how can the community support celebrating together?
+* Дни рождения, годовщины, свадьбы, празднования достижений, появление детей, или проводы похорон - время когда мы собираемся вместе, чтобы скорбить или праздновать теперь изменятся. Придется подождать с обниманиями. Как сообщество может предоставить поддержку или вместе порадоваться?
 
-* Workplace mutual support: Some people can do their jobs from home, others cannot. In some workplaces, people with a particular job need to be present, but not all at once. i.e. medical teams, supermarkets, pharmacies, nursing homes. Work together to create a schedule that is safe, and assures that if one person or team (if that’s how it is set up) does get sick, the workplace can still function. Also that no one is exhausted.
+* Взаимопомощь на рабочем месте: Кто-то может делать свою работу из дома, кто-то нет. На некоторых работах необходимо личное присутствие, но не обязательно всех сразу. К примеру медицинские сотрудники, работники супермаркетов, аптек, домов престарелых - в таких местах рабочий график устроен так, что если один член команды заболевает, организация может продолжать работу. При этом нужно учесть нагрузку на одного человека такую, чтобы он не выматывался.
 
-* Buddy pods can also work toward mutual Closed Social Circles, opening the possibility of gathering in person.
+* Команды могут также организвать закрытый круг общения, позволяя собираться вместе (за счет ограничений контактов с другими людьми).
 
-* Building on the Community effort, individuals and thecommunity should seek out ways to support other com- munities locally, or find “sister communities” globally to share information with or collaborate on projects.
+* Сообщества могут поддерживать друг друга, находя дружественные сообщества. Таким образом можно будет делиться информацией или совместно заниматься чем-то (решать проблемы).
 
-* Since the pandemic is global, this is an opportunity to meet others online from the global community, speaking another language you may be able to speak a little or not at all, to share the experience of isolation, to learn each other’s language, and provide and learn safety and prevention tips from one another.
+* Поскольку пандемия глобальна, появляется возможность познакомиться с людьми онлайн в глобальном сообществе. Если вы говорите на нескольких языках можно поделиться опытом самоизоляции, изучить новые языки, научить своему и обменяться опытом и знаниями о том как пережить столь трудные времена.
