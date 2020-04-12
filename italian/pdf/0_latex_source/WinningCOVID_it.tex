@@ -1,0 +1,170 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} COVID-19: Come vincere \\
+\vspace{-0.35ex}}
+\author{Chen Shen and Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+\vspace{+0.35ex}
+\small{\textit{(tradotto by A. P. Rossi, P. Bonavita})}\\
+ \today
+  \vspace{-14ex} \\
+
+
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+\begin{multicols}{2}
+COVID è un avversario difficile: furtivo, ingannevole, veloce e crudele. I blocchi aiutano ma non sono abbastanza. Il tasso di crescita in US cresce ancora. L'Italia con misure di contenimento nazionali ha tuttora un calo molto lento dei casi. L'Austria ha avuto più successo, ma le misure sono cominciate prima. Le cose peggioreranno prima di migliorare, ma possiamo vincere anticipando COVID e mettercela tutta. Quando l'avremo fatto, possiamo fermarlo in 5 settimane. Dopo dure perdite e dopo aver imparato lezioni importanti, possiamo ritornare ad una vita normale. Ecco come.
+
+%Many countries have locked down but is that enough?
+%Here are the steps to win:
+\begin{enumerate}
+\item Ingaggiare tutti: tutti i livelli/aspetti del governo, delle amministrazioni, aziende ed individui devono mettercela tutta per fermare questa malattia, anche piccole falle possono far affondare la nave. Coinvolgere tutti per essere concentrati, adattabili e creativi per massimizzare l'effetto della propria azione. Questo virus ci attacca esponenzialmente, ma quando reagiamo, facciamo lo stesso contro il virus.
+
+\item Blocchi e contenimento: Searare gli individui per prevenire la trasmissione. Non si tratta di tenere le persone a casa, si tratta di tenerle separate. Stare all'aperto va bene, se le persone sono separate. Circa l'80\% dei contagi si sviluppa all'interno della famiglia. Se c'è un rischio di infezione, i familiari possono ridurlo separandosi temporaneamente. Il blocco può essere completato entro cinque settimane perchè il declino esponenziale può essere veloce quanto la crescita esponenziale. Sarà doloroso, ma non preoccupatevi: abbiamo sopportato la pandemia nella sua parabola crescente, possiamo schiacchiarla nella sua fase discendente.
+
+\item Quarantene: Creare strutture per i casi lievi e moderati cosí che non infettino i propri familiari o le altre persone. Controllare porta a porta per identificare tutti i casi. Designare ospedali per trattamento esclusivo di COVID e non-COVID, per minimizzare i danni collaterali e le cross-infezioni.
+
+\item Indossare maschere negli spazi condivisi: Starnuti, tosse e respirazione possono tutti diffondere il virus. Le maschere bloccano la trasmissione quanod le persone devono condividere lo stesso spazio. Pulire le superfici ed usare guanti o altre modalita' per evitare di toccarle.
+
+\item Restrizione dei viaggi: queste bloccheranno nuove epidemie all'origine, renderanno il tracciamento dei contatti realizzabile, e preserveranno le conquiste locali per un effetto cric, mantenendo il progresso conseguito e non permettendo passi indietro. Altrimenti, non finirà, come affogare in una vasca da bagno con un rubinetto aperto. Le nazioni e gli stati devono imporre una quarantena di 14 giorni sui viaggiatori, e devono separate le regioni all'interno di uno stato. Il trasporto essenziale di beni e persone deve seguire protocolli che evitino il contatto verso una zona o attraverso una zona e l'altra.
+
+\item I servizi essenziali devono essere sicuri: Le aziende che si occupano di beni e servizi essenziali devono sviluppare e fornire servizi di consegna a domicilio, ritiro facile e veloce, o altri metodi atti a ridurre i rischi per i lavoratori ed i clienti.
+
+\item Testare, testare testare: Cercate di combattere quaclosa che non vedete. Se sappiamo chi è infettato possiamo isolare anche chi non ha sintomi. Le persone prima e dopo l'aver avuto sintomi possono trasmettere, e testare può rivelarlo. Testando gli individui in aree specifice, possiamo identificare le zone su cui concentrarci e quelle su cui rilassare le restrizioni. Nota: questo non è possibile se i viaggiatori portano la malattia, quindi questo approccio funziona solo se associato a restrizione dei viaggi.
+
+\item Linee guida sanitarie: Concentrarsi sul mantenere le persone in salute per evitare che casi lievi diventino gravi. Rafforzare il sistema immunitario idratandosi, mangiando a dovere, dormeno, facendo esercizio e respirando aria fresca o filtrata. Per febbri da normali sindromi influenzali ($38^\circ$) o poco oltre, lasciate che il corpo usi la febbre per combattere la malattia. Oltre ($39.5^\circ$) utilizzate farmaci per ridurre la febbre e cercate supporto medico~(\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786079/}).
+
+\item Supportare l'assistenza sanitaria: Gli ospedali e i lavoratori del comparto sanitario sono travolti e questo peggiorerà fino a quando le nostre azioni fermeranno la trasmissione. Fornire gli sturmenti di cui hanno bisogno per fare il loro meglio nel salvare vite: strutture, strumenti medici, dispositivi di protezione, beni essenziali quotidiani. Riconoscere i loro successi e mostrare supporto per aiutarli a superare le sfide correnti.
+
+\end{enumerate}
+
+\end{multicols}
+
+
+%\begin{thebibliography}{20}
+%\end{thebibliography}
+
+
+% \bibliography{MyCollection.bib}
+
+
+\end{document}
