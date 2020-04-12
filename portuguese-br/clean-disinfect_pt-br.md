@@ -1,3 +1,6 @@
+# Coronavirus Guidelines for Cleaning and Disinfecting to Prevent COVID-19 Transmission (.pdf file) - Brazilian Portuguese translation
+**Original reference:** https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e8f5661ba0c077f84cb2a76/1586452065425/Disinfect.pdf
+
 # Diretrizes de limpeza e desinfecção para prevenir a transmissão do COVID-19
 
 **Aaron Green, Chen Shen e Yaneer Bar-Yam**
