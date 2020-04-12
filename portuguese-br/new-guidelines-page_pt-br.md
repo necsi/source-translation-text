@@ -51,7 +51,8 @@ O COVID-19 se originou no território principal da China, no final de 2019. Em v
 ### [Diretrizes para códigos de cores para nível de alerta](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/alert-color-code_pt-br.pdf)
 * Diretrizes regionais para ação contra o COVID-19. **Para ver os códigos de cores para sua área, veja nosso [mapa interativo (em inglês)](http://necsi-executive.com/elastic/).**
 
-
+### [Diretrizes de limpeza e desinfecção para prevenir a transmissão do COVID-19](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/clean-disinfect_pt-br.pdf)
+* Como limpar e desinfetar vários tipos de superfcies
 
 ## Outros guias úteis
 
