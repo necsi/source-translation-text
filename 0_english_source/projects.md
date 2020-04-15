@@ -13,6 +13,10 @@ Response: Engaging in medical response innovation and facilitates deliveries of 
 Tech: Builds websites and apps to help track and prevent the spread of COVID-19.
 Scanning and Analytics: Discover, analyse, and present data related to COVID-19.
 
+**Interactive Worldwide Plots**
+
+**Interactive Province-Level Maps**
+
 **Success Stories**
 We have become a globally recognized source of reliable information and effective guidelines 
 
