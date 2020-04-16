@@ -1,4 +1,5 @@
 **Global Daily Update for April 15, 2020**
+
 Chen Shen and Yaneer Bar-Yam
 
 New England Complex Systems Institute
