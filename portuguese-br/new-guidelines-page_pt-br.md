@@ -62,8 +62,8 @@ O COVID-19 se originou no território principal da China, no final de 2019. Em v
 ### [Gerenciamento de Volume de Sangue de Pacientes (*Patient Blood Management*) durante a pandemia do COVID-19 em 2020 (em inglês)](https://sabm.memberclicks.net/assets/COVID-19/SABM-PBM-COVID19-statement-20200317.pdf)
 * Diretrizes elaboradas pela Sociedade para o Avanço do Gerenciamento do Volume de Sangue
 
-### [Hospitais de campanha de Fangcang: um novo conceito de resposta à emergências de saúde pública](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30744-3/fulltext)
-* Artigo publicado no The Lancet
+### [Hospitais de campanha de Fangcang: um novo conceito de resposta à emergências de saúde pública (em inglês)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30744-3/fulltext)
+* Artigo publicado na revista científica *The Lancet*
  
 ## Diretrizes para famílias
 Em áreas de risco elevado em que o governo não está tomando as medidas adequadas, proteger uma família ou grupo é um desafio. A propagação do fogo requer uma trilha de combustíveis: da mesma forma, o contágio do COVID-19 requer uma cadeia de indivíduos suscetíveis. A solução é:
