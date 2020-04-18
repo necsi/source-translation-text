@@ -5,6 +5,10 @@ COVID-19 originated in mainland China in late 2019. In many cases, it causes sev
 
 ## Download Guidelines as PDF
 
+Testing Treatments for COVID-19: CT-scans for visible disease progression﻿
+
+- How to use CT scans to better monitor COVID-19 progression
+
 Everyday Life and COVID-19
 
 - What to do about: Apartment buildings, grocery shopping, necessary errands, packages and mail
