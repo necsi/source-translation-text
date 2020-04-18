@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|59|17  April 2020, 23:30 UTC|Guidelines page: new guidelines on top of the list about CT scans|
 |58|15  April 2020, 23:30 UTC|Daily updates: split into three pages: summary, US, and global|
 |57|15  April 2020, 22:30 UTC|Projects page: added a portion of the page with links to Sergey's plots|
 |56|10  April 2020, 16:30 UTC|Added privacy policy and terms of use pages|
