@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|60|19  April 2020, 4:30 UTC|Updated paper: Respiratory Health for Better Outcomes Version 2|
 |59|17  April 2020, 23:30 UTC|New paper: Testing Treatments for COVID-19: CT-scans for visible disease progression|
 |58|15  April 2020, 23:30 UTC|Daily updates: split into three pages: summary, US, and global|
 |57|15  April 2020, 22:30 UTC|Projects page: added a portion of the page with links to Sergey's plots|
