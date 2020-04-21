@@ -45,7 +45,7 @@ El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de caso
 [Acción y soporte comunitario ante COVID19 - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/CommunitySupport_en.pdf)
 - Como lograr un compromiso ciudadano y un soporte mutuo en las comunidades
 
-[Seguridad y Chequeo de Empleados: Preguntas para empleadores - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/Questionaire_en.pdf)
+[Seguridad y Chequeo de Empleados: Preguntas para empleadores](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/Questionaire_es.pdf)
 - Guías para que empleadores logren mantener a sus empleados y sus puestos de trabajo
 
 ## Otras guías útiles (médicas, técnicas)
