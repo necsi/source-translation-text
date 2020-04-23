@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|62|22  April 2020, 21:30 UTC|New Projects page: UnderstandingCoronavirus2|
 |61|19  April 2020, 21:30 UTC|Guidelines page: currently under construction|
 |60|19  April 2020, 4:30 UTC|Updated paper: Respiratory Health for Better Outcomes Version 2|
 |59|17  April 2020, 23:30 UTC|New paper: Testing Treatments for COVID-19: CT-scans for visible disease progression|
