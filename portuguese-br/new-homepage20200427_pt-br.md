@@ -1,3 +1,6 @@
+# New homepage - updated 2020-04-27 (Brazilian Portuguese Version)
+Original reference link: https://www.endcoronavirus.org
+
 EndCoronavirus Logo | Idioma | Twitter |  Facebook | YouTube | Instagram | [Junte-se a nós]()
 ------------------- | ------ | ------- | --------- | ------- | --------- | -------------------
 
