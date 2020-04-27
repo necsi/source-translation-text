@@ -21,18 +21,27 @@ Nossa equipe é composta por mais de 4.000 voluntários, incluindo cientistas, e
 ## PESQUISA
 
 [TESTANDO TRATAMENTOS PARA A COVID-19: CT-SCANS PARA VISUALIZAÇÃO DA PROGRESSÃO DA DOENÇA (em inglês)]()
+
 [Carta aberta ao governador da Virgínia Ralph Northam convocando-o para uma ação agressiva contra o COVID-19 (em inglês)]()
+
 [Construindo um modelo da patologia do Coronavírus]()
+
 [Quebrando o congestionamento de testes: diagnóstico por CT-Scan]()
+
 [Relatório de trabalho 4-9: Análise e aplicações de Métodos de Testes Adaptativos de Grupo para a COVID-19 (em inglês)]()
+
 [O que os modelos podem e não podem dizer sobre o COVID-19]()
+
 [Eliminando o COVID-19: uma análise focada em comunidades]()
 
 ## GRÁFICOS INTERATIVOS COM DADOS MUNDIAIS (em inglês)
+
 [Clique aqui para visitar o site com essas informações]()
 
 ## MAPAS INTERATIVOS
+
 [Explore mapas interativos a nível de província]()
+
 Feito por Amir Akhavan e pela equipe do NECSI.
 
 [Explore um mapa global que mostra várias estatísticas do COVID-19 por 1 milhão de pessoas]()
@@ -84,3 +93,4 @@ Esta é uma equipe auto-organizada! Dê uma olhada ao redor, e examine as habili
 
 Clique na imagem abaixo para explorar visualmente nossa comunidade Slack.
 
+[Slack organization image]
