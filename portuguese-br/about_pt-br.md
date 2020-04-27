@@ -1,9 +1,9 @@
-# About page
-Reference link: https://www.endcoronavirus.org/page/about
+# About page (Brazilian Portuguese Translation)
+**Original Reference link:** https://www.endcoronavirus.org/page/about
 
 ## Sobre nós:
 
-EndCoronavirus.org é um site construído e mantido pelo New England Complex Systems Institute (NECSI) e seus colaboradores. Nosso objetivo é minimizar o impacto do COVID-19, fornecendo dados e diretrizes úteis para a ação.
+EndCoronavirus.org é um site construído e mantido pelo [New England Complex Systems Institute (NECSI)](https://necsi.edu/) e seus colaboradores. Nosso objetivo é minimizar o impacto do COVID-19, fornecendo dados e diretrizes úteis para a ação.
 
 Nossa equipe de pesquisa tem co-professores, estudantes e afiliados do MIT, Harvard, Brandeis e outras universidades dos EUA e internacionais. Estamos trabalhando 24 horas para monitorar e comunicar o estado atual da epidemia COVID-19.
 
@@ -19,6 +19,4 @@ Se todos fizessem o teste para COVID-19, poderíamos separar temporariamente os 
 
 Ações agressivas e ousadas são necessárias para reduzir a transmissão, minimizando a interação com contatos próximos, a fim de reduzir a vulnerabilidade e os riscos para os indivíduos, mas também para "estar à frente do surto", para que ele seja interrompido.
 
-Todo mundo pode ajudar.
-
-
+Todo mundo pode ajudar. Veja nossos [projetos]() para obter um panorama do que nós estamos fazendo. Se você é um cidadão americano, [clique aqui]() para contatar o seu representante eleito, para nos ajudar a lutar contra o COVID-19.
