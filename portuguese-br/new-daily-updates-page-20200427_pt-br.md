@@ -8,4 +8,5 @@ New England Complex Systems Institute
 As figuras a seguir, em inglês, mostram a dinâmica dos casos de COVID-19 ao longo do tempo, globalmente e em regiões específicas. Siga [@yaneerbaryam](https://twitter.com/yaneerbaryam) para obter as atualizações mais recentes.
 
 [Clique aqui para ver dados globais dos **países mais afetados**]()
+
 [Clique aqui para ver os dados dos EUA acerca dos **estados mais afetados**]()
