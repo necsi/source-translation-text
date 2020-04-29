@@ -1,0 +1,174 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[sort&compress]{natbib}
+\usepackage[russian]{babel}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Тестовые процедуры для COVID-19: \\ КТ-сканы для визуализации прогрессирования болезни.  \\
+\vspace{-0.35ex}}
+\author{\\ Институт Сложных Систем Новой Англии \\
+ \today 
+  \vspace{-14ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\begin{multicols}{2}
+
+Как можно быстро найти эффективный способ лечения COVID-19? Как правило, лекарста испытваются при помощи статистики двойного слепого метода. Однако статистические исследования изучают малые эффекты, используя большое число испытуемых. Это хорошо, когда все очевидные вещи уже были испробованы. Но с новым заболеванием подход должен быть самым базовым: Врачи определяют что на самом деле работает, на основании проявляющихся эффектов.
+
+Если лечение верное, результат становится ясным в течение короткого промежутка времени для конкретного пациента. Врачи не ждут одобрения применения постурального лечения, например перемещение пациента в разные положения лежа вместо применения ИВЛ и могут видеть результат. Формально это должно звучать как обнаружение маркеров заболевания. Делать все по процедуре это хорошо, однако для заболевания, которое мы только начали лечить лучше всего использовать очевидные методы, дающие наилучший результат.
+
+Что можно сделать сразу, так это дать возможность врачам понять, что на самом деле происходит. Один из самых лучших способов - зайдествовать компьютерную томографию. Она предоставляет объемную картину того, что происходит в легких, включая количество и степень имеющихся повреждений. Она может показать наличие инфекции еще до появления симптомов или когда они в легкой форме. Наличие КТ позволяет мониторить состояние легких по мере развития болезни.
+
+Возникает вопрос можно ли сканировать человека несколько раз, чтобы знать как меняется картина со временем? Да, можно. Степень облучения за один скан ниже 1 мЗв, возможно 0.5, примерно столько же сколько излучения вы получите за 3 международных перелета туда и обратно \cite{r1}. Фоновая, годовая радиация в США составляет 2-3 мЗв \cite{r2}. Само собой 2 КТ скана, возможно больше, не окажут пагубного влияния. Существуют протоколы КТ сканирования для обеспечения низкого уровня радиации \cite{cancer}. Несколько КТ сканирований позволят напрямую наблюдать динамику заболевания, выявляя, что именно в выбранном лечении влияет на ход болезни.
+
+Наиболее часто возникающая мысль - загрязнение инфекцией самого аппарата КТ. Вероятность такого можно уменьшить несколькими способами, к примеру при помощи использования, прозрачной полиэтилленовой пленки, оборачиваемой вокруг головы и туловища пациента, со специальными трубками для вдыхания и выдыхания, подсоединенных к насосу с ULPA фильтром (фильтр ультра мелких частиц). Такая процедура с пациентом может проводиться еще до перемещения в комнату с КТ аппаратом.
+
+%This can be mitigated in a variety of ways, including using a simplified oxygen tent with a helmet, a transparent plastic bag, two tubes for intake and exhaust, and a ``smoke evacuator'' pump with an ULPA filter that eliminates particles down to the size of individual viral particles. %The bag can be discarded, the helmet becomes a souvenir, and the pipe ends can be sanitized. 
+
+Вместо того, чтобы смотреть на малые эффект, давайте смотреть на большие. Тогда станет видно, как лучше лечить.
+
+Можно выделить два отдельных периода: Ранняя стадия, чтобы предотвратить развитие и поздняя стадия, чтобы повысить шансы улучшения. Основная сложность, возникающая в работе с тяжелым пациентом это увидеть его возможное выздоровление из-за  жидкости, накапливающейся в легких. Поэтому лучше сосредоточиться на ранней стадии, в которой выявление происходит при помощи КТ и позволяет предотвратить "пробку" тестирования  \cite{china,cttest}.
+
+Подходящими методами борьбы с инфекцией являются хлорохин, уже нашумевший, различные физические манипуляции, такие как специальные положения лежа, а так же сокращение собственной подверженности вирусным частицам при помощи HEPA и ULPA фильтров. Возможность иметь несколько медицинских команд, параллельно использующих разные подходы, позволяет быстро продвинуть понимание проблемы, что нам и нужно. А именно - видеть, что на самом деле происходит.
+
+Статистика может подождать. Ясность (видимость, прозрачность ситуации) должна быть первым приоритетом.
+
+\section*{Благодарности}
+Благодарим Др. Дженифер Сиглман, Др. Джеймс Л Мулшайн, Рик Авила, и Др. Леонард Шультз за полезные беседы.
+
+\end{multicols}
+\begin{thebibliography}{20}
+
+\bibitem{r1} Radiation from Air Travel, CDC, \url{https://www.cdc.gov/nceh/radiation/air_travel.html}
+
+\bibitem{r2} Radiation Sources and Doses, EPA \url{https://www.epa.gov/radiation/radiation-sources-and-doses}
+
+\bibitem{cancer} Widmann, G. Challenges in implementation of lung cancer screening---radiology requirements. memo 12, 166-170 (2019). \url{https://doi.org/10.1007/s12254-019-0490-9}
+
+\bibitem{china}  Handbook of COVID-19 Prevention and Treatment \url{https://covid-19.alibabacloud.com}
+
+\bibitem{cttest} Chen Shen and Yaneer Bar-Yam, Breaking the testing logjam: CT scan diagnosis, New England Complex Systems Institute (April 10, 2020). \url{https://necsi.edu/breaking-the-testing-logjam-ct-scan-diagnosis}
+
+\end{thebibliography}
+% \bibliography{MyCollection.bib}
+
+
+
+\end{document}
