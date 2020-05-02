@@ -3,6 +3,7 @@
 ||||
 |--- |--- |--- |
 |**Modification no.**|**Date**|**Description**|
+|64|1 May 2020, 21:30 UTC|New Guidelines page: /papers/opening-up |
 |63|25  April 2020, 21:30 UTC|New Projects page: /projects-1/va |
 |62|22  April 2020, 21:30 UTC|New Projects page: UnderstandingCoronavirus2|
 |61|19  April 2020, 21:30 UTC|Guidelines page: currently under construction|
