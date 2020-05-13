@@ -1,6 +1,6 @@
 # Verspreid kennis, niet het virus
 
-### We bieden deskundige informatie over hoe u COVID-19 kunt stoppen, zodat u zelfverzekerd kunt handelen.
+### We bieden deskundige informatie over hoe u kunt helpen om COVID-19 kunt stoppen, zodat u zelfverzekerd kunt handelen.
 
 ### Zie onze aanbevelingen voor [individuen, gezinnen], [werkgevers] en [overheden].
 
@@ -18,31 +18,33 @@ Sluit je aan bij meer dan 5.000 vrijwilligers in onze groep om COVID-19 te bestr
 ### Onze top drie aanbevelingen voor overheden
 ### 1. Vergrendeling
 
-In een groot deel van Europa en Noord-Amerika betekent de explosieve groei van COVID-19 dat een stricte lockdown van 4-6 weken nodig is om de uitbraak te stoppen. Dergelijke lockdowns kunnen politiek moeilijk te implementeren zijn en brengen altijd aanzienlijke korte -termijn economische en sociale kosten. Maar hun effecten zijn dramatisch en hun duur is kort. Twee maanden nadat China de blokkering had opgelegd, heeft China de lokale transmissie van COVID-19 vrijwel geëlimineerd. Wuhan is nu veiliger dan Londen of New York en de Chinese economie is op weg naar herstel. Zonder de strikte afsluiting van China zou de economische schade aan China door COVID-19 een orde van grootte groter zijn geweest.
+In een groot deel van Europa en Noord-Amerika betekent de explosieve groei van COVID-19 dat een stricte lockdown van 4-6 weken nodig is om de uitbraak te stoppen. Dergelijke lockdowns kunnen politiek moeilijk te implementeren zijn en brengen altijd aanzienlijke korte -termijn economische en sociale kosten met zich mee. Maar hun effecten zijn dramatisch en hun duur is kort. Twee maanden nadat China de blokkering had opgelegd, heeft China de lokale transmissie van COVID-19 vrijwel geëlimineerd. Wuhan is nu veiliger dan Londen of New York en de Chinese economie is op weg naar herstel. Zonder de strikte afsluiting van China zou de economische schade aan China door COVID-19 een orde van grootte groter zijn geweest.
 
 Tijdens een sterke blokkering kunnen regio's die minder door het virus worden aangetast, hulpbronnen bieden aan mensen in nood. De blokkering geeft ook tijd om de levering van COVID-19-testkits en de capaciteit om deze te verwerken drastisch op te schalen. Als het aantal infecties drastisch wordt verminderd met behulp van de lockdown en er een enorm testregime wordt gestart, kan COVID-19 na vijf, of in Nederland zelfs minder, weken worden gecontroleerd zonder extreme sociale afstands maatregelen. Een stricte lockdown zou zowel de schade voor individuen als voor de economie minimaliseren.
 
     * Zie de memo van Chen Shen en Yaneer Bar-Yam: [Waarom een blokkering van 5 weken COVID-19 kan stoppen] (https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/15851638267.pdf )
 
-    * Yaneer's opinie-artikel in USA Today: [We hebben een onmiddellijke nationale blokkering van vijf weken nodig om het coronavirus in Amerika te verslaan] (https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america- needs-five-week-national-lockdown-column / 2890376001 /)
+    * Het opinie-artikel in USA Today: [We hebben een onmiddellijke nationale blokkering van vijf weken nodig om het coronavirus in Amerika te verslaan] (https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america- needs-five-week-national-lockdown-column / 2890376001 /)
+    
+    * Deze oproep aan Nederland in de Groene Amsterdammer: https://www.groene.nl/artikel/straks-belanden-jullie-in-de-loser-group
 
-### 2. Massaal testen, contacttracering en isolatie
+### 2. Massaal testen, contactonderzoek en isolatie
 
 Massale tests voor COVID-19 in combinatie met het opsporen en vervolgens isoleren van de contacten van geïnfecteerde personen is de interventie die de minste hoeveelheid economische schade veroorzaakt en toch veel levens redt. Singapore en Korea hebben aangetoond dat deze aanpak COVID-19 kan verslaan.
 
-Overheden moeten de volgende strategieën gebruiken om COVID-19 te stoppen:
+Overheden moeten de volgende aanpak hanteren om COVID-19 te stoppen:
 
-1. ** Contacttracering **: Isoleer, controleer en test iedereen die in contact is geweest met een bekende geïnfecteerde persoon.
+1. **Contacttracering**: Isoleer, controleer en test iedereen die in contact is geweest met een bekende geïnfecteerde persoon.
 
-2. ** Generiek symptomatisch testen **: Test iedereen in het geografische gebied van een geïnfecteerde persoon op COVID-19-symptomen zoals koorts.
+2. **Generiek symptomatisch testen**: Test iedereen die in enige nabijheid van een geïnfecteerd persoon geweest is op COVID-19-symptomen zoals koorts.
 
-3. ** Gerichte bemonstering **: Test willekeurig personen in risicopopulaties zoals gevangenissen, verpleeghuizen en slaapzalen voor studenten.
+3. **Gerichte bemonstering**: Test willekeurig personen in risicopopulaties zoals gevangenissen, verpleeghuizen en slaapzalen voor studenten.
 
 Landen, vooral in Azië, die over de vereiste expertise beschikken, zouden de rest van de wereld moeten helpen aan de slag te gaan. Contact traceringsteams moeten worden opgeleid en landen moeten het testen snel opvoeren. Landen moeten testcapaciteit gebruiken in academische instellingen en bedrijven.
 
 ### 3. Mobiliteit beperken terwijl essentiële benodigdheden en de medische reactie worden toegestaan
 
-** Reizen vanuit gebieden met actieve uitbraken moet worden gestopt **. Ieder individu moet een 14-daagse quarantaine ondergaan wanneer hij andere gebieden betreedt. Als er actieve uitbraken plaatsvinden, kunnen gebieden met minder gevallen sneller en met beperktere interventies de controle over hun uitbraken krijgen door de mobiliteit tot essentiële reizen te beperken. Het vermogen om sneller te herstellen is belangrijk voor economisch herstel en voor de mogelijkheid om gebieden te helpen die zwaarder worden getroffen.
+**Reizen vanuit gebieden met actieve uitbraken moet worden gestopt**. Ieder individu moet een 14-daagse quarantaine ondergaan wanneer hij andere gebieden betreedt. Als er actieve uitbraken plaatsvinden, kunnen gebieden met minder gevallen sneller en met beperktere interventies de controle over hun uitbraken krijgen door de mobiliteit tot essentiële reizen te beperken. Het vermogen om sneller te herstellen is belangrijk voor economisch herstel en voor de mogelijkheid om gebieden te helpen die zwaarder worden getroffen.
 
 | --- |
 
