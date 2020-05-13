@@ -1,7 +1,7 @@
 ## Maskers maken
 
 
-Ziekenhuizen zien een toenemend aantal patiënten met COVID 19, met symptomen variërend van mild tot ernstig, evenals hun normale spoedeisende hulp en spoedeisende patiënten. Voor medische benodigdheden om voor patiënten te zorgen en om medische zorgverleners, hun families en patiënten te beschermen, kunnen tekorten ontstaan. Hoewel het niet ideaal is, kunnen herbruikbare wasbare maskers met de hand worden gemaakt en ze zijn nodig voor bescherming in ziekenhuizen, verpleeghuizen, revalidatiecentra, groepswoningen en andere groepsinstellingen.
+Ziekenhuizen zien een toenemend aantal patiënten met COVID 19, met symptomen variërend van mild tot ernstig, evenals hun normale spoedeisende hulp en spoedeisende patiënten. Er kunnen tekorten ontstaan aan medische benodigdheden om voor patiënten te zorgen en om medische zorgverleners, hun families en patiënten te beschermen. Hoewel het niet ideaal is, kunnen herbruikbare wasbare maskers met de hand worden gemaakt en ze zijn nodig voor bescherming in ziekenhuizen, verpleeghuizen, revalidatiecentra, groepswoningen en andere groepsinstellingen.
 
 Er zijn een aantal Facebook-groepen die deze inspanning coördineren en samenwerken met lokale gezondheidsinstellingen met betrekking tot vereisten en het afzetten van maskers. Twee zijn zojuist gefuseerd en werken samen: RosieSews.org / Million Mask Mayday - Make Masks & More to Fight COVID-19
 
