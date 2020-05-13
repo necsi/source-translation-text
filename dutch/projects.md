@@ -1,4 +1,4 @@
-** Onze organisatie **
+**Onze organisatie**
 
 EndCoronavirus.org wordt gebouwd en onderhouden door het New England Complex Systems Institute (NECSI) en medewerkers. Ons doel is om de verspreiding van COVID-19 te stoppen door nuttige gegevens en richtlijnen te verstrekken aan individuen, werkgevers en overheden. We zijn hier om de curve te crushen!
 
@@ -13,28 +13,32 @@ Reactie: meewerken aan innovatie op het gebied van medische respons en vergemakk
 Technologie: bouwt websites en apps om de verspreiding van COVID-19 te volgen en te voorkomen.
 Scannen en analyseren: ontdek, analyseer en presenteer gegevens met betrekking tot COVID-19.
 
-** Interactieve wereldwijde percelen **
+**Interactieve wereldwijde percelen**
 
-** Interactieve kaarten op provincieniveau **
+**Interactieve kaarten op provincieniveau**
 
 **Succesverhalen**
 We zijn een wereldwijd erkende bron van betrouwbare informatie en effectieve richtlijnen geworden.
 
-Onze Coronavirus-richtlijnen voor bedrijven, goedgekeurd door ICC, waaronder 45 miljoen bedrijven in meer dan 100 landen.
+Onze Coronavirus-richtlijnen voor bedrijven zijn goedgekeurd door het International Chamber of Commerce, waaronder 45 miljoen bedrijven in meer dan 100 landen vallen.
 
-Verschijning in veel nieuwsartikelen en podcasts voor algemeen en gericht publiek over de hele wereld. Zie ons recente artikel in de USA Today dat een lockdown van 5 weken de verspreiding van COVID-19 kan stoppen.
+We zijn veelvuldig in nieuwsartikelen en podcasts voor algemeen en gericht publiek over de hele wereld. Zie ons recente artikel in de USA Today dat een lockdown van 5 weken de verspreiding van COVID-19 kan stoppen, opiniestukken bij CNN en de Guardian. In Nederland leidden onze pogingen om het tij op tjd te keren op 9 maart al tot een brief naar het RIVM dat huidig beleid onvoldoende was, en hebben we meerdere nieuwsartikelen tot stand helpen komen, onder meer in trouw en de Groene Amsterdammer:
 
-Creëerde een database van meer dan 7.000 wetenschappers om COVID-19 te helpen bestrijden.
+https://www.trouw.nl/binnenland/nederland-neemt-historische-maatregelen-maar-het-is-nog-niet-genoeg-zeggen-experts~bffe0d65/
 
-We hebben een 3D-geprinte ventilator uitgevonden, die in afwachting is van goedkeuring door de FDA
+https://www.groene.nl/artikel/straks-belanden-jullie-in-de-loser-group
 
-Wij begonnen met het idee van veilige ruimtes, veilige cirkels en Crush the Curve-bewegingen.
+We creëerden een database van meer dan 7.000 wetenschappers om COVID-19 te helpen bestrijden.
+
+We hebben een 3D-geprinte ventilator uitgevonden, die in afwachting is van goedkeuring door de Amerikaanse FDA.
+
+Wij begonnen met het idee van veilige ruimtes, veilige cirkels en de Crush the Curve-bewegingen.
 
 Talloze leveringen van PBM aan behoeftigen.
 
-Creëerden een deep learning-model dat COVID-19 detecteert op röntgenscans (die een prijs won van de Poolse premier).
+We maakten een deep learning-model dat COVID-19 detecteert op röntgenscans (die een prijs won van de Poolse premier).
 
-Speelden een belangrijke rol bij het annuleren van talloze massabijeenkomsten, het opschorten van persoonlijke scholen en het informeren van regeringen over de hele wereld
+We speelden een belangrijke rol bij het annuleren van talloze massabijeenkomsten, het opschorten van persoonlijke scholen en het informeren van regeringen over de hele wereld
 
 ** Onze speling **
 We gebruiken Slack als communicatiemiddel om onze projecten te helpen organiseren.
