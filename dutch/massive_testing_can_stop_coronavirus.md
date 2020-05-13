@@ -1,4 +1,4 @@
-Massaal testen kan de uitbraak van het coronavirus stoppen
+**Massaal testen kan de uitbraak van het coronavirus stoppen**
 
 Chen Shen en Yaneer Bar-Yam, massaal testen kan de uitbraak van het coronavirus stoppen, New England Complex Systems Institute (6 maart 2020)
 
