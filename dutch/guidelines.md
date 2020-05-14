@@ -150,7 +150,7 @@ Wees kritisch op geruchten en verspreid geen verkeerde informatie
 
 Stel in de nabij van gemeenschappen of landen met actieve infecties, grenscontroles op voor symptomen instellen
 
-Voer 14-daagse quarantaines uit voor risicovolle personen die infectievrije gebieden binnenkomen
+Voer 14-daagse quarantaines uit voor personen die ziek zouden kunnen zijn en die infectievrije gebieden binnenkomen
 
 In wijken met verhoogd risico coördineren buurtteams voor huis-aan-huisbewaking van de gemeenschap voor symptomen met behulp van infrarood (IR) thermometers en persoonlijke beschermingsmiddelen (PBM's)
 
