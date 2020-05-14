@@ -87,18 +87,18 @@ De veilige ruimte remt ook de besmetting omdat degenen in de veilige ruimte niet
 ## Contact tussen familie en anderen verminderen:
 Lees onze richtlijnen voor individuen met aandacht en deel deze met familieleden. Bespreek met hen hoe ze hun contact met anderen kunnen verminderen.
 
-Verander familiebijeenkomsten om virtueel te zijn. De huidige uitbraak zal worden overwonnen of zal wijdverbreid zijn. In het eerste geval zal een paar maanden later weer normaal worden. In het laatste geval zijn verschillende acties nodig.
+Verander familiebijeenkomsten naar virtuele bijeenkomsten. De uitbraak zal worden overwonnen of zal wijdverbreid zijn. In het eerste geval zal het leven een paar maanden later weer normaal worden. In het laatste geval zijn meer acties nodig.
 
 Zorg ervoor dat u en uw gezinsleden over de nodige benodigdheden beschikken, inclusief geneesmiddelen op recept. Overweeg kwetsbare leden van het gezin, inclusief ouderen, maar ook iedereen ouder dan 50, en mensen met chronische gezondheidsproblemen, wat betreft het risico van contact met anderen. Verminder hun contact, bied ondersteuning die hen in staat stelt thuis te blijven en niet naar de openbare ruimte te gaan.
 
-Overweeg tijdelijk personen in collectieve huisvesting (pensioneringsgemeenschappen, voorzieningen voor begeleid wonen, enz.) Naar meer geïsoleerde accommodaties te verplaatsen, waaronder privéwoningen of faciliteiten voor kleine groepen.
+Overweeg personen in collectieve huisvesting (pensioneringsgemeenschappen, voorzieningen voor begeleid wonen, enz.) tijdelijk naar meer geïsoleerde accommodaties te verplaatsen, waaronder privéwoningen of faciliteiten voor kleine groepen.
 Als het niet mogelijk is om contacten te verminderen, praat dan met degenen die verantwoordelijk zijn voor collectieve voorzieningen om het niveau van voorzorgsmaatregelen tegen transmissie te verhogen.
 
 Vermijd openbare bijeenkomsten en plaatsen, waaronder evenementen en restaurants, vooral in besloten ruimtes.
 
 Veilige ruimtes creëren onder omstandigheden met een hoog risico:
 
-Het belangrijkste doel van een veilige ruimte is dat een groep mensen een eenzame eenheid vormt die fysieke contacten met externe personen tot een minimum beperkt en tegelijkertijd in staat is zichzelf te onderhouden en zichzelf te onderhouden.
+Het belangrijkste doel van een veilige ruimte is dat een groep mensen een 'eenzame' eenheid vormt die fysieke contacten met externe personen tot een minimum beperkt en tegelijkertijd in staat is zichzelf te onderhouden en zichzelf te onderhouden.
 
 Individuen hoeven niet te wachten op door de overheid geleide veiligheidsacties van bovenaf. Bij gebrek aan agressieve, systematische interventie, helpen zelf-georganiseerde bottom-up veilige ruimtes ook individuen. Door geleidelijk op te schalen, kunnen de veilige zones lokale uitbraken vertragen of zelfs stoppen.
 
@@ -237,31 +237,31 @@ Beperk bezoekers en stel beleid in om bezoekers te informeren en uit te sluiten 
 
 ## Werkplekken
 
-Promoot flexibele werkuren, gespreide uren en diensten om de dichtheid op de werkplek te verminderen. De dichtheid moet op een bepaald moment worden verlaagd tot minder dan 50% van de capaciteit
+Hanteer flexibele werkuren, gespreide uren en diensten om de dichtheid op de werkplek te verminderen. De dichtheid moet op een bepaald moment worden verlaagd tot minder dan 50% van de capaciteit.
 
 Werkgevers moeten werknemers die terugkeren van plaatsen met bevestigde gevallen, of tijdens onzekere contacten tijdens het reizen, vragen om 14 dagen lang zelf in quarantaine te gaan voordat ze naar kantoor komen. Werkgevers moeten hun gezondheidstoestand nauwlettend in de gaten houden en medische hulp melden en zoeken.
 
 Toegangspunten moeten bemand zijn met personen met infrarood contactloze voorhoofdthermometers.
 
-Meet dagelijks de lichaamstemperatuur van werknemers en voorzie ze van maskers waar nabijheid bij anderen niet kan worden vermeden [1]
+Meet dagelijks de lichaamstemperatuur van werknemers en voorzie ze van maskers waar nabijheid bij anderen niet kan worden vermeden [1].
 
 Leid het verkeer naar het gebouw om het wassen van de handen bij binnenkomst te bevorderen en plaats handontsmettingsmiddel bij de ingang van het kantoor.
 
-Schik werknemers om clustering in liften te voorkomen. Liften mogen niet meer dan de helft van hun draagvermogen innemen
+Schik werknemers om clustering in liften te voorkomen. Liften mogen niet meer dan de helft van hun draagvermogen innemen.
 
-Zorg ervoor dat de werkruimte van elke werknemer minstens 3 ft is gescheiden en dat elke individuele werkruimte minstens 25 vierkante voet moet zijn. Voor kantoren met een groot aantal mensen moeten deze minimumrichtlijnen verder worden aangescherpt
+Zorg ervoor dat de werkruimte van elke werknemer minstens 3 ft is gescheiden en dat elke individuele werkruimte minstens 25 vierkante voet moet zijn. Voor kantoren met een groot aantal mensen moeten deze minimumrichtlijnen verder worden aangescherpt.
 
-Desinfecteer openbare ruimtes, locaties met veel verkeer, oppervlakken die vaak worden aangeraakt
+Desinfecteer openbare ruimtes, locaties met veel verkeer, oppervlakken die vaak worden aangeraakt.
 
-Als er airconditioning moet worden gebruikt, schakel dan de recirculatie van de interne lucht uit. Wekelijks belangrijke onderdelen en filters reinigen / desinfecteren / vervangen.
+Als er airconditioning moet worden gebruikt, schakel dan de recirculatie van de interne lucht uit. Wekelijks moeten belangrijke onderdelen en filters gereinigd, gedesinfecteerd, of vervangen worden.
 
-Verspreid dineren, houd 3 voet afstand tijdens het dineren en vermijd face-to-face zitten. Gescheiden keukengerei en vaak desinfecteren. Het personeel van de cafetaria moet regelmatig worden gecontroleerd op gezondheid
+Dineer gespreid, houd 2 meter afstand tijdens het dineren en vermijd face-to-face zitten. Gescheiden keukengerei en vaak desinfecteren. Het personeel van de cafetaria moet regelmatig worden gecontroleerd op gezondheid.
 
-Promoot maaltijdbezorging in plaats van uit eten te gaan. Regel hulp voor oproepen voor het bezorgen van voedsel en een locatie voor contactloos afzetten en ophalen van voedsel in een hygiënische ruimte zonder lijnen.
+Zorg voor maaltijdbezorging in plaats van uit eten te gaan. Regel hulp voor oproepen voor het bezorgen van voedsel en een locatie voor contactloos afzetten en ophalen van voedsel in een hygiënische ruimte zonder lijnen.
 
-Overweeg hoe werknemers naar werklocaties komen en ontwikkel aanbevelingen, waaronder het vermijden van openbaar vervoer of zorgvuldige hygiëne, waaronder het vermijden van het aanraken van oppervlakken, handen wassen en het dragen van maskers in gebieden met een verhoogd risico
+Overweeg hoe werknemers naar werklocaties komen en ontwikkel aanbevelingen, waaronder het vermijden van openbaar vervoer of zorgvuldige hygiëne, waaronder het vermijden van het aanraken van oppervlakken, handen wassen en het dragen van maskers in gebieden met een verhoogd risico.
 
-De verantwoordelijkheden voor het waarborgen van het werkplekbeleid op het gebied van Coronavirus-veiligheid moeten duidelijk en controleerbaar zijn
+De verantwoordelijkheden voor het waarborgen van het werkplekbeleid op het gebied van Coronavirus-veiligheid moeten duidelijk en controleerbaar zijn.
 
 ## Detailhandel en horeca
 Industrieën met een hoog contactnivea kunnen ernstig worden verstoord. Vroege en effectieve interventies kunnen het risico verminderen, maar zullen het risico niet uitsluiten, tenzij het de hele samenleving betreft
@@ -274,6 +274,6 @@ Er moeten contactloze methoden voor zakendoen worden ontwikkeld en geïmplemente
 
 Loop de ophaal- en wegbrengservice van het raam op, inclusief het zorgen voor voldoende afstand door lijnen te markeren
 
-Maak gebruik van thuisbezorgservices zonder contact
+Maak gebruik van thuisbezorgservices zonder contact.
 
 1. Er is discussie over het gebruik van maskers, we merken op dat: (1) Elke persoon die zelfs maar milde symptomen heeft, contact met anderen moet vermijden en een masker moet dragen terwijl hij in het openbaar of privé contact heeft met anderen. (2) Het dragen van een masker moet in openbare instellingen moet worden geaccepteerd om te voorkomen dat zieken ziek worden door te aarzelen of zich gestigmatiseerd voelen door het dragen van een masker. (3) Hoewel maskers de veiligheid van een gezond persoon niet garanderen en hun beschikbaarheid mogelijk beperkt is vanwege de hogere prioriteit in medische instellingen, vermindert het gebruik van maskers waarbij de nabijheid van anderen die mogelijk geïnfecteerd zijn niet dramatisch het risico op infectie. (4) Voor degenen die ouder zijn dan 50 of reeds bestaande gezondheidsproblemen hebben, evenals voor mensen in gebieden met een verhoogd risico, rechtvaardigen de hoge kosten van besmetting het gebruik van een masker. Hoewel niet ideaal, kunnen [herbruikbare wasbare maskers] (https://www.endcoronavirus.org/page/english-making-masks) met de hand worden gemaakt en zijn ze nodig voor bescherming in ziekenhuizen, verpleeghuizen, revalidatiecentra, groepen huizen en andere groepsinstellingen.
