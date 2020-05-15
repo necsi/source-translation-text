@@ -156,7 +156,7 @@ Our team consists of over 4,000 volunteers and includes scientists,   engineers,
 
 ### RESPONSE
 
-*We engage in medical response innovation and facilitate deliveries of medical equipment and PPE to those in need. *
+*We engage in medical response innovation and facilitate deliveries of medical equipment and PPE to those in need.*
 
 [Learn more about our work >](/participate)
 
