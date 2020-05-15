@@ -1,73 +1,168 @@
-# Spread knowledge, not the virus
+### ALL YOU NEED TO
+#CRUSH COVID-19
 
-### We provide expert information on how to stop COVID-19 so you can act confidently.
+Act confidently against COVID-19 with the help of our guidelines and research established by distinguished experts and scientists from the **New England Complex Systems Insitute (NECSI), Harvard, UCLA, MIT** and more.
 
-### See our recommendations for [individuals, families], [employers], and [governments].  
+### LEADER: PROF. YANEER BAR-YAM
 
-_EndCoronavirus is led by Yaneer Bar-Yam, president of the [New England Complex Systems Institute](https://necsi.edu). Yaneer is an **MIT-trained physicist and complexity scientist who studies pandemics**. He has warned about global pandemics due to increasing travel for 15 years. He recommended community-based monitoring of symptoms to stop **Ebola** in West Africa in 2014, and it worked_
+- president of [New England Complex Systems Institute](http://necsi.edu/)
+- **MIT-trained** physicist and complexity scientist
+- has warned about **global pandemics** for 15 years
+- contributed outbreak response protocols for **stopping Ebola** in Africa in 2014, which worked
 
-Join over 5,000 volunteers in our group to fight COVID-19: [Join us](https://v2.endcoronavirus.org/sign-up/english)
+[Learn more about us](/about)
 
-|![yaneer](images/Yaneer.jpg)|
-|NECSI President, Prof. Yaneer Bar-Yam|
-| --- |
+### SOME ARE WINNING - SOME ARE NOT
 
-## The fastest and the only way to stop COVID-19 in the United States is a five-week national lockdown.
+### WHO IS BEATING COVID-19?
 
-### Our top three recommendations for governments 
-### 1. Lockdown
+See which countries…
+- have already beaten COVID-19
+- are nearly there
+- need to take action
 
-In much of Europe and North America, the explosive growth of COVID-19 means that **a 4-6 week strong lockdown is necessary to stop the outbreak.** Such lockdowns may be politically difficult to implement, and they always entail significant short-term economic and social costs. But **their effects are dramatic, and their duration is short.** Two months after China imposed its lockdown, China has virtually eliminated local transmission of COVID-19. Wuhan is now safer than London or New York, and China’s economy is on the path to recovery. Without China’s strict lockdown, the economic harm to China from COVID-19 would have been orders of magnitude greater.
+[See all countries](/countries)
 
-During a strong lockdown, **regions which are less affected by the virus can help provide resources to those in need.** The lockdown also gives time to dramatically scale up the supply of COVID-19 test kits and capacity to process them. If the number of infections is dramatically reduced using the lockdown and a massive testing regime is initiated, COVID-19 can be controlled after five weeks without extreme social distancing measures. **A strong lockdown would minimize both the harm to individuals, as well as the economy.**  
+### THIS IS HOW
 
-    * See the memo by Chen Shen and Yaneer Bar-Yam: [Why A 5-Week Lockdown Can Stop COVID-19](https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf)
+With some basic actions, the curve can be crushed in only five weeks:
+- strict lockdown
+- travel restrictions
+- massive testing
+- masks
 
-    * Yaneer’s op-ed in USA Today: [We need an immediate five-week national lockdown to defeat coronavirus in America](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
+[How to win](/how-win]
 
-### 2. Massive Testing, Contact Tracing, and Isolation
+### NEWS
+### CALLING FOR AGGRESSIVE ACTION NOW 
+### OPEN LETTER TO VIRGINIA GOVENOR
 
-Massive testing for COVID-19 combined with tracing and then isolating the contacts of infected individuals is the intervention that causes the **least amount of economic harm** and yet saves many lives. Singapore and Korea have shown that this approach can defeat COVID-19.
+Virginia-based members of the EndCoronavirus.org network have partnered with colleagues across many fields to release an open letter to Virginia Governor Ralph Northam calling for more aggressive action to **#CrushTheCurveVA**. The signers of the letter include Virginian scientists, physicians, public health experts, business owners, and concerned citizens from many walks of life.
 
-Governments must employ the following strategies to stop COVID-19:
+[Read more and sign the letter >](/projects-1/va)
 
-1. **Contact Tracing**: Isolate, monitor and test everyone who has been in contact with a known infected individual.
+### THE RIGHT STEPS TO MINIMIZE RISKS
+### OPENING UP
 
-2. **Generic Symptomatic Testing**: Test everyone in the geographic area of an infected individual for COVID-19 symptoms such as fever.
+What should open up first? What is to be considered when opened up? How to prevent another outbreak?
 
-3. **Targeted Sampling**: Randomly test individuals in high-risk populations such as prisons, nursing homes, and student dormitories.
+[Read more >](/papers/opening-up)
 
-Countries, especially in Asia, that have the requisite expertise should help the rest of the world get up to speed. Contact tracing teams must be trained and countries must rapidly ramp up testing. Countries should use testing capacity in academic institutions and corporations.
+### BREAKING THE TESTING LOGJAM
+### CT-SCAN DIAGNOSIS
 
-### 3. Restricting Mobility While Allowing Essential Supplies and the Medical Response
+CT-Scans of the lungs show effects of COVID-19 even if there are no symptoms yet. It can be used to test patients and treatments.
 
-**Travel from areas with active outbreaks should be stopped**. Every individual should undergo a 14 day quarantine when entering into other areas. Where active outbreaks are occurring, limiting mobility to essential travel enables areas with fewer cases gain control of their outbreaks faster and with more limited interventions. The ability to recover quicker is important for economic recovery and for the ability to help areas that are more severely affected.
+[Read more >](/projects-1/breaking-the-testing-logjam-ct-scan-diagnosis)
 
-| --- |
+### DON’T WAIT FOR THE GOVERNMENT TO ACT
+### EVERYDAY-LIFE AND COVID-19
 
-## Individual and Family Guidelines
+What measures can you take in your daily life to prevent COVID-19 from spreading in your community? Learn all about life in appartment buildings,  groceries and post.
 
-[Everyday Life and COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
+[Read more >](/papers/everyday-life-and-covid-19)
 
-    What to do about: Apartment buildings, grocery shopping, necessary errands, packages and mail
+### DEFEAT CORONAVIRUS IN AMERICA
+### A FIVE-WEEK LOCKDOWN IS NEEDED
 
-[Family and Household Guidelines (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
+An op-ed of Yaneer Bar-Yam in USA Today
+Published 4:12 PM EDT Mar 23, 2020
 
-    Our general guidelines for families and households
+[Read more >](https://eu.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
-[Guidelines for Self Isolation (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
+### GUIDELINES
 
-    What to do when you are: Living alone, Sharing lodging with someone else
+Use our expert information to act confidently and crush COVID-19 in your area of responsibility.
 
-[Respiratory Health Guidelines (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
+### GOVERNMENTS
 
-    What you can do to reduce your risk of a severe case of COVID-19
+Essential guidelines on…
+- How to win
+- Testing
+- health care
+- and more
 
-More family guidelines →
+[Learn more](/governments)
 
-[Community Guidelines]((https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
-[Government Guidelines](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+### COMMUNITIES
 
-For breaking updates and new recommendations, follow [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) and [End Coronavirus Dot Org](https://twitter.com/endCOVID19) on Twitter.
+Essential guidelines on…
+- How to win
+- Testing
+- health care
+- and more
 
+[Learn more](/communities)
 
+### MEDICAL INSTITUTIONS
+
+Essential guidelines for…
+- medical institutions
+- medical workers
+- and more
+
+[Learn more](/health-care)
+
+### INSTITUTIONS
+
+Essential guidelines for…
+- companies
+- health care
+- nursing homes
+- prisons
+
+[Learn more](/institutions)
+
+### FAMILIES
+
+Learn about…
+- everyday-life
+- safe spaces
+- and more
+
+[Learn more](/families)
+
+### INDIVIDUALS
+
+Essential guidelines on…
+- everyday-life
+- self-isolation
+- self-care
+- cleaning & desinfecting
+
+[Learn more](/individuals)
+
+### JOIN AND HELP
+
+Our team consists of over 4,000 volunteers and includes scientists,   engineers, medical doctors, and  countless motivated individuals ready   to take action. Everyone can help. [Learn more about our work >](/participate)
+
+[Join us](/join-2)
+
+### OUTREACH
+
+*We make contact and communicate with individuals, communities, and governments, providing guidelines for action.*
+
+### TECH
+
+*We build websites and apps to help track and prevent the spread of COVID-19.*
+
+### SCANNING AND ANALYTICS
+
+*We discover, analyse, and present data related to COVID-19.*
+
+### COMMUNICATIONS
+
+*We provide information throughout the world through newsletters and various social media platforms.*
+
+### RESPONSE
+
+*We engage in medical response innovation and facilitate deliveries of medical equipment and PPE to those in need. *
+
+[Learn more about our work >](/participate)
+
+[Join us](/join)
+
+”
+THERE’S NO SENSE IN BEING PRECISE WHEN YOU DON’T EVEN KNOW WHAT YOU’RE TALKING ABOUT.
+
+John von Neumann (1903 - 1957)
