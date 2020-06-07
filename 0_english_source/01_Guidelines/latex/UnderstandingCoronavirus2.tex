@@ -1,0 +1,178 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[sort&compress]{natbib}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown}  Toward a Disease Model of the Coronavirus  \\
+\vspace{-0.35ex}}
+\author{Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+ \today 
+  \vspace{-14ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\begin{multicols}{2}
+
+%There is a subtle but important misunderstanding about the coronavirus. The truth is important enough that it may change how we fight COVID-19 and how we rid ourselves of it. 
+
+The coronavirus isn't like other viruses and pulmonary (lung) infections.
+
+A tale of four venues: (1) The air, (2) The space within a person's lung, (3) The membranes of the nose and throat, (4) The watery matrix of the body with tissues and organs. 
+
+The coronavirus floats in air, attached to small amounts of fluid and other stuff, and lands on surfaces.
+
+When air containing the coronavirus is breathed into the lungs, it flows with the air, back and forth with breathing, perhaps bouncing on the walls of the long branching bronchial tubes, until it sticks to a receptor, ACE2, a hatch like entity in cells that are part of the wall of the terminal alveoli. ACE2 is found in the inside of the lung surface. Attached, it does what other viruses do, it enters the cell and replicates using the cell machinery. The cell explodes leaving a hole in the lung wall and many viral particles in the immediately adjacent air.
+
+This is different from a virus that invades the body, living inside tissues and circulating in the blood. The coronavirus eventually may invade the blood and body. However, this happens only after 7-14 days following symptoms \cite{blood} to which we should add the incubation period that typically lasts 3-5 days, and up to 14 days or longer. For an entity that size, where things happen fast, this is an incredibly long time.
+
+The new coronavirus replicates flow in the air out of the bronchial tree until either they leave the lung or find another ACE2 receptor. The bronchial air flows don't give easy access from one part of the lung to another. A coronavirus has to reach bronchial branching points and back in to find another receptor. Over time there are multiple loci of infection. Geometry matters. 
+
+The final venue is the membranes of the cavities of the nose and throat. Here there are even much more common ACE2 receptors \cite{huang}. Immune cells live in mucus that extends into the cavities. This is where immune cells serve as sentries ``greeting'' viruses, bacteria and other microorganisms to prevent them from entering into the lungs. The body can effectively fight the virus there and damage is minimal.
+
+The air in the lung is an immune system blind spot. Immune cells don't live in air. They live in the watery matrix of cells in the body and the blood stream. Even if they can see the coronavirus attached to the ACE2 receptor, they may not be able to attack it unless there is a significant breach of the lung wall. A breach, whether due to action by the immune system or damage by the virus, leads to bodily fluids flowing inside the lung. Enough fluid and the lung stops being able to exchanging oxygen and carbon dioxide leading to severe cases of COVID-19.
+
+The battle between the immune system and the virus plays out in the fluid in the lung. Once there is damage of the lung surface the coronavirus enters into the blood latching onto ACE2 receptors in other tissues and organs.
+
+This basic picture is well established. Recent evidence provides new support. Even individuals with an immune response to the coronavirus can have positive COVID-19 tests for extended periods of time \cite{antibody}. Moreover, in some cases coronavirus particles from a single person can have divergent RNA strands. This is consistent with those particles being in different areas of air in the lung, separate from each other and from the immune system inside the body.
+
+What controls the outcome of the battle? What should we model mathematically and study empirically to understand the disease? 
+
+There are two stages of the battle, the first is the period up until the lung wall is breached. For this stage what is important are physical as well as biological processes. The physical process is the transfer of viral particles from the lung to the air, nose and back. 
+
+The immune system learns to recognize the virus and defeat it in the nose. But part of the process is whether they are filtered in the nose or go directly in and out of the lung. It seems that the way a person breathes, inhaling or exhaling through the nose, matters. This is a ``relevant variable'' in describing the disease dynamic along with the effectiveness of the immune response. Asking, or noticing, distinct patterns of breathing in and out might provide empirical insight. 
+
+Another key process is the flow of air into and out of the lung. Whether the airflow generally takes a newly minted virus out of the lung, or commonly allows it to reattach to other sites matters, and where. This is a dynamic that we should understand through simulations and studies of the flow of air in the lungs.
+
+In the second stage, when the wall of the lung is breached, the battle between the virus and the immune system there, is one that we would prefer not to occur. Having started, what controls the rate of that battle, and the side effects of the ability to perform the function of the lung, exchanging oxygen and $CO_2$, at the same time, matters. Here again, geometry is still key: the overall area of the battle, the extent of the viral particles, how they replicate in this context and other places of the body. And we need to clarify how the lung is repaired as the battle progresses. 
+
+\end{multicols}
+
+\begin{thebibliography}{20}
+
+\bibitem{blood}  W\"olfel, R., Corman, V.M., Guggemos, W. et al. Virological assessment of hospitalized patients with COVID-2019. Nature (2020). \url{https://doi.org/10.1038/s41586-020-2196-x}
+
+\bibitem{huang} Huang, S. COVID-19: Why we should all wear masks? There is new scientific rationale, Medium \url{https://medium.com/@Cancerwarrior/covid-19-why-we-should-all-wear-masks-there-is-new-scientific-rationale-280e08ceee71}
+
+\bibitem{antibody} Bin Wang, Li Wang, Xianggen Kong, Jin Geng, Di Xiao, Chunhong Ma, Xuemei Jiang, Pei-Hui Wang, Long-term Co-existence of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) with Antibody Response in Non-severe Coronavirus Disease 2019 (COVID-19) Patients. medRxiv 2020.04.13.20040980; doi: \url{https://doi.org/10.1101/2020.04.13.20040980}
+
+%\bibitem{ref} To add https://www.scmp.com/lifestyle/health-wellness/article/3077710/air-purifiers-wont-protect-against-coronavirus-experts
+
+\end{thebibliography}
+
+\end{document}

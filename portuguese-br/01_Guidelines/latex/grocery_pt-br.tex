@@ -1,0 +1,172 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+ \usepackage{xcolor}
+
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown}  Diretrizes para Supermercados, Mercearias e Farmácias em Resposta ao Coronavírus
+\vspace{-0.35ex}}
+\author{Derrick Van Gennep * † , Chen Shen † e Yaneer Bar-Yam † \\ * Harvard University, †New England Complex Systems Institute \\
+\vspace{+0.35ex}
+\small{\textit{(traduzido por Lucas Pontes})}\\
+ \today
+  \vspace{-8ex} \\
+%\bigskip
+\textbf{}
+ }
+
+\maketitle
+
+%\vspace{-1ex}
+%\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents
+%\section{ Introduction}
+
+%\section*{Overview}
+
+
+\begin{multicols}{2}
+
+% \section
+
+Obter e fornecer itens essenciais em um momento de crise requer atenção excepcional. Fornecemos uma lista de medidas que supermercados, mercearias e farmácias podem levar para impedir a propagação do coronavírus.
+
+\section*{Diretrizes}
+\begin{itemize}
+\item Os trabalhadores com suspeita de terem coronavírus, e os que apresentarem sintomas semelhantes aos da gripe não devem ir ao trabalho.
+\item Reduza as aglomerações, diminuindo o número de clientes permitido na loja de cada vez. A ocupação máxima permitida deve depender do tamanho da loja, bem como do número de clientes que a loja atende diariamente.
+\item Se os clientes tiverem que esperar em fila, as filas devem ser formadas ao ar livre, se possível, e o espaçamento entre os clientes devem ter pelo menos 2 metros/ 6 pés. É recomendável que haja marcações no chão para determinar a conformação da fila.
+\item Para lojas com grandes estacionamentos, é recomendável criar uma fila, pedindo aos clientes seus números de telefone, e chamando ou mandando mensagens para indicar que é a vez deles de fazer compras. Como alternativa, os clientes podem pegar um número, e a loja pode usar um monitor/alto-falante para comunicar a possibilidade de entrada.
+\item Os clientes devem ser incentivados a comprar on-line e a providenciar a coleta (ao ar livre, se possível) ou entrega.
+\item Sinais devem ser postados para alertar os clientes e trabalhadores sobre o caso de apresentarem sintomas. Para os clientes enfermos, é recomendável que esteja em vigor um sistema de solicitação de compras por telefone ou on-line, com coleta em veículo pelo cliente, ou entrega em casa.
+\item Se possível, as temperaturas externas do corpo dos trabalhadores, bem como dos clientes, devem ser medidas com um termômetro de infravermelho. Se uma pessoa apresentar temperatura corporal acima do normal (38 ◦C), sua entrada na loja deve ser proibida.
+\item As lojas que atendem a muitos clientes devem maximizar seu espaço físico expandindo para outras áreas, para diminuir aglomerações (como por exemplo, através de barracas em estacionamentos, ou espaço de loja adjacentes).
+\item Organize a loja de modo que os itens mais comprados e os de maior volume sejam rapidamente encontrados e acessíveis (por exemplo, por um caminho que passe ao redor dos corredores, e não por eles).
+\item Considere a possibilidade de reorganizar um ou mais setores da loja, de modo a permitir uma curta viagem de compras para a maioria dos clientes. Estabelecer também setores de itens em espaços externos à loja (quando as condições meteorológicas o permitirem), ou em locais mais afastados do espaço comum da loja, podem reduzir automaticamente a densidade de compradores dentro da loja.
+\item Use marcações no chão, ou outro sistema visual, para indicar uma rota de compras unidirecional (com atalhos, mas sem retorno) dentro da loja para promover uma direção dominante, de modo que se evite que os clientes se cruzem ou formem aglomerações.
+\item As lojas devem trabalhar com suas comunidades para garantir que as visitas à loja sejam distribuídas ao longo do dia (e promovendo ajuda nas compras para as pessoas com sintomas ou que compõem grupos de risco). Deve haver um fluxo aproximadamente constante de pessoas que visitam a loja em qualquer momento.
+\item Reserve a primeira hora para clientes idosos ou que compõem os grupos de risco, impondo restrições de densidade de pessoas ainda mais baixas (o preferível é que a comunidade forneça auxílio a esses grupos, entregando compras para pessoas desses grupos sem contato físico).
+\item Os clientes devem ser lembrados de que não devem comprar mais suprimentos do que o necessário. Sugerimos que cada indivíduo possua pelo menos duas semanas de alimentos e mercadorias armazenados, sempre.
+\item As lojas devem ter desinfetante para as mãos disponível nas entradas e saídas da loja, bem como em vários locais dentro da loja. Estas estações de higienização devem ser acompanhadas por sinais que lembrem os clientes a usar o desinfetante, a tocar o mínimo possível de coisas na loja, e a evitar tocar no rosto.
+\item Os funcionários da loja devem minimizar suas interações físicas com os clientes tanto quanto possível, e também devem certificar-se de que os clientes mantenham espaço razoável entre si.
+\item Para lojas que atendem a um pequeno número de pessoas, mantenha os clientes esperando do lado de fora, onde seus pedidos sejam entregues no exterior da loja (esta é uma solução ideal, e entendemos que tal serviço não é possível para muitas lojas).
+\item Recomenda-se que os funcionários da loja usem máscaras. Os clientes devem usar máscaras caso haja suprimento suficiente. Também é recomendável usar luvas de plástico. Os trabalhadores devem evitar tocar no rosto, mesmo usando luvas, e as luvas devem ser jogadas fora e substituídas regularmente, ou logo após tocar em superfícies não limpas.
+\item Os funcionários da loja responsáveis pelo estoque das prateleiras devem tomar muito cuidado para garantir que tudo esteja limpo e sanitizado. Como o trabalho desses envolve a possibilidade de tocar e respirar sobre os produtos e estantes, esses potencialmente podem acabar espalhando o vírus a toda a comunidade. Luvas e máscaras são essenciais.
+\item O pagamento no fim das compras deve ser organizado de modo que permita contato físico mínimo, sem espera nas filas ou proximidade entre clientes, caixas e ensacadeiras. Caixas e ensacadeiros devem usar luvas ou usar desinfetante com freqüência. Sempre que possível, é recomendável adotar o auto-checkout (finalização das compras pelo próprio cliente). Evite pagamentos em dinheiro sempre que possível, preferindo pagamentos eletrônicos.
+\item Os funcionários da loja devem se certificar de que estão limpos eles próprios e todas as superfícies da loja, após cada turno.
+\item Se possível, devem ser realizadas limpezas em toda a loja, constantemente. Caso não seja possível, os gerentes devem definir um cronograma de limpeza com a maior frequência possível. No mínimo, os funcionários das lojas devem limpar os carrinhos de compras e cestos após cada uso.
+\item Os gerentes de loja devem ter reuniões diárias (mantendo distância) acerca de quaisquer questões de limpeza ou interações que tenham ocorrido, fornecendo soluções a serem implementadas a partir desse momento.
+\item Clientes, funcionários e gerentes de loja devem ser abertos à comunicação entre si, para ajudar a melhorar a experiência de compra, com ênfase na segurança da comunidade.
+\item Os empregadores devem agir preventivamente à escassez de trabalhadores pelo motivo da epidemia, expandindo seu quadro de trabalhadores substitutos.
+\end{itemize}
+
+\end{multicols}
+
+\vspace{2ex}
+
+% \bibliography{MyCollection.bib}
+\bibliography{references.bib}
+
+\end{document}

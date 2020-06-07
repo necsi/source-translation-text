@@ -1,0 +1,160 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage[ngerman]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Corona: So schaffen wir’s \\
+\vspace{-0.35ex}}
+\author{Chen Shen und Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+\vspace{+0.35ex}
+\small{\textit{(übersetzt von R. Kazemieh, I. Müllner, V. Brunsch})}\\
+ \today 
+  \vspace{-14ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+\begin{multicols}{2}
+Corona ist ein harter Gegner: unsichtbar, trügerisch, schnell und grausam. Lockdowns sind hilfreich, reichen aber nicht aus. Die täglichen Fallzahlen in den USA steigen noch immer. In Italien sinkt die tägliche Zahl der Neuinfizierten trotz des landesweiten Lockdowns nur langsam. Österreich ist erfolgreicher, hat allerdings frühzeitig Maßnahmen ergriffen. Die Lage wird sich verschlimmern, bevor Besserung eintritt. Aber wir können das Virus besiegen, indem wir vorausschauen und sämtliche Register ziehen. Sobald wir dies tun, können wir Corona in fünf Wochen besiegen. Nach schmerzlichen Verlusten und einer steilen Lernkurve können wir zur Normalität zurückkehren. Folgendes müssen wir dafür tun:
+
+%Many countries have locked down but is that enough? 
+%Here are the steps to win:
+\begin{enumerate}
+\item Holen Sie alle ins Boot: Sämtliche politischen Ebenen, Gemeinden, Unternehmen und Einzelpersonen müssen alles geben, um diese Pandemie zu stoppen. Selbst kleine Lecks können das Schiff zum Untergehen bringen. Jeder einzelne muss wachgerüttelt werden, um seinen Beitrag durch Aufmerksamkeit, Anpassung und Kreativität zu maximieren. Das Virus attackiert uns exponentiell, aber wir können auch exponentiell zurückschlagen.
+\item Lockdown: Separieren Sie Individuen, um eine Übertragung zu verhindern. Es geht nicht darum, Menschen zu Hause zu halten, sondern sie auf Abstand zu bringen. Sich draußen aufzuhalten ist in Ordnung, wenn Abstand gehalten wird. Ungefähr 80\% der Übertragungen finden innerhalb von Familienverbänden statt. Wenn ein Infektionsrisiko besteht, können Mitbewohner das Risiko senken, indem sie sich zeitweise distanzieren. Der Lockdown kann nach fünf Wochen abgeschlossen sein, weil exponentieller Rückgang genauso schnell sein kann wie exponentielles Wachstum. Es wird schmerzhaft sein, aber gehen Sie nicht vom Schlimmsten aus: Den Anstieg der Pandemie haben wir überstanden, jetzt können wir sie während ihres Rückgangs endgültig bezwingen.
+\item Quarantäne: Stellen Sie Einrichtungen für milde und moderate Fälle zur Verfügung, sodass diese ihre Haushaltsmitglieder und andere nicht infizieren können. Gehen Sie von Tür zu Tür, um alle Fälle zu finden. Designieren Sie Krankenhäuser als "exklusiv für Corona" und "nicht-Corona", um Kollateralschäden und Kreuzinfektionen zu vermeiden.
+\item Tragen Sie Masken an öffentlichen Orten: Husten, Niesen und Ausatmen verteilen das Virus. Masken blockieren die Übertragung, wenn Menschen sich am selben Ort aufhalten müssen. Reinigen Sie Oberflächen und nutzen Sie Handschuhe oder andere Methoden, um Kontakt mit diesen zu vermeiden.
+\item Reisebeschränkungen: Diese werden neue Ausbrüche verhindern, ermöglichen das Nachvollziehen von Kontaktketten und bewahren lokale Eindämmungserfolge vor Rückschlägen - Fortschritt wird aufrechterhalten, indem Rückschritt verhindert wird. Andernfalls gleichen unsere Bemühungen dem Versuch, eine Badewanne bei laufendem Wasserhahn zu entleeren. Staaten und Länder (siehe viele Maßnahmen auf nationaler Ebene und in US-Bundesstaaten: Massachusetts, Rhode Island, Florida, Texas, Ohio) wie auch einzelne Regionen innerhalb eines Staates sollten 14-tägige Quarantänen für Reisende einführen. Essentielle Güter- und Personentransporte in eine Zone hinein oder über eine Zone hinweg in eine andere sollten vollkommen kontaktfrei erfolgen.
+\item Die Grundversorgung sollte sichergestellt werden: Unternehmen, die die Grundversorgung sicherstellen, sollten Liefer- und Abholdienste sowie andere Möglichkeiten entwickeln und bereitstellen, um das Risiko für Angestellte und Kunden zu minimieren.
+\item Testen, testen, testen: Versuchen Sie, etwas zu bekämpfen, das Sie nicht sehen können. Wenn wir wissen, wer infiziert ist, können wir genau diese Personen isolieren und nicht jeden mit Erkältungssymptomen. Personen können Überträger sein, bevor und nachdem Sie Symptome haben und Tests können uns Aufschluss darüber geben. Durch Tests in speziellen Gebieten können wir herausfinden, auf welche Zonen wir uns fokussieren müssen und in welchen wir Einschränkungen lockern können. Beachten Sie: Das können wir nicht tun, wenn Reisende die Krankheit verteilen können, dies funktioniert nur in Kombination mit Reisebeschränkungen.
+\item Gesundheitsrichtlinien: Konzentrieren Sie sich darauf, die Menschen gesund zu erhalten um milde Fälle nicht zu schweren werden zu lassen. Stärken Sie das Immunsystem, indem Sie viel trinken, gut essen, ausreichend schlafen, Sport betreiben und frische oder gefilterte Luft atmen. Bei normalem Fieber von $38^\circ$C oder etwas mehr lassen Sie Ihren Körper die Krankheit durch das Fieber bekämpfen. Über $39.5^\circ$C greifen Sie auf Medikamente zurück, um das Fieber zu senken und suchen Sie medizinische Hilfe auf~(\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786079/}).
+\item Unterstützen Sie die Krankenpflege: Krankenhäuser und Pflegepersonal sind überfordert, was sich verschlimmern wird, bis unsere Maßnahmen die Übertragung stoppen. Geben Sie Ihnen die Hilfsmittel, die sie benötigen, um nach Kräften Leben zu retten: Infrastruktur, medizinische Ausrüstung, Schutzausrüstung (PPEs), Dinge des täglichen Bedarfs. Zollen Sie ihren Leistungen Anerkennung und geben Sie Rückhalt, um ihnen bei der Bewältigung der kommenden Herausforderungen zu helfen.
+\end{enumerate}
+
+\end{multicols}
+
+
+%\begin{thebibliography}{20}
+%\end{thebibliography}
+
+
+% \bibliography{MyCollection.bib}
+
+
+\end{document}

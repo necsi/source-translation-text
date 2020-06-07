@@ -1,0 +1,330 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[utf8]{inputenc}
+
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+ \usepackage{xcolor}
+
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Controlli estesi possono fermare l’epidemia di Coronavirus \\
+\vspace{-0.35ex}}
+\author{Chen Shen and Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+\vspace{+0.35ex}
+\small{\textit{(tradotto by A. P. Rossi, P. Bonavita})}\\
+ \today
+  \vspace{-14ex} \\
+
+
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+
+
+\begin{multicols}{2}
+
+  Per fermare un’epidemia la trasmissione deve essere fermata. La strategia chiave è identificare gli individui malati ed isolarli in modo tale che altri non vengano infettati. Se il controllo non è perfetto si possono isolare ulteriori persone che non sono infettate - questi sono falsi positivi. Questo comporta costi sociali aggiuntivi ma contribuisce a fermare l’epidemia. D’altro canto, è possibile che si verifichino casi di falsi negativi. Fino a quando il tasso di falsi negativi è abbastanza contenuto, ci saranno sempre meno casi nel tempo e l’epidemia si estinguerà esponenzialmente. Maggiore è il numero di individui che ogni individuo malato infetta (tasso di infezione o riproduzione senza controllo), minore è il numero di falsi negativi accettabile.
+
+  Più specifici si riesce ad essere nell’identificazione dei casi, meglio è, dal momento che un numero minore di persone va isolato. D’altra parte, meno sono i casi che non vengono individuati, anche se isoliamo più persone, più rapidamente l’epidemia si estinguerà, e meno persone si ammaleranno o moriranno.
+
+Come sono legati i vari modi di fermare un’epidemia in questo quadro generale? Alcuni esempi sono:
+
+\begin{itemize}
+  \item \textbf{Auto-segnalazione e diagnosi:} In questa modalità di controllo, un individuo prima deve realizzare che ha bisogno di cure mediche, e poi deve contattare un medico che formula una diagnosi, e se la diagnosi determina che l’individuo ha questa particolare malattia (con alcuni falsi positivi e negativi), l’individuo viene isolato. Quelli che non sono malati e non si auto-segnalano, sono falsi negativi. Quelli che non sono correttamente diagnosticati per la malattia sono falsi positivi. Tipicamente, la difficoltà maggiore è costituita dai falsi negativi per auto-segnalazione: sono persone malate, che non si riconoscono tali e non si auto-segnalano, forse perché i sintomi sono generici/non specifici, non immediatamente pericolosi per la sopravvivenza. Al contrario, alcuni individui possono sospettare di aver contratto la malattia ma per ragioni personali, finanziarie, sociali o professionali scelgono di non venire diagnosticati, o non hanno l'opportunità di esserlo, ed isolati (Si possono inoltre verificare casi durante le fasi che precedono il controllo, durante il controllo stesso o  nella fase di isolamento. Ad es. infezione durante il trasporto, infezioni nelle strutture mediche e isolamento poco efficace).
+
+  \item \textbf{Tracciamento dei contatti:} In questa modalita’ di controllo, gli individui che sono stati in contatto con un individuo diagnosticato come malato (secondo il metodo della auto-segnalazione e diagnosi) vengono identificati e contattati per porsi alla ricerca di sintomi o per essere direttamente messi in isolamento. Anche se non sono infetti, il loro isolamento (incluse molte persone che non sono infettate, cioè falsi positivi) è utilizzato per fermare l’epidemia.
+
+  \item \textbf{Blocco generale:} In questa modalità di controllo tutti i membri di una comunità nell’area infetta sono considerati potenziali infetti e isolati. Questo include molti falsi positivi, e può fermare l’epidemia.
+
+  \item \textbf{Controllo sintomatico generico del quartiere:} In questa modalita’ di controllo, tutti i membri di una comunita’ all’interno di un’area con potenziali infetti, sono testati per sintomi che possono essere associati alla malattia, come la febbre, ma che possono essere associati ad altre patologie, e sono considerati potenzialmente infetti ed isolati. Il vantaggio di questo approccio sui blocchi/quarantene, è che meno individui febbricitanti sono isolati, riducendo il costo sociale. Il vantaggio rispetto a diagnosi più specifiche è che molti più individui che sono infettati vengono isolati. Questo approccio è stato usato per fermare l’epidemia di Ebola in Liberia e Sierra Leone [1].
+
+  \item \textbf{Controllo specifico di massa:} in questa modalità di controllo, test sul DNA o altri test specifici sono applicati ad ampie fette della popolazione, possibilmente focalizzandosi su un’area geografica specifica, per identificare casi potenziali da isolare. Se il test è abbastanza specifico e puo’ essere condotto in modo abbastanza diffuso, questo approccio può fermare l’epidemia.
+
+  \item \textbf{Controllo a campione su un target:} In questa modalità di controllo i test diagnostici o basati su DNA sono applicati su individui di una popolazione altamente connessa, ad esempio, in comunità confinate come prigioni, dormitori, ostelli, case di cura, strutture riabilitative, ospedali psichiatrici, strutture mediche. In questi luoghi quando un individuo si infetta, molti altri hanno probabilità di essere infettati anche se non mostrano ancora sintomi o prima di mostrare risultati positivi ai test. In questo caso l’intera comunità può essere messa in isolamento (a livello individuale e non di gruppo) per evitare ulteriori trasmissioni
+
+
+\end{itemize}
+
+Più in generale, ogni modalità di determinazione degli individui da isolare, usando criteri differenti inclusi sintomi, localizzazione, o test molecolari, che hanno la capacità di identificare gli infetti, anche se ci sono falsi positivi, e con relativamente pochi falsi negativi, può essere usata per fermare un contagio.
+
+Oltre alla conduzione dei controlli, una domanda chiave è quanto presto si può identificare se un membro di un gruppo vada isolato e come questo ha implicazioni sul numero di persone che può infettare. Se gli infetti sono identificati prima di diventare contagiosi, o se c'è solo una breve finestra di tempo nella quale sono contagiosi, questa può essere sufficiente per prevenire lo sviluppo di infezioni e fermare l’epidemia. La frazione di tempo in cui gli infetti sono contagiosi ha un comportamento simile a quello dei falsi negativi, contribuisce al numero di individui che sono infettati e condiziona l’efficacia dei test per fermare l’epidemia. Pertanto la rapida applicazione del test, indipendentemente da quale forma prende, sintomatico, geografico molecolare, è fondamentale per fermare l’epidemia e contenere il numero di malati e vittime.
+
+Nel caso di SARS-COV-2, l’epidemia di Coronavirus COVID-19 originatasi a Wuhan, c’è uno specifico test basato su DNA utilizzando un tampone nasale o faringeo, che può fornire identificazioni rapide abbastanza dei casi, per ridurre drasticamente il tasso di contagio se coloro che si rivelano infetti sono isolati. I test hanno bisogno di ore o giorni per fornire risultati, test più rapidi sono in sviluppo.
+
+Nelle fasi iniziali dell’epidemia c’erano gravi limitazioni nel numero di test che potevano essere condotti, ed il bisogno di isolamento delle comunità era un imperativo, usato in Cina con successo rimarchevole, in particolare a Wuhan, per complementare un più tradizionale tracciamento dei contatti di massa (670,000 persone) [2]. In seguito in Corea del Sud, mentre la quarantena era implementata [3], lo era anche una campagna di controlli su larga scala, inclusi comodi posti di controllo stradali [4]. Ci sono indicazioni molto recenti che l’epidemia in Sud Corea è sotto controllo [5].
+
+Attualmente in molti luoghi nel mondo, inclusi gli Stati Uniti, il numero di test e’ insufficiente per condurre campagne estese. Questo limita la possibilità di usare questo approccio. Comunque, e’ ancora possibile in principio produrre i test in modo più rapido ed economico e quindi applicarli a larga scala per identificare casi, limitando l’uso di altri approcci, come le quarantene. Quando un numero sostanziale di test sarà disponibile, test di massa specifici possono avere il risultato desiderato di fermare l’epidemia.
+
+Cosa bisogna fare? Rallentare o fermare l’epidemia di Coronavirus può necessitare di un approccio combinato. Gli individui, le famiglie e le comunità devono prendere precauzioni per evitare contatti e limitare le possibilità loro ed altrui di contrarre l’infezione. Allo stesso tempo le autorità mediche devono aumentare le capacità di controllo con qualifiche minime necessarie e pronto accesso ai test su ampie aree geografiche. Quando possibile, aziende e ONG possono fornire servizi di test in luoghi comodo, anche porta a porta, come era stato fatto verso la fine dell’epidemia in Cina [6] per un’identificazione rapida dei casi.
+
+\section*{Referenze}
+
+[1] \href{https://necsi.edu/how-community-response-stopped-ebola}{How community response stopped ebola}
+
+[2] \href{https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf}{Report of the WHO-China Joint Mission on Coronavirus Disease 2019 (COVID-19)}
+
+[3] \href{http://english.chosun.com/site/data/html_dir/2020/02/24/2020022401353.html}{Daegu in Lockdown as Coronavirus Infections Soar}
+
+[4] \href{https://www.cnn.com/2020/03/02/asia/coronavirus-drive-through-south-korea-hnk-intl/index.html}{South Korea pioneers coronavirus drive-through testing station}
+
+[5] \href{https://twitter.com/yaneerbaryam/status/1235734017699430401?s=20}{BREAKING: Coronavirus Update. Significant decline in daily new cases in South Korea--positive sign of gaining control.}
+
+[6] \href{https://www.courthousenews.com/china-goes-door-to-door-in-wuhan-seeking-infections/}{China Goes Door to Door in Wuhan, Seeking Infections}
+
+
+
+
+
+
+
+
+
+
+
+%
+% \section*{I. Everyone}
+%
+% \begin{itemize}
+%
+% \item Riconoscere che questo non è normale, che il comportamento normale deve essere modificato per sopravvivere, proteggere e sostenere la vita
+%
+% \item Nell'80\% dei casi la malattia e' lieve, nel 20\% grave con necessità i ospedalizzazzione, per il 10\% dei case necessita di terapia intensiva e nel 2-4\% dei casi porta alla morte. Anche casi leggeri sono contagiosi e possono portare a casi gravi in altri, con la diffusione dell'infezione. Ognuno ha la responsabilità di proteggere famiglia, amici, la società intera da più danni.
+%
+% \item Minimizzare il contatto, mantenere le azioni all'essenziale e quelle normali ove possibile, massimizzare l'aiuto agli altri
+%
+% \item Una risposta ideale ed immediata può non essere possibile, ma ogni azione che riduce l'esposizione all'infezione riduce sia il proprio rishio personale, sia l'epidemia, e miglioramenti possono avvenire col tempo e attraverso la collaborazione
+%
+% \end{itemize}
+%
+% \section*{II. Auto-isolamento}
+%
+% \begin{itemize}
+% \item Tenersi a 2 metri di distanza dagli altri, non toccare superfici condivise/pubbliche non sicure
+%
+% \item Usare sapone, disinfettante, guanti o buste di plastica
+%
+% \item Tenersi informati sui sintomi tipici, le istruzioni locali per test e cure, essere in grado di agire il più veloce possibile qualora dovessero manifestarsi sintomi
+%
+% \item Approntare controlli di routine con un amico o parente affidabile (ci sono casi in cui i sintomi colpiscono molto rapidamente)
+% \end{itemize}
+%
+% \section*{III. Famiglia e amici}
+%
+% \begin{itemize}
+% \item Condividere spazi sicuri con famiglia e amici che sono d'accordo nell'isolarsi dagli altri
+%
+% \item Coordinate con gli altri negli spazi sicuri l'aiuto reciproco.
+%
+% \item Individui con sintomi o identificati come casi positivi devono isolarsi separatamente da famiglia e amici
+% \end{itemize}
+%
+%
+% \section*{IV. Comunità}
+%
+% \begin{itemize}
+% \item Organizzare consegna di beni di necessità senza contatto
+%
+% \item Certificare gli individui sani. Verificare i sintomi nei membri, controllare ed isolare
+%
+% \item Provvedere a cure senza contatto per coloro in isolamento
+%
+% \item Espandere i servizi degli spazi sicuri condivisi
+%
+% \end{itemize}
+%
+%
+%
+% \section*{V. Aziende}
+%
+% \begin{itemize}
+% \item Massimizzare il lavoro da casa per permettere auto-isolamento e promuovere spazi sicuri
+% \item Mantenere le funzioni essenziali e ridurre l'impatto su tutte le funzioni usando luogi di lavoro in spazi sicuri
+%
+% \end{itemize}
+%
+% \section*{VI. Strutture sanitarie}
+%
+% \begin{itemize}
+% \item Partizionare le strutture per prevenire il contagio. Approntare ampi spazi temporanei separati per differenti livelli di cura
+% \end{itemize}
+%
+% \section*{VI. Amministrazioni, Governi, Commercio}
+%
+% \begin{itemize}
+% \item Organizzare controlli rapidi per identificare individui sani e individui che necessitano di isolamento
+% \item Isolare le comunità con trasmissione attiva, supportarle con servizi essenziali
+% \end{itemize}
+
+
+%
+% In aree a rischio elevato laddove il governo non prende misure adeguate, proteggere la famiglia, o la collettività e’ difficile. La diffusione di un incendio Affinché un incendio si diffonda, è necessario che gli elementi combustibili vengano in qualche modo in contatto tra loro. Analogamente, il contagio di COVID-19 necessita di una catena di individui suscettibili. La soluzione e’: (1) ridurre i contatti tra la famiglia e gli altri individui, e provvedere ai bisogni essenziali, quando il rischio aumenta. (2) creare uno spazio sicuro che protegge chi si trova al suo interno, con un accordo condiviso di non essere in contatto fisico non protetto con altri e con superfici che sono toccate da altri.
+%
+%
+% Lo spazio sicuro contribuisce a ridurre il contagio anche perché chi e’ al suo interno non partecipa alla trasmissione della malattia. I membri di uno spazio sicuro si possono unire ai membri di altri spazi sicuri per espandere gradualmente lo spazio e crearne di nuovi. Seguono le linee guida per le famiglie.
+%
+% Ridurre il contatto tra la famiglia e gli altri:
+%
+% \begin{itemize}
+%
+% \item Leggere accuratamente le nostre linee guida per gli individui e condividerle con i familiari. Discutere con loro come ridurre i loro contatti con gli altri
+%
+% \item Rendere le riunioni familiari virtuali. La presente epidemia o sarà sconfitta, o diventerà diffusa. Nel primo caso, in pochi mesi torneremo alla normalità Nel caso di diffusione, azioni differenti saranno necessarie.
+%
+% \item Assicuratevi che voi ed i membri della vostra famiglia disponiate dei necessari beni di consumo, inclusa una scorta di medicine. Considerate i membri vulnerabili della famiglia, inclusi gli anziani, ma anche chiunque sopra i 50 anni di eta’, e coloro che soffrono di malattie croniche, come a rischio per il contatto con altri. Cercate di ridurre i loro contatti, e di supportarli in modo tale da farli restare a casa il più possibile e non dover recarsi in spazi affollati.
+%
+% \item Valutare il trasferimento temporaneo di persone da abitazioni condivise (case di riposo, strutture abitative assistite, case di degenza, etc.) a sistemazioni più’ isolate, ad esempio case private, o strutture più piccole
+%
+% \item Laddove non fosse possibile ridurre i contatti tra gli ospiti, discutere con i responsabili delle strutture la necessità di incrementare i livelli di precauzione contro il virus.
+% \item Evitare assembramenti e posti affollati, tra cui eventi pubblici e ristoranti specialmente se in spazi chiusi
+%
+% \end{itemize}
+%
+% Creare Spazi Sicuri in situazioni ad elevato rischio:
+%
+% \begin{itemize}
+%
+% \item L’obiettivo principale di stabilire uno spazio sicuro tra un gruppo di persone e’ quello di creare un'unità’ isolata che riduca i contatti fisici con altre individui esterni all'unità’ al minimo indispensabile, al tempo stesso essendo in grado di auto-sostenersi e auto-supportarsi.
+%
+% \item Non c’e’ motivo per cui i singoli individui debbano aspettare la decisione di misure di sicurezza ‘top-down’ promulgate dai governi. In assenza di interventi drastici e sistematici, gli spazi sicuri autogestiti e organizzati ‘dal basso’ possono essere d’aiuto. Con il crescere del loro numero, le zone sicure possono rallentare o addirittura spegnere i focolai d’infezione locali.
+%
+% \item Gli Spazi Sicuri possono essere costituiti da famiglie o gruppi che decidano di condividere una struttura abitativa. Più strutture abitative possono essere combinate, ad esempio spostandosi tra l’una e l’altra (a piedi o in macchina), se sono stabiliti e seguiti stringenti protocolli di sicurezza. Per avviare con successo uno Spazio Sicuro, OGNI partecipante deve accettare e rispettare la promessa di minimizzare i contatti fisici esterni al gruppo. Devono essere inoltre stabilite istruzioni chiare su come comportarsi e cooperare. I membri di uno Spazio Sicuro devono essere aperti e trasparenti sulle proprie condizioni di salute e la propria cronologia di viaggio, ed essere reciprocamente responsabile della salute degli altri membri.
+%
+% \item Per far impegnare gli individui a condividere uno spazio condiviso, alcuni aspetti vanno organizzati con le aziende, le scuole, la famiglia e gli amici. Potrebbe rendersi necessario, stare a casa con l'approvazione dell'azienda, o assentarsi dal lavoro.
+%
+% \item Pianificare un periodo esteso (almeno una o più’ settimane) in uno spazio sicuro deve essere fatto in anticipo, incluso il reperimento di beni di consumo, ma durante l'approvvigionamento bisogna porre particolare attenzione, data la potenziale esposizione al un gran numero di persone. Formulare delle strategie di sopravvivenza può essere utili in questo ambito. Avere un piano relativo alla gestione dei bisogni è vitale perché la ricerca di approvvigionamenti comporta necessariamente del rischio.
+%
+% \item Quando possibile, organizzare la consegna di beni, incluso il cibo, per limitare i trasferimenti verso i negozi. Bisogna fare attenzione perché’ i beni consegnati sono stati toccati da qualcuno. A meno che non ci sia un accordo con il fornitore riguardo all’uso di guanti, lavare e disinfettare i beni ricevuti e’ consigliato  nelle aree di trasmissione attiva.
+%
+% \item Per attività essenziali, inclusi gli acquisti, durante le quali un contatto fisico esterno è inevitabile, i membri della famiglia devono pianificare in anticipo per agire in modo efficiente e minimizzare la durata e l’estensione del contatto. Uscire e tornare nello spazio sicuro necessita di precauzioni. Usare protezione personale appropriata, inclusi guanti e materiale monouso (fazzoletti) per prendere o manipolare oggetti che non devono essere toccati, disinfettante o alcool per le mani, e mascherine. Ritornare allo spazio sicuro necessità di lavarsi e disinfettarsi, preferibilmente prima del rientro.
+%
+% \item Promuovere la comunicazione interna e la mutua attenzione è essenziale per mantenere i membri dello spazio sicuro in una relazione positiva ed in buona salute mentale. Riconoscere che l’emergenza corrente richiede azioni straordinarie e sacrifici e’ fondamentale. Questo può mitigare, anche se non sostituire completamente, l’importanza del supporto reciproco.
+%
+% \item I membri dello spazio sicuro devono ottenere informazioni sulle azioni da intraprendere in caso uno o più membri mostrino sintomi di infezione. Le azioni variano in base al paese/luogo, e devono essere peraltro dinamiche secondo la situazione. I membri devono informarsi reciprocamente all’interno del gruppo a riguardo del piano contingente più aggiornato e le informazioni sui contatti avuti. Nel caso che un membro mostri sintomi tipici, gli altri devono agire velocemente per aiutarlo/a a farsi testare, e praticare l’isolamento precauzionale nel periodo precedente all’ottenimento dei risultati.
+%
+% \end{itemize}
+%
+% Quando una epidemia progredisce, decisioni difficili dovranno inevitabilmente essere prese a riguardo dell’uscita da uno spazio sicuro per aiutare membri della famiglia o amici che non sono in uno spazio sicuro. Gli individui devono essere preparati a fare queste decisioni.
+%
+% In un periodo di rischio elevato, ci saranno inevitabilmente azioni prese per sbaglio che potrebbero compromettere la sicurezza. Per evitare reazioni eccessive a un evento singolo, è importante capire che ogni singolo atto ha una piccola probabilità di creare danni. Tuttavia, quando azioni multiple vengono prese, il rischio aumenta drammaticamente. Assicurarsi che le relative lezioni vengano apprese è più importante di accusare, incolpare o punire.
+
+
+\end{multicols}
+
+
+
+% \bibliography{MyCollection.bib}
+
+
+\end{document}

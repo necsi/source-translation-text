@@ -1,0 +1,208 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[sort&compress]{natbib}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+%\setCJKmainfont{SimSun}
+\title{\color{Brown} Respiratory Health for Better Outcomes Version 2 \\
+\vspace{-0.35ex}}
+\author{Blake Elias, Chen Shen and Yaneer Bar-Yam \\
+New England Complex Systems Institute\\
+ \today 
+  \vspace{-12ex} \\ 
+
+   
+\bigskip
+%\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\begin{multicols}{2}
+
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+%----------------------------------------------------------------------
+
+
+%\section*{Overview}
+
+\textbf{What can an individual do to reduce their risk of a severe case of COVID-19? In the absence of a cure, improving the health of an individual, especially pulmonary health, is important. Hydration, balanced nutrition, appropriate exercise and regular sleep may help. Once an individual is infected, fresh air and cleaning the environment are recommended. This helps protect those who interact with a patient in home or healthcare settings. It also reduces re-exposure to viral particles that the individual may cough, sneeze or breathe out. Rebreathing viral particles may lead to infection of other parts of the lung and increase viral load. }
+
+Attention to wellness during the mild period of COVID-19 may impact whether it becomes severe. Among the well established means of strengthening the immune response to many viruses are elevated hydration, balanced nutrition (chicken or egg drop soup!), good sleep habits, and not interfering with elevated temperature unless it exceeds safe limits ($103^\circ$F, $39.5^\circ$C) \cite{evans2015fever}. Improving respiratory health before becoming infected, should also improve outcomes. 
+
+Good ventilation and frequent cleaning of the environment of individuals that are ill with COVID-19 is widely recommended by health authorities \cite{CDC, NZ, CA, stcn}. This is critical for anyone who must interact with a patient, whether family members in the home, or healthcare providers in medical settings. It may also provide benefits through reducing re-exposure of the individual to viral particles, which may affect pulmonary tissue that is not yet infected, or has been recently cleared by the immune system.
+
+Deep breathing has been shown to improve respiratory health and patient outcomes across a number of conditions \cite{vitacca1998acute, westerdahl2016deep, westerdahl2015optimal}. While more intensive chest physiotherapy has not been found effective in treating hospitalized pneumonia patients \cite{britton1985chest}, for mild symptoms standard breathing exercises may be beneficial.
+
+%Although chest physiotherapy (CP), defined as ``postural drainage, external help with breathing, percussion, and vibration'', has been shown ineffective (and potentially harmful) in treating patients with primary pneumonia from infection \cite{britton1985chest}, here we recommend self-conducted breathing exercises on their own, \textit{prior to} pneumonia-like symptoms or hospitalization. 
+%, in a statistically significant manner, in diseases ranging from chronic obstructive pulmonary disorder (COPD) \cite{vitacca1998acute} to multiple sclerosis \cite{westerdahl2016deep}, as well as pulmonary complications after cardiac surgery \cite{westerdahl2015optimal}.
+
+
+%These actions reduce the  %Fresh air is generally important for health.
+%This is sufficient to motivate this advice.
+%In this context there may be an additional benefit of reducing the amount of viral particles that are rebreathed.
+%Early in an infection, when the symptoms are mild, or even before an infection occurs, streghtenting respiratory health is important. Once an individual is infected reducing the number of viral particles in the air one breathes, which may prevent infections and reduce their impact.
+
+In about 80\% of cases, COVID-19 has only mild symptoms and individuals recover without requiring significant medical intervention. In 20\% of cases the disease becomes severe, 10\% require Intensive Care to survive, including ventilators. and 2-4\% of cases result in death. The outcome is also sensitive to underlying cardiovascular health and risk increases dramatically with age. In a typical case the disease begins mild, and after several weeks suddenly progresses to become severe. A competition between viral replication and elimination by the immune system underlies disease progression. A sudden onset of severity indicates that the battle reaches a transition (tipping point) to a lethal phase. This may be due to the extent of damage to lung tissue, overload of some capacity of the immune system,  auto-immune impacts such as a Cytokine storm, or other mechanisms. The sensitivity of the transition to multiple factors suggests that even a small change in individual conditions may shift the balance. Strengthening the immune system or reducing the ability of the virus to spread across the pulmonary tissue may be helpful.
+
+%Here we discuss additional interventions to reduce risk by decreasing the number of viral particles in the body (viral load) by means that do not appear to present other risks.
+
+%The number of viral particles in one's body (the ``viral load'') determines how much burden is placed on the immune system in clearing the virus from the body. The larger the viral load, the harder the immune system needs to work, and the higher the chance that the virus's replication rate allows it to multiply faster than the immune system can clear.
+
+%Our bodies come in contact with viruses, bacteria, and other pathogens all the time, and are constantly clearing out such pathogens without our awareness. Moreover when a pathogen %It is when a pathogen develops in \textit{sufficient quantity} that our immune system cannot clear it out, that we are said to have an ``infection''. In the case of viruses, it is not that 1 or 2 molecules of the virus present in the body will cause disease---rather, it is the exposure to a sufficient \textit{quantity} of the virus---and the conditions being such that it can replicate itself once \textit{inside} the body---that cause disease. Therefore, any means that can be taken to reduce the viral load, can help prevent the chance of run-away infection. 
+
+%In this article, we present ways to lower the viral load within one's body and one's home environment. We know that 
+
+The coronavirus spreads via droplets from coughs, sneezes and exhaled air of individuals who carry the virus (regardless of whether they show symptoms). 
+%There are two ways to look at this fact. One is that the breath of someone carrying the virus can infect someone else. 
+%But this also means that the very cough, sneeze or exhalation which might infect someone else, actually \textit{removes} viral particles from the lungs and respiratory tract of the infected individual. Therefore, we present simple techniques for exhaling more air, so as to reduce the viral load in the lungs. 
+%%%Fresh air, through good ventilation or purification, and cleaning the environment, reduce reexposure. 
+%We also recommend avoiding re-inhaling air that contains viral particles, as occurs in closed spaces. 
+%Well ventilated areas (via open windows or by being outside, or by filtering air), prevent the expelled air from being re-inhaled (by oneself or by others). 
+%%%In medical settings this motivates the use of a Powered Air Purifying Respirator (PAPR). 
+%It is also known that the SARS-CoV-2 virus specifically infects cells in the respiratory tract and lung tissue, with advanced stages of COVID-19 causing severe respiratory issues. Furthermore, pre-existing health conditions put one at greater risk, particularly if one has a respiratory difficulty (COPD, emphysema, etc.). Therefore, we also focus on general respiratory health as another means of possible prevention.
+%Our recommendations %are based on logical deduction from the knowledge presented above. They 
+%have not been validated for effectiveness against COVID-19. However, they involve activities within the range of normal human action and do not appeaer to cause harm. Anyone with specific health concerns or respiratory issues may wish to consult their physician before undertaking any of these interventions. %The high sensitivity of outcomes to improvements in health potential for small improvement in a patient's outcome. 
+The following recommendations to improve pulmonary health and reduce exposure / reexposure to viral particles are safe for individuals in reasonable all-around health. 
+Anyone with specific health concerns or respiratory issues may wish to consult their physician before adopting them. Please note that these recommendations will not substitute for prevention, we only hope that they may reduce the severity in some cases. 
+
+\section*{Recommendations}
+
+\textbf{Aerobic exercise.} Before infection aerobic exercise strengthens cardiovascular health. Once infected, during the period of mild symptoms, moderate daily aerobic exercise can improve lung ventilation. Such exercise may benefit immune function as well \cite{medline}. Ideally, do this exercise outdoors or with open windows or otherwise well ventilated areas. In sufficiently warm climates, longer walks or even running may improve lung capacity. Jumping jacks, jogging in place, or dancing can be done even in small spaces. %If you have more space available to you, take a longer walk or run! This could help get potentially virus-ridden air out of your lungs, while simultaneously improving lung capacity, respiratory health, and overall wellbeing. The psychological benefits of exercise may be equally important, improving mood and lowering stress, both of which also enhance immune function.
+
+\textbf{Keep windows open where temperatures allow.} It is best for airflows to be outward, and surely not to allow airflow from an infected individual toward spaces where uninfected individuals are present \cite{stcn}. This has two benefits: \textbf{\textit{(1)}} allowing any viral particles present in the air to exit the room, rather than you (or someone else) breathing them back in; \textit{\textbf{(2)}} bringing more oxygen into the room---helpful for the lungs and all-around health. If the weather in your region is cold, consider opening the window at least a small amount while also running a heater. Air purifiers may also be helpful. 
+
+\textbf{Spend time outdoors (without approaching others within 6 ft. \cite{cdc_distancing}).}  Balconies, back yards or patios, are good locations to be, as well as walks while avoiding proximity to others. This has the same benefits as keeping windows open---ensuring exhaled viral particles don't get re-inhaled.
+
+\textbf{Breathe in through the nose.} Breathing through the nose helps clean incoming air, via cilia (small hairs) and mucous membranes, thus creating a shield against disease. Nasal breathing also warms and moistens incoming air.
+
+\textbf{Deep breathing.} Deep breathing and exhalation bring fresh air in and can improve lung capacity. We typically breathe in and out only a fraction of our lung's capacity. Expelling viral particles from the more stagnant areas of the lung may further decrease self-exposure to viral particles. Deep breathing is often recommended for health and well being and can be done multiple times a day on a regular schedule.   
+
+%Take a slow, deep breath in through your nose, filling your lungs as much as possible without over-exerting. Hold momentarily. Breathe out fully---exhaling as much air as possible, then a little bit more. Wait a minute or two, breathing normally, then take another deep, full breath in and out as described above. Repeat several times. We typically breathe in only a fraction of our lung's capacity, and breathe out only a fraction of the air that we've taken in. This results in ``stale air'' in the lungs which doesn't get recirculated as often as it could be. Inhaling fully enables the air to reach all parts of the lungs. And given that exhaled breaths contain virus particles, exhaling fully allows the release of as many viral particles as possible. This exercise has the added benefit of helping get more oxygenated air into your lungs, again keeping the entire body healthy.
+
+\textbf{Avoid viral rebreathing.} Outdoors or with open window: Breathe out, turn to breath in clean air. Repeat multiple times, and periodically. Where fresh air is not available, use HEPA air purifier day and night.
+
+\textbf{Additional lung health practices.} Many additional exercises can be found for enhancing respiratory health. See Rush University Medical Center recommendations \cite{rush} for more nuanced exercises.
+
+\textbf{Clean surfaces and wash clothing and bedding.} Frequent washing removes viral particles that are deposited on surfaces and clothing and prevents exposure or reexposure.
+
+\end{multicols}
+	
+%\hspace{1cm}	
+\bibliographystyle{necsi}
+\bibliography{citations.bib}
+
+
+\end{document}

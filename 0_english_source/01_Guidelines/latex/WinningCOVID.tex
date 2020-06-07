@@ -1,0 +1,157 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} COVID-19: How to Win \\
+\vspace{-0.35ex}}
+\author{Chen Shen and Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+ \today 
+  \vspace{-14ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+\begin{multicols}{2}
+COVID is a tough opponent: stealthy, deceptive, fast and cruel. Lockdowns are helpful but they aren't enough. The US case rate is still growing. Italy with a national lockdown has a very slow decline in cases. Austria is more successful, but their actions started early. Things will get worse before they get better, but we can win by anticipating it and going all out. Once we do, we can stop it in 5 weeks. After difficult losses and with important lessons learned, we can return to a normal life. Here is how.
+
+%Many countries have locked down but is that enough? 
+%Here are the steps to win:
+\begin{enumerate}
+\item Get everyone on board: All levels/aspects of government, communities, companies, individuals have to go all out to stop this disease, even small ``leaks'' can sink the ship. Galvanize everyone to be focused, adaptive and creative to maximize their role. This virus attacks us exponentially, but when we fight back, we do the same to the virus.
+\item Lockdown: Separate individuals to prevent transmission. This is not about keeping people at home, it is about keeping people apart. Being outdoors is OK if people are separate. About 80\% of transmission is within family groups. If there is a risk of infection, housemates can reduce risk by separating temporarily. The lockdown can be completed within five weeks because the exponential decline can be as fast as the exponential growth. It will be painful, but don't fear the worst: We've endured the pandemic on its way up, but we can crush it on its way down. %they are a small cruise ship infecting each other. 
+\item Quarantines: Set up facilities for mild and moderate cases so they can't infect their housemates or others. Screen door to door to find all cases. Designate hospitals exclusive for COVID and for non-COVID to minimize collateral damage and cross-infection.
+\item Wear masks in shared spaces: Coughs, sneezes, breathing out all spread the virus. Masks block transmission when people must be in the same space. Clean surfaces and use gloves or other ways to avoid touching them. 
+\item Travel restrictions: These will stop new outbreaks from starting, make contact tracing feasible, and preserve local achievement for a ratchet effect---maintaining forward progress by preventing backward retreat. Otherwise, it is never ending, like draining a bathtub with a running tap. Nations and states (See many country policies and US states: MA, RI, FL, TX, OH) should impose 14 day quarantines on travelers, as should separate regions within a state. Essential transportation of goods and people should follow no contact protocols into a zone or across one zone to another.
+\item Essential services should be safe: Companies providing essentials should develop and provide delivery, curbside pickup, or other methods to reduce risk for employees and customers.
+\item Testing, testing, testing: Try fighting something you can't see. If we know who is infected we can isolate them and not everyone with cold symptoms. Individuals before and after symptoms may transmit, and testing can tell us. By testing people in specific areas, we can identify those zones to focus on and those where we can relax restrictions. Note: We can't do that if travelers can bring in the disease so this works with travel restrictions.
+\item Health guidelines: Focus on keeping people healthy to prevent mild cases from becoming severe. Strengthen the immune system by hydrating, eating well, sleeping, exercising, and breathing fresh or filtered air. For normal cold fevers $101^\circ$F$/38^\circ$C or a bit more, let your body use the fever to fight the disease. Above $103^\circ$F$/39.5^\circ$C degrees use medication to reduce fever and seek medical attention~(\url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786079/}).
+\item Support medical care: Hospitals and healthcare workers are overwhelmed and this will get worse until our actions stop the transmission. Give them the tools they need to do the best they can to save lives: facilities, medical equipment, personal protective equipment (PPEs), everyday living essentials. Recognize their achievements and show support to help them overcome ongoing challenges.
+\end{enumerate}
+
+\end{multicols}
+
+
+%\begin{thebibliography}{20}
+%\end{thebibliography}
+
+
+% \bibliography{MyCollection.bib}
+
+
+\end{document}

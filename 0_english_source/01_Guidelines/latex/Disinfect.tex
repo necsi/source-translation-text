@@ -1,0 +1,196 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Coronavirus Guidelines for Cleaning and Disinfecting to Prevent COVID-19 Transmission\\
+\vspace{-0.35ex}}
+\author{Aaron Green, Chen Shen, Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+ \today 
+  \vspace{-14ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+\begin{multicols}{2}
+COVID-19 is mainly transmitted via aerosols and droplets and can exist on fomites---surfaces, equipment, utensils, fabric, hair, dust and other particles---for days. The disease may be spread when people touch contaminated surfaces and then touch their face. Regular cleaning and disinfecting of surfaces that are frequent touch-points helps to prevent disease spread.
+
+Cleaning removes germs, dust, dirt and impurities from surfaces. Some forms of cleaning also kill germs. Even when cleaning doesn't kill germs, removing them from the immediate environment where people are located reduces the risk of spreading infection. 
+
+Killing germs by disinfection should be performed after cleaning to further reduce the risk of spreading infection. The coronavirus causing COVID-19 can be killed by soap, alcohol and chlorine bleach. 
+
+More specifically: SARS-CoV-2 can be neutralized by lipid solvents including ether (75\%), ethanol, chlorine-containing disinfectant, peroxyacetic acid and chloroform except for chlorhexidine. A list of disinfectants for SARS-CoV-2 can be found on the EPA's website https://www.epa.gov/pesticide-registration/list-n-disinfectants-use-against-sars-cov-2.
+
+Time also kills viral particles. Current information indicates that  over a period of hours, low density viral particles on cardboard become inactive, and over a period of a few days, they become inactive on hard plastic and metal surfaces. However, systematic inactivation on a variety of fomites and conditions is not yet well understood. This includes its dependence on the quantity of viral deposits, temperature, humidity, and other ambient conditions. For high density or large areas, the reliability of inactivation decreases and chemical disinfection is highly recommended. Washing and the use of disinfectants also should allow time for the effects to occur. Applying disinfectant and leaving on surfaces before rinsing is important. 
+
+In general there are two types of surfaces that need to be cleaned and they require different protocols. Soft, porous materials include carpeting, rugs, towels, clothing, sofas, chairs, bedding, soft fabric toys (i.e., stuffed animals), etc. Hard non-porous surfaces include stainless steel, floors, kitchen surfaces, countertops, tables and chairs, sinks, toilets, railings, light switch plates, doorknobs, metal/plastic toys, computer keyboards, remote controls, recreation equipment.
+
+\section*{Supplies}
+\begin{itemize}
+    \item Waterproof gloves such as latex, nitrile or dishwashing
+    \item Soap/detergent, warm water, clean towels, leak-proof plastic trash bags
+    \item Disposable gowns for extensive cleaning related tasks including taking out industrial trash
+    \item Face mask
+    \item Goggles (optional to prevent reactions to cleaning and disinfecting solvents)
+    \item Disinfectants
+\end{itemize}
+
+\section*{General guidelines for cleaning}
+\begin{itemize}
+    \item Discard rather than clean or disinfect highly contaminated items. 
+    \item Immediately throw away all disposable cleaning items
+    \item Wash hands frequently, including after emptying waste baskets and touching tissues and similar waste.
+    \item Wash your hands thoroughly with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer that contains at least
+    60\% alcohol
+\end{itemize}
+
+\section* {Clothing and Other Soft, Porous Materials that can be Laundered}
+\begin{itemize}
+    \item Place materials in a sealed plastic bag until laundering
+    \item Launder using hot water and a detergent, preferably containing color-safe bleach
+    \item Dry on high heat
+\end{itemize}
+
+\section*{Soft, Porous Materials that can not be laundered (carpets, couches, other porous surfaces)}
+\begin{itemize}
+    \item Vacuum to keep dust from spreading into the air
+    \item Spot-clean spills of bodily fluid promptly following safe procedures
+    \item Deep clean carpets while avoiding splashing as much as possible
+    \item Use steam cleaners to clean carpets and other porous surfaces as needed
+\end{itemize}
+
+\section*{Hard, Non-Porous Surfaces}
+\begin{itemize}
+    \item Follow labeled instructions on all containers
+    \item Clean surface with soap and water to remove all visible debris and stains
+    \item Rinse surface with clean water and wipe with clean towel
+    \item Apply the disinfectant. To effectively kill the virus, make sure the surface stays wet with the disinfectant for at least 10 minutes before wiping with a clean towel. If an EPA registered disinfectant is not available a 2\% chlorine bleach solution can be used. Take care with alcohol based disinfectants as they tend to evaporate quickly and may not fully disinfect if instructions are not followed
+    \item Rinse with water and allow surface to air dry. Rinsing following use of a disinfectant is especially important in a food preparation area
+    \item Mop heads should be cleaned with soap and hot water and sanitized with an EPA-registered disinfectant or bleach solution and allowed to dry. Consider using single-use, disposable mop heads or cloths as an alternative
+    \item Remove gloves and place in a trash bag and discard
+    \item Wash hands after removing gloves and handling any contaminated material, trash or waste
+\end{itemize}
+
+
+\end{multicols}
+
+
+% \bibliography{MyCollection.bib}
+
+
+\end{document}

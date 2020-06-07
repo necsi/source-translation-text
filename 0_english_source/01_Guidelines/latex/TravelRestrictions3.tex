@@ -1,0 +1,221 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[sort&compress]{natbib}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Travel Restrictions for\\Limiting Community Disease Spread \\
+\vspace{-0.35ex}}
+\author{Aaron Green, Chen Shen, Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+ \today 
+  \vspace{-14ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+
+\begin{multicols}{2}
+
+Travel restrictions (Cordon Sanitaire) are a vital tool in the fight against COVID-19 to reduce transmission to zero ($\#$CrushTheCurve) and restore normal activity. By limiting travel, gains from local efforts to stop the disease can be preserved because new outbreaks arising from travelers can be prevented. Without such restrictions any effort to stop the outbreak in one place will be undermined by imported cases. Waiting for all areas to achieve low enough case counts would substantially delay restoring economic activity. Travel restrictions should apply to travelers from a high risk area to any other area, including other high risk areas. 
+
+The status of a designated area (zone) should be identified as being in one of three colors: Green, Yellow and Red. 
+\begin{itemize}
+\item Green zone---no new local (within community) transmission for 14 consecutive days. All new cases, if any, occur in individuals who were effectively isolated from the moment they entered the zone (imported travelers);
+\item Yellow zone---no new local transmission for 14 consecutive days, but there are new cases identified using contact tracing, or the zone is adjacent to red zones;
+\item Red zone---community transmission identified within the last 14 days.
+\end{itemize}
+A zone should be a district that is naturally or artificially separated from its neighboring districts. A zone should only have controllable traffic transitions with neighboring zones. If two geographical regions have a shared border that cannot be effectively controlled, they should be considered as one zone. Zones can have a nested structure where the largest unit is a country or state. Zones should reduce the number of border crossings as necessary to ensure proper transport guidelines and quarantine are followed.
+
+The most basic zone border protocol includes: 
+\begin{itemize}
+\item No unnecessary travel into any zone from a yellow or red zone.
+\item 14 day quarantine for any individual arriving with permission into any zone from a yellow or red zone.
+\item Provision for transit travel if complete isolation protocols (air port transit isolation, not leaving a land vehicle, not leaving a designated road area) during transit across a zone. Where feasible, services should be provided for transit travel with extreme precautions.
+\item Import of goods by delivery to a designated cargo border location and transfer of the goods to internal control. 
+\end{itemize}
+
+A more complete zone land border control infrastructure enables a wider range of travel options, with appropriate control to prevent transmission.
+
+Temporary border control locations are necessary right before entering and exiting zones. These may be newly formed or converted service areas or weigh stations. To these areas add hygienic and clean air self-service facilities that protect both the traveler and the community. For freight/cargo drivers, they should be required to perform essential activities (like dining) in these service areas to minimize exposure in the zone. Such self-service facilities will also help travelers from one green zone to another green zone if their route has to cut through yellow/red zones. Negative pressure ambulances should also be deployed at such service areas for medical emergencies, and for out-of-zone individuals seeking medical care in in-zone hospitals. 
+
+Zones must set up a system for travelers from yellow/red zones to notify zone local authorities in advance about their arrival, indicated by signs along the transit road and online, including registering their name, license plate number, and ETA. Upon arrival at the entry service area, travelers are redirected directly to isolation facilities. Ideally, the isolation facility should be close to the border control service area, and they can also serve as the temporary lodging space for officials working at the service area, to minimize their contact with the community. Symptomatic testing (fever and questionnaire) should be standard at all crossing points. Where available, RT-PCR rapid nasal swab tests should be performed. Test results should be added to official travel documents when available. Arrivals without registration are denied entry.
+
+Travel restrictions should be based on local needs. There are four aspects of travel: (1) Arrivals into a zone, (2) essential worker travel, (3) transit across one zone to get to another, (4) delivery of goods.  
+
+\section{Arrivals into a Zone}
+
+In general, travelers arriving from yellow or red zones to any other zone (green, yellow or red) should be quarantined or self-isolate with supervision for 14 days. Travelers originating in green zones may not need to be quarantined if they are coming from another low risk area. In order to avoid the need for more stringent restrictions, travelers should have official or otherwise reliable itinerary records (origin, intended destination, zones they have traveled through) and tests with results (if possible) from zones they have passed through on their journey. A system for official travel documents should be developed. 
+
+Patients from a yellow or red zone seeking medical services should be encouraged to find treatment in their home zone. If they are unable to obtain services in their home zone they may seek treatment in specifically designated clinics or hospitals that have the proper protocols in place to receive inbound patients who may be infected. Travel from the zone boundary to the service center should be supervised and documented for tracing purposes.
+
+\section{Essential worker travel}
+
+In order to separate transmission in different zones, individuals who regularly travel between two zones for work and living quarters must do one of the following:
+
+\begin{enumerate}
+\item Temporarily change work or living quarters so that they are within the same zone;
+\item Follow strict guidelines for isolation from local population in one of the two zones. This may include living alone or working without contact with other employees;
+\item Change roles so that remote work is possible;
+\item Take a temporary leave of absence with pay.
+\end{enumerate}
+Where this is not possible, frequent screening tests are necessary. In a case where individuals who live or work in boundary regions between two zones that are both of reduced risk, exceptions may be made for essential workers. Essential workers who are COVID-19 positive should quarantine in their home zone.
+
+Under exceptional circumstances essential workers may arrive or be imported into a zone with zone authority approved quarantine and work plans that ensure extremely low risk for transmission employment conditions. 
+
+\section{Transit or thru traffic}
+
+Transit airport, highway and major road traffic should not be blocked. However, precautions must be taken at entrance into a zone and pit stop locations. If a zone decides to allow an individual from a higher risk zone to travel across to get to another zone it would be prudent to track the vehicle for enforcement of regulations and tracing purposes. Designate controlled routes and pit stops to ensure through-zone transit is safe for residents.
+
+Through-zone travelers should avoid pit stops if possible. When necessary, wear a mask, practice distancing and thoroughly wash hands. Add pit stop to travel itinerary for tracing purposes.
+
+\section{Delivery of goods}
+
+Freight should have clear destinations and itinerary. Set up quarantine areas for freight drivers to go once they have delivered their goods. They either return to their origin the same day or wait in a quarantine area until their next job.
+Packages should undergo sanitation or quarantine for a period of time to deactivate any virus on fomites and prevent transmission.
+
+In general, for transport into a yellow or red zone, freight drivers must quarantine upon return to their home zone. Freight and cargo transport without quarantine upon return is possible, provided the following conditions are met:
+\begin{enumerate}
+\item There are no symptoms of illnesses;
+\item Vehicle operators do not leave the vehicle, with exceptions for designated and reliably managed pit stop locations;
+\item Loading and unloading is carried out by the customer;
+\item The vehicle operators leave the zone again within 24 hours.
+\end{enumerate}
+For trips that last longer than 24 hours, upon return they should quarantine while they wait for the next transport job.  If they want to reenter their zone without restrictions they must quarantine or self-isolate for 14 days.
+
+\end{multicols}
+\begin{thebibliography}{20}
+
+\bibitem{r1} \url{https://www.china-briefing.com/news/chinas-travel-restrictions-due-to-covid-19-an-explainer/}
+
+\bibitem{r1} \url{https://www.craigak.com/sites/default/files/fileattachments/administration/page/10896/07-02.pdf}
+
+\bibitem{r2} \url{https://www.gw-world.com/news/press-releases/news/update-coronavirus-covid-19/}
+
+\bibitem{r3} \url{https://www.iatatravelcentre.com/international-travel-document-news/1580226297.htm}
+
+\bibitem{r4} \url{https://www.china-briefing.com/news/wp-content/uploads/2020/04/CHINA-Travel-Entry-COVID-19-Policy-By-Province-As-of-27-March-2020.jpg}
+
+\bibitem{r5} \url{https://www.wsj.com/articles/chinas-new-coronavirus-policies-disrupt-u-s-air-cargo-operations-11585859298}
+
+
+\end{thebibliography}
+
+% \bibliography{MyCollection.bib}
+
+
+
+\end{document}
