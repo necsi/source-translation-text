@@ -1,11 +1,12 @@
 # Everyday life and COVID-19 - .pdf text (Brazilian Portuguese version)
+
 **Original reference link:** https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e7ac3f4c21456e98890e810_Everyday%20Life%20and%20COVID-19.pdf
 
-
 # Dia-a-dia e COVID-19
+
 **Chen Shen e Yaneer Bar-Yam**
 **New England Complex Systems Institute**
-*(traduzido por Lucas Pontes)*
+_(traduzido por Lucas Pontes)_
 
 Nos últimos meses, nossas vidas mudaram de muitas maneiras profundas. Um jogo de basquete, uma ida ao supermercado e até mesmo caminhar pelo saguão do prédio até o elevador estão repletos de perigos em potencial - a possibilidade de que o atacante do outro time, o último cliente a segurar a mesma laranja no setor de frutas, ou seu vizinho que apertou o botão do elevador estejam infectados pelo COVID19, e transmitindo o vírus para nós. Isso vale para tudo o que eles tocam e cada respiração que fazem nos espaços que compartilhamos, mesmo que momentaneamente. Enquanto contatos próximos dominam a transmissão, outros perigos também devem ser evitados.
 
@@ -15,13 +16,13 @@ Corridas, ciclismo e encontros via conversas de vídeo com os amigos são maus s
 
 Casas com entradas compartilhadas nos expõem a todos os outros em nosso prédio: nas áreas comuns, entradas, corredores, lavanderias, às vezes até no ar que respiramos através de um sistema de ventilação comum.
 
-* Passe o mínimo de tempo possível nas entradas e áreas comuns, mesmo quando não estiverem lotadas. O coronavírus gruda nas superfícies e no ar.
-* Pressuponha que qualquer superfície - sua caixa de correio, maçaneta da porta, botões do elevador - esteja contaminada e possa transmitir COVID19. Coloque algo descartável entre você e a superfície: luvas, um pedaço de pano ou até mesmo um pedaço de papel. Seja criativo.
-* Quando possível, use uma máscara, lenço ou bandana ao caminhar em espaços compartilhados. Máscaras reutilizáveis e laváveis estão disponíveis e há instruções simples disponíveis para você fazer a sua.
-* Quando chegar ao seu apartamento, lave bem as mãos antes de tocar em qualquer outra coisa (com sabão por pelo menos 20 segundos). Leve sanitizadores de mão para limpá-las quando sair.
-* Consulte a possibilidade de determinarem uma área separada do edifício para recebimento de encomendas (mais informações abaixo).
-* Mantenha as janelas do seu apartamento abertas quando o tempo permitir. Também pode ser útil o uso de um purificador de ar HEPA no ar condicionado de seu apartamento, nos sistemas de ventilação central, ou quando as janelas não puderem ser abertas.
-* Pressuponha que os elevadores estejam contaminados, pois pode haver muitas pessoas por dia compartilhando esse pequeno espaço. Evite compartilhar elevadores com outras pessoas. Quando possível, use as escadas: é um ótimo exercício para começar, embora ainda não seja tão divertido quanto aquele jogo de basquete.
+- Passe o mínimo de tempo possível nas entradas e áreas comuns, mesmo quando não estiverem lotadas. O coronavírus gruda nas superfícies e no ar.
+- Pressuponha que qualquer superfície - sua caixa de correio, maçaneta da porta, botões do elevador - esteja contaminada e possa transmitir COVID19. Coloque algo descartável entre você e a superfície: luvas, um pedaço de pano ou até mesmo um pedaço de papel. Seja criativo.
+- Quando possível, use uma máscara, lenço ou bandana ao caminhar em espaços compartilhados. Máscaras reutilizáveis e laváveis estão disponíveis e há instruções simples disponíveis para você fazer a sua.
+- Quando chegar ao seu apartamento, lave bem as mãos antes de tocar em qualquer outra coisa (com sabão por pelo menos 20 segundos). Leve sanitizadores de mão para limpá-las quando sair.
+- Consulte a possibilidade de determinarem uma área separada do edifício para recebimento de encomendas (mais informações abaixo).
+- Mantenha as janelas do seu apartamento abertas quando o tempo permitir. Também pode ser útil o uso de um purificador de ar HEPA no ar condicionado de seu apartamento, nos sistemas de ventilação central, ou quando as janelas não puderem ser abertas.
+- Pressuponha que os elevadores estejam contaminados, pois pode haver muitas pessoas por dia compartilhando esse pequeno espaço. Evite compartilhar elevadores com outras pessoas. Quando possível, use as escadas: é um ótimo exercício para começar, embora ainda não seja tão divertido quanto aquele jogo de basquete.
 
 ## Compras em mercados, farmácias, mercearias e outras lojas
 

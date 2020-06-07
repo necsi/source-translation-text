@@ -1,5 +1,4 @@
-A propos de nous
-================
+# A propos de nous
 
 endCoronavirus.org est construit et maintenu par le New England Complex Systems Institute (NECSI) et ses collaborateurs. Notre objectif est de minimiser l’impact du Coronavirus COVID-19 en fournissant des données utiles et des lignes directrices pour agir.
 
@@ -7,7 +6,7 @@ Notre équipe de recherche est composée de professeurs, étudiants et personnes
 
 Nous utilisons une gamme d'outils mathématiques conçus pour les systèmes avec de nombreux composants qui interagissent entre eux même, et dans lesquels les hypothèses statistiques traditionnelles s’éffondrent.
 
-Nous sommes spécialisés dans les réseaux, la modélisation à base d’agents, l’analyse multi-échelle et la complexité, le chaos et la prédictibilité, l’évolution, l’écologie, la biodiversité, l’altruisme, la biologie des systèmes, la réponse cellulaire, les soins médicaux, l’ingénierie des systèmes, la négociation, les conflits militaires, la violence ethnique et le développement international.  
+Nous sommes spécialisés dans les réseaux, la modélisation à base d’agents, l’analyse multi-échelle et la complexité, le chaos et la prédictibilité, l’évolution, l’écologie, la biodiversité, l’altruisme, la biologie des systèmes, la réponse cellulaire, les soins médicaux, l’ingénierie des systèmes, la négociation, les conflits militaires, la violence ethnique et le développement international.
 
 ## Appel à l’Action
 

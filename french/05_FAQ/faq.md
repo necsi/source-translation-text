@@ -1,5 +1,4 @@
-Foire aux questions
-===================
+# Foire aux questions
 
 ## + Qu'est-ce que COVID-19 ?
 

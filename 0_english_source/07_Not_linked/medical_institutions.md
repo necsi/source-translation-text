@@ -3,6 +3,7 @@
 ### MEDICAL WORKERS
 
 Medical workers face exceptional circumstandes which need special attention regarding:
+
 - PPE
 - Resting
 - Social Distancing
@@ -12,10 +13,11 @@ Medical workers face exceptional circumstandes which need special attention rega
 ### COVID-19 HANDBOOK
 
 by First Affiliated Hospital, Zheijang University School of Medicine
+
 - Prevention
 - Treatment
 
-[Handbook PDF >](https://uploads-ssl.webflow.com/5e62f57a6f9734c5e7879c84/5e738c77598f369003188eb4_Handbook%20of%20COVID-19%20Preventionand%20Treatment%20(1).pdf)
+[Handbook PDF >](<https://uploads-ssl.webflow.com/5e62f57a6f9734c5e7879c84/5e738c77598f369003188eb4_Handbook%20of%20COVID-19%20Preventionand%20Treatment%20(1).pdf>)
 
 ### TESTING STRATEGIES
 
@@ -27,7 +29,7 @@ Testing is a key factor to get the pandemic under control. There are several met
 
 Large-scale, temporary hospitals, rapidly built by converting existing public venues.
 
-[The Lancet article >](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30744-3/fulltext)
+[The Lancet article >](<https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30744-3/fulltext>)
 
 ### PATIENT BLOOD MANAGEMENT
 
@@ -59,6 +61,7 @@ How to cluster different outbreak zones to relate correct actions.
 ### EMPOLOYEE SAFETY
 
 Handout for employers:
+
 - Safeguard workplaces and employees‍
 - Safety screening questions
 

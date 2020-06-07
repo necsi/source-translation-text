@@ -1,71 +1,88 @@
 ## Guías para la respuesta temprana al brote
 
-El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de casos graves y el 2% de muertes. Un período de incubación típico es de 3 días, pero puede extenderse a 14 días, y existen informes de 24 y 27 días. Es altamente contagioso con un aumento del día a día del 50% en casos nuevos (tasa de infección R0 de aproximadamente 3-4) a menos que se realicen intervenciones extraordinarias. Si se convierte en una pandemia o epidemia generalizada, cambiará la vida de todos en el mundo. Es imperativo actuar para limitar y detener el brote y no aceptar su propagación. Proporcionamos estas guías para la acción individual, comunitaria y gubernamental. 
+El brote de coronavirus que se originó en Wuhan tiene alrededor del 20% de casos graves y el 2% de muertes. Un período de incubación típico es de 3 días, pero puede extenderse a 14 días, y existen informes de 24 y 27 días. Es altamente contagioso con un aumento del día a día del 50% en casos nuevos (tasa de infección R0 de aproximadamente 3-4) a menos que se realicen intervenciones extraordinarias. Si se convierte en una pandemia o epidemia generalizada, cambiará la vida de todos en el mundo. Es imperativo actuar para limitar y detener el brote y no aceptar su propagación. Proporcionamos estas guías para la acción individual, comunitaria y gubernamental.
 
 ‍
 
 ## Descargar guías en PDF
 
 [Vida diaria y COVID-19 (PDF)](pdf/everyday_es.pdf)
+
 - Qué hacer en: Edificios de apartamentos, compra de alimentos, menesteres, paquetes y correo
 
 [Guías esenciales para coronavirus](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/essential_en.pdf)
+
 - Guías clave para todos, desde individuos hasta organizaciones
 
 [Guía para el Hogar (PDF)](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/family_es.pdf)
+
 - Medidas generales (espacios seguros) para familias y hogares
 
 [Guía para el auto aíslamiento (PDF)](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/self_isolation_en.pdf)
+
 - Qué hacer si se está viviendo por si mismo o compartiendo el hogar con alguien más
 
 [Pautas para instituciones de alto riesgo - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/high-risk_en.pdf)
+
 - Instituciones de alto riego como comunidades de pensionados, dormitorios, asilos, hogares de rehabilitación, y prisiones
 
 [El testeo masivo puede detener la epidemia de coronavirus](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/MassiveTesting_es.pdf)
+
 - Estrategias clave de diagnóstico para identificar y aislar la propagación del virus
 
 [Cómo un cierre de emergencia de 5 semanas puede detener COVID-19](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/5weeks_es.pdf)
-- Resumen sobre el cierre de emergencia y cómo funcionó en China 
+
+- Resumen sobre el cierre de emergencia y cómo funcionó en China
 
 [Pautas para negocios](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/business_es.pdf)
+
 - Resumen de acciones que las empresas pueden llevar a cabo para reducir riesgos para toda persona relacionada con el negocio y para el negocio mismo
 
 [Recomendaciones para legisladores](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/policymakers_es.pdf)
+
 - Lista de 9 acciones recomendadas de forma que legisladores puedan detener la propagación
 
 [Recomendaciones individuales, comunitarias y gubernamentales](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/individual_community_government_es.pdf)
+
 - Resumen de acciones e intervenciones en varias escalas
 
 [Guía para la Salud Respiratoria (PDF):](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/respiratory-health_en.pdf)
+
 - Qué hacer para reducir el riesgo de un caso severo de COVID-19
 
 [Guías para supermercados, tiendas de comestibles y farmacias - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/supermarket_grocery_stores_pharmacies_en.pdf)
+
 - Qué hacer para que estos negocios puedan seguir abiertos y su seguridad esté asegurada
 
 [Acción y soporte comunitario ante COVID19 - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/CommunitySupport_en.pdf)
+
 - Como lograr un compromiso ciudadano y un soporte mutuo en las comunidades
 
 [Seguridad y Chequeo de Empleados: Preguntas para empleadores](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/Questionaire_es.pdf)
+
 - Guías para que empleadores logren mantener a sus empleados y sus puestos de trabajo
 
 ## Otras guías útiles (médicas, técnicas)
+
 [Instructivo de prevención y Tratamiento de COVID-19 - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/5e738c77598f369003188eb4_Handbook-of-COVID-19-Preventionand-Treatment.pdf)
 
 [Manejo de Sangre de un paciente durante la pandemia de COVID-19 - Inglés](https://github.com/necsi/source-translation-text/raw/master/spanish/pdf/SABM-PBM-COVID19-statement-20200317.pdf)
 ‍
 
 ## Guías para la familia
+
 En áreas de mayor riesgo donde el gobierno no está tomando las medidas adecuadas, proteger a una familia o grupo es un desafío. La propagación del fuego requiere un rastro de combustibles. Del mismo modo, el contagio de COVID-19 requiere una cadena de individuos susceptibles. Los soluciones son (1) Reducir el contacto entre la familia y los demás, y satisfacer las necesidades esenciales, y a medida que aumenta el riesgo (2) Crear un espacio seguro que proteja a quienes están en él por acuerdo compartido para no estar en contacto físico sin protección con otros o con superficies tocadas por otros.
 
 El espacio seguro también frena el contagio porque aquellos en el espacio seguro no participan en la transmisión de enfermedades. Los miembros de un espacio seguro pueden combinarse con otros para expandir cuidadosamente el espacio seguro o crear otros nuevos. A continuación se encuentran nuestras pautas para las familias.
 ‍
 
 ## Reducción del contacto entre la familia y otros:
+
 Lea atentamente nuestras pautas para las personas y compártalas con los miembros de su familia. Hable con ellos sobre cómo reducir su contacto con los demás.
 
 Cambie las reuniones familiares para que sean virtuales. El brote será derrotado o se generalizará. En el primero caso, dentro de unos meses volverá a la normalidad. En este último, se necesitarán diferentes acciones.
 
-Asegúrese de que usted y los miembros de su familia tengan los suministros necesarios, incluidos los medicamentos recetados. 
+Asegúrese de que usted y los miembros de su familia tengan los suministros necesarios, incluidos los medicamentos recetados.
 
 Considere los miembros vulnerables de la familia, incluidos los ancianos, pero también cualquier persona mayor de 50 años y aquellos con condiciones de salud crónicas, en cuanto al riesgo de contacto con otros. Reduzca su contacto y brinde apoyo que les permita quedarse en casa y no ir a espacios públicos.
 
@@ -93,7 +110,8 @@ Para las actividades esenciales, incluidas las compras, durante las cuales es in
 Promueva la comunicación interna y el cuidado mutuo para mantener a los miembros del espacio en relaciones positivas y mentalmente saludables. Reconozca que la emergencia actual requiere acciones y sacrificios extraordinarios es esencial. Si bien puede mitigar, no puede reemplazar
 ‍
 
-##  Guías individuales y comunitarias
+## Guías individuales y comunitarias
+
 Asuma la responsabilidad de su propia salud y comparta la responsabilidad de la salud de su vecindario con conciencia y disciplina.
 
 Practique el distanciamiento social.
@@ -114,13 +132,14 @@ Si los síntomas continúan desarrollándose, busque un medio de transporte segu
 
 En áreas de mayor riesgo, proporcione lo necesario para los miembros de su comunidad sin contacto personal; los suministros se pueden dejar afuera de las puertas.
 
-Colabore con otros para crear zonas seguras / comunidades seguras. Discuta la seguridad con familiares y amigos, hable sobre las pautas de seguridad, sepa quién sigue las pautas de seguridad, establezca políticas compartidas, haga un seguimiento y comparta las necesidades, preocupaciones y oportunidades con los demás. 
+Colabore con otros para crear zonas seguras / comunidades seguras. Discuta la seguridad con familiares y amigos, hable sobre las pautas de seguridad, sepa quién sigue las pautas de seguridad, establezca políticas compartidas, haga un seguimiento y comparta las necesidades, preocupaciones y oportunidades con los demás.
 
 Sea crítico con los rumores y no divulgue información errónea.
 ‍
 
 ## Pautas de la comunidad y del gobierno
-Al aproximarse a comunidades o países con infecciones activas, establezca controles fronterizos para detectar los síntomas. 
+
+Al aproximarse a comunidades o países con infecciones activas, establezca controles fronterizos para detectar los síntomas.
 
 Realice cuarentenas de 14 días para las personas en riesgo que ingresen a áreas libres de infecciones.
 
@@ -130,13 +149,14 @@ Los equipos del vecindario que van de puerta en puerta también deben identifica
 ‍
 
 ## Guías gubernamentales
+
 Prepare con anticipación recursos estratégicos como máscaras, EPPs y kits de prueba, y establecer rutas de distribución.
 
 Identifique áreas donde se confirman o sospechan infecciones.
 
 Detenga el transporte no esencial entre áreas infectadas y no infectadas.
 
-Aisle a las personas con sospecha de infecciones y las personas con infecciones confirmadas separadamente para su atención en instalaciones designadas con recursos médicos adecuados, incluido el Equipo de Protección Personal (EPP) 
+Aisle a las personas con sospecha de infecciones y las personas con infecciones confirmadas separadamente para su atención en instalaciones designadas con recursos médicos adecuados, incluido el Equipo de Protección Personal (EPP)
 
 Las personas con síntomas deben seguir un proceso especialmente diseñado para ser llevados a los centros de salud designados para las pruebas, evitando el transporte público o taxis
 
@@ -153,15 +173,16 @@ Promueva las responsabilidades de la comunidad en áreas infectadas:
 En cada vecindario / comunidad, seleccione un grupo de personas cuyo trabajo diario implique contacto humano frecuente. Vigile su condición a diario para ayudar a detectar infecciones y prevenir el contagio.
 Participe en la comunicación y la distribución de los recursos a las zonas remotas
 Coordine con las comunidades internacionales y la Organización Mundial de la Salud (OMS) para compartir información sobre la identificación del caso, el historial de viajes del paciente, los tratamientos, las estrategias de prevención, y la escasez de suministros médicos
-Planee el tratamiento de pacientes con síntomas similares que no están infectados con COVID-19 
+Planee el tratamiento de pacientes con síntomas similares que no están infectados con COVID-19
 
 En áreas con transmisión activa:
 Cierre lugares de adoración, universidades, escuelas y negocios
 Restrinja a las personas a sus hogares y brinde apoyo para que sus necesidades sean entregadas sin contacto
-Realice búsquedas puerta a puerta para detectar individuos con síntomas tempranos y necesidad de servicios, con las precauciones de EPP necesarias y con la participación de la comunidad en el esfuerzo 
- ‍
+Realice búsquedas puerta a puerta para detectar individuos con síntomas tempranos y necesidad de servicios, con las precauciones de EPP necesarias y con la participación de la comunidad en el esfuerzo
+‍
 
-## Guías comerciales 		 		 	 	 		
+## Guías comerciales
+
 En este artículo, enumeramos varias acciones que las empresas pueden tomar para prevenir la propagación del Coronavirus. También incluimos consideraciones especiales para el sector de Ventas y la Hospitalidad.
 
 General:
@@ -206,6 +227,3 @@ Servicio desde el auto
 Entrega a domicilio sin contacto
 
 1. El uso de máscaras se debate, observamos que: (1) Cualquier persona que tenga síntomas incluso leves debe evitar el contacto con otros y debe usar una máscara mientras esté en contacto público o privado con otros. (2) El uso de una máscara debe aceptarse en entornos públicos para evitar que los enfermos duden o se sientan estigmatizados al usar una máscara. (3) Si bien las máscaras no garantizan la seguridad de un individuo sano y su disponibilidad puede ser limitada debido a la necesidad de mayor prioridad en entornos médicos, el uso de máscaras donde no se puede evitar la proximidad a otras personas que pueden estar infectadas reduce drásticamente el riesgo de infección. (4) Para las personas mayores de 50 años o con condiciones de salud preexistentes e incluso para las personas en áreas de alto riesgo, las consecuencias de infectarse justifican el uso de una máscara.
-
-
-

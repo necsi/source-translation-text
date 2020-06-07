@@ -2,7 +2,6 @@
 
 Dịch bệnh coronavirus bắt nguồn từ Vũ Hán có khoảng 20% ca bệnh nguy kịch và 2% ca tử vong. Thời gian ủ bệnh thường là 3 ngày, nhưng có thể kéo dài đến 14 ngày, và có báo cáo lên đến 24 và 27 ngày. Khả năng lây nhiễm của nó cực kỳ cao và tăng 50% mỗi ngày trong những ca mới (tốc độ lây nhiễm R0 khoảng 3-4) trừ khi có những biện pháp can thiệp đặc biệt. Nếu nó trở thành đại dịch lan rộng nó sẽ thay đổi cuộc sống của mọi người trên thế giới. Do đó việc hạn chế và ngăn chặn bùng phát và không chấp nhận lây lan là rất cấp bách. Vì vậy chúng tôi cung cấp những hướng dẫn hành động này cho cá nhân, cộng đồng và chính phủ.
 
-
 ## Tải Xuống PDF của Các Hướng Dẫn
 
 [Hướng Dẫn Cần Thiết Về Coronavirus](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/essential_en.pdf)
@@ -29,7 +28,6 @@ Dịch bệnh coronavirus bắt nguồn từ Vũ Hán có khoảng 20% ca bệnh
 ‍
 [An toàn và kiểm tra cho nhân viên: những câu hỏi cho các chủ thuê](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/Questionaire.pdf)
 
-
 ## Những Hướng Dẫn Có Ích Khác
 
 Sổ Tay Phòng Ngừa và Chữa Trị COVID-19
@@ -44,7 +42,6 @@ Trong những khu vực nguy cơ cao mà chính phủ không thi hành các bi�
 - Tránh tiếp xúc giữa gia đình và người khác, và dự phòng những nhu cầu thiết yếu.
 
 - Khi nguy cơ tăng lên, thành lập một nơi lánh nạn để bảo vệ mọi người trong đó bằng cách thỏa thuận với nhau không tiếp xúc đụng chạm lẫn nhau hoặc các bề mặt từng bị người khác chạm qua mà không có biện pháp bảo hộ. Khu lánh nạn này sẽ hạn chế lây nhiễm vì những người trong đó sẽ không tham gia việc truyền bệnh. Những thành viên của một khu lánh nạn có thể kết hợp với những người khác để mở rộng khu lánh nạn hay tạo một nơi mới một cách cẩn trọng. Dưới đây là hướng dẫn của chúng tôi cho các gia đình.
-
 
 ## Giảm thiểu tiếp xúc giữa gia đình và người khác:
 
@@ -79,7 +76,6 @@ Thành lập một nơi lánh nạn dưới tình trạng nguy cơ cao:
 - Khi dịch bệnh phát triển dần thì sẽ nảy sinh ra các quyết định khó khăn về việc có nên rời khỏi khu lánh nạn để giúp đỡ gia đình hay bạn bè không ở trong khu hay không. Mọi người nên chuẩn bị để quyết định về những việc này.
 
 Trong thời điểm rủi ro cao, sẽ có những hành động sai lầm mà có thể ảnh hưởng tới sự an toàn. Để tránh hành động quá mức trong một sự kiện nào đó, điều quan trọng là nhận thức được bất cứ một hành động riêng lẻ nào đều có xác suất có hại nhỏ. Tuy nhiên, khi nhiều hành động như thế xảy ra thì nguy cơ sẽ tăng cao đáng kể. Đảm bảo rằng mọi người đều rút kinh nghiệm thì quan trọng hơn việc buộc tội, đổ lỗi hay trừng phạt.
-
 
 ## Hướng Dẫn cho Cá Nhân và Cộng Đồng
 
@@ -127,7 +123,7 @@ Dừng hết mọi di chuyển không cần thiết giữa các khu vực bị n
 
 Cách ly riêng biệt những cá nhân được chứng thực và nghi ngờ bị nhiễm để được chăm sóc ở các cơ sở được chỉ định với đầy đủ dụng cụ y tế, bao gồm đồ bảo hộ
 
-Những người có triệu chứng nên sử dụng một quy trình  đặc biệt để được đưa đến các cơ sở y tế được chỉ định để xét nghiệm, tránh phương tiện công cộng hoặc taxi
+Những người có triệu chứng nên sử dụng một quy trình đặc biệt để được đưa đến các cơ sở y tế được chỉ định để xét nghiệm, tránh phương tiện công cộng hoặc taxi
 
 Cách ly và xét nghiệm tất cả các ca nghi ngờ lân cận một ca bệnh được xác định
 
@@ -155,11 +151,11 @@ Cách ly và xét nghiệm tất cả các ca nghi ngờ lân cận một ca b�
 
 - Trong những khu vực bị lây nhiễm:
 
-	- Đóng cửa các chùa chiền, trường đại học, trường học và công ty
+      	- Đóng cửa các chùa chiền, trường đại học, trường học và công ty
 
-	- Giới nghiêm mọi người ở nhà và giúp đỡ phân phối các nhu yếu phẩm mà không tiếp xúc
+      	- Giới nghiêm mọi người ở nhà và giúp đỡ phân phối các nhu yếu phẩm mà không tiếp xúc
 
-	- Tiến hành tìm kiếm những người có triệu chứng ban đầu và cần giúp đỡ trong từng nhà, phải mang đầy đủ đồ bảo hộ dự phòng, và khuyến khích cộng đồng chung tay ra sức
+      	- Tiến hành tìm kiếm những người có triệu chứng ban đầu và cần giúp đỡ trong từng nhà, phải mang đầy đủ đồ bảo hộ dự phòng, và khuyến khích cộng đồng chung tay ra sức
 
 ## Hướng Dẫn cho Doanh Nghiệp
 
@@ -221,7 +217,7 @@ Nếu phải xài máy điều hòa, vô hiệu hóa hệ thống tuần hoàn l
 
 Ăn uống cách xa nhau, giữ khoảng cách 3 feet (1 mét) khi ăn uống và tránh ngồi đối diện nhau. Để riêng bộ đồ ăn và thường xuyên khử trùng. Nhân viên căn tin phải thường xuyên kiểm tra sức khỏe
 
-Đề xướng giao đồ ăn thay vì ra ngoài mua. Sắp xếp giúp đỡ gọi giao đồ ăn và một nơi để giao và nhận thức ăn  không tiếp xúc trong một khu vực vệ sinh mà không phải xếp hàng.
+Đề xướng giao đồ ăn thay vì ra ngoài mua. Sắp xếp giúp đỡ gọi giao đồ ăn và một nơi để giao và nhận thức ăn không tiếp xúc trong một khu vực vệ sinh mà không phải xếp hàng.
 
 Cân nhắc làm sao nhân viên tới chỗ làm và đưa ra những lời khuyên bao gồm tránh phương tiện công cộng, hoặc giữ vệ sinh cẩn thận bao gồm tránh đụng chạm các bề mặt, rửa tay và mang khẩu trang trong những khu vực nguy cơ cao
 
@@ -237,7 +233,7 @@ Ghi lại rõ ràng nhật ký tiếp xúc mỗi ngày. Để lỡ một vụ l�
 
 Những biện pháp làm việc mà không tiếp xúc nên được thiết lập và thi hành bao gồm:
 
-- Dịch vụ nhận và giao qua cửa sổ  bao gồm đủ khoảng cách khi xếp hàng
+- Dịch vụ nhận và giao qua cửa sổ bao gồm đủ khoảng cách khi xếp hàng
 
 - Dịch vụ drive-thru (lái xe qua)
 

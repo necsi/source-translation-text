@@ -4,7 +4,8 @@
 
 ### HIGH RISK INSTITUTIONS
 
-Nursing homes, dormitories, prisons etc. are at high risk. See advice on: 
+Nursing homes, dormitories, prisons etc. are at high risk. See advice on:
+
 - Handling of visitors
 - Hygiene
 - Employees, corporate environment
@@ -15,6 +16,7 @@ Nursing homes, dormitories, prisons etc. are at high risk. See advice on:
 ### BUSINESS SETTINGS
 
 Relevant actions for businesses of all sort regarding:
+
 - Meetings, travel, visitors
 - Workplaces
 - Retail and hospitalities
@@ -26,7 +28,9 @@ Relevant actions for businesses of all sort regarding:
 Actions businesses should take in response to the COVID-19 outbreak.
 
 ### RETAIL
+
 Special advice for supermarkets, grocery stores and pharmacies on:
+
 - Staff guidelines
 - Hygiene
 - Customer guidance
@@ -36,6 +40,7 @@ Special advice for supermarkets, grocery stores and pharmacies on:
 ### EMPLOYEE SAFETY
 
 Guidelines for employers:
+
 - Safeguard workplaces and employees‍
 - Safety screening questions
 

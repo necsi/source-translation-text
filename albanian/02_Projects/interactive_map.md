@@ -4,11 +4,10 @@ Për reagim efektiv ndaj përhapjes mund të identifikohen dhe përditësohen n�
 
 ### Tipet e zonave
 
-* Zonat e Gjelbra: Rajonet pa raste të konfirmuara apo me disa udhëtar të infektuar që vijn nga rajonet tjera
-* Zonat e Verdha: Rajonet me disa raste të infektimit lokal, por pa grumbuj të përhapjes në komunitet
-* Orange Zones: Rajonet ngjitur me Zonat e Kuqe apo me grumbuj të vegjël të infektuarish
-* Zonat e Kuqe: Rajonet që kanë pasur përhapje në komunitet
-
+- Zonat e Gjelbra: Rajonet pa raste të konfirmuara apo me disa udhëtar të infektuar që vijn nga rajonet tjera
+- Zonat e Verdha: Rajonet me disa raste të infektimit lokal, por pa grumbuj të përhapjes në komunitet
+- Orange Zones: Rajonet ngjitur me Zonat e Kuqe apo me grumbuj të vegjël të infektuarish
+- Zonat e Kuqe: Rajonet që kanë pasur përhapje në komunitet
 
 Kjo skemë shenjimi me ngjyra në bazë të zonave mbështetet në idenë që në zonat ku virusi po përhapet në komunitet, kontakti shoqëror duhet të ulet në atë masë sa që secili individ i infektuar do të infektoj mesatarisht më pak se një person. Ky kontakt i zvogëluar shoqëror do të rezultoj në një zvogëlim eksponencial të numrit të rasteve të reja (edhe pse, për shkak të periudhës së inkubimit, mund të ketë vonesë para se kjo të jetë fakt i vëzhgueshëm).
 
@@ -20,5 +19,5 @@ Qëllimi i kufizimeve të zonave të kuqe dhe portokalli është që të zvogël
 
 Për më shumë informata lidhur me reagimet mjekësore dhe shoqërore, shih:
 
-* [Udhërrëfyesi Teknik i WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
-* [Udhërrëfyesi nga Singapuri](https://www.moh.gov.sg/covid-19)
+- [Udhërrëfyesi Teknik i WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
+- [Udhërrëfyesi nga Singapuri](https://www.moh.gov.sg/covid-19)

@@ -6,7 +6,7 @@ KOVİD-19, koronavirüs ailesindeki bir virüsün neden olduğu bulaşıcı bir 
 
 # + İnsanlar neden bu salgından korkuyor, normal grip gibi değil mi?
 
-Koronavirüs yakalananlarin yaklaşık % 20’si ciddi vakalardir ve % 2’si ölümle sonuclanir. Bu normal bir gribe kiyasla yaklaşık 20 kat daha fazladır. Kulucka süresi normalde 3 gündür ancak bu sure 14 güne kadar uzayabilir.  24 ve 27 günlük raporlar da mevcuttur. Olağanüstü müdahaleler yapılmadıkça, yeni vaka sayisi günden güne % 50 artışla devam etmektedir. 
+Koronavirüs yakalananlarin yaklaşık % 20’si ciddi vakalardir ve % 2’si ölümle sonuclanir. Bu normal bir gribe kiyasla yaklaşık 20 kat daha fazladır. Kulucka süresi normalde 3 gündür ancak bu sure 14 güne kadar uzayabilir. 24 ve 27 günlük raporlar da mevcuttur. Olağanüstü müdahaleler yapılmadıkça, yeni vaka sayisi günden güne % 50 artışla devam etmektedir.
 
 # + KOVID-19'un belirtileri nelerdir?
 
@@ -32,7 +32,7 @@ KOVID-19 diğer enfekte olmus kişilerle temas yoluyla yayılır. Virüs, KOVID-
 
 Ellerinizi iyice ve sık sık temizleyerek başlayın! Eller, bulaşıcı damlacıklar ile temas yoluyla koronavirüsü alabilir. Ellerinizi en az 20 saniye sabunla ovun, sonra durulayın ve kurulayın. Sabun ve su yoksa, alkol bazlı bir dezenfektan da ellerinizdeki virüsleri öldürebilir. El yıkamaları arasında, virüslerin vücudunuza girmesini önlemek için gözlerinize, burnunuza ve ağzınıza dokunmaktan kaçının. Yakınınızdaki biri öksürüyorsa veya hapşırıyorsa, virüs içerebilecek damlacıkları solumaktan kaçınmak için en az 1 metre mesafe bırakın. Okuruyorken veya hapsiriyorken kolunuzun iciyle veya bir mendille agzinizi kapatin. En önemlisi, kendinizi iyi hissetmiyorsanız, evde kalın. Ateş, öksürük ve nefes almada zorluk çekiyorsanız, tıbbi yardım almak için sağlık uzmanınızı arayın.
 
-Bireyler , toplulukler, isletmeler ve hukumetler icin  yönergelerimizi gözden geçirmenizi önemle öneririz. 
+Bireyler , toplulukler, isletmeler ve hukumetler icin yönergelerimizi gözden geçirmenizi önemle öneririz.
 
 # + KOVID-19 nasıl tedavi edilir?
 
@@ -49,7 +49,3 @@ Maske kullanımı tartışılmaktadır, şunları belirtiyoruz: (1) Hafif sempto
 # + Sıcak hava salgını durduracak mı?
 
 Bu, çevrimiçi olarak önerilen ve dikkat çeken bir fikirdir. Durumun böyle olduğuna dair bir kanıt yok.
-
-
-
-

@@ -2,7 +2,7 @@
 
 ### We provide expert information on how to stop COVID-19 so you can act confidently.
 
-### See our recommendations for [individuals, families], [employers], and [governments].  
+### See our recommendations for [individuals, families], [employers], and [governments].
 
 _EndCoronavirus is led by Yaneer Bar-Yam, president of the [New England Complex Systems Institute](https://necsi.edu). Yaneer is an **MIT-trained physicist and complexity scientist who studies pandemics**. He has warned about global pandemics due to increasing travel for 15 years. He recommended community-based monitoring of symptoms to stop **Ebola** in West Africa in 2014, and it worked_
 
@@ -14,14 +14,15 @@ Join over 5,000 volunteers in our group to fight COVID-19: [Join us](https://v2.
 
 ## The fastest and the only way to stop COVID-19 in the United States is a five-week national lockdown.
 
-### Our top three recommendations for governments 
+### Our top three recommendations for governments
+
 ### 1. Lockdown
 
 In much of Europe and North America, the explosive growth of COVID-19 means that **a 4-6 week strong lockdown is necessary to stop the outbreak**. Such lockdowns may be politically difficult to implement and they always entail significant short-term economic and social costs. But **their effects are dramatic and their duration is short**. Two months after China imposed its lockdown, China has virtually eliminated local transmission of COVID-19. Wuhan is now safer than London or New York, and China’s economy is on the path to recovery. Without China’s strict lockdown, the economic harm to China from COVID-19 would have been orders of magnitude greater.
 
 During a strong lockdown individuals stay home except to obtain food and other essentials, access medical care, or do work essential to the functioning of society. Governments provide economic and social aid to citizens who need it.
 
-[**Why 4-6 weeks?**](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/5weeks_en.pdf)  During the first two weeks of the lockdown, those who are already infected will show symptoms. This “incubation period” typically takes 3-5 days, but may take as long as two weeks. Infected individuals will recover from mild COVID-19 cases or seek medical care. The only people who can be infected are those who are cohabitating with a previously infected individual. Since we know which individuals are infected, due to symptoms and testing, we know who can be infected and can isolate them so they don’t infect others (this is called contact tracing).
+[**Why 4-6 weeks?**](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/5weeks_en.pdf) During the first two weeks of the lockdown, those who are already infected will show symptoms. This “incubation period” typically takes 3-5 days, but may take as long as two weeks. Infected individuals will recover from mild COVID-19 cases or seek medical care. The only people who can be infected are those who are cohabitating with a previously infected individual. Since we know which individuals are infected, due to symptoms and testing, we know who can be infected and can isolate them so they don’t infect others (this is called contact tracing).
 
 During the 3-4 weeks that follow, any newly infected family or cohabitants of infected individuals will recover or seek medical attention. Once they are isolated, they cannot infect others. The number of cases will decrease rapidly. **By the end of the lockdown, COVID-19 cases will be a small fraction of what they once were**. This is exactly what happened in China.
 
@@ -77,5 +78,3 @@ More family guidelines →
 [Government Guidelines](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 
 For breaking updates and new recommendations, follow [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) and [End Coronavirus Dot Org](https://twitter.com/endCOVID19) on Twitter.
-
-

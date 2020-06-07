@@ -3,6 +3,7 @@
 ### OPENING UP PARTIALLY
 
 It’s not necessarily required to have travel restrictions for a whole country. Go easy on people and economy by
+
 - identifying safe and high risk areas
 - opening and closing areas individually
 

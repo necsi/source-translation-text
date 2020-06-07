@@ -1,4 +1,5 @@
 # Why A 5-Week Lockdown Can Stop COVID-19 - .pdf text (Brazilian Portuguese version)
+
 **Original reference link:** https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/1585163896267/5weeks.pdf
 
 # Por que uma quarentena de 5 semanas pode parar o COVID-19?
@@ -7,7 +8,7 @@
 
 **New England Complex Systems Institute**
 
-*(traduzido por Lucas Pontes)*
+_(traduzido por Lucas Pontes)_
 
 Durante um bloqueio "forte", as pessoas permanecem em casa, exceto para obter alimentos e outros itens essenciais, para ter acesso à cuidados médicos, ou para fazer um trabalho essencial ao funcionamento da sociedade. As viagens interurbanas nas áreas afetadas cessam. Os governos forneceriam ajuda econômica e social aos cidadãos que dela precisem.
 

@@ -1,7 +1,9 @@
 # New Daily Updates Page (Brazilian Portuguese Translation)
+
 **Original reference link**: https://www.endcoronavirus.org/daily-update
 
 ## ATUALIZAÇÃO DIÁRIA DE (day number)/(month number)/(year number)
+
 Chen Shen e Yaneer Bar-Yam
 New England Complex Systems Institute
 

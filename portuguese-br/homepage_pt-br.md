@@ -1,4 +1,5 @@
 # Homepage (web page)
+
 Original reference link: https://endcoronavirus.org
 
 # Espalhe conhecimento, não o vírus.
@@ -24,46 +25,58 @@ Para ajudar sua comunidade e sua família, crie zonas seguras
 ## Sua comunidade e sua família precisam seguir essas regras:
 
 ### Lave suas mãos
+
 Limpe as superfícies e use álcool gel
 
 ### Cancele seus planos de viagem por agora
+
 Um preço pequeno para salvar vidas
 
 ### Fique em casa o máximo que puder
+
 Mesmo se estiver saudável — especialmente se sentir-se doente
 
 ### Evite aglomerações, transportes, festas e bares
+
 Poderá frequentá-los depois do surto do mesmo jeito
 
 ### Se for possível, trabalhe de casa
+
 Evite que seus colegas de trabalho se tornem transmissores também
 
 ### Monitore sua própria saúde
+
 Procure o serviço de saúde local se sua temperatura estiver acima de 38°C
 
 ### Vista máscaras ao sair em público
+
 Especialmente quando estiver perto de potenciais portadores do COVID-19
 
 ### Cubra seu rosto quando for tossir ou assoar o nariz
+
 Simples e efetivo
 
 ## O que eu devo fazer para impedir a infecção e transmissão do COVID-19?
+
 Há várias medidas que podemos tomar para interromper a transmissão. Nossos especialistas escreveram guias detalhados sobre como combater o COVID-19.
 
 ## Guias
-Guias para famílias | Guia para empresas | Guia para governos
-------------------- | ------------------ | ------------------
+
+| Guias para famílias | Guia para empresas | Guia para governos |
+| ------------------- | ------------------ | ------------------ |
+
 
 ## Atualizações
 
-Atualização do dia 18 de março de 2020 |
--------------------------------------- |
-Atualização do dia 14 de março de 2020 |
-Atualização do dia 13 de março de 2020 |
-Atualização do dia 12 de março de 2020 |
+| Atualização do dia 18 de março de 2020 |
+| -------------------------------------- |
+| Atualização do dia 14 de março de 2020 |
+| Atualização do dia 13 de março de 2020 |
+| Atualização do dia 12 de março de 2020 |
 
-Tweets |
------- |
+| Tweets |
+| ------ |
+
 
 ## Por que tantas pessoas estão com medo desse surto? Essa doença não é igual uma gripe normal?
 
@@ -73,12 +86,13 @@ O período de incubação típico é de 3 dias, mas pode se estender até 14 dia
 
 A doença é altamente contagiosa, com um aumento diário de 50% de novos casos (taxa de infecção R0 entre 3 e 4), a não ser que intervenções grandes sejam feitas.
 
-Perguntas frequentes |
--------------------- |
+| Perguntas frequentes |
+| -------------------- |
+
 
 ## Faça sua parte na erradicação dessa epidemia
 
-O EndCoronavirus.org é um site construído e mantido pelo New England Complex Systems Institute (NECSI) e seus colaboradores.  Nosso objetivo é minimizar o impacto do Coronavírus COVID-19 ao prover dados úteis e guias para ação direta.
+O EndCoronavirus.org é um site construído e mantido pelo New England Complex Systems Institute (NECSI) e seus colaboradores. Nosso objetivo é minimizar o impacto do Coronavírus COVID-19 ao prover dados úteis e guias para ação direta.
 
 ## A chave para interromper a propagação do vírus é diminuir o contato
 

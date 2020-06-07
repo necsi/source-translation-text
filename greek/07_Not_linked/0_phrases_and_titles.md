@@ -15,4 +15,3 @@ Language (the word) = Γλώσσα
 Choose language = Επιλέξτε Γλώσσα
 the name of your language in your own language = Ελληνικά
 Selected = Επιλεγμένο
-

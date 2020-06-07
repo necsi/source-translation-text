@@ -1,10 +1,9 @@
-## Outbreak Response Guidelines ##
+## Outbreak Response Guidelines
 
 COVID-19 originated in mainland China in late 2019. In many cases, it causes severe acute respiratory syndrome (SARS). About 20% of the confirmed cases require hospitalization, 14% are considered severe, 6% need ICU care, and roughly 2% result in death. A typical incubation period is 3 days, but it may extend to 14 days, and reports exist of 24 and 27 days. It is highly contagious with an increase from day to day of 50% in new cases (infection rate R0 of about 3-4) unless extraordinary interventions are made. It has become a widespread pandemic, and it is beginning to change the lives of everyone in the world. It is imperative to act to confine and stop the outbreak and not accept its spread. We provide these guidelines for individual, community and government action.
 ‍
 
 ## Download Guidelines as PDF
-
 
 Everyday Life and COVID-19
 
@@ -67,6 +66,7 @@ Coronavirus Guidelines for Cleaning and Disinfecting to Prevent COVID-19 Transmi
 - How to effectively clean and disinfect a variety of surfaces
 
 ## Other Useful Guidelines
+
 Handbook of COVID-19 Prevention and Treatment
 
 -A handbook produced by First Affiliated Hospital, Zheijang University School of Medicine
@@ -81,6 +81,7 @@ Don’t Rebreath the Coronavirus: New Mask Designs
 ‍
 
 ## Family Guidelines
+
 In areas of heightened risk where the government isn’t taking adequate action, protecting a family, or group, is challenging. The spread of fire requires a trail of combustibles. Similarly, the contagion of COVID-19 requires a chain of susceptible individuals. The solution is to:
 
 Reduce contact between the family and others, and provide for essential needs, and as the risk increases
@@ -89,8 +90,8 @@ The safe space also curbs contagion because those in the safe space don't partic
 
 ‍
 
-
 ## Reducing contact between the family and others:
+
 Carefully read our guidelines for individuals and share it with family members. Discuss with them how to reduce their contact with others.
 Shift family gatherings to be virtual. The current outbreak will either be defeated or will become widespread. In the former, a few months from now will return to normal. In the latter, different actions will be needed.
 Ensure that you and members of your family have necessary supplies, including prescription medicines. Consider vulnerable members of the family including elderly, but also anybody over 50, and those with chronic health conditions, as to the risk of contact with others. Reduce their contact, provide support that enables them to stay at home and not go into public spaces.
@@ -112,6 +113,7 @@ As an outbreak progresses hard decisions will inevitably arise about whether to 
 At a time of high risk, there will be actions taken by mistake that may compromise safety. To avoid over reaction to an individual event, it is important to realize that any single act has a low probability of harm. However, when multiple actions are taken the risk increases dramatically. Ensuring that lessons are learned is more important than accusation, blame or punishment.
 
 ## Individual and Community Guidelines
+
 Take responsibility for your own health and share responsibility for the health of your neighborhood with awareness and discipline
 Practice social distancing
 Avoid touching surfaces in public or shared spaces
@@ -158,8 +160,8 @@ Note: The French International Chamber of Commerce is using these guidelines.
 
 ‍
 
-
 ## General
+
 Promote understanding among employees and their families of Coronavirus transmission and prevention.
 Develop customized organization policies to reduce transmission and arrange for meticulous implementation.
 Ensure employees know that when they have even mild symptoms they should not be at work locations or in-person meetings and they will not be penalized for sick days. Set up a reporting system for any cases.
@@ -196,4 +198,5 @@ No-contact methods for doing business should be developed and implemented includ
 Walk up window pickup and drop off service including ensuring adequate spacing in lines
 Drive by service
 No-contact home delivery
+
 1. The use of masks is debated, we note that: (1) Any individual who has even mild symptoms should avoid contact with others and should wear a mask while in necessary public or private contact with others. (2) Wearing a mask should be accepted in public settings to prevent those who are sick from hesitating to or feeling stigmatized by wearing a mask. (3) While masks do not guarantee safety for a healthy individual and their availability may be limited because of higher priority need in medical settings, using masks where proximity to others who may be infected can’t be avoided dramatically reduces the risk of infection. (4) For those who are over 50 or have preexisting health conditions, as well as for those in areas of heightened risk, the large cost of being infected justifies the use of a mask. While not ideal, [reusable washable masks](https://www.endcoronavirus.org/page/english-making-masks) can be made by hand, and they are needed for protection in hospitals, nursing homes, rehab centers, group homes and other group settings.

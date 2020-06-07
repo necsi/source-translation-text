@@ -1,9 +1,9 @@
 ## Udhërrëfyesit e reagimit të hershëm ndaj përhapjes
+
 Përhapja e koronavirusit me origjinë nga Wuhan ka rreth 20% raste të rënda dhe 2% vdekje. Një periudhë tipike e inkubacionit është 3 ditë, por mund të zgjasë deri në 14 ditë, dhe raportet ekzistojnë për raste prej 24 dhe 27 ditë. Ky virus është shumë leht i transmetueshëm me një rritje nga dita në ditë prej 50% në raste të reja (shkalla e infeksionit R0 prej rreth 3-4) përveç nëse bëhen ndërhyrje të jashtëzakonshme. Nëse bëhet një pandemi e përhapur ose endemi, ajo do të ndryshojë jetën e të gjithëve në botë. Është e domosdoshme të veprohet për të mbyllur dhe ndaluar shpërthimin dhe të mos pranohet përhapja e tij. Ne ofrojmë këto Udhërrëfyes për veprim individual, komunitar dhe qeveritar.
 
-
-
 ## Shkarkoni udhërrëfyesit si PDF
+
 Udhërrëfyes thelbësor lidhur me koronavirusin
 
 Udhërrëfyes për familje
@@ -24,24 +24,22 @@ Shëndeti i sistemit të frymëmarrjes për rezultate më të mira ndaj COVID-19
 
 Udhërrëfyes për supermarkete, dyqane ushqimore dhe farmaci
 
-
 ## Udhërrëfyes të tjera të dobishëm
+
 Manuali i COVID-19 për parandalim dhe trajtim
 
 Menaxhimi i gjakut të pacientëve gjatë pandemisë COVID-19 në vitin 2020
 
-
 ## Udhërrëfyesit për familje
+
 Në fushat e rrezikut të shtuar, ku qeveria nuk po ndërmerr veprime të duhura, mbrojtja e familjes ose grupit është sfiduese. Përhapja e zjarrit kërkon gjurmë kashte. Në mënyrë të ngjashme, përhapja e COVID-19 kërkon një zinxhir individësh të ndjeshëm. Zgjidhja është:
 
 Ulja e kontaktit midis familjes dhe të tjerëve, dhe përmbushja e nevojave thelbësore, dhe me rritjen e rrezikut
 Krijoni një hapësirë ​​të sigurt që mbron ata që janë në të me marrëveshje të përbashkët të mos jenë në kontakt fizik të pambrojtur me të tjerët ose me sipërfaqe që preken nga të tjerët.
 Hapësira e sigurt frenon gjithashtu përhapjen sepse ata që gjenden në hapësirën e sigurt nuk marrin pjesë në transmetimin e sëmundjeve. Anëtarët e një hapësire të sigurt mund të kombinohen me të tjerët për të zgjeruar me kujdes hapësirën e sigurt ose për të krijuar hapësira të reja. Më poshtë janë udhërrëfyesit tanë për familjet.
 
-
-
-
 ## Ulja e kontaktit midis familjes dhe të tjerëve:
+
 Lexoni me kujdes udhërrëfyesit tanë për individët dhe ndani ata me anëtarët e familjes. Diskutoni me ta se si të zvogëloni kontaktin e tyre me të tjerët.
 Mbledhjet e familjes le të jenë virtuale. Përhapja e tanishme ose do të mposhtet ose do të na përfshijë të gjithëve. Nëse mposhtet, disa muaj nga tani do të kthehemi në normalitet. Në rastin tjetër, do të nevojiten veprime të ndryshme.
 Sigurohuni që ju dhe anëtarët e familjes tuaj të keni furnizimet e nevojshme, përfshirë ilaçet që kërkojnë recetë. Konsideroni anëtarët e cenueshëm të familjes, përfshirë të moshuarit, por edhe cilindo mbi 50 vjeç, dhe ata me kushte shëndetësore kronike, lidhur me rrezikun e kontaktit me të tjerët. Zvogëloni kontaktin e tyre, u siguroni mbështetje që u mundëson atyre të qëndrojnë në shtëpi dhe të mos shkojnë në hapësira publike.
@@ -60,6 +58,7 @@ Pjesëtarët e hapësirës së sigurt do të duhej të siguronin informatat lidh
 Në kohë të rrezikut të lartë, do të ketë veprime të bëra pa qëllim e që do të cenojnë sigurinë. Për të shmangur reagimin e ashpër në ndonjë rast të caktuar, është e rëndësishme që të kuptohet se një veprim i vetëm ka gjasa të vogëla të bëj dam. Sidoqoftë, kur bëhen shumë veprime të tilla rreziku rritet në mënyrë dramatike. Është më e rëndësishme që të marrim mësim se sa të bëjmë akuza, të fajsojmë, apo denojmë.
 
 ## Udhëzuesit për individ dhe komunitete
+
 Merr përgjegjësi për shëndetin tënd dhe atë të lagjes tënde me vetëdije dhe disciplinë
 Praktiko distancim shoqëror
 Mos prek sipërfaqet në hapësira publike apo të përbashkëta
@@ -104,8 +103,8 @@ Më poshtë është një listë e veprimeve të ndryshme që bizneset mund të n
 
 Vërejtje: Oda Ndërkombëtare Franceze është duke përdorur këta udhërrëfyes.
 
-
 ## Të përgjithshme
+
 Shpërndani te punëtorët dhe familjet e tyre njohuri lidhur me përhapjen e Koronavirusit dhe parandalimin
 Zhvilloni politika të veçanta për organizatën tuaj për të zvogëluar bartjen e sëmundjes dhe sigurohuni që të implementohen ato me përpikmëri
 Sigurohuni që punëtorët të dijnë që kur të kanë edhe simptomat më të buta do të duhej të mos janë në punë apo në takime me të tjerët dhe se nuk do të penalizohen për ditë pushimi
@@ -144,4 +143,5 @@ Duhet zhvilluar metoda të të bërit biznes pa kontakt, duke përfshirë:
 Dritare prej nga mushteritë mund të shërbehen pa hyrë në ambientin tuaj, dorëzim, dhe marrje e gatshme e porosisë duke u siguruar për hapësirë adekuate për ata që presin në rrallë
 Shërbimet drive-by
 Dorëzim gjësendesh në shtëpi, pa kontakt
+
 1. Përdorimi i maskave po debatohet. Ne vërejmë që: (1) Secili individ që ka madje edhe simptomat më të buta do të duhej t'i shmanget kontaktit me të tjerët dhe do të duhej të mbaj maskë kur ka kontakt të domosdoshem publik apo privat me të tjerët. (2) Mbajtja e maskës do të duhej të jetë e pranueshme në hapësira publike që të parandalohet mundësia që ata që janë të sëmurë të hezitojnë ta mbajnë atë apo të ndjehen të stigmatizuar për shkak të mbajtjes së saj. (3) Edhe pse maskat nuk garantojnë siguri për një individ të shëndetshëm dhe furnizimi me to mund të jetë i kufizuar për shkak se shërbimet mjekësore kanë më shumë nevojë për to, përdorimi i maskave aty ku nuk mund t'i shmangemi afërsis me të tjerët që mund të jenë të infektuar zvogëlon në mënyrë dramatike mundësinë e infektimit. (4) Për ata që janë mbi 50 vjec apo kanë vështirësi ekzistuese shëndetësore, si dhe për ata në zonat me rrezik të lart, kostoja e lartë e të qenit i infektuar arsyeton mbajtjen e maskës.

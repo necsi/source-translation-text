@@ -1,4 +1,4 @@
-## Richtlijnen voor het reageren op de uitbraak ##
+## Richtlijnen voor het reageren op de uitbraak
 
 COVID-19 is eind 2019 op het vasteland van China ontstaan. In veel gevallen veroorzaakt het ernstig acuut ademhalingssyndroom (SARS). Ongeveer 20% van de bevestigde gevallen vereist ziekenhuisopname, 14% wordt als ernstig beschouwd, 6% heeft IC-zorg nodig en ongeveer 2% leidt tot overlijden. Een typische incubatieperiode is 3 dagen, maar deze kan tot 14 dagen duren en er zijn rapporten van 24 en 27 dagen. Het is zeer besmettelijk met een toename van dag tot dag met 50% in nieuwe gevallen (infectiepercentage R0 van ongeveer 3-4) tenzij buitengewone interventies worden gedaan. Het is een wijdverspreide pandemie geworden en het begint het leven van iedereen in de wereld te veranderen. Het is absoluut noodzakelijk om te handelen om de uitbraak te beperken en te stoppen en de verspreiding ervan niet te accepteren. We bieden deze richtlijnen voor individuele, gemeenschaps- en overheidsmaatregelen.
 
@@ -65,6 +65,7 @@ Coronavirusrichtlijnen voor reiniging en desinfectie om overdracht van COVID-19 
 - Hoe u verschillende oppervlakken effectief kunt reinigen en desinfecteren
 
 ## Andere nuttige richtlijnen
+
 Handboek van COVID-19 Preventie en behandeling
 
 -Een handboek opgesteld door First Affiliated Hospital, Zheijang University School of Medicine
@@ -78,6 +79,7 @@ Herontdek het coronavirus niet: nieuwe maskerontwerpen
 -Een nuttige brainstorm voor verbeterde maskerontwerpen
 
 ## Familie richtlijnen
+
 In gebieden met een verhoogd risico waar de overheid niet voldoende actie onderneemt, is het beschermen van een gezin of groep een uitdaging. De verspreiding van vuur vereist een spoor van brandbare stoffen. Evenzo vereist de besmetting van COVID-19 een keten van gevoelige individuen. De oplossing is:
 
 Verminder het contact tussen het gezin en anderen en voorzie in essentiële behoeften en naarmate het risico toeneemt
@@ -85,6 +87,7 @@ Creëer een veilige ruimte die diegenen die zich daarin bevinden in gedeelde ove
 De veilige ruimte remt ook de besmetting omdat degenen in de veilige ruimte niet deelnemen aan de overdracht van ziekten. Leden van een veilige ruimte kunnen met andere combineren om de veilige ruimte zorgvuldig uit te breiden of nieuwe te creëren. Hieronder staan onze richtlijnen voor gezinnen.
 
 ## Contact tussen familie en anderen verminderen:
+
 Lees onze richtlijnen voor individuen met aandacht en deel deze met familieleden. Bespreek met hen hoe ze hun contact met anderen kunnen verminderen.
 
 Verander familiebijeenkomsten naar virtuele bijeenkomsten. De uitbraak zal worden overwonnen of zal wijdverbreid zijn. In het eerste geval zal het leven een paar maanden later weer normaal worden. In het laatste geval zijn meer acties nodig.
@@ -184,7 +187,7 @@ Besteed speciale aandacht aan het voorkomen of bewaken van de gezondheid van men
 
 Bevorder het verantwoordelijkheidsgevoel van de gemeenschap in besmette gebieden
 
-Selecteer in elke buurt / gemeenschap een groep mensen wiens dagelijkse baan veelvuldig menselijk contact met zich meebrengt. 
+Selecteer in elke buurt / gemeenschap een groep mensen wiens dagelijkse baan veelvuldig menselijk contact met zich meebrengt.
 
 Controleer hun toestand dagelijks om infecties te helpen opsporen en besmetting te voorkomen
 
@@ -203,6 +206,7 @@ Beperk mensen tot huizen en bied ondersteuning voor het leveren van noodzakelijk
 Door-to-door-zoekopdrachten uitvoeren voor personen met vroege symptomen en behoeften aan diensten, met de nodige voorzorgsmaatregelen voor persoonlijke beschermingsmiddelen en met betrokkenheid van de gemeenschap bij de inspanning
 
 ## Bedrijfsrichtlijnen
+
 Hieronder vindt u een lijst met verschillende acties die bedrijven kunnen ondernemen om de verspreiding van Coronavirus te voorkomen. We nemen ook speciale overwegingen op voor Retail en Hospitality.
 
 Opmerking: de Franse Internationale Kamer van Koophandel gebruikt deze richtlijnen.
@@ -264,6 +268,7 @@ Overweeg hoe werknemers naar werklocaties komen en ontwikkel aanbevelingen, waar
 De verantwoordelijkheden voor het waarborgen van het werkplekbeleid op het gebied van Coronavirus-veiligheid moeten duidelijk en controleerbaar zijn.
 
 ## Detailhandel en horeca
+
 Industrieën met een hoog contactnivea kunnen ernstig worden verstoord. Vroege en effectieve interventies kunnen het risico verminderen, maar zullen het risico niet uitsluiten, tenzij het de hele samenleving betreft
 
 Het belang om ervoor te zorgen dat personen met zelfs milde verkoudheidsverschijnselen van werk waarbij contact met anderen betrokken is, niet genoeg kunnen worden benadrukt.
@@ -276,4 +281,4 @@ Loop de ophaal- en wegbrengservice van het raam op, inclusief het zorgen voor vo
 
 Maak gebruik van thuisbezorgservices zonder contact.
 
-1. Er is discussie over het gebruik van maskers, we merken op dat: (1) Elke persoon die zelfs maar milde symptomen heeft, contact met anderen moet vermijden en een masker moet dragen terwijl hij in het openbaar of privé contact heeft met anderen. (2) Het dragen van een masker moet in openbare instellingen moet worden geaccepteerd om te voorkomen dat zieken ziek worden door te aarzelen of zich gestigmatiseerd voelen door het dragen van een masker. (3) Hoewel maskers de veiligheid van een gezond persoon niet garanderen en hun beschikbaarheid mogelijk beperkt is vanwege de hogere prioriteit in medische instellingen, vermindert het gebruik van maskers waarbij de nabijheid van anderen die mogelijk geïnfecteerd zijn niet dramatisch het risico op infectie. (4) Voor degenen die ouder zijn dan 50 of reeds bestaande gezondheidsproblemen hebben, evenals voor mensen in gebieden met een verhoogd risico, rechtvaardigen de hoge kosten van besmetting het gebruik van een masker. Hoewel niet ideaal, kunnen [herbruikbare wasbare maskers] (https://www.endcoronavirus.org/page/english-making-masks) met de hand worden gemaakt en zijn ze nodig voor bescherming in ziekenhuizen, verpleeghuizen, revalidatiecentra, groepen huizen en andere groepsinstellingen.
+1. Er is discussie over het gebruik van maskers, we merken op dat: (1) Elke persoon die zelfs maar milde symptomen heeft, contact met anderen moet vermijden en een masker moet dragen terwijl hij in het openbaar of privé contact heeft met anderen. (2) Het dragen van een masker moet in openbare instellingen moet worden geaccepteerd om te voorkomen dat zieken ziek worden door te aarzelen of zich gestigmatiseerd voelen door het dragen van een masker. (3) Hoewel maskers de veiligheid van een gezond persoon niet garanderen en hun beschikbaarheid mogelijk beperkt is vanwege de hogere prioriteit in medische instellingen, vermindert het gebruik van maskers waarbij de nabijheid van anderen die mogelijk geïnfecteerd zijn niet dramatisch het risico op infectie. (4) Voor degenen die ouder zijn dan 50 of reeds bestaande gezondheidsproblemen hebben, evenals voor mensen in gebieden met een verhoogd risico, rechtvaardigen de hoge kosten van besmetting het gebruik van een masker. Hoewel niet ideaal, kunnen [herbruikbare wasbare maskers](https://www.endcoronavirus.org/page/english-making-masks) met de hand worden gemaakt en zijn ze nodig voor bescherming in ziekenhuizen, verpleeghuizen, revalidatiecentra, groepen huizen en andere groepsinstellingen.

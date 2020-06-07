@@ -3,6 +3,7 @@
 ### EVERYDAY LIFE
 
 What to do about:
+
 - Apartment buildings
 - grocery shopping
 - necessary errands

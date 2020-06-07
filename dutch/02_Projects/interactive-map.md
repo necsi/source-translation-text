@@ -9,7 +9,6 @@ Voor een effectieve uitbraakreactie kunnen groene, gele, oranje en rode zones vo
 *Oranje zones: gebieden grenzend aan rode zones of met kleine clusters
 *Rode zones: regio's met langdurige overdracht door de gemeenschap
 
-
 Dit kleurgecodeerde zonegebaseerde schema is gebaseerd op het idee dat in gebieden waar het virus zich binnen de gemeenschap verspreidt, de sociale connectiviteit moet worden verlaagd tot het punt waarop elk geïnfecteerd individu gemiddeld minder dan één andere persoon zal infecteren. Deze verminderde sociale connectiviteit zal resulteren in een exponentiële afname van het aantal nieuwe gevallen (hoewel er, vanwege de incubatietijd, enige tijd kan duren voordat dit wordt opgemerkt).
 
 Door reisbeperkingen/-verminderingen kunnen de extremere maatregelen voor sociale afstand (bijvoorbeeld die in oranje en rode zones) alleen worden geïmplementeerd op plaatsen die momenteel een aanzienlijke lokale transmissie ervaren, en niet overal ter wereld tegelijk.
@@ -20,5 +19,5 @@ Het doel van zowel rode als oranje zonebeperkingen is het verminderen van de alg
 
 Voor meer informatie over medische en sociale reacties, zie:
 
-* [Technische richtlijnen van de WHO] (https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
-* [Singapore-richtlijnen] (https://www.moh.gov.sg/covid-19)
+- [Technische richtlijnen van de WHO](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/technical-guidance)
+- [Singapore-richtlijnen](https://www.moh.gov.sg/covid-19)

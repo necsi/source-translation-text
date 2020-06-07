@@ -4,7 +4,6 @@ Chen Shen and Yaneer Bar-Yam
 
 New England Complex Systems Institute
 
-
 Deze figuren laten de dynamiek van COVID-19 zien. Volg @yaneerbaryam op Twitter voor het laatste nieuws.
 
 Klik hier voor een samenvatting van de wereldwijde data

@@ -1,4 +1,5 @@
 # Om oss
+
 endCoronavirus.org byggs och underhålls av New England Complex Systems Institute (NECSI) och samarbetspartners. Vårt mål är att minimera negativa konsekvenser av Coronavirus COVID-19 genom att tillhandahålla data och riktlinjer för åtgärder.
 
 Vår forskargrupp har fakulteter, studenter och dotterbolag från MIT, Harvard, Brandeis och andra universitet nationellt och internationellt. Vi arbetar dygnet runt för att övervaka och kommunicera det nuvarande läget för COVID-19-epidemin.

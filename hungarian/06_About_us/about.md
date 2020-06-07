@@ -17,4 +17,3 @@ Ha mindenkit letesztelnének COVID-19-re, ideiglenesen elkülöníthetnénk a fe
 Határozott és bátor fellépéssel lehet visszafogni a vírus terjedését, mely a szoros érintkezések minimalizálását jelenti annak érdekében, hogy csökkenjen az egyes személyek kockázata és kiszolgáltatottsága, és hogy a vírus terjedésének elébe kerülve, megállítsuk azt.
 
 Mindenki tud segíteni.
-

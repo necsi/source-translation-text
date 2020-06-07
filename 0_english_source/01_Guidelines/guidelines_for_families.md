@@ -3,6 +3,7 @@
 ### EVERYDAY LIFE
 
 What to do about:
+
 - Apartment buildings
 - grocery shopping
 - necessary errands
@@ -42,6 +43,7 @@ How to self isolate when you get infected.
 [Read more >](/papers/coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission)
 
 ### RESPIRATORY HEALTH
+
 Reduce your risk of a severe case of COVID-19
 
 Exercises, behaviour, routines

@@ -4,7 +4,6 @@ Chen Shen and Yaneer Bar-Yam
 
 New England Complex Systems Institute
 
-
 Deze figuren laten de dynamiek van COVID-19 zien, globaal en per regio. Volg @yaneerbaryam op Twitter voor het laatste nieuws.
 
 **Kaarten**
@@ -13,4 +12,3 @@ Deze figuren laten de dynamiek van COVID-19 zien, globaal en per regio. Volg @ya
 
 Kliek hier om wereldwijde data van de meest getroffen landen te zien
 Klik hier voor data over de Verenigde Staten
-

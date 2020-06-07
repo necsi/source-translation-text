@@ -2,9 +2,10 @@
 **Original reference:** https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e8a5e701249b622794cf8e3/1586126448746/WinningCOVID.pdf
 
 # COVID-19: Como vencê-lo
+
 **Chen Shen e Yaneer Bar-Yam**
 **New England Complex Systems Institute**
-*traduzido por Lucas Pontes*
+_traduzido por Lucas Pontes_
 
 O COVID-19 é um oponente difícil: furtivo, enganoso, rápido e cruel. As quarentenas são úteis, mas não são suficientes. A taxa de casos nos EUA ainda está crescendo. A Itália, em quarentena nacional, tem obtido um declínio muito lento nos casos. A Áustria tem tido mais sucesso, mas suas ações começaram cedo. As coisas pioram antes de melhorar, mas podemos vencer ao nos anteciparmos a essa piora. Quando tomarmos as medidas certas, podemos pará-lo em 5 semanas. Após perdas difíceis e com importantes lições aprendidas, podemos voltar a uma vida normal. Aqui está como.
 

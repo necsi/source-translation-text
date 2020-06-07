@@ -4,10 +4,9 @@
 
 ### Zie onze aanbevelingen voor [individuen, gezinnen], [werkgevers] en [overheden].
 
-_EndCoronavirus wordt geleid door Yaneer Bar-Yam, president van het [New England Complex Systems Institute] (https://necsi.edu). Yaneer is een in MIT-opgeleide natuurkundige en complexiteitswetenschapper die pandemieën bestudeert. Hij waarschuwt voor wereldwijde pandemieën als gevolg van het toenemende reizen gedurende 15 jaar. Hij raadde gemeenschapsgerichte monitoring van symptomen aan om Ebola in West-Afrika in 2014 te stoppen, en het werkte._
+_EndCoronavirus wordt geleid door Yaneer Bar-Yam, president van het [New England Complex Systems Institute](https://necsi.edu). Yaneer is een in MIT-opgeleide natuurkundige en complexiteitswetenschapper die pandemieën bestudeert. Hij waarschuwt voor wereldwijde pandemieën als gevolg van het toenemende reizen gedurende 15 jaar. Hij raadde gemeenschapsgerichte monitoring van symptomen aan om Ebola in West-Afrika in 2014 te stoppen, en het werkte._
 
-Sluit je aan bij meer dan 5.000 vrijwilligers in onze groep om COVID-19 te bestrijden: [Doe met ons mee] (https://v2.endcoronavirus.org/sign-up/english)
-
+Sluit je aan bij meer dan 5.000 vrijwilligers in onze groep om COVID-19 te bestrijden: [Doe met ons mee](https://v2.endcoronavirus.org/sign-up/english)
 
 |![yaneer](dutch/images/yaneer.jpg)|
 |NECSI President, Prof. Yaneer Bar-Yam|
@@ -16,6 +15,7 @@ Sluit je aan bij meer dan 5.000 vrijwilligers in onze groep om COVID-19 te bestr
 ## De snelste en de enige manier om COVID-19 in de Verenigde Staten te stoppen, is een nationale blokkering van vijf weken.
 
 ### Onze top drie aanbevelingen voor overheden
+
 ### 1. Vergrendeling
 
 In een groot deel van Europa en Noord-Amerika betekent de explosieve groei van COVID-19 dat een stricte lockdown van 4-6 weken nodig is om de uitbraak te stoppen. Dergelijke lockdowns kunnen politiek moeilijk te implementeren zijn en brengen altijd aanzienlijke korte -termijn economische en sociale kosten met zich mee. Maar hun effecten zijn dramatisch en hun duur is kort. Twee maanden nadat China de blokkering had opgelegd, heeft China de lokale transmissie van COVID-19 vrijwel geëlimineerd. Wuhan is nu veiliger dan Londen of New York en de Chinese economie is op weg naar herstel. Zonder de strikte afsluiting van China zou de economische schade aan China door COVID-19 een orde van grootte groter zijn geweest.
@@ -25,7 +25,7 @@ Tijdens een sterke blokkering kunnen regio's die minder door het virus worden aa
     * Zie de memo van Chen Shen en Yaneer Bar-Yam: [Waarom een blokkering van 5 weken COVID-19 kan stoppen] (https://static1.squarespace.com/static/5e7b914b3b5f9a42199b3337/t/5e7bae70ed03c045bb9f7bab/15851638267.pdf )
 
     * Het opinie-artikel in USA Today: [We hebben een onmiddellijke nationale blokkering van vijf weken nodig om het coronavirus in Amerika te verslaan] (https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america- needs-five-week-national-lockdown-column / 2890376001 /)
-    
+
     * Deze oproep aan Nederland in de Groene Amsterdammer: https://www.groene.nl/artikel/straks-belanden-jullie-in-de-loser-group
 
 ### 2. Massaal testen, contactonderzoek en isolatie
@@ -50,27 +50,27 @@ Landen, vooral in Azië, die over de vereiste expertise beschikken, zouden de re
 
 ## Individuele en gezinsrichtlijnen
 
-[Everyday Life and COVID-19 (PDF)] (https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
+[Everyday Life and COVID-19 (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/everyday_en.pdf)
 
     Wat te doen: appartementsgebouwen, boodschappen doen, noodzakelijke boodschappen, pakketten en post
 
-[Richtlijnen voor gezin en huishouden (pdf)] (https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
+[Richtlijnen voor gezin en huishouden (pdf)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
 
     Onze algemene richtlijnen voor gezinnen en huishoudens
 
-[Richtlijnen voor zelfisolatie (pdf)] (https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
+[Richtlijnen voor zelfisolatie (pdf)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
 
     Wat te doen als u alleen bent: alleen woont, accommodatie deelt met iemand anders
 
 Wat te doen als u alleen bent: alleen woont, accommodatie deelt met iemand anders
 
-[Respiratory Health Guidelines (PDF)] (https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
+[Respiratory Health Guidelines (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/respiratory-health_en.pdf)
 
      Wat u kunt doen om het risico op een ernstig geval van COVID-19 te verminderen
 
 Meer gezinsrichtlijnen →
 
 [Communityrichtlijnen] ((https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
-[Overheidsrichtlijnen] (https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
+[Overheidsrichtlijnen](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 
-Volg voor updates en nieuwe aanbevelingen [Yaneer Bar-Yam] (https://twitter.com/yaneerbaryam) en [End Coronavirus Dot Org] (https://twitter.com/endCOVID19) op Twitter.
+Volg voor updates en nieuwe aanbevelingen [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) en [End Coronavirus Dot Org](https://twitter.com/endCOVID19) op Twitter.

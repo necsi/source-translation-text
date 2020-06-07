@@ -1,4 +1,5 @@
 ## Azioni di comunità e di mutuo supporto per il COVID-19
+
 Naomi Bar-Yam, Chen Shen e Yaneer Bar-Yam
 New England Complex Systems Institute
 
@@ -24,8 +25,7 @@ Le Cellule Amiche possono anche organizzare circoli sociali chiusi reciproci, ap
 Basandosi sullo sforzo collettivo della Comunità, le persone e la comunità stessa dovrebbero impegnarsi a cercare modi per supportare altre comunità a livello locale, o trovare "comunità sorelle" a livello globale, con cui condividere informazioni o collaborare a progetti di interesse comune.
 Poiché la pandemia è globale, questa è un'opportunità per incontrare online altri utenti da ogni parte della comunità globale: se parlate un'altra lingua potreste essere in grado di comunicare, condividere l'esperienza dell'isolamento, imparare la conoscenza della lingua dell'altro e fornire e ricevere consigli di sicurezza e prevenzione gli uni dagli altri.
 
-
 "Ogni mano che non stringiamo deve tramutarsi in una telefonata che invece facciamo. Ogni abbraccio che evitiamo, deve diventare un'espressione verbale di calore e di premura. Ogni centimetro, ogni metro che interponiamo tra noi e il prossimo, deve diventare un pensiero su come possiamo aiutarlo, dovesse presentarsene la necessità."
 Rav Yosef
 
-Rabbino Yosef Kanefsky del B'nai David-Judea, Los Angeles 
+Rabbino Yosef Kanefsky del B'nai David-Judea, Los Angeles

@@ -1,4 +1,5 @@
 ## COVID-19 Domande sulla sicurezza e lo screening dei dipendenti per i datori di lavoro
+
 Naomi Bar-Yam, Chen Shen e Yaneer Bar-Yam
 New England Complex Systems Institute
 21 Marzo 2020
@@ -25,17 +26,18 @@ L'estensione delle pratiche di sicurezza ai singoli dipendenti riduce i rischi p
   - Soprattutto dove vivono con coinquilini o familiari a rischio di infezione (ad es. Perché sono stati o lavorano in luoghi di lavoro non a Spazio Sicuro).
   - Soprattutto dove vivono con coinquilini o membri della famiglia che sono anziani o hanno problemi di salute preesistenti che rendono più probabili decorsi negativi della malattia.
   - Soprattutto se il dipendente opera in una professione ad alto rischio, ad es. operatori sanitari e altri operatori ospedalieri e impiegati essenziali di servizi ad alto tasso di contatto in supermercati, rivendite di generi alimentari e farmacie
-    
+
 ### DOMANDE DI CONTROLLO DI SICUREZZA PER I DATORI DI LAVORO
+
 Ecco un elenco di domande utili per una iniziale determinazione del loro livello di rischio:
 
 1. Dove abiti?
-   * Casa privata, duplex, appartamento
-   * Hai un ingresso separato
+   - Casa privata, duplex, appartamento
+   - Hai un ingresso separato
      - Porta / atrio comune
      - Ascensore
 2. Quante persone ci sono nella tua famiglia?
-   - Cosa stanno facendo? 
+   - Cosa stanno facendo?
    - Lavorano fuori casa?
    - Vanno a scuola o altre attività collettive?
    - Stanno a casa?
@@ -44,12 +46,12 @@ Ecco un elenco di domande utili per una iniziale determinazione del loro livello
      - Con quali mezzi di trasporto?
      - Tu o qualcuno con cui vivi vi siete recati di recente in una struttura sanitaria per cure o visite?
 3. Come socializzi ora? Quanto, se lo fai?
-   * Ti stai isolando socialmente?
-   * Sei ospite presso qualcuno o hai ospiti?
+   - Ti stai isolando socialmente?
+   - Sei ospite presso qualcuno o hai ospiti?
 4. Cosa sai delle misure di allontanamento sociale? E cosa stai praticando?
-   * 2 metri di distanza tra le persone
-   * Lavarsi attentamente le mani
-   * Toccare il meno possibile le superfici, e pulirle frequentemente. 
+   - 2 metri di distanza tra le persone
+   - Lavarsi attentamente le mani
+   - Toccare il meno possibile le superfici, e pulirle frequentemente.
 5. Come ti procuri il cibo che mangi?
 6. Hai animali domestici che devono uscire per bisogni?
 7. Tu o un membro della famiglia avete fattori di rischio medici o legati all'età, che siano rilevanti all'infezione COVID-19?

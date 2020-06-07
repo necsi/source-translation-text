@@ -1,6 +1,6 @@
 ## About Us:
 
-endCoronavirus.org is built and maintained by the New England Complex Systems Institute (NECSI) and collaborators.  Our goal is to minimize the impact of COVID-19 by providing useful data and guidelines for action.
+endCoronavirus.org is built and maintained by the New England Complex Systems Institute (NECSI) and collaborators. Our goal is to minimize the impact of COVID-19 by providing useful data and guidelines for action.
 
 Our research team has co-faculty, students and affiliates from MIT, Harvard, Brandeis and other universities nationally and internationally. We are working around the clock to monitor and communicate the current state of the COVID-19 epidemic.
 
@@ -17,4 +17,3 @@ If everyone got tested for COVID-19, we could temporarily separate the infected 
 Aggressive and bold actions are required to reduce transmission by minimizing close-contact interaction in order to reduce vulnerability and risk for individuals, but also to “get ahead” of the outbreak so that it is stopped.
 
 Everyone can help.
-

@@ -2,7 +2,7 @@
 
 ### Ne ofrojmë informata ekspertësh se si të ndalet COVID-19 ashtu që ti të kesh mundësi të veprosh me vetbesim
 
-### Shih rekomandimet tona për [individët, familjet], [punëdhënësit], dhe [qeveritë].  
+### Shih rekomandimet tona për [individët, familjet], [punëdhënësit], dhe [qeveritë].
 
 _EndCoronavirus udhëhiqet nga Yaneer Bar-Yam, kryetar i [Neë England Complex Systems Institute](https://necsi.edu). Yaneer është **fizicient i shkolluar në MIT dhe shkencëtar i kompleksitetit i cili studion pandemitë**. Tashmë 15 vjet ai ka paralajmëruar për pandemitë globale si rezultat i udhëtimeve të shpeshtuara. Ai ka rekomanduar monitorim të simptomave brenda komuniteteve për të ndaluar **Ebolan** në Afrikën Perëndimore gjatë vitit 2014, dhe kjo gjë ka funksionuar_
 
@@ -15,6 +15,7 @@ Bashkangjitju më shumë se 5000 vullnetarëve në grupin tonë për të luftuar
 ## Mënyra më e shpejtë dhe e vetme për të ndaluar COVID-19 në Shtetet e Bashkuara është një bllokim kombëtarë për pesë javë.
 
 ### Tre rekomandimet tona kryesore për qeveritë
+
 ### 1. Bllokimi
 
 Në pjesën ma të madhe të Evropës dhe Amerikës Veriore, rritja e vrullshme e COVID-19 nënkupton që **një bllokim i fuqishëm për 4 - 6 javë është i domosdoshëm për të ndaluar përhapjen.** Në aspektin politik mund të jetë e vështirë të implementohen bllokime të këtilla, dhe gjithmonë përfshijnë kosto domethanëse afat-shkurta ekonomike dhe shoqërore. Por **efektet e tyre janë dramatike, dhe kohëzgjatja e tyre është e shkurtë.** Dy muaj pasi Kina implementoi bllokimin, atje është eliminuar tërësisht përhapja lokale e COVID-19. Tani, ëuhan është më i sigurt se Londra apo Neë Yorku, dhe ekonomia në Kinë tashmë është në rimëkëmbje e sipër. Pa bllokimin strikt të Kinës, dëmi ekonomik i COVID-19 në Kinë do të ishte shumëfish (dhjetra e qindra) herë më i madh.

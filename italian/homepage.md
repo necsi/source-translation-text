@@ -1,8 +1,8 @@
 # Aiuta a diffondere informazioni, non il virus
 
-### Forniamo informazioni su come fermare il COVID-19 validate da esperti, così che tu possa agire con confidenza. 
+### Forniamo informazioni su come fermare il COVID-19 validate da esperti, così che tu possa agire con confidenza.
 
-_Endcoronavirus.org è guidata da Yaneer Bar-Yam, Presidente del [New England Complex Systems Institute] (https://necsi.edu). Yaneer è un **fisico con esperienza allo MIT, e uno studioso della complessità che si occupa di pandemie**. Per gli ultimi 15 anni ha cercato di creare sensibilità sul rischio di pandemie globali legate all’aumento globale della mobilità delle persone. Ha raccomandato il controllo dei sintomi nelle comunità come metodologia per fermare l'espansione di**Ebola** in Africa Occidentale nel 2014, ed ha funzionato._
+_Endcoronavirus.org è guidata da Yaneer Bar-Yam, Presidente del [New England Complex Systems Institute](https://necsi.edu). Yaneer è un **fisico con esperienza allo MIT, e uno studioso della complessità che si occupa di pandemie**. Per gli ultimi 15 anni ha cercato di creare sensibilità sul rischio di pandemie globali legate all’aumento globale della mobilità delle persone. Ha raccomandato il controllo dei sintomi nelle comunità come metodologia per fermare l'espansione di**Ebola** in Africa Occidentale nel 2014, ed ha funzionato._
 
 Unisciti al nostro team di più di 5000 volontari nella lotta contro COVID-19: (LINK TO SIGNUP PAGE)
 
@@ -13,6 +13,7 @@ Unisciti al nostro team di più di 5000 volontari nella lotta contro COVID-19: (
 ## Il modo più veloce, e anche l'unico, di fermare COVID-19 è un contenimento nazionale di cinque settimane.
 
 ### Le nostre 3 principali raccomandazioni ai governi
+
 ### 1. Confinamento
 
 In gran parte dell'Europa e del Nord America la crescita esplosiva di COVID-19 significa che **un confinamento rigido di 4-6 settimane è necessario per fermare l'epidemia**. Tali confinamenti/contenimenti possono essere difficili politicamente da implementare e comportano sempre costi sociali ed economici significativi nel breve termine. Ma gli effetti sono sostanziali e la loro durata limitata. Due mesi dopo l'imposizione del contenimento, la Cina ha virtualmente eliminato la trasmissione locale di COVID-19. Wuhan è attualmente un luogo più sicuro di Londra o New York, e l'economia cinese è sulla strada del recupero Senza il confinamento rigoroso della Cina, il danno economico prodotto da COVID-19 sarebbe stato maggiore per interi ordini di grandezza.
@@ -25,12 +26,10 @@ Durante le 3-4 settimane seguenti, ogni nuova persona infetta tra i familiari e 
 
 Il confinamento fornisce anche tempo per aumentare in modo sostanziale le scorte di test kit per il COVID-19, e la capacità di produrli. Se il numero di infezioni riduce di molto usando il confinamento e cominciano i controlli di massa, COVID-19 può essere controllato dopo 5 settimane senza dover ricorrere a misure estreme di distanziamento sociale. Isolare gli individui malati e i loro contatti più prossimi sarà sufficiente. Questo è quanto è stato fatto per controllare l'epidemia per i pochi casi registrati a Singapore.
 
-Il caso dell'Italia può servire da avvertimento per chi volesse tentare un confinamento "soft". Le misure di confinamento in Italia sono state non sufficientemente rigide. Alcuni  hanno aggirato le restrizioni di movimento e hanno continuato a diffondere COVID-19. La malattia ha continuato a crescere esponenzialmente. L'italia sta irrigindendo le sue procedure di confinamento per prevenire ulteriore diffusione. La Danimarca, che ha implementato un confinamento più completo e chiuso i propri confini, ha avuto maggiore successo nella limitazione dell'epidemia.
-
+Il caso dell'Italia può servire da avvertimento per chi volesse tentare un confinamento "soft". Le misure di confinamento in Italia sono state non sufficientemente rigide. Alcuni hanno aggirato le restrizioni di movimento e hanno continuato a diffondere COVID-19. La malattia ha continuato a crescere esponenzialmente. L'italia sta irrigindendo le sue procedure di confinamento per prevenire ulteriore diffusione. La Danimarca, che ha implementato un confinamento più completo e chiuso i propri confini, ha avuto maggiore successo nella limitazione dell'epidemia.
 
     * Leggi il memo di Chen Shen e Yaneer Bar-Yam: [Why A 5-Week Lockdown Can Stop COVID-19](LINK)
     * Editoriale di Yaneer su USA Today (link)
-
 
 ### 2 Controlli di massa, tracciamento dei contatti, isolamento
 
@@ -58,7 +57,7 @@ LA nazioni, specie in Asia, che hanno l'esperienza necessaria, devono aiutare il
 
 [Linee guida per individui e famiglie (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/family_en.pdf)
 
-    Le nostre linee guida per nuclei famigliari 
+    Le nostre linee guida per nuclei famigliari
 
 [Linee guida per l'autoisolamento (PDF)](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/self_isolation_en.pdf)
 

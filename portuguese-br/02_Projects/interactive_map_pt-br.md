@@ -1,4 +1,5 @@
 # Interactive Map (web page)
+
 Original reference link: https://www.endcoronavirus.org/map/english
 
 # Códigos de cor para nível de alerta
@@ -6,13 +7,15 @@ Original reference link: https://www.endcoronavirus.org/map/english
 ## Para a resposta efetiva ao surto, as Zonas Verde, Amarelo, Laranja e Vermelha devem ser constantemente identificadas e revistas para auxiliar no monitoramento da situação, para aumentar os esforços de resposta quando necessário, e para liberar áreas de suas restrições quando possível. O nível de detalhe da divisão das áreas em Zonas Amarela, Laranja e Vermelha deve ser a máxima possível (a nível de vizinhança, área urbana, condados e distritos, e estados).
 
 ## Tipos de Zonas
-* **Zonas Verdes**: Regiões sem casos confirmados ou com alguns viajantes infectados que chegam de outras regiões
-* **Zonas Amarelas**: Regiões com alguns casos de transmissão local, mas sem focos locais de transmissão entre pessoas da comunidade
-* **Zonas Laranjas**: regiões adjacentes às zonas vermelhas ou com pequenos focos regionais da epidemia
-* **Zonas Vermelhas**: Regiões que já apresentam transmissão entre pessoas da comunidade
 
-table_code.html |
---------------- |
+- **Zonas Verdes**: Regiões sem casos confirmados ou com alguns viajantes infectados que chegam de outras regiões
+- **Zonas Amarelas**: Regiões com alguns casos de transmissão local, mas sem focos locais de transmissão entre pessoas da comunidade
+- **Zonas Laranjas**: regiões adjacentes às zonas vermelhas ou com pequenos focos regionais da epidemia
+- **Zonas Vermelhas**: Regiões que já apresentam transmissão entre pessoas da comunidade
+
+| table_code.html |
+| --------------- |
+
 
 Essa organização determinada em zonas separadas por código de cores é baseada na ideia de que, nas áreas em que o vírus está se espalhando na comunidade, as conexões sociais devem ser reduzidas ao ponto em que cada indivíduo infectado infecte menos de uma pessoa em média. Essa diminuição da conectividade social resultará em uma diminuição exponencial no número de novos casos (apesar de que, devido ao período de incubação, talvez haja um atraso antes que essa diminuição seja observada).
 
@@ -24,5 +27,5 @@ O objetivo das restrições das zonas vermelha e laranja é reduzir a conectivid
 
 Para mais informações sobre respostas médicas e sociais ao COVID-19, consulte:
 
-* Orientação Técnica da OMS (em inglês, com opção para espanhol)
-* Diretrizes adotadas em Cingapura (em inglês)
+- Orientação Técnica da OMS (em inglês, com opção para espanhol)
+- Diretrizes adotadas em Cingapura (em inglês)

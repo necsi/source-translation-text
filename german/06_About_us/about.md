@@ -8,7 +8,6 @@ Wir nutzen eine Reihe mathematischer Tools, die für Systeme mit vielen interagi
 
 Wir sind spezialisiert auf Netzwerkforschung, Agenten-basierten Modellansätzen, Mehrskalenanalysen und Komplexität und haben unsere Methoden auf die Themengebiete Evolution, Ökologie, Biodiversität, Altruismus, Systembiologie, Zellreaktionen, Gesundheitswesen, Systemtechnik, Verhandlungen, militärische Konflikte, ethnische Gewalt und internationale Entwicklung angewandt.
 
-
 ## Handlungsaufruf
 
 Die durch den Coronavirus verursachte Krankheit, COVID-19, verbreitet sich rasant. In 20% der Fälle ist ein Krankenhausaufenthalt erforderlich und in 2-4% der Fälle führt die Krankheit gar zum Tod, wobei Personen über 50 einem weitaus höheren Risiko ausgesetzt sind. Die Krankheit kann selbst bei leichten Symptomen (Husten, Niesen oder erhöhter Temperatur) übertragen werden, möglicherweise sogar, bevor Symptome auftauchen. Um das Übertragungsrisiko zu senken, sollte der Kontakt zu anderen Personen reduziert werden. Nur so kann man sowohl sich selbst als auch andere vor einer möglichen Infektion schützen.
