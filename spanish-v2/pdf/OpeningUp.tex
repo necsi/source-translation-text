@@ -1,0 +1,175 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[sort&compress]{natbib}
+
+%\headsep = 5pt
+%\textheight = 730pt
+\headsep = 25pt
+\textheight = 674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Opening Up \\
+\vspace{-0.35ex}}
+\author{\large Zvi Bar-Yam, Chen Shen, Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+ \today 
+  \vspace{-10ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\large
+\begin{multicols}{2}
+
+Before you begin to restart the economy make sure you are not starting another economic collapse. Premature relaxation of restrictions will guarantee loss of all that was gained. A premature relaxation, even briefly, would seed new transmissions that cannot be undone within weeks.
+
+Conditions and process to follow:
+\begin{enumerate}
+\item Relax restrictions locally by geographically isolated regions (not by industry group, trade or occupation).
+\item Assure that travel restrictions prevent new cases from entering.  Fines or repatriation may help reduce the motivation to sneak in.
+\item Stop community transmission (travelers or prior case contacts that are in quarantine when they become ill do not prevent opening up)
+\item Make sure sufficient testing gives ability to identify regions free of the virus. Even after cases drop sharply, widespread testing should be continued for at least another 2 weeks to prevent clustered transmission caused by individuals with a long incubation period or false negative tests.
+\item There should be no new locally transmitted cases within last incubation period of 14 days.
+\item Assure facilities for isolation and medical care of positively identified cases.
+\item Set up contact tracing.
+\item Multiple steps should be taken to stage the relaxation of restrictions and monitor for new cases.
+\item Ensure masks are worn for several weeks after opening up.
+\item The last steps to take in opening up are to allow public transportation and large meetings to avoid superspreader events, and to relax restrictions on high risk institutions and vulnerable populations.
+\end{enumerate}
+
+Still, while restrictions are present, some things are still possible:
+\begin{enumerate}
+\item Going outdoors in an area where other people are very rare.
+\item Meeting one or two people outdoors but staying 18-27 ft (6-9 m) apart (6 ft is not enough). Closer distances are possible when wind is blowing.
+\item Driving and staying in your car in low density areas.
+\end{enumerate}
+
+Opening schools
+\begin{enumerate}
+\item Start with meetings outdoors with no contact between teacher and student one on one.
+\item Arrange small group meetings outdoors with no contact in areas with excellent ventilation.
+\item Arrange play dates with two students, preferably outdoors. If indoors, then restrict only to connection between two families that have been safely isolating for 14 days. 
+\end{enumerate}
+
+\end{multicols}
+%\begin{thebibliography}{20}
+
+%\bibitem{r1} a
+
+
+%\end{thebibliography}
+
+% \bibliography{MyCollection.bib}
+
+
+
+\end{document}

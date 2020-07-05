@@ -1,0 +1,173 @@
+%\documentclass[twocolumn,journal]{IEEEtran}
+\documentclass[onecolumn,journal]{IEEEtran}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+%\usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{longtable}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{bbm}
+%\usepackage{caption}
+\usepackage{fancyhdr}
+\usepackage{breqn}
+\usepackage{fixltx2e}
+\usepackage{capt-of}
+%\usepackage{mdframed}
+\setcounter{MaxMatrixCols}{10}
+\usepackage{tikz}
+\usetikzlibrary{matrix}
+\usepackage{endnotes}
+\usepackage{soul}
+\usepackage{marginnote}
+%\newtheorem{theorem}{Theorem}
+\newtheorem{lemma}{Lemma}
+%\newtheorem{remark}{Remark}
+%\newtheorem{error}{\color{Red} Error}
+\newtheorem{corollary}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{definition}{Definition}
+\newcommand{\mathsym}[1]{}
+\newcommand{\unicode}[1]{}
+\newcommand{\dsum} {\displaystyle\sum}
+\hyphenation{op-tical net-works semi-conduc-tor}
+\usepackage{pdfpages}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[sort&compress]{natbib}
+
+\headsep = 5pt
+\textheight = 730pt
+%\headsep = 8pt %25pt
+%\textheight = 720pt %674pt
+%\usepackage{geometry}
+
+\bibliographystyle{unsrt}
+
+\usepackage{float}
+
+\usepackage{xcolor}
+ 
+\usepackage[framemethod=TikZ]{mdframed}
+%%%%%%%FRAME%%%%%%%%%%%
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage{framed}
+    % \BeforeBeginEnvironment{mdframed}{\begin{minipage}{\linewidth}}
+     %\AfterEndEnvironment{mdframed}{\end{minipage}\par}
+% \usepackage[document]{ragged2e}
+
+%	%\mdfsetup{%
+%	%skipabove=20pt,
+%	nobreak=true,
+%	   middlelinecolor=black,
+%	   middlelinewidth=1pt,
+%	   backgroundcolor=purple!10,
+%	   roundcorner=1pt}
+
+\mdfsetup{%
+	outerlinewidth=1,skipabove=20pt,backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{result}{Result}
+
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{theorem}{Theorem}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=gray!10, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{remark}{Remark}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=pink!30, outerlinecolor=black,innertopmargin=0pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{quaestio}{Quaestio}
+
+\mdtheorem[nobreak=true,outerlinewidth=1,%leftmargin=40,rightmargin=40,
+backgroundcolor=yellow!50, outerlinecolor=black,innertopmargin=5pt,splittopskip=\topskip,skipbelow=\baselineskip, skipabove=\baselineskip,ntheorem,roundcorner=5pt,font=\itshape]{background}{Background}
+
+%TRYING TO INCLUDE Ppls IN TOC
+\usepackage{hyperref}
+
+
+\begin{document}
+\title{\color{Brown} Testing Treatments for COVID-19: \\ CT-scans for visible disease progression.  \\
+\vspace{-0.35ex}}
+\author{Yaneer Bar-Yam \\ New England Complex Systems Institute \\
+ \today 
+  \vspace{-14ex} \\ 
+
+   
+\bigskip
+\bigskip
+
+\textbf{}
+ }
+    
+\maketitle
+
+
+\flushbottom % Makes all text pages the same height
+
+%\maketitle % Print the title and abstract box
+
+%\tableofcontents % Print the contents section
+
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%----------------------------------------------------------------------------------------
+%	ARTICLE CONTENTS
+%----------------------------------------------------------------------------------------
+
+%\section*{Introduction} % The \section*{} command stops section numbering
+
+%\addcontentsline{toc}{section}{\hspace*{-\tocsep}Introduction} % Adds this section to the table of contents with negative horizontal space equal to the indent for the numbered sections
+
+%\tableofcontents 
+%\section{ Introduction}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\begin{multicols}{2}
+
+How can we identify effective treatments for COVID-19 fast? The standard for proving treatments is double blind statistical studies. But statistical studies are a way of looking for small effects that require large populations to see. This is a good idea for diseases where all the obvious things to do have been tried. But for a new disease, we need the most basic approach to be set free: Doctors should determine what works based upon manifest effects. 
+
+If an intervention is a good one, the results become clear within a short period of time and for an individual patient. Physicians are not waiting for approval for developing postural actions, like placing a patient in a prone position instead of on a ventilator because they can see the effect. The formal way to talk about this is that there are markers of the disease condition. Sophisticated approaches are possible, but for a disease we have just begun to treat, looking for obvious big wins should be the first option. 
+
+What we can do immediately is to help improve physicians ability to see what is happening. One of the best tools for this is CT-scans. They provide a 3-D view of what is going on in the lungs, including both the number of sites of damage and their extent. They can show the infection even before the patient reports symptoms (presymptomatic) and or when they are mild. This gives a snapshot of the condition of the lung early in the disease, or as it progresses.
+
+The main question then is can we do multiple scans on an individual to see what is happening over time? The answer is yes. A  single low dose CT lung screen is well below 1mSievert, perhaps 0.5, about the same as 3 round trip international flights \cite{r1}. The background annual radiation in the US is 2-3 mSievert \cite{r2}. Surely 2 CT-scans is reasonable, perhaps more. Protocols for low dose CT cancer screening exist \cite{cancer}. A few CT-scans would enable looking directly at the dynamics of the disease, revealing what controls progression in interventions and treatment.
+
+An often expressed concern is contamination of the CT equipment. This can be mitigated in a variety of ways, including the use of a transparent head-and-torso-encompassing plastic bag cinched at the waist to complete isolation of the patient, with a helmet, one tube for intake and another for exhaust connected to a suction pump and an ULPA filter that entraps particles down to the size of individual viral particles. Patient isolation can happen prior to their entry into the CT examination room. 
+
+%This can be mitigated in a variety of ways, including using a simplified oxygen tent with a helmet, a transparent plastic bag, two tubes for intake and exhaust, and a ``smoke evacuator'' pump with an ULPA filter that eliminates particles down to the size of individual viral particles. %The bag can be discarded, the helmet becomes a souvenir, and the pipe ends can be sanitized. 
+
+Instead of looking for a small effect, let's look for a large effect. Then we can know how to treat. 
+
+We should separate two different periods: The early period to prevent progression, the later period to increase chance of improvement. A potential challenge is that when a person is severely infected improvement may not be as visible because of the persistence of fluid in the lung that makes it harder to see healing. So perhaps the focus should be on the early period, which also dovetails with using CT-scans for case identification to overcome the testing logjam \cite{china,cttest}.
+
+Interventions that can be considered include medications like the much discussed chloroquine, but there are many possible medications as well as physical manipulations like prone positions, and ideas like reducing self-exposure to viral particles using fresh air and HEPA or ULPA filters. Having different medical teams look at different options to explore in parallel what might work and advancing our understanding rapidly is the way to go. Once there is visibility we can see what happens. 
+
+Statistics can wait. Visibility should be the first priority. 
+
+\section*{Acknowledgment}
+Thanks to Dr. Jenifer Siegelman, Dr. James L Mulshine, Rick Avila, and Dr. Leonard Schultz, for helpful conversations.
+
+\end{multicols}
+\begin{thebibliography}{20}
+
+\bibitem{r1} Radiation from Air Travel, CDC, \url{https://www.cdc.gov/nceh/radiation/air_travel.html}
+
+\bibitem{r2} Radiation Sources and Doses, EPA \url{https://www.epa.gov/radiation/radiation-sources-and-doses}
+
+\bibitem{cancer} Widmann, G. Challenges in implementation of lung cancer screening---radiology requirements. memo 12, 166-170 (2019). \url{https://doi.org/10.1007/s12254-019-0490-9}
+
+\bibitem{china}  Handbook of COVID-19 Prevention and Treatment \url{https://covid-19.alibabacloud.com}
+
+\bibitem{cttest} Chen Shen and Yaneer Bar-Yam, Breaking the testing logjam: CT scan diagnosis, New England Complex Systems Institute (April 10, 2020). \url{https://necsi.edu/breaking-the-testing-logjam-ct-scan-diagnosis}
+
+\end{thebibliography}
+% \bibliography{MyCollection.bib}
+
+
+
+\end{document}
