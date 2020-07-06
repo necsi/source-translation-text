@@ -1,38 +1,38 @@
-# GUIDELINES FOR INDIVIDUALS
+# LINEAMIENTOS PARA INDIVIDUOS
 
-### EVERYDAY LIFE
+### VIDA DIARIA
 
-What to do about:
-- Apartment buildings
-- grocery shopping
-- necessary errands
+Que hacer:
+- Edificios de departamentos
+- Compra de víveres
+- Actividades escenciales
 - packages and mail
 
-[Read more >](papers/everyday-life-and-covid-19)
+[Leer más >](papers/everyday-life-and-covid-19)
 
-### ESSENTIAL GUIDELINES
+### LINEAMIENTOS ESCENCIALES
 
-Key guidelines for everyone on how to deal with COVID-19.
+Lineamientos claves para para todas las personas de como lidiar con COVID-19.
 
-[Read more >](/papers/essential-coronavirus-guidelines-1)
+[Leer más >](/papers/essential-coronavirus-guidelines-1)
 
-### SELF ISOLATION
+### AUTOAISLAMIENTO
 
-How to self isolate when you get infected.
+Como autoaislarse en caso de infectarse.
 
-[Read more >](/papers/guidelines-for-self-isolation)
+[Leer más >](/papers/guidelines-for-self-isolation)
 
-### CLEANING & DISINFECTING
+### LIMPIEZA Y DESINFECCIÓN
 
-- How to neutralize the corona virus
-- Supplies needed
-- Cleaning guidelines
+- Como neutralizar el coronavirus
+- Implementos necesarios
+- Guías de limpieza
 
-[Read more >](/papers/coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission)
+[Leer más >](/papers/coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission)
 
-### RESPIRATORY HEALTCARE
+### SALUD RESPIRATORIA
 
-- Reduce your risk of a severe case of COVID-19
-- Exercises, behaviour, routines
+- Reduce tu riesgo de un caso severo de COVID-19
+- Ejercicios, hábitos, rutinas
 
-[Read more >](/papers/respiratory-health-for-better-covid-19-outcomes)
+[Leer más >](/papers/respiratory-health-for-better-covid-19-outcomes)
