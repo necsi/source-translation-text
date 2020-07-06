@@ -1,14 +1,16 @@
-Guidelines for Self-Isolation
-Chen Shen and Yaneer Bar-Yam
+Guía para autoaislamiento:
+
+Chen Shen y Yaneer Bar-Yam
+
 New England Complex Systems Institute
-March 15, 2020
-This guideline is for individuals who have tested positive
-for COVID-19 but have mild or no symptoms. Mild symptoms
-include low fever, mild fatigue, coughing, but without pneumonia symptoms and with no accompanying chronic illness.
-Where local medical resources are strained and cannot hospitalize individuals with moderate or even worse symptoms,
-this document can also provide guidance. Please keep in mind
-that advice provided here is designed for mild/no symptom
-individuals.
+
+Marzo 15, 2020
+
+Esta guía es para individuos qu han tenido un resultado positivo para COVID-19 pero tienen síntomas leves o son asintomáticos. Síntomas leves incluyen fiebre baja, fatiga moderada, tos, pero sin síntomas de neumnonía ni enfermedades crónicas que las acompañen.
+
+En aquellos lugares donde los servicios médicos están al límite y no hay capacidad para hospitalizar gente con síntomas moderados o peores, este documento también puede orientar. Por favor manten en mente que la información presentada aquí está pensada para gente con síntomas leves o sin síntomas.
+
+
 Once symptoms develop, including difficulties in breathing,
 high fever, seek medical care immediately.
 GENERAL
