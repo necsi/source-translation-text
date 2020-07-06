@@ -1,168 +1,173 @@
-### ALL YOU NEED TO
-#CRUSH COVID-19
+### TODO LO QUE NECESITAS PARA
+# APLASTAR AL COVID-19
 
-Act confidently against COVID-19 with the help of our guidelines and research established by distinguished experts and scientists from the **New England Complex Systems Insitute (NECSI), Harvard, UCLA, MIT** and more.
+Actúa con seguridad en contra del COVID-19 con la ayuda de nuestras guías y de las investigaciones establecidas por distinguidos expertos y científicos del **Instituto de Sistemas Complejos de Nueva Inglaterra** (*NECSI*), **Harvard**, la **Universidad de California** (*UCLA*), el **Instituto Tecnológico de Massachusetts** (*MIT*), entre otras instituciones.
 
-### LEADER: PROF. YANEER BAR-YAM
+### DIRECTOR: PROF. YANEER BAR-YAM
 
-- president of [New England Complex Systems Institute](http://necsi.edu/)
-- **MIT-trained** physicist and complexity scientist
-- has warned about **global pandemics** for 15 years
-- contributed outbreak response protocols for **stopping Ebola** in Africa in 2014, which worked
+- Presidente del [Instituto de Sistemas Complejos de Nueva Inglaterra (*NECSI*)](http://necsi.edu/)
+- Físico **graduado del MIT** y científico de la complejidad
+- Ha advertido acerca de  **pandemias globales** por 15 años
+- Contribuyó con protocolos de respuesta para **detener brotes de Ébola** en África en 2014 (los cuales funcionaron)
 
-[Learn more about us](/about)
+[Aprende más acerca de nosotros](/about)
 
-### SOME ARE WINNING - SOME ARE NOT
+### ALGUNOS ESTÁN GANANDO - ALGUNOS NO
 
-### WHO IS BEATING COVID-19?
+### ¿QUIÉN ESTÁ VENCIENDO AL COVID-19?
 
-See which countries…
-- have already beaten COVID-19
-- are nearly there
-- need to take action
+Ve qué países...
+- ya han vencido al COVID-19
+- están muy cerca
+- necesitan actuar
 
-[See all countries](/countries)
+[Ve todos los países](/countries)
 
-### THIS IS HOW
+### ASÍ ES CÓMO
 
-With some basic actions, the curve can be crushed in only five weeks:
-- strict lockdown
-- travel restrictions
-- massive testing
-- masks
+Con algunas medidas básicas, la curva puede ser aplastada en tan solo 5 semanas:
+- Cierres estrictos
+- Restricciones de viaje
+- Pruebas masivas
+- Cubrebocas
 
-[How to win](/how-win]
+[Cómo ganar](/how-win)
 
-### NEWS
-### CALLING FOR AGGRESSIVE ACTION NOW 
-### OPEN LETTER TO VIRGINIA GOVENOR
+### NOTICIAS
+### LLAMADO PARA MEDIDAS CONTUNDENTES AHORA
 
-Virginia-based members of the EndCoronavirus.org network have partnered with colleagues across many fields to release an open letter to Virginia Governor Ralph Northam calling for more aggressive action to **#CrushTheCurveVA**. The signers of the letter include Virginian scientists, physicians, public health experts, business owners, and concerned citizens from many walks of life.
+### CARTA ABIERTA AL GOBERNADOR DE VIRGINIA
 
-[Read more and sign the letter >](/projects-1/va)
+Miembros de la red EndCoronavirus.org residentes en Virginia se han agrupado con colegas de muchas áreas para entregar una carta abierta al Gobernador de Virginia, Ralph Northam, haciendo un llamado para medidas más estrictas para **aplastar la curva** (*#CrushTheCurveVA*). Los firmantes de la carta incluyen a científicos de Virginia, médicos, expertos en salud pública, empresarios, y ciudadanos preocupados en todos los ámbitos.
 
-### THE RIGHT STEPS TO MINIMIZE RISKS
-### OPENING UP
+[Lee más y firma la petición>](/projects-1/va)
 
-What should open up first? What is to be considered when opened up? How to prevent another outbreak?
 
-[Read more >](/papers/opening-up)
+### LOS PASOS CORRECTOS PARA MINIMIZAR RIESGOS
+### REAPERTURAS
 
+¿Qué es lo primero que debe reabrir? ¿Qué deberá considerarse después de una reapertura? ¿Cómo prevenir otro brote?
+
+[Leer más >](/papers/opening-up)
+
+### VENCIENDO LOS OBSTÁCULOS PARA HACER PRUEBAS
+<!--
 ### BREAKING THE TESTING LOGJAM
-### CT-SCAN DIAGNOSIS
+-->
+### DIAGNÓSTICOS BASADOS EN ESCANEOS COMPUTARIZADOS (*CT-SCAN DIAGNOSIS*)
 
-CT-Scans of the lungs show effects of COVID-19 even if there are no symptoms yet. It can be used to test patients and treatments.
+Los escaneos computarizados (*CT-Scans*) de los pulmones muestran los efectos del COVID-19 incluso cuando aún no existen síntomas. Esto puede ser usado para analizar a los pacientes y para tratamientos.
 
-[Read more >](/projects-1/breaking-the-testing-logjam-ct-scan-diagnosis)
+[Leer más >](/projects-1/breaking-the-testing-logjam-ct-scan-diagnosis)
 
-### DON’T WAIT FOR THE GOVERNMENT TO ACT
-### EVERYDAY-LIFE AND COVID-19
+### NO ESPERES A QUE EL GOBIERNO ACTÚE
+### VIDA DIARIA Y COVID-19
 
-What measures can you take in your daily life to prevent COVID-19 from spreading in your community? Learn all about life in appartment buildings,  groceries and post.
+¿Qué medidas puedes tomar en tu vida diaria para prevenir la difusión del COVID-19 en tu comunnidad? Aprende todo acerca de la vida en edificios departamentales, tiendas y otros negocios.
 
-[Read more >](/papers/everyday-life-and-covid-19)
+[Leer más >](/papers/everyday-life-and-covid-19)
 
-### DEFEAT CORONAVIRUS IN AMERICA
-### A FIVE-WEEK LOCKDOWN IS NEEDED
+### VENCE AL CORONAVIRUS EN TODA AMERICA
+### UN CIERRE DE 5 SEMANAS ES NECESARIO
 
-An op-ed of Yaneer Bar-Yam in USA Today
-Published 4:12 PM EDT Mar 23, 2020
+Artículo de opnión de Yaneer Bar-Yam en *USA Today*
+Publicado: 4:12 PM EDT Mar 23, 2020
 
-[Read more >](https://eu.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
+[Leer más >](https://eu.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
-### GUIDELINES
+### GUÍAS
 
-Use our expert information to act confidently and crush COVID-19 in your area of responsibility.
+Usa nuestra información de expertos para actuar con seguridad y así aplastar al COVID-19 en tu área de responsabilidad.
 
-### GOVERNMENTS
+### GOBIERNOS
 
-Essential guidelines on…
-- How to win
-- Testing
-- health care
-- and more
+Pautas esenciales sobre...
+- cómo ganar
+- pruebas
+- asistencia médica
+- y más
 
-[Learn more](/governments)
+[Aprende más](/governments)
 
-### COMMUNITIES
+### COMUNIDADES
 
-Essential guidelines on…
-- How to win
-- Testing
-- health care
-- and more
+Pautas esenciales sobre...
+- cómo ganar
+- pruebas
+- asistencia médica
+- y más
 
-[Learn more](/communities)
+[Aprende más](/communities)
 
-### MEDICAL INSTITUTIONS
+### INSTITUCIONES MÉDICAS
 
-Essential guidelines for…
-- medical institutions
-- medical workers
-- and more
+Pautas esenciales para...
+- instituciones médicas
+- trabajadores de la salud
+- y más
 
-[Learn more](/health-care)
+[Aprende más](/health-care)
 
-### INSTITUTIONS
+### INSTITUCIONES
 
-Essential guidelines for…
-- companies
-- health care
-- nursing homes
-- prisons
+Pautas esenciales para...
+- empresas
+- servicios médicos
+- casas de adultos mayores
+- cárceles
 
-[Learn more](/institutions)
+[Aprende más](/institutions)
 
-### FAMILIES
+### FAMILIAS
 
-Learn about…
-- everyday-life
-- safe spaces
-- and more
+Aprende acerca de...
+- vida diaria
+- espacios seguros
+- y más
 
-[Learn more](/families)
+[Aprende más](/families)
 
-### INDIVIDUALS
+### INDIVIDUOS
 
-Essential guidelines on…
-- everyday-life
-- self-isolation
-- self-care
-- cleaning & desinfecting
+Pautas esenciales para...
+- la vida diaria
+- el aislamiento personal
+- cuidados personales
+- limpieza y desinfección
 
-[Learn more](/individuals)
+[Aprende más](/individuals)
 
-### JOIN AND HELP
+### ÚNETE Y AYUDA
 
-Our team consists of over 4,000 volunteers and includes scientists,   engineers, medical doctors, and  countless motivated individuals ready   to take action. Everyone can help. [Learn more about our work >](/participate)
+Nuestro equipo consiste en alrededorde 4,000 volunntarios e incluye científicos, ingenieros, médicos, y un sin número de individuos listos para actuar. Todos pueden ayudar. [Aprende más sobre nuestro trabajo >](/participate)
 
-[Join us](/join-2)
+[Únete](/join-2)
 
-### OUTREACH
+### DIFUSIÓN
 
-*We make contact and communicate with individuals, communities, and governments, providing guidelines for action.*
+*Nos contactamos y comunicamos con individuos, comunidades y gobiernos, proporcionando pautas para la acción.*
 
-### TECH
+### TECNOLOGÍA
 
-*We build websites and apps to help track and prevent the spread of COVID-19.*
+*Construímos sitios web y aplicaciones para ayudar a prevenir la difusión del COVID-19.*
 
-### SCANNING AND ANALYTICS
+### MONITOREO Y ANÁLISIS
 
-*We discover, analyse, and present data related to COVID-19.*
+*Descubrimos, analizamos y presentamos información relacionada con el COVID-19*
 
-### COMMUNICATIONS
+### COMUNICACIÓN
 
-*We provide information throughout the world through newsletters and various social media platforms.*
+*Proporcionamos información a través del mundo por medio de boletines informativos y varias plataformas de redes sociales*
 
-### RESPONSE
+### REACCIÓN
 
-*We engage in medical response innovation and facilitate deliveries of medical equipment and PPE to those in need.*
+*Nos involucramos en respuestas médicas inovadoras y facilitamos la entrega de equipo médico y de protección personal a aquellos que lo necesitan.*
 
-[Learn more about our work >](/participate)
+[Aprende más sobre nuestro trabajo >](/participate)
 
-[Join us](/join)
+[Únete](/join)
 
 ”
-THERE’S NO SENSE IN BEING PRECISE WHEN YOU DON’T EVEN KNOW WHAT YOU’RE TALKING ABOUT.
+NO TIENE SENTIDO SER PRECISO CUANDO NI SIQUIERA SABES DE QUÉ ESTÁS HABLANDO.
 
-John von Neumann (1903 - 1957)
+John von Neumann (1903-1957)
