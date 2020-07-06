@@ -1,49 +1,49 @@
-# GUIDELINES FOR FAMILIES
+# GUÍAS PARA LAS FAMILIAS
 
-### EVERYDAY LIFE
+### PARA LA VIDA COTIDIANA
 
-What to do about:
-- Apartment buildings
-- grocery shopping
-- necessary errands
-- packages and mail
+Qué hacer en distintos escenarios:
+- Condominios
+- Compras de víveres
+- Tareas y compromisos necesarios
+- Paquetería
 
-[Read more >](/papers/everyday-life-and-covid-19)
+[Leer más>] (/ papers / everyday-life-and-covid-19)
 
-### ESSENTIAL GUIDELINES
+### GUÍAS ESENCIALES
 
-Key guidelines for everyone on how to deal with COVID-19.
+Puntos clave para todos sobre cómo combatir con la enfermedad COVID-19.
 
-[Read more >](/papers/essential-coronavirus-guidelines-1)
+[Leer más>] (/ papers / essential-coronavirus-Guidelines-1)
 
-### SAFE SPACES
+### ESPACIOS SEGUROS
 
-### FOR FAMILIES & SHARED HOUSES
+### PARA FAMILIAS Y HOGARES COMPARTIDOS
 
-- How to be safe within your family or community
-- Creating safe spaces with your community
+- Cómo estar seguro con la familia y/o comunidad
+- Creación de espacios seguros con la comunidad
 
-[Read more >](https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ee4bda2ae97577d31c65d_Family%20Guidelines.pdf)
+[Leer más>] (https://assets-global.website-files.com/5e62f57a6f9734c5e7879c84/5e6ee4bda2ae97577d31c65d_Family%20Guidelines.pdf)
 
-### HOW TO PROTECT OUR FAMILY
+### CÓMO PROTEGER A NUESTRA FAMILIA
 
-### SELF ISOLATION
+### AUTOAISLAMIENTO
 
-How to self isolate when you get infected.
+Medidas de aislamiento cuando se tiene la enfermedad COVID-19.
 
-[Read more >](/papers/guidelines-for-self-isolation)
+[Leer más>] (/ papeles / directrices-para-auto-aislamiento)
 
-### CLEANING & DISINFECTING
+### LIMPIEZA Y DESINFECCIÓN
 
-- How to neutralize the corona virus
-- Supplies needed
-- Cleaning guidelines
+- Cómo eliminar el coronavirus
+- Insumos necesarios
+- Recomendaciones de limpieza
 
-[Read more >](/papers/coronavirus-guidelines-for-cleaning-and-disinfecting-to-prevent-covid-19-transmission)
+[Leer más>] (/ papers / coronavirus-Guidelines-for-limpieza-y-desinfección-para-prevenir-transmisión-covid-19)
 
-### RESPIRATORY HEALTH
-Reduce your risk of a severe case of COVID-19
+### SALUD RESPIRATORIA
+Reduzca el riesgo de ser un caso grave de COVID-19
 
-Exercises, behaviour, routines
+Ejercicios, conductas, rutinas.
 
-[Read more >](/papers/respiratory-health-for-better-covid-19-outcomes)
+[Leer más>] (/ papers / respiratorio-salud-para-mejores-covid-19-resultados)
