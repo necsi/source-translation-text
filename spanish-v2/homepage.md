@@ -1,13 +1,13 @@
 ### TODO LO QUE NECESITAS PARA
 # APLASTAR AL COVID-19
 
-Actúa con seguridad en contra del COVID-19 con la ayuda de nuestras guías y de las investigaciones establecidas por distinguidos expertos y científicos del **Instituto de Sistemas Complejos de Nueva Inglaterra** (*NECSI*), **Harvard**, la **Universidad de California** (*UCLA*), el **Instituto Tecnológico de Massachusetts** (*MIT*), entre otras instituciones.
+Actúa con seguridad en contra del COVID-19 con la ayuda de nuestras guías y de las investigaciones establecidas por distinguidos expertos y científicos del **Instituto de Sistemas Complejos de Nueva Inglaterra** (*NECSI*), **Harvard**, la **Universidad de California** (*UCLA*), el **Instituto Tecnológico de Massachusetts** (*MIT*), entre otras.
 
 ### DIRECTOR: PROF. YANEER BAR-YAM
 
 - Presidente del [Instituto de Sistemas Complejos de Nueva Inglaterra (*NECSI*)](http://necsi.edu/)
 - Físico **graduado del MIT** y científico de la complejidad
-- Ha advertido acerca de  **pandemias globales** por 15 años
+- Ha advertido acerca de **pandemias globales** por 15 años
 - Contribuyó con protocolos de respuesta para **detener brotes de Ébola** en África en 2014 (los cuales funcionaron)
 
 [Aprende más acerca de nosotros](/about)
@@ -54,7 +54,7 @@ Miembros de la red EndCoronavirus.org residentes en Virginia se han agrupado con
 <!--
 ### BREAKING THE TESTING LOGJAM
 -->
-### DIAGNÓSTICOS BASADOS EN ESCANEOS COMPUTARIZADOS (*CT-SCAN DIAGNOSIS*)
+### DIAGNÓSTICOS BASADOS EN ESCANEOS COMPUTARIZADOS (*CT-SCANS*)
 
 Los escaneos computarizados (*CT-Scans*) de los pulmones muestran los efectos del COVID-19 incluso cuando aún no existen síntomas. Esto puede ser usado para analizar a los pacientes y para tratamientos.
 
@@ -63,11 +63,11 @@ Los escaneos computarizados (*CT-Scans*) de los pulmones muestran los efectos de
 ### NO ESPERES A QUE EL GOBIERNO ACTÚE
 ### VIDA DIARIA Y COVID-19
 
-¿Qué medidas puedes tomar en tu vida diaria para prevenir la difusión del COVID-19 en tu comunnidad? Aprende todo acerca de la vida en edificios departamentales, tiendas y otros negocios.
+¿Qué medidas puedes tomar en tu vida diaria para prevenir la difusión del COVID-19 en tu comunidad? Aprende todo acerca de la vida en edificios departamentales, tiendas y otros negocios.
 
 [Leer más >](/papers/everyday-life-and-covid-19)
 
-### VENCE AL CORONAVIRUS EN TODA AMERICA
+### VENCE AL CORONAVIRUS EN AMERICA
 ### UN CIERRE DE 5 SEMANAS ES NECESARIO
 
 Artículo de opnión de Yaneer Bar-Yam en *USA Today*
@@ -139,7 +139,7 @@ Pautas esenciales para...
 
 ### ÚNETE Y AYUDA
 
-Nuestro equipo consiste en alrededorde 4,000 volunntarios e incluye científicos, ingenieros, médicos, y un sin número de individuos listos para actuar. Todos pueden ayudar. [Aprende más sobre nuestro trabajo >](/participate)
+Nuestro equipo consiste en alrededor de 4,000 volunntarios e incluye científicos, ingenieros, médicos, y un sin número de individuos listos para actuar. Todos pueden ayudar. [Aprende más sobre nuestro trabajo >](/participate)
 
 [Únete](/join-2)
 
