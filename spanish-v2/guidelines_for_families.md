@@ -8,13 +8,13 @@ Qué hacer en distintos escenarios:
 - Tareas y compromisos necesarios
 - Paquetería
 
-[Leer más>] (/ papers / everyday-life-and-covid-19)
+[Leer más>] (/papers/everyday-life-and-covid-19)
 
 ### GUÍAS ESENCIALES
 
 Puntos clave para todos sobre cómo combatir con la enfermedad COVID-19.
 
-[Leer más>] (/ papers / essential-coronavirus-Guidelines-1)
+[Leer más>] (/papers/essential-coronavirus-Guidelines-1)
 
 ### ESPACIOS SEGUROS
 
@@ -31,7 +31,7 @@ Puntos clave para todos sobre cómo combatir con la enfermedad COVID-19.
 
 Medidas de aislamiento cuando se tiene la enfermedad COVID-19.
 
-[Leer más>] (/ papeles / directrices-para-auto-aislamiento)
+[Leer más>] (/papeles/directrices-para-auto-aislamiento)
 
 ### LIMPIEZA Y DESINFECCIÓN
 
@@ -39,11 +39,11 @@ Medidas de aislamiento cuando se tiene la enfermedad COVID-19.
 - Insumos necesarios
 - Recomendaciones de limpieza
 
-[Leer más>] (/ papers / coronavirus-Guidelines-for-limpieza-y-desinfección-para-prevenir-transmisión-covid-19)
+[Leer más>] (/papers/coronavirus-Guidelines-for-limpieza-y-desinfección-para-prevenir-transmisión-covid-19)
 
 ### SALUD RESPIRATORIA
 Reduzca el riesgo de ser un caso grave de COVID-19
 
 Ejercicios, conductas, rutinas.
 
-[Leer más>] (/ papers / respiratorio-salud-para-mejores-covid-19-resultados)
+[Leer más>] (/papers/respiratorio-salud-para-mejores-covid-19-resultados)
