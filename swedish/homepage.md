@@ -4,7 +4,7 @@
 
 ### Se våra rekommendationer för [individer, familjer], [arbetsgivare], och [regeringar].
 
-_Endcoronavirus drivs av Yaneer Bar-Yam, president vid [New England Complex Systems Institute](https://necsi.edu). Yaneer är   **MIT-utbildad fysiker och forskare inom komplexa system, med inriktning på bland annat pandemier**. Han har under 15 år varnat för globala pandemier som en konsekvens de ökat resande. Han rekommenderade community-baserade metoder som metod för att övervaka symptom och stoppa **Ebola** i Västafrika under 2014 - och det fungerade._
+_Endcoronavirus drivs av Yaneer Bar-Yam, president vid [New England Complex Systems Institute](https://necsi.edu). Yaneer är **MIT-utbildad fysiker och forskare inom komplexa system, med inriktning på bland annat pandemier**. Han har under 15 år varnat för globala pandemier som en konsekvens de ökat resande. Han rekommenderade community-baserade metoder som metod för att övervaka symptom och stoppa **Ebola** i Västafrika under 2014 - och det fungerade._
 
 Gå med över 5000 volontärer i vår grupp som arbetar för att stoppa COVID-19: [Gå med](https://v2.endcoronavirus.org/sign-up/english)
 
@@ -15,6 +15,7 @@ Gå med över 5000 volontärer i vår grupp som arbetar för att stoppa COVID-19
 ### Våra Top 3 rekommendationer för regeringar
 
 ### 1. Lockdown
+
 I stora delar av Europa och Nordamerika där det pågår stora utbrott av COVID-19 är **en -4-6 veckor lång karantän nödvändig för att stoppa utbrottet**. Att stänga av stora områden kan vara en politisk utmaning och det innebär alltid på kort sikt både ekonomiska och sociala kostnader. Effekterna är dock dramatiska och kortvariga. Två månader efter att Kina implementerade sin karantän, har de i princip helt eliminerat lokal smittspridning av COVID-19. Wuhan är nu ett säkrare område än London eller New York, och Kinas ekonomi återhämtar sig. Hade Kina ej genomfört strikt karantän skulle de ekonomiska konsekvenserna varit flerfaldigt mycket högre.
 
 Under en pågående karantän stannar individer hemma, förutom då de skaffar livsmedel, söker vård, eller arbetar med samhällsviktiga jobb. Regering ger ekonomisk och socialt stöd till de i behov.
@@ -46,7 +47,7 @@ Länder, speciellt i Asien, som har expertis som krävs bör hjälpa resten av v
 
 ### 3. Begränsa rörlighet och upprätthåll tillgång på nödvändigt material och sjukvård
 
-**Resande från områden med aktivt smittspridning bör stoppas**. Varje individ ska genom en 14 dagar lång karantän vid inpassage i andra områden. Begränsad rörlighet till endast nödvändigt resande i områden där det pågår aktiva utbrott gör att områden med färre fall kan kontrollera utbrott med mindre drastiska åtgärder. Snabb återhämtning är viktigt för ekonomisk återhämtning samt möjligheten att ge stöd till de områden  som drabbats hårdast.
+**Resande från områden med aktivt smittspridning bör stoppas**. Varje individ ska genom en 14 dagar lång karantän vid inpassage i andra områden. Begränsad rörlighet till endast nödvändigt resande i områden där det pågår aktiva utbrott gör att områden med färre fall kan kontrollera utbrott med mindre drastiska åtgärder. Snabb återhämtning är viktigt för ekonomisk återhämtning samt möjligheten att ge stöd till de områden som drabbats hårdast.
 
 | --- |
 
@@ -74,5 +75,3 @@ Mer guider för familjer →
 [Guide för regeringar](https://github.com/necsi/source-translation-text/blob/master/0_english_source/pdf/individual_community_government_en.pdf)
 
 För senaste uppdateringar nya rekommendationer, följ [Yaneer Bar-Yam](https://twitter.com/yaneerbaryam) och [End Coronavirus Dot Org](https://twitter.com/endCOVID19) på Twitter.
-
-

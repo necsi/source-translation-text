@@ -2,14 +2,13 @@
 name: Update English source
 about: English source has change. Also request translation change
 title: "[ENGLISH] changelog <insert-number> - <insert-change-description>"
-labels: ''
-assignees: ''
-
+labels: ""
+assignees: ""
 ---
 
 ## Reminder
 
-Remember to connect to all Projects 
+Remember to connect to all Projects
 
 ## Checklist
 

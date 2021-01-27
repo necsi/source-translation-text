@@ -1,9 +1,8 @@
-Propagez l'information, pas le virus
-====================================
+# Propagez l'information, pas le virus
 
 ### L'objectif de notre travail est de fournir des informations pertinentes qui permettent aux individus, aux employeurs, aux gouvernements et aux ONG de mener des actions pragmatiques.
 
-*Je suis un physicien formé au MIT et un scientifique de la complexité qui étudie les pandémies. J'ai mis en garde contre les pandémies mondiales en raison de l'augmentation des voyages depuis 15 ans. J'ai recommandé une surveillance communautaire des symptômes pour stopper Ebola en Afrique de l'Ouest en 2014, et cela a fonctionné. Le moyen le plus rapide et même le seul pour arrêter le COVID-19 aux États-Unis est un confinement national de cinq semaines.*
+_Je suis un physicien formé au MIT et un scientifique de la complexité qui étudie les pandémies. J'ai mis en garde contre les pandémies mondiales en raison de l'augmentation des voyages depuis 15 ans. J'ai recommandé une surveillance communautaire des symptômes pour stopper Ebola en Afrique de l'Ouest en 2014, et cela a fonctionné. Le moyen le plus rapide et même le seul pour arrêter le COVID-19 aux États-Unis est un confinement national de cinq semaines._
 
 |![yaneer](source-translation-text/0_english_source/images/Yaneer.jpg)|
 |NECSI President, Prof. Yaneer Bar-Yam|
@@ -55,8 +54,9 @@ Les pays, en particulier en Asie, qui disposent des compétences requises devrai
 
 Les voyages depuis les zones infectieuses doivent être interrompus, et chaque personne doit être mise en quarantaine pendant 14 jours lorsqu'elle se rend dans une autre zone. Lorsque des épidémies se déclarent, le fait de limiter la mobilité aux déplacements essentiels permet aux zones où les cas sont moins nombreux de contrôler plus rapidement leurs épidémies et de limiter les interventions. La capacité à se rétablir plus rapidement est importante pour la reprise économique et pour la capacité d'aider les zones qui sont plus gravement touchées.
 
-|![chinadynamics](source-translation-text/0_english_source/images/ChinaDynamics.png)|
-| --- |
+| ![chinadynamics](source-translation-text/0_english_source/images/ChinaDynamics.png) |
+| ----------------------------------------------------------------------------------- |
+
 
 ## [Lignes directrices à destination des familles]
 

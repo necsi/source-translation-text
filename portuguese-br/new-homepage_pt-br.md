@@ -1,4 +1,5 @@
 # Homepage EndCoronaVirus.org
+
 **Original reference page:** https://www.endcoronavirus.org/home
 
 | [Idioma]() |
@@ -25,7 +26,7 @@ Una-se a 5.000 voluntários na nossa equipe para combater o COVID-19: [Junte-se 
 | [Diretrizes especiais para profissionais de saúde durante a pandemia da COVID-19]() 8 Abr 2020 |
 | [Dia-a-dia e COVID-19]() 24 Mar 2020 |
 
-* Leia a coluna escrita por Yaneer no jornal americano "USA Today" (em inglês): [Nós precisamos de uma quarentena nacional imediata de cinco dias para derrotar o Coronavírus nos EUA](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
+- Leia a coluna escrita por Yaneer no jornal americano "USA Today" (em inglês): [Nós precisamos de uma quarentena nacional imediata de cinco dias para derrotar o Coronavírus nos EUA](https://www.usatoday.com/story/opinion/2020/03/21/coronavirus-america-needs-five-week-national-lockdown-column/2890376001/)
 
 ## Indivíduos não têm que esperar por seus governos para agirem! Concorde em auto-isolar-se para parar o vírus na sua comunidade.
 
@@ -33,19 +34,19 @@ Una-se a 5.000 voluntários na nossa equipe para combater o COVID-19: [Junte-se 
 
 ### [Cotidiano e COVID-19 (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/everyday-life_pt-br.pdf)
 
-   * Sobre: **cuidados a se tomar em edifícios residenciais, como fazer compras em mercados, tarefas necessárias, como lidar com encomendas e correio**
+- Sobre: **cuidados a se tomar em edifícios residenciais, como fazer compras em mercados, tarefas necessárias, como lidar com encomendas e correio**
 
 ### [Guias para famílias e moradores (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Family_port-br.pdf)
 
-   * Nossas diretrizes gerais para família e moradores
+- Nossas diretrizes gerais para família e moradores
 
 ### [Diretrizes para auto-isolamento (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/Self-isolation_port-br.pdf)
 
-   * O que fazer quando você: **mora sozinho, ou divide residência com alguém**
+- O que fazer quando você: **mora sozinho, ou divide residência com alguém**
 
 ### [Diretrizes de saúde respiratória (PDF)](https://github.com/necsi/source-translation-text/raw/master/portuguese-br/pdf/resp-health_port-br.pdf)
 
-   * O que você pode fazer para reduzir seu risco de desenvolver um caso severo de COVID-19
+- O que você pode fazer para reduzir seu risco de desenvolver um caso severo de COVID-19
 
 ### [Mais guias para famílias →](https://www.endcoronavirus.org/port-br-guidelines#family)
 

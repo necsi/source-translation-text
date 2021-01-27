@@ -1,4 +1,5 @@
 ### ALL YOU NEED TO
+
 #CRUSH COVID-19
 
 Act confidently against COVID-19 with the help of our guidelines and research established by distinguished experts and scientists from the **New England Complex Systems Insitute (NECSI), Harvard, UCLA, MIT** and more.
@@ -17,6 +18,7 @@ Act confidently against COVID-19 with the help of our guidelines and research es
 ### WHO IS BEATING COVID-19?
 
 See which countries…
+
 - have already beaten COVID-19
 - are nearly there
 - need to take action
@@ -26,6 +28,7 @@ See which countries…
 ### THIS IS HOW
 
 With some basic actions, the curve can be crushed in only five weeks:
+
 - strict lockdown
 - travel restrictions
 - massive testing
@@ -34,7 +37,9 @@ With some basic actions, the curve can be crushed in only five weeks:
 [How to win](/how-win]
 
 ### NEWS
-### CALLING FOR AGGRESSIVE ACTION NOW 
+
+### CALLING FOR AGGRESSIVE ACTION NOW
+
 ### OPEN LETTER TO VIRGINIA GOVENOR
 
 Virginia-based members of the EndCoronavirus.org network have partnered with colleagues across many fields to release an open letter to Virginia Governor Ralph Northam calling for more aggressive action to **#CrushTheCurveVA**. The signers of the letter include Virginian scientists, physicians, public health experts, business owners, and concerned citizens from many walks of life.
@@ -42,6 +47,7 @@ Virginia-based members of the EndCoronavirus.org network have partnered with col
 [Read more and sign the letter >](/projects-1/va)
 
 ### THE RIGHT STEPS TO MINIMIZE RISKS
+
 ### OPENING UP
 
 What should open up first? What is to be considered when opened up? How to prevent another outbreak?
@@ -49,6 +55,7 @@ What should open up first? What is to be considered when opened up? How to preve
 [Read more >](/papers/opening-up)
 
 ### BREAKING THE TESTING LOGJAM
+
 ### CT-SCAN DIAGNOSIS
 
 CT-Scans of the lungs show effects of COVID-19 even if there are no symptoms yet. It can be used to test patients and treatments.
@@ -56,13 +63,15 @@ CT-Scans of the lungs show effects of COVID-19 even if there are no symptoms yet
 [Read more >](/projects-1/breaking-the-testing-logjam-ct-scan-diagnosis)
 
 ### DON’T WAIT FOR THE GOVERNMENT TO ACT
+
 ### EVERYDAY-LIFE AND COVID-19
 
-What measures can you take in your daily life to prevent COVID-19 from spreading in your community? Learn all about life in appartment buildings,  groceries and post.
+What measures can you take in your daily life to prevent COVID-19 from spreading in your community? Learn all about life in appartment buildings, groceries and post.
 
 [Read more >](/papers/everyday-life-and-covid-19)
 
 ### DEFEAT CORONAVIRUS IN AMERICA
+
 ### A FIVE-WEEK LOCKDOWN IS NEEDED
 
 An op-ed of Yaneer Bar-Yam in USA Today
@@ -77,6 +86,7 @@ Use our expert information to act confidently and crush COVID-19 in your area of
 ### GOVERNMENTS
 
 Essential guidelines on…
+
 - How to win
 - Testing
 - health care
@@ -87,6 +97,7 @@ Essential guidelines on…
 ### COMMUNITIES
 
 Essential guidelines on…
+
 - How to win
 - Testing
 - health care
@@ -97,6 +108,7 @@ Essential guidelines on…
 ### MEDICAL INSTITUTIONS
 
 Essential guidelines for…
+
 - medical institutions
 - medical workers
 - and more
@@ -106,6 +118,7 @@ Essential guidelines for…
 ### INSTITUTIONS
 
 Essential guidelines for…
+
 - companies
 - health care
 - nursing homes
@@ -116,6 +129,7 @@ Essential guidelines for…
 ### FAMILIES
 
 Learn about…
+
 - everyday-life
 - safe spaces
 - and more
@@ -125,6 +139,7 @@ Learn about…
 ### INDIVIDUALS
 
 Essential guidelines on…
+
 - everyday-life
 - self-isolation
 - self-care
@@ -134,29 +149,29 @@ Essential guidelines on…
 
 ### JOIN AND HELP
 
-Our team consists of over 4,000 volunteers and includes scientists,   engineers, medical doctors, and  countless motivated individuals ready   to take action. Everyone can help. [Learn more about our work >](/participate)
+Our team consists of over 4,000 volunteers and includes scientists, engineers, medical doctors, and countless motivated individuals ready to take action. Everyone can help. [Learn more about our work >](/participate)
 
 [Join us](/join-2)
 
 ### OUTREACH
 
-*We make contact and communicate with individuals, communities, and governments, providing guidelines for action.*
+_We make contact and communicate with individuals, communities, and governments, providing guidelines for action._
 
 ### TECH
 
-*We build websites and apps to help track and prevent the spread of COVID-19.*
+_We build websites and apps to help track and prevent the spread of COVID-19._
 
 ### SCANNING AND ANALYTICS
 
-*We discover, analyse, and present data related to COVID-19.*
+_We discover, analyse, and present data related to COVID-19._
 
 ### COMMUNICATIONS
 
-*We provide information throughout the world through newsletters and various social media platforms.*
+_We provide information throughout the world through newsletters and various social media platforms._
 
 ### RESPONSE
 
-*We engage in medical response innovation and facilitate deliveries of medical equipment and PPE to those in need.*
+_We engage in medical response innovation and facilitate deliveries of medical equipment and PPE to those in need._
 
 [Learn more about our work >](/participate)
 

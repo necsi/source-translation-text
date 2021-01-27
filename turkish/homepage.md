@@ -12,7 +12,7 @@ COVID-19 ile mücadele etmek için grubumuzdaki 5.000'den fazla gönüllüye **k
 
 ## Virüsün yayılmasını durdurmanın anahtarı, insanlar arasındaki baglantının azaltılmasıdır
 
-Virüs başka bir kişiye bulaşmadığında, enfeksiyonun yayılmasını azaltmada büyük etkisi vardır. Hepimiz yapabileceklerimiz  konusunda ne kadar bilgili olursak, en savunmasız sevdiklerimize ve genel olarak sağlık altyapımıza o kadar iyi hizmet ederiz.
+Virüs başka bir kişiye bulaşmadığında, enfeksiyonun yayılmasını azaltmada büyük etkisi vardır. Hepimiz yapabileceklerimiz konusunda ne kadar bilgili olursak, en savunmasız sevdiklerimize ve genel olarak sağlık altyapımıza o kadar iyi hizmet ederiz.
 
 Müdahale olmadan, virüs olan bir bireyin ortalama 3-4 kişiyi enfekte edeceği ve bunun da zaman içinde vaka sayısını katlanarak artıracagı tahmin edilmektedir. Sosyal bağlantı, enfekte olan bir bireyin virüsü bulastırdıgı ortalama insan sayısının bir kişiden daha az olacağı şekilde azaltılabilirse, vaka sayısı zaman içinde katlanarak azalacaktır.
 
@@ -59,5 +59,3 @@ Aile yönergeleri
 Topluluk yönergeleri
 
 Devlet yönergeleri
-
-

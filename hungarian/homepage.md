@@ -1,6 +1,6 @@
 # A tudást terjessze, ne a vírust.
 
-### Szakértői információkat biztosítunk a COVID-19 megállításáról a  magabiztos cselekvéshez.
+### Szakértői információkat biztosítunk a COVID-19 megállításáról a magabiztos cselekvéshez.
 
 ### Tekintse meg ajánlásainkat [egyének, családok], [munkáltatók] és [kormányokzatok] számára.
 
@@ -15,11 +15,12 @@ Csatlakozzon 5000-nél is önkéntesünkhöz a COVID-19 elleni harcban: [Join us
 ## A COVID-19 megállításának az Egyesült Államokban leggyorsabb és egyedüli módja az öthetes országos vesztegzár.
 
 ### Három legfőbb kormányzati javaslatunk:
+
 ### 1. Országos vesztegzár
 
 Európa és Észak-Amerika nagyrészén a COVID-19 robbanásszerű terjedése azt jelenti, hogy **4-6 héten át tartó, szigorú vesztegzár szükséges a járvány megállításához**. Az ilyen vesztegzárak politikailag nehezen megvalósíthatók és gazdaságilag-társadalmilag jelentős rövid távú költségekkel járnak. De **a hatásuk drámai és csak rövid ideig tartanak**. Két hónappal a vesztegzár bevezetése után Kína lényegében felszámolta a COVID-19 helyi terjedését. Vuhan ma biztonságosabb, mint London vagy New York, és Kína gazdasága újra fellendülőben van. A szigorú kínai vesztegzár nélkül a COVID-19 kínai gazdaságra mért csapása nagyságrendekkel nagyobb lett volna.
 
-Szigorú vesztegzár ideje alatt **azon területek, melyeket kevésbé sújt a vírus erőforrásokat csoportosíthatnak át a szükséget szenvedőknek**. A vesztegzár továbbá időt ad a COVID-19-tesztkészletek és a kiértékeléshez szükséges laborkapacitás drámai mértékű növelésére. Ha a fertőzések száma drámaian csökken a vesztegzár következtében, és megkezdődik a tömeges tesztelés, akkor 5 hét alatt úrrá lehet lenni a COVID-19-en a társadalmi távolságtartás szélsőséges formáinak bevezetése nélkül. **A szigorú vesztegzár egyszerre minimalizálná a személyi, valamint a gazdasági veszteségeket**. 
+Szigorú vesztegzár ideje alatt **azon területek, melyeket kevésbé sújt a vírus erőforrásokat csoportosíthatnak át a szükséget szenvedőknek**. A vesztegzár továbbá időt ad a COVID-19-tesztkészletek és a kiértékeléshez szükséges laborkapacitás drámai mértékű növelésére. Ha a fertőzések száma drámaian csökken a vesztegzár következtében, és megkezdődik a tömeges tesztelés, akkor 5 hét alatt úrrá lehet lenni a COVID-19-en a társadalmi távolságtartás szélsőséges formáinak bevezetése nélkül. **A szigorú vesztegzár egyszerre minimalizálná a személyi, valamint a gazdasági veszteségeket**.
 
 [**Miért 4-6 héz?**](https://github.com/necsi/source-translation-text/raw/master/0_english_source/pdf/5weeks_en.pdf) A vesztegzár első két hete alatt a már fertőzöttek tüneteket fognak mutatni. A tüneteket megelőző lappangási idő általában 3-5 napig tart, de eltarthat két hétig is. A fertőzöttek maguktól felépülnek, ha enyhe lefolyású a betegség, ellenkező esetben orvoshoz fordulnak. Csak az olyan háztartásban élők fertőződhetnek meg, ahol már alapból van fertőzött. Mivel tudjuk, hogy ki a fertőzött a tünetek és a tesztek alapján, így elkülöníthetjük őket, hogy ne fertőzhessenek meg másokat (ez hívják nyomon követésnek).
 
@@ -45,7 +46,7 @@ A kormányoknak az alábbi stratégiákat kell követniük a COVID-19 megállít
 
 3. **Célzott mintavétel**: A magas kockázatú populációk (börtönök, gondozóintézmények, kollégiumok) szúrópróbaszerű tesztelése.
 
-Azok az országok, különösen Ázsiában, melyek rendelkeznek  a szükséges szakértelemmel, segítsenek a világ többi részének felállni és behozni a lemaradást. Elengedhetetlen nyomkövető csapatokat kiképezni és a tesztelést felfutattni. Az országoknak ki kellene használiuk a tudományos intézetek és vállalatok tesztelési kapacitásait.
+Azok az országok, különösen Ázsiában, melyek rendelkeznek a szükséges szakértelemmel, segítsenek a világ többi részének felállni és behozni a lemaradást. Elengedhetetlen nyomkövető csapatokat kiképezni és a tesztelést felfutattni. Az országoknak ki kellene használiuk a tudományos intézetek és vállalatok tesztelési kapacitásait.
 
 ### 3. A mozgásszabadság korlátozása, egyidejűleg az alapellátás és az egészségügyi válaszlépések lehetővé tétele
 
